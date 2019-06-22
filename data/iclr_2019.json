@@ -1,0 +1,8167 @@
+[
+  {
+    "authors": [
+      "Chengzhou Tang",
+      "Ping Tan"
+    ],
+    "conference": "iclr",
+    "id": "35afa0f9",
+    "metadata": {
+      "words": []
+    },
+    "name": "BA-Net: Dense Bundle Adjustment Networks",
+    "pdf_link": "https://openreview.net/pdf?id=B1gabhRcYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Anqi Wu",
+      "Sebastian Nowozin",
+      "Edward Meeds",
+      "Richard E. Turner",
+      "Jos\u00e9 Miguel Hern\u00e1ndez-Lobato",
+      "Alexander L. Gaunt"
+    ],
+    "conference": "iclr",
+    "id": "4ebf4d65",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deterministic Variational Inference for Robust Bayesian Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=B1l08oAct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yikang Shen",
+      "Shawn Tan",
+      "Alessandro Sordoni",
+      "Aaron Courville"
+    ],
+    "conference": "iclr",
+    "id": "08de430b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=B1l6qiR5F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Andrew Brock",
+      "Jeff Donahue",
+      "Karen Simonyan"
+    ],
+    "conference": "iclr",
+    "id": "17e09e15",
+    "metadata": {
+      "words": []
+    },
+    "name": "Large Scale GAN Training for High Fidelity Natural Image Synthesis",
+    "pdf_link": "https://openreview.net/pdf?id=B1xsqj09Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "R Devon Hjelm",
+      "Alex Fedorov",
+      "Samuel Lavoie-Marchildon",
+      "Karan Grewal",
+      "Phil Bachman",
+      "Adam Trischler",
+      "Yoshua Bengio"
+    ],
+    "conference": "iclr",
+    "id": "83dedabb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning deep representations by mutual information estimation and maximization",
+    "pdf_link": "https://openreview.net/pdf?id=Bklr3j0cKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "James Jordon",
+      "Jinsung Yoon",
+      "Mihaela van der Schaar"
+    ],
+    "conference": "iclr",
+    "id": "80d47a46",
+    "metadata": {
+      "words": []
+    },
+    "name": "KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks",
+    "pdf_link": "https://openreview.net/pdf?id=ByeZ5jC5YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "John Ingraham",
+      "Adam Riesselman",
+      "Chris Sander",
+      "Debora Marks"
+    ],
+    "conference": "iclr",
+    "id": "7f85c1b1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Protein Structure with a Differentiable Simulator",
+    "pdf_link": "https://openreview.net/pdf?id=Byg3y3C9Km",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Robert Geirhos",
+      "Patricia Rubisch",
+      "Claudio Michaelis",
+      "Matthias Bethge",
+      "Felix A. Wichmann",
+      "Wieland Brendel"
+    ],
+    "conference": "iclr",
+    "id": "1926e729",
+    "metadata": {
+      "words": []
+    },
+    "name": "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness",
+    "pdf_link": "https://openreview.net/pdf?id=Bygh9j09KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xiang Li",
+      "Luke Vilnis",
+      "Dongxu Zhang",
+      "Michael Boratko",
+      "Andrew McCallum"
+    ],
+    "conference": "iclr",
+    "id": "da80db13",
+    "metadata": {
+      "words": []
+    },
+    "name": "Smoothing the Geometry of Probabilistic Box Embeddings",
+    "pdf_link": "https://openreview.net/pdf?id=H1xSNiRcF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ping Li",
+      "Phan-Minh Nguyen"
+    ],
+    "conference": "iclr",
+    "id": "687d5989",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Random Deep Weight-Tied Autoencoders: Exact Asymptotic Analysis, Phase Transitions, and Implications to Training",
+    "pdf_link": "https://openreview.net/pdf?id=HJx54i05tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Luke Metz",
+      "Niru Maheswaranathan",
+      "Brian Cheung",
+      "Jascha Sohl-Dickstein"
+    ],
+    "conference": "iclr",
+    "id": "934d6ffa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Meta-Learning Update Rules for Unsupervised Representation Learning",
+    "pdf_link": "https://openreview.net/pdf?id=HkNDsiC9KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sebastian Flennerhag",
+      "Pablo G. Moreno",
+      "Neil D. Lawrence",
+      "Andreas Damianou"
+    ],
+    "conference": "iclr",
+    "id": "2973e6ed",
+    "metadata": {
+      "words": []
+    },
+    "name": "Transferring Knowledge across Learning Processes",
+    "pdf_link": "https://openreview.net/pdf?id=HygBZnRctX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jacob Menick",
+      "Nal Kalchbrenner"
+    ],
+    "conference": "iclr",
+    "id": "5d607c90",
+    "metadata": {
+      "words": []
+    },
+    "name": "GENERATING HIGH FIDELITY IMAGES WITH SUBSCALE PIXEL NETWORKS AND MULTIDIMENSIONAL UPSCALING",
+    "pdf_link": "https://openreview.net/pdf?id=HylzTiC5Km",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Karol Gregor",
+      "George Papamakarios",
+      "Frederic Besse",
+      "Lars Buesing",
+      "Theophane Weber"
+    ],
+    "conference": "iclr",
+    "id": "a8995b4f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Temporal Difference Variational Auto-Encoder",
+    "pdf_link": "https://openreview.net/pdf?id=S1x4ghC9tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jack Lindsey",
+      "Samuel A. Ocko",
+      "Surya Ganguli",
+      "Stephane Deny"
+    ],
+    "conference": "iclr",
+    "id": "fd373fd6",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs",
+    "pdf_link": "https://openreview.net/pdf?id=S1xq3oR5tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Felix Wu",
+      "Angela Fan",
+      "Alexei Baevski",
+      "Yann Dauphin",
+      "Michael Auli"
+    ],
+    "conference": "iclr",
+    "id": "438b9831",
+    "metadata": {
+      "words": []
+    },
+    "name": "Pay Less Attention with Lightweight and Dynamic Convolutions",
+    "pdf_link": "https://openreview.net/pdf?id=SkVhlh09tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Curtis Hawthorne",
+      "Andriy Stasyuk",
+      "Adam Roberts",
+      "Ian Simon",
+      "Cheng-Zhi Anna Huang",
+      "Sander Dieleman",
+      "Erich Elsen",
+      "Jesse Engel",
+      "Douglas Eck"
+    ],
+    "conference": "iclr",
+    "id": "686ee029",
+    "metadata": {
+      "words": []
+    },
+    "name": "Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset",
+    "pdf_link": "https://openreview.net/pdf?id=r1lYRjC9F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hung Le",
+      "Truyen Tran",
+      "Svetha Venkatesh"
+    ],
+    "conference": "iclr",
+    "id": "37a2d640",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Remember More with Less Memorization",
+    "pdf_link": "https://openreview.net/pdf?id=r1xlvi0qYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Haohan Wang",
+      "Zexue He",
+      "Zachary C. Lipton",
+      "Eric P. Xing"
+    ],
+    "conference": "iclr",
+    "id": "84b2ca40",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Robust Representations by Projecting Superficial Statistics Out",
+    "pdf_link": "https://openreview.net/pdf?id=rJEjjoR9K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Florian Tramer",
+      "Dan Boneh"
+    ],
+    "conference": "iclr",
+    "id": "626a63f3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware",
+    "pdf_link": "https://openreview.net/pdf?id=rJVorjCcKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jiayuan Mao",
+      "Chuang Gan",
+      "Pushmeet Kohli",
+      "Joshua B. Tenenbaum",
+      "Jiajun Wu"
+    ],
+    "conference": "iclr",
+    "id": "95b84a66",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision",
+    "pdf_link": "https://openreview.net/pdf?id=rJgMlhRctm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jonathan Frankle",
+      "Michael Carbin"
+    ],
+    "conference": "iclr",
+    "id": "7d1ee7b2",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=rJl-b3RcF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Will Grathwohl",
+      "Ricky T. Q. Chen",
+      "Jesse Bettencourt",
+      "Ilya Sutskever",
+      "David Duvenaud"
+    ],
+    "conference": "iclr",
+    "id": "982d76fc",
+    "metadata": {
+      "words": []
+    },
+    "name": "FFJORD: Free-Form Continuous Dynamics for Scalable Reversible Generative Models",
+    "pdf_link": "https://openreview.net/pdf?id=rJxgknCcK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Keyulu Xu*",
+      "Weihua Hu*",
+      "Jure Leskovec",
+      "Stefanie Jegelka"
+    ],
+    "conference": "iclr",
+    "id": "d85f7ad5",
+    "metadata": {
+      "words": []
+    },
+    "name": "How Powerful are Graph Neural Networks?",
+    "pdf_link": "https://openreview.net/pdf?id=ryGs6iA5Km",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chiyu Max Jiang",
+      "Dequan Wang",
+      "Jingwei Huang",
+      "Philip Marcus",
+      "Matthias Niessner"
+    ],
+    "conference": "iclr",
+    "id": "59473e3a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Convolutional Neural Networks on Non-uniform Geometrical Signals Using Euclidean Spectral Transformation",
+    "pdf_link": "https://openreview.net/pdf?id=B1G5ViAqFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ehsan Hosseini-Asl",
+      "Yingbo Zhou",
+      "Caiming Xiong",
+      "Richard Socher"
+    ],
+    "conference": "iclr",
+    "id": "0b1db0e4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Augmented Cyclic Adversarial Learning for Low Resource Domain Adaptation",
+    "pdf_link": "https://openreview.net/pdf?id=B1G9doA9F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kirill Neklyudov",
+      "Dmitry Molchanov",
+      "Arsenii Ashukha",
+      "Dmitry Vetrov"
+    ],
+    "conference": "iclr",
+    "id": "c4983d2d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variance Networks: When Expectation Does Not Meet Your Expectations",
+    "pdf_link": "https://openreview.net/pdf?id=B1GAUs0cKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Peter O'Connor",
+      "Efstratios Gavves",
+      "Max Welling"
+    ],
+    "conference": "iclr",
+    "id": "5c15d225",
+    "metadata": {
+      "words": []
+    },
+    "name": "Initialized Equilibrium Propagation for Backprop-Free Training",
+    "pdf_link": "https://openreview.net/pdf?id=B1GMDsR5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chun-Hao Chang",
+      "Elliot Creager",
+      "Anna Goldenberg",
+      "David Duvenaud"
+    ],
+    "conference": "iclr",
+    "id": "822af32d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Explaining Image Classifiers by Counterfactual Generation",
+    "pdf_link": "https://openreview.net/pdf?id=B1MXz20cYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Namhoon Lee",
+      "Thalaiyasingam Ajanthan",
+      "Philip Torr"
+    ],
+    "conference": "iclr",
+    "id": "93343cd8",
+    "metadata": {
+      "words": []
+    },
+    "name": "SNIP: SINGLE-SHOT NETWORK PRUNING BASED ON CONNECTION SENSITIVITY",
+    "pdf_link": "https://openreview.net/pdf?id=B1VZqjAcYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Bin Dai",
+      "David Wipf"
+    ],
+    "conference": "iclr",
+    "id": "4fdaf0db",
+    "metadata": {
+      "words": []
+    },
+    "name": "Diagnosing and Enhancing VAE Models",
+    "pdf_link": "https://openreview.net/pdf?id=B1e0X3C9tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yandong Wen",
+      "Mahmoud Al Ismail",
+      "Weiyang Liu",
+      "Bhiksha Raj",
+      "Rita Singh"
+    ],
+    "conference": "iclr",
+    "id": "c971cc4d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Disjoint Mapping Network for Cross-modal Matching of Voices and Faces",
+    "pdf_link": "https://openreview.net/pdf?id=B1exrnCcF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Michael Chang",
+      "Abhishek Gupta",
+      "Sergey Levine",
+      "Thomas L. Griffiths"
+    ],
+    "conference": "iclr",
+    "id": "0c2d2d32",
+    "metadata": {
+      "words": []
+    },
+    "name": "Automatically Composing Representation Transformations as a Means for Generalization",
+    "pdf_link": "https://openreview.net/pdf?id=B1ffQnRcKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Seung Wook Kim",
+      "Makarand Tapaswi",
+      "Sanja Fidler"
+    ],
+    "conference": "iclr",
+    "id": "59ac7b9f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Visual Reasoning by Progressive Module Networks",
+    "pdf_link": "https://openreview.net/pdf?id=B1fpDsAqt7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Roman Novak",
+      "Lechao Xiao",
+      "Yasaman Bahri",
+      "Jaehoon Lee",
+      "Greg Yang",
+      "Jiri Hron",
+      "Daniel A. Abolafia",
+      "Jeffrey Pennington",
+      "Jascha Sohl-dickstein"
+    ],
+    "conference": "iclr",
+    "id": "92c89ba3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bayesian Deep Convolutional Networks with Many Channels are Gaussian Processes",
+    "pdf_link": "https://openreview.net/pdf?id=B1g30j0qF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Matthew Riemer",
+      "Ignacio Cases",
+      "Robert Ajemian",
+      "Miao Liu",
+      "Irina Rish",
+      "Yuhai Tu",
+      "and Gerald Tesauro"
+    ],
+    "conference": "iclr",
+    "id": "ef6ea2b9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference",
+    "pdf_link": "https://openreview.net/pdf?id=B1gTShAct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tsung-Han Lin",
+      "Ping Tak Peter Tang"
+    ],
+    "conference": "iclr",
+    "id": "472386df",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sparse Dictionary Learning by Dynamical Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=B1gstsCqt7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yunbo Wang",
+      "Lu Jiang",
+      "Ming-Hsuan Yang",
+      "Li-Jia Li",
+      "Mingsheng Long",
+      "Li Fei-Fei"
+    ],
+    "conference": "iclr",
+    "id": "f2c6f819",
+    "metadata": {
+      "words": []
+    },
+    "name": "Eidetic 3D LSTM: A Model for Video Prediction and Beyond",
+    "pdf_link": "https://openreview.net/pdf?id=B1lKS2AqtX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jialin Liu",
+      "Xiaohan Chen",
+      "Zhangyang Wang",
+      "Wotao Yin"
+    ],
+    "conference": "iclr",
+    "id": "36a594ef",
+    "metadata": {
+      "words": []
+    },
+    "name": "ALISTA: Analytic Weights Are As Good As Learned Weights in LISTA",
+    "pdf_link": "https://openreview.net/pdf?id=B1lnzn0ctQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Guodong Zhang",
+      "Chaoqi Wang",
+      "Bowen Xu",
+      "Roger Grosse"
+    ],
+    "conference": "iclr",
+    "id": "6c7306d2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Three Mechanisms of Weight Decay Regularization",
+    "pdf_link": "https://openreview.net/pdf?id=B1lz-3Rct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wengong Jin",
+      "Kevin Yang",
+      "Regina Barzilay",
+      "Tommi Jaakkola"
+    ],
+    "conference": "iclr",
+    "id": "a9fa711f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Multimodal Graph-to-Graph Translation for Molecule Optimization",
+    "pdf_link": "https://openreview.net/pdf?id=B1xJAsA5F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ali Mousavi",
+      "Gautam Dasarathy",
+      "Richard G. Baraniuk"
+    ],
+    "conference": "iclr",
+    "id": "a3118d12",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Data-Driven and Distributed Approach to Sparse Signal Representation and Recovery",
+    "pdf_link": "https://openreview.net/pdf?id=B1xVTjCqKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Nan Lu",
+      "Gang Niu",
+      "Aditya Krishna Menon",
+      "Masashi Sugiyama"
+    ],
+    "conference": "iclr",
+    "id": "fc2fd44a",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Minimal Supervision for Training Any Binary Classifier from Only Unlabeled Data",
+    "pdf_link": "https://openreview.net/pdf?id=B1xWcj0qYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Honghua Dong",
+      "Jiayuan Mao",
+      "Tian Lin",
+      "Chong Wang",
+      "Lihong Li",
+      "Denny Zhou"
+    ],
+    "conference": "iclr",
+    "id": "a64f73c6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Logic Machines",
+    "pdf_link": "https://openreview.net/pdf?id=B1xY-hRctX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Christian Hansen",
+      "Casper Hansen",
+      "Stephen Alstrup",
+      "Jakob Grue Simonsen",
+      "Christina Lioma"
+    ],
+    "conference": "iclr",
+    "id": "6abdeeeb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Speed Reading with Structural-Jump-LSTM",
+    "pdf_link": "https://openreview.net/pdf?id=B1xf9jAqFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jonathan Uesato*",
+      "Ananya Kumar*",
+      "Csaba Szepesvari*",
+      "Tom Erez",
+      "Avraham Ruderman",
+      "Keith Anderson",
+      "Krishnamurthy (Dj) Dvijotham",
+      "Nicolas Heess",
+      "Pushmeet Kohli"
+    ],
+    "conference": "iclr",
+    "id": "bd138324",
+    "metadata": {
+      "words": []
+    },
+    "name": "Rigorous Agent Evaluation: An Adversarial Approach to Uncover Catastrophic Failures",
+    "pdf_link": "https://openreview.net/pdf?id=B1xhQhRcK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Lars Buesing",
+      "Theophane Weber",
+      "Yori Zwols",
+      "Nicolas Heess",
+      "Sebastien Racaniere",
+      "Arthur Guez",
+      "Jean-Baptiste Lespiau"
+    ],
+    "conference": "iclr",
+    "id": "249cb43e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Woulda, Coulda, Shoulda: Counterfactually-Guided Policy Search",
+    "pdf_link": "https://openreview.net/pdf?id=BJG0voC9YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sijia Liu",
+      "Pin-Yu Chen",
+      "Xiangyi Chen",
+      "Mingyi Hong"
+    ],
+    "conference": "iclr",
+    "id": "ef947936",
+    "metadata": {
+      "words": []
+    },
+    "name": "signSGD via Zeroth-Order Oracle",
+    "pdf_link": "https://openreview.net/pdf?id=BJe-DsC5Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ali Razavi",
+      "Aaron van den Oord",
+      "Ben Poole",
+      "Oriol Vinyals"
+    ],
+    "conference": "iclr",
+    "id": "c90827f8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Preventing Posterior Collapse with delta-VAEs",
+    "pdf_link": "https://openreview.net/pdf?id=BJe0Gn0cY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yuping Luo",
+      "Huazhe Xu",
+      "Yuanzhi Li",
+      "Yuandong Tian",
+      "Trevor Darrell",
+      "Tengyu Ma"
+    ],
+    "conference": "iclr",
+    "id": "b42aa26e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees",
+    "pdf_link": "https://openreview.net/pdf?id=BJe1E2R5KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Iou-Jen Liu",
+      "Jian Peng",
+      "Alexander Schwing"
+    ],
+    "conference": "iclr",
+    "id": "4f17df7e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Knowledge Flow: Improve Upon Your Teachers",
+    "pdf_link": "https://openreview.net/pdf?id=BJeOioA9Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Mohit Sharma",
+      "Arjun Sharma",
+      "Nicholas Rhinehart",
+      "Kris M. Kitani"
+    ],
+    "conference": "iclr",
+    "id": "2834e0e0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Directed-Info GAIL: Learning Hierarchical Policies from Unsegmented Demonstrations using Directed Information",
+    "pdf_link": "https://openreview.net/pdf?id=BJeWUs05KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Zichao Wang",
+      "Randall Balestriero",
+      "Richard Baraniuk"
+    ],
+    "conference": "iclr",
+    "id": "b2ebf6d5",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Max-Affine Spline Perspective of Recurrent Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=BJej72AqF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Izzeddin Gur",
+      "Ulrich Rueckert",
+      "Aleksandra Faust",
+      "Dilek Hakkani-Tur"
+    ],
+    "conference": "iclr",
+    "id": "9837fe2a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Navigate the Web",
+    "pdf_link": "https://openreview.net/pdf?id=BJemQ209FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kai Y. Xiao",
+      "Vincent Tjeng",
+      "Nur Muhammad (Mahi) Shafiullah",
+      "Aleksander Madry"
+    ],
+    "conference": "iclr",
+    "id": "3fe566c1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability",
+    "pdf_link": "https://openreview.net/pdf?id=BJfIVjAcKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xiang Jiang",
+      "Mohammad Havaei",
+      "Farshid Varno",
+      "Gabriel Chartrand",
+      "Nicolas Chapados",
+      "Stan Matwin"
+    ],
+    "conference": "iclr",
+    "id": "1027fa1b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Learn with Conditional Class Dependencies",
+    "pdf_link": "https://openreview.net/pdf?id=BJfOXnActQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Josh Merel",
+      "Arun Ahuja",
+      "Vu Pham",
+      "Saran Tunyasuvunakool",
+      "Siqi Liu",
+      "Dhruva Tirumala",
+      "Nicolas Heess",
+      "Greg Wayne"
+    ],
+    "conference": "iclr",
+    "id": "3fd709d2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Hierarchical Visuomotor Control of Humanoids",
+    "pdf_link": "https://openreview.net/pdf?id=BJfYvo09Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Arthur Pajot",
+      "Emmanuel de Bezenac",
+      "Patrick Gallinari"
+    ],
+    "conference": "iclr",
+    "id": "17de3830",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Adversarial Image Reconstruction",
+    "pdf_link": "https://openreview.net/pdf?id=BJg4Z3RqF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Peng Cao",
+      "Yilun Xu",
+      "Yuqing Kong",
+      "Yizhou  Wang"
+    ],
+    "conference": "iclr",
+    "id": "7f4c95e0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds",
+    "pdf_link": "https://openreview.net/pdf?id=BJg9DoR9t7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Haowen Xu",
+      "Hao Zhang",
+      "Zhiting Hu",
+      "Xiaodan Liang",
+      "Ruslan Salakhutdinov",
+      "Eric Xing"
+    ],
+    "conference": "iclr",
+    "id": "96bfd91d",
+    "metadata": {
+      "words": []
+    },
+    "name": "AutoLoss: Learning Discrete Schedule for Alternate Optimization",
+    "pdf_link": "https://openreview.net/pdf?id=BJgK6iA5KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Drew Linsley",
+      "Dan Shiebler",
+      "Sven Eberhardt",
+      "Thomas Serre"
+    ],
+    "conference": "iclr",
+    "id": "0f09eb8a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning what and where to attend",
+    "pdf_link": "https://openreview.net/pdf?id=BJgLg3R9KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chao GAO",
+      "jiyi LIU",
+      "Yuan YAO",
+      "Weizhi ZHU"
+    ],
+    "conference": "iclr",
+    "id": "faff9c8e",
+    "metadata": {
+      "words": []
+    },
+    "name": "ROBUST ESTIMATION VIA GENERATIVE ADVERSARIAL NETWORKS",
+    "pdf_link": "https://openreview.net/pdf?id=BJgRDjR9tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jinsung Yoon",
+      "James Jordon",
+      "Mihaela van der Schaar"
+    ],
+    "conference": "iclr",
+    "id": "120d4b62",
+    "metadata": {
+      "words": []
+    },
+    "name": "INVASE: Instance-wise Variable Selection using Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=BJg_roAcK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Andrei A. Rusu",
+      "Dushyant Rao",
+      "Jakub Sygnowski",
+      "Oriol Vinyals",
+      "Razvan Pascanu",
+      "Simon Osindero",
+      "Raia Hadsell"
+    ],
+    "conference": "iclr",
+    "id": "04045b78",
+    "metadata": {
+      "words": []
+    },
+    "name": "Meta-Learning with Latent Embedding Optimization",
+    "pdf_link": "https://openreview.net/pdf?id=BJgklhAcK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wenda Zhou",
+      "Victor Veitch",
+      "Morgane Austern",
+      "Ryan P. Adams",
+      "Peter Orbanz"
+    ],
+    "conference": "iclr",
+    "id": "f93768a6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Non-vacuous Generalization Bounds at the ImageNet Scale: a PAC-Bayesian Compression Approach",
+    "pdf_link": "https://openreview.net/pdf?id=BJgqqsAct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Pengcheng Yin",
+      "Graham Neubig",
+      "Miltiadis Allamanis",
+      "Marc Brockschmidt",
+      "Alexander L. Gaunt"
+    ],
+    "conference": "iclr",
+    "id": "97ccb210",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Represent Edits",
+    "pdf_link": "https://openreview.net/pdf?id=BJl6AjC5F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Josh Merel",
+      "Leonard Hasenclever",
+      "Alexandre Galashov",
+      "Arun Ahuja",
+      "Vu Pham",
+      "Greg Wayne",
+      "Yee Whye Teh",
+      "Nicolas Heess"
+    ],
+    "conference": "iclr",
+    "id": "b810a207",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Probabilistic Motor Primitives for Humanoid Control",
+    "pdf_link": "https://openreview.net/pdf?id=BJl6TjRcY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Caio Corro",
+      "Ivan Titov"
+    ],
+    "conference": "iclr",
+    "id": "471305a8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder",
+    "pdf_link": "https://openreview.net/pdf?id=BJlgNh0qKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ryan L. Murphy",
+      "Balasubramaniam Srinivasan",
+      "Vinayak Rao",
+      "Bruno Ribeiro"
+    ],
+    "conference": "iclr",
+    "id": "708d207f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Janossy Pooling: Learning Deep Permutation-Invariant Functions for Variable-Size Inputs",
+    "pdf_link": "https://openreview.net/pdf?id=BJluy2RcFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Mariya Toneva*",
+      "Alessandro Sordoni*",
+      "Remi Tachet des Combes*",
+      "Adam Trischler",
+      "Yoshua Bengio",
+      "Geoffrey J. Gordon"
+    ],
+    "conference": "iclr",
+    "id": "97f97512",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Empirical Study of Example Forgetting during Deep Neural Network Learning",
+    "pdf_link": "https://openreview.net/pdf?id=BJlxm30cKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "R. Thomas McCoy",
+      "Tal Linzen",
+      "Ewan Dunbar",
+      "Paul Smolensky"
+    ],
+    "conference": "iclr",
+    "id": "7f3d9dcd",
+    "metadata": {
+      "words": []
+    },
+    "name": "RNNs implicitly implement tensor-product representations",
+    "pdf_link": "https://openreview.net/pdf?id=BJx0sjC5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Saeed Amizadeh",
+      "Sergiy Matusevych",
+      "Markus Weimer"
+    ],
+    "conference": "iclr",
+    "id": "aa6bd05e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning To Solve Circuit-SAT: An Unsupervised Differentiable Approach",
+    "pdf_link": "https://openreview.net/pdf?id=BJxgz2R9t7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xitong Gao",
+      "Yiren Zhao",
+      "\u0141ukasz Dudziak",
+      "Robert Mullins",
+      "Cheng-zhong Xu"
+    ],
+    "conference": "iclr",
+    "id": "16c5dfe5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dynamic Channel Pruning: Feature Boosting and Suppression",
+    "pdf_link": "https://openreview.net/pdf?id=BJxh2j0qYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jeremy Bernstein",
+      "Jiawei Zhao",
+      "Kamyar Azizzadenesheli",
+      "Anima Anandkumar"
+    ],
+    "conference": "iclr",
+    "id": "21416a52",
+    "metadata": {
+      "words": []
+    },
+    "name": "signSGD with Majority Vote is Communication Efficient and Fault Tolerant",
+    "pdf_link": "https://openreview.net/pdf?id=BJxhijAcY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Senthil Purushwalkam",
+      "Abhinav Gupta",
+      "Danny Kaufman",
+      "Bryan Russell"
+    ],
+    "conference": "iclr",
+    "id": "615bd3f2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bounce and Learn: Modeling Scene Dynamics with Real-World Bounces",
+    "pdf_link": "https://openreview.net/pdf?id=BJxssoA5KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Pramod Kaushik Mudrakarta",
+      "Mark Sandler",
+      "Andrey Zhmoginov",
+      "Andrew Howard"
+    ],
+    "conference": "iclr",
+    "id": "89bd2d1c",
+    "metadata": {
+      "words": []
+    },
+    "name": "K for the Price of 1: Parameter-efficient Multi-task and Transfer Learning",
+    "pdf_link": "https://openreview.net/pdf?id=BJxvEh0cFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Arturo Deza",
+      "Aditya Jonnalagadda",
+      "Miguel P. Eckstein"
+    ],
+    "conference": "iclr",
+    "id": "29ea0598",
+    "metadata": {
+      "words": []
+    },
+    "name": "Towards Metamerism via Foveated Style Transfer",
+    "pdf_link": "https://openreview.net/pdf?id=BJzbG20cFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Makoto Yamada",
+      "Denny Wu",
+      "Yao-Hung Hubert Tsai",
+      "Hirofumi Ohta",
+      "Ruslan Salakhutdinov",
+      "Ichiro Takeuchi",
+      "Kenji Fukumizu"
+    ],
+    "conference": "iclr",
+    "id": "a2c57910",
+    "metadata": {
+      "words": []
+    },
+    "name": "Post Selection Inference with Incomplete Maximum Mean Discrepancy Estimator",
+    "pdf_link": "https://openreview.net/pdf?id=BkG5SjR5YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Siqi Liu",
+      "Guy Lever",
+      "Josh Merel",
+      "Saran Tunyasuvunakool",
+      "Nicolas Heess",
+      "Thore Graepel"
+    ],
+    "conference": "iclr",
+    "id": "4006df61",
+    "metadata": {
+      "words": []
+    },
+    "name": "Emergent Coordination Through Competition",
+    "pdf_link": "https://openreview.net/pdf?id=BkG8sjR5Km",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Andrew Ilyas",
+      "Logan Engstrom",
+      "Aleksander Madry"
+    ],
+    "conference": "iclr",
+    "id": "9eff43ac",
+    "metadata": {
+      "words": []
+    },
+    "name": "Prior Convictions: Black-box Adversarial Attacks with Bandits and Priors",
+    "pdf_link": "https://openreview.net/pdf?id=BkMiWhR5K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Fumihiro Sasaki"
+    ],
+    "conference": "iclr",
+    "id": "4faccd85",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sample Efficient Imitation Learning for Continuous Control",
+    "pdf_link": "https://openreview.net/pdf?id=BkN5UoAqF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Marc Brockschmidt",
+      "Miltiadis Allamanis",
+      "Alexander L. Gaunt",
+      "Oleksandr Polozov"
+    ],
+    "conference": "iclr",
+    "id": "fd6a2174",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generative Code Modeling with Graphs",
+    "pdf_link": "https://openreview.net/pdf?id=Bke4KsA5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alessandro Achille",
+      "Matteo Rovere",
+      "Stefano Soatto"
+    ],
+    "conference": "iclr",
+    "id": "9e37343d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Critical Learning Periods in Deep Networks",
+    "pdf_link": "https://openreview.net/pdf?id=BkeStsCcKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Pourchot",
+      "Sigaud"
+    ],
+    "conference": "iclr",
+    "id": "5363c756",
+    "metadata": {
+      "words": []
+    },
+    "name": "CEM-RL: Combining evolutionary and gradient-based methods for policy search",
+    "pdf_link": "https://openreview.net/pdf?id=BkeU5j0ctQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Renjie Liao",
+      "Zhizhen Zhao",
+      "Raquel Urtasun",
+      "Richard Zemel"
+    ],
+    "conference": "iclr",
+    "id": "3dab43d4",
+    "metadata": {
+      "words": []
+    },
+    "name": "LanczosNet: Multi-Scale Deep Graph Convolutional Networks",
+    "pdf_link": "https://openreview.net/pdf?id=BkedznAqKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Joern-Henrik Jacobsen",
+      "Jens Behrmann",
+      "Richard Zemel",
+      "Matthias Bethge"
+    ],
+    "conference": "iclr",
+    "id": "9c0ab7c8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Excessive Invariance Causes Adversarial Vulnerability",
+    "pdf_link": "https://openreview.net/pdf?id=BkfbpsAcF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Paulo Rauber",
+      "Avinash Ummadisingu",
+      "Filipe Mutz",
+      "J\u00fcrgen Schmidhuber"
+    ],
+    "conference": "iclr",
+    "id": "fa84d446",
+    "metadata": {
+      "words": []
+    },
+    "name": "Hindsight policy gradients",
+    "pdf_link": "https://openreview.net/pdf?id=Bkg2viA5FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Liangchen Luo",
+      "Yuanhao Xiong",
+      "Yan Liu",
+      "Xu Sun"
+    ],
+    "conference": "iclr",
+    "id": "ce669da6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Gradient Methods with Dynamic Bound of Learning Rate",
+    "pdf_link": "https://openreview.net/pdf?id=Bkg3g2R9FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ilya Loshchilov",
+      "Frank Hutter"
+    ],
+    "conference": "iclr",
+    "id": "2ab6fbd3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Decoupled Weight Decay Regularization",
+    "pdf_link": "https://openreview.net/pdf?id=Bkg6RiCqY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Panayotis Mertikopoulos",
+      "Bruno Lecouat",
+      "Houssam Zenati",
+      "Chuan-Sheng Foo",
+      "Vijay Chandrasekhar",
+      "Georgios Piliouras"
+    ],
+    "conference": "iclr",
+    "id": "475b8263",
+    "metadata": {
+      "words": []
+    },
+    "name": "Optimistic mirror descent in saddle-point problems: Going the extra (gradient) mile",
+    "pdf_link": "https://openreview.net/pdf?id=Bkg8jjC9KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xiaodong Gu",
+      "Kyunghyun Cho",
+      "Jung-Woo Ha",
+      "Sunghun Kim"
+    ],
+    "conference": "iclr",
+    "id": "a7e3f18c",
+    "metadata": {
+      "words": []
+    },
+    "name": "DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder",
+    "pdf_link": "https://openreview.net/pdf?id=BkgBvsC9FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "John Wieting",
+      "Douwe Kiela"
+    ],
+    "conference": "iclr",
+    "id": "f082ae1b",
+    "metadata": {
+      "words": []
+    },
+    "name": "No Training Required: Exploring Random Encoders for Sentence Classification",
+    "pdf_link": "https://openreview.net/pdf?id=BkgPajAcY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tingwu Wang",
+      "Yuhao Zhou",
+      "Sanja Fidler",
+      "Jimmy Ba"
+    ],
+    "conference": "iclr",
+    "id": "7396f244",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Graph Evolution: Towards Efficient Automatic Robot Design",
+    "pdf_link": "https://openreview.net/pdf?id=BkgWHnR5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ziyu Wang",
+      "Tongzheng Ren",
+      "Jun Zhu",
+      "Bo Zhang"
+    ],
+    "conference": "iclr",
+    "id": "a16236f9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Function Space Particle Optimization for Bayesian Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=BkgtDsCcKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kaidi Xu",
+      "Sijia Liu",
+      "Pu Zhao",
+      "Pin-Yu Chen",
+      "Huan Zhang",
+      "Quanfu Fan",
+      "Deniz Erdogmus",
+      "Yanzhi Wang",
+      "Xue Lin"
+    ],
+    "conference": "iclr",
+    "id": "4e71da65",
+    "metadata": {
+      "words": []
+    },
+    "name": "Structured Adversarial Attack:  Towards General Implementation and Better Interpretability",
+    "pdf_link": "https://openreview.net/pdf?id=BkgzniCqY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chiyu Max Jiang",
+      "Jingwei Huang",
+      "Karthik Kashinath",
+      "Prabhat",
+      "Philip Marcus",
+      "Matthias Niessner"
+    ],
+    "conference": "iclr",
+    "id": "2d346a38",
+    "metadata": {
+      "words": []
+    },
+    "name": "Spherical CNNs on Unstructured Grids",
+    "pdf_link": "https://openreview.net/pdf?id=Bkl-43C9FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Eirikur Agustsson",
+      "Alexander Sage",
+      "Radu Timofte",
+      "Luc Van Gool"
+    ],
+    "conference": "iclr",
+    "id": "0bfeb200",
+    "metadata": {
+      "words": []
+    },
+    "name": "Optimal Transport Maps For Distribution Preserving Operations on Latent Spaces of Generative Models",
+    "pdf_link": "https://openreview.net/pdf?id=BklCusRct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Michael Lutter",
+      "Christian Ritter",
+      "Jan Peters"
+    ],
+    "conference": "iclr",
+    "id": "f84c2954",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning",
+    "pdf_link": "https://openreview.net/pdf?id=BklHpjCqKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Charbel Sakr",
+      "Naigang Wang",
+      "Chia-Yu Chen",
+      "Jungwook Choi",
+      "Ankur Agrawal",
+      "Naresh Shanbhag",
+      "Kailash Gopalakrishnan"
+    ],
+    "conference": "iclr",
+    "id": "f5f2d40e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Accumulation Bit-Width Scaling For Ultra-Low Precision Training Of Deep Networks",
+    "pdf_link": "https://openreview.net/pdf?id=BklMjsRqY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Adri\u00e0 Garriga-Alonso",
+      "Carl Edward Rasmussen",
+      "Laurence Aitchison"
+    ],
+    "conference": "iclr",
+    "id": "8263624c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Convolutional Networks as shallow Gaussian Processes",
+    "pdf_link": "https://openreview.net/pdf?id=Bklfsi0cKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kihyuk Sohn",
+      "Wenling Shang",
+      "Xiang Yu",
+      "Manmohan Chandraker"
+    ],
+    "conference": "iclr",
+    "id": "d164e042",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Domain Adaptation for Distance Metric Learning",
+    "pdf_link": "https://openreview.net/pdf?id=BklhAj09K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "B. Pf\u00fclb",
+      "A. Gepperth"
+    ],
+    "conference": "iclr",
+    "id": "34e3dbe3",
+    "metadata": {
+      "words": []
+    },
+    "name": "A comprehensive, application-oriented study of catastrophic forgetting in DNNs",
+    "pdf_link": "https://openreview.net/pdf?id=BkloRs0qK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Shiv Shankar",
+      "Sunita Sarawagi"
+    ],
+    "conference": "iclr",
+    "id": "9e0a87fb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Posterior Attention Models for Sequence to Sequence Learning",
+    "pdf_link": "https://openreview.net/pdf?id=BkltNhC9FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Mike Lewis",
+      "Angela Fan"
+    ],
+    "conference": "iclr",
+    "id": "bff55d15",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generative Question Answering: Learning to Answer the Whole Question",
+    "pdf_link": "https://openreview.net/pdf?id=Bkx0RjA9tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Prajit Ramachandran",
+      "Quoc V. Le"
+    ],
+    "conference": "iclr",
+    "id": "65bea80d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Diversity and Depth in Per-Example Routing Models",
+    "pdf_link": "https://openreview.net/pdf?id=BkxWJnC9tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Rahaf Aljundi",
+      "Marcus Rohrbach",
+      "Tinne Tuytelaars"
+    ],
+    "conference": "iclr",
+    "id": "20918134",
+    "metadata": {
+      "words": []
+    },
+    "name": "Selfless Sequential Learning",
+    "pdf_link": "https://openreview.net/pdf?id=Bkxbrn0cYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tianmin Shu",
+      "Yuandong Tian"
+    ],
+    "conference": "iclr",
+    "id": "3afc1564",
+    "metadata": {
+      "words": []
+    },
+    "name": "M^3RL: Mind-aware Multi-agent Management Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=BkzeUiRcY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Andrei Atanov",
+      "Arsenii Ashukha",
+      "Kirill Struminsky",
+      "Dmitriy Vetrov",
+      "Max Welling"
+    ],
+    "conference": "iclr",
+    "id": "159dd611",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Deep Weight Prior",
+    "pdf_link": "https://openreview.net/pdf?id=ByGuynAct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Thomas Elsken",
+      "Jan Hendrik Metzen",
+      "Frank Hutter"
+    ],
+    "conference": "iclr",
+    "id": "918965b5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficient Multi-Objective Neural Architecture Search via Lamarckian Evolution",
+    "pdf_link": "https://openreview.net/pdf?id=ByME42AqK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Titouan Parcollet",
+      "Mirco Ravanelli",
+      "Mohamed Morchid",
+      "Georges Linar\u00e8s",
+      "Chiheb Trabelsi",
+      "Renato De Mori",
+      "Yoshua Bengio"
+    ],
+    "conference": "iclr",
+    "id": "b1038bdb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Quaternion Recurrent Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=ByMHvs0cFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chris Donahue",
+      "Julian McAuley",
+      "Miller Puckette"
+    ],
+    "conference": "iclr",
+    "id": "a0e929f2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Audio Synthesis",
+    "pdf_link": "https://openreview.net/pdf?id=ByMVTsR5KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xi-Lin Li"
+    ],
+    "conference": "iclr",
+    "id": "9a6f0c17",
+    "metadata": {
+      "words": []
+    },
+    "name": "Preconditioner on Matrix Lie Group for SGD",
+    "pdf_link": "https://openreview.net/pdf?id=Bye5SiAqKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Patrick Chen",
+      "Si Si",
+      "Sanjiv Kumar",
+      "Yang Li",
+      "Cho-Jui Hsieh"
+    ],
+    "conference": "iclr",
+    "id": "57c621d4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Screen for Fast Softmax  Inference on Large Vocabulary Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=ByeMB3Act7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tiago Ramalho",
+      "Marta Garnelo"
+    ],
+    "conference": "iclr",
+    "id": "485c91cf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Posterior Learning: few-shot learning with a surprise-based memory module",
+    "pdf_link": "https://openreview.net/pdf?id=ByeSdsC9Km",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alexandre Piche",
+      "Valentin Thomas",
+      "Cyril Ibrahim",
+      "Yoshua Bengio",
+      "Chris Pal"
+    ],
+    "conference": "iclr",
+    "id": "76d2cb5e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Probabilistic Planning with Sequential Monte Carlo methods",
+    "pdf_link": "https://openreview.net/pdf?id=ByetGn0cYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kendall Lowrey",
+      "Aravind Rajeswaran",
+      "Sham Kakade",
+      "Emanuel Todorov",
+      "Igor Mordatch"
+    ],
+    "conference": "iclr",
+    "id": "2d546a14",
+    "metadata": {
+      "words": []
+    },
+    "name": "Plan Online, Learn Offline: Efficient Learning and Exploration via Model-Based Control",
+    "pdf_link": "https://openreview.net/pdf?id=Byey7n05FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Meng Fang",
+      "Cheng Zhou",
+      "Bei Shi",
+      "Boqing Gong",
+      "Jia Xu",
+      "Tong Zhang"
+    ],
+    "conference": "iclr",
+    "id": "73cc3c86",
+    "metadata": {
+      "words": []
+    },
+    "name": "DHER: Hindsight Experience Replay for Dynamic Goals",
+    "pdf_link": "https://openreview.net/pdf?id=Byf5-30qFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hsin-Yuan Huang",
+      "Eunsol Choi",
+      "Wen-tau Yih"
+    ],
+    "conference": "iclr",
+    "id": "b14fb186",
+    "metadata": {
+      "words": []
+    },
+    "name": "FlowQA: Grasping Flow in History for Conversational Machine Comprehension",
+    "pdf_link": "https://openreview.net/pdf?id=ByftGnR9KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Frederic Runge",
+      "Danny Stoll",
+      "Stefan Falkner",
+      "Frank Hutter"
+    ],
+    "conference": "iclr",
+    "id": "0eba002a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Design RNA",
+    "pdf_link": "https://openreview.net/pdf?id=ByfyHh05tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Grigorios G. Chrysos",
+      "Jean Kossaifi",
+      "Stefanos Zafeiriou"
+    ],
+    "conference": "iclr",
+    "id": "1ad042cb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Robust Conditional Generative Adversarial Networks",
+    "pdf_link": "https://openreview.net/pdf?id=Byg0DsCqYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Karel Chvalovsk\u00fd"
+    ],
+    "conference": "iclr",
+    "id": "3fd33d69",
+    "metadata": {
+      "words": []
+    },
+    "name": "Top-Down Neural Model For Formulae",
+    "pdf_link": "https://openreview.net/pdf?id=Byg5QhR5FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xiao Zhang",
+      "David Evans"
+    ],
+    "conference": "iclr",
+    "id": "d99a5d37",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cost-Sensitive Robustness against Adversarial Examples",
+    "pdf_link": "https://openreview.net/pdf?id=BygANhA9tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Behnam Neyshabur",
+      "Zhiyuan Li",
+      "Srinadh Bhojanapalli",
+      "Yann LeCun",
+      "Nathan Srebro"
+    ],
+    "conference": "iclr",
+    "id": "0d7af6d5",
+    "metadata": {
+      "words": []
+    },
+    "name": "The role of over-parametrization in generalization of neural networks",
+    "pdf_link": "https://openreview.net/pdf?id=BygfghAcYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Fernando Gama",
+      "Alejandro Ribeiro",
+      "Joan Bruna"
+    ],
+    "conference": "iclr",
+    "id": "f97f7c33",
+    "metadata": {
+      "words": []
+    },
+    "name": "Diffusion Scattering Transforms on Graphs",
+    "pdf_link": "https://openreview.net/pdf?id=BygqBiRcFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Zhang Xinyi",
+      "Lihui Chen"
+    ],
+    "conference": "iclr",
+    "id": "c3beee07",
+    "metadata": {
+      "words": []
+    },
+    "name": "Capsule Graph Neural Network",
+    "pdf_link": "https://openreview.net/pdf?id=Byl8BnRcYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Haichuan Yang",
+      "Yuhao Zhu",
+      "Ji Liu"
+    ],
+    "conference": "iclr",
+    "id": "f5ecd1f0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Energy-Constrained Compression for Deep Neural Networks via Weighted Sparse Projection and Layer Input Masking",
+    "pdf_link": "https://openreview.net/pdf?id=BylBr3C9K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ori Press",
+      "Tomer Galanti",
+      "Sagie Benaim",
+      "Lior Wolf"
+    ],
+    "conference": "iclr",
+    "id": "97306a60",
+    "metadata": {
+      "words": []
+    },
+    "name": "Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer",
+    "pdf_link": "https://openreview.net/pdf?id=BylE1205Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yi Zhou",
+      "Junjie Yang",
+      "Huishuai Zhang",
+      "Yingbin Liang",
+      "Vahid Tarokh"
+    ],
+    "conference": "iclr",
+    "id": "b75e0ef6",
+    "metadata": {
+      "words": []
+    },
+    "name": "SGD Converges to Global Minimum in Deep Learning via Star-convex Path",
+    "pdf_link": "https://openreview.net/pdf?id=BylIciRcYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wei Dai",
+      "Yi Zhou",
+      "Nanqing Dong",
+      "Hao Zhang",
+      "Eric Xing"
+    ],
+    "conference": "iclr",
+    "id": "1cb08943",
+    "metadata": {
+      "words": []
+    },
+    "name": "Toward Understanding the Impact of Staleness in Distributed Machine Learning",
+    "pdf_link": "https://openreview.net/pdf?id=BylQV305YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wanyun Cui",
+      "Guangyu Zheng",
+      "Zhiqiang Shen",
+      "Sihang Jiang",
+      "Wei Wang"
+    ],
+    "conference": "iclr",
+    "id": "f18fb7ea",
+    "metadata": {
+      "words": []
+    },
+    "name": "Transfer Learning for Sequences via Learning to Collocate",
+    "pdf_link": "https://openreview.net/pdf?id=ByldlhAqYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Karan Goel",
+      "Emma Brunskill"
+    ],
+    "conference": "iclr",
+    "id": "778ae1ef",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Procedural Abstractions and Evaluating Discrete Latent Temporal Structure",
+    "pdf_link": "https://openreview.net/pdf?id=ByleB2CcKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chih-Kuan Yeh",
+      "Jianshu Chen",
+      "Chengzhu Yu",
+      "Dong Yu"
+    ],
+    "conference": "iclr",
+    "id": "1bf94ed0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Speech Recognition via Segmental Empirical Output Distribution Matching",
+    "pdf_link": "https://openreview.net/pdf?id=Bylmkh05KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Daniel Z\u00fcgner",
+      "Stephan G\u00fcnnemann"
+    ],
+    "conference": "iclr",
+    "id": "81305de2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Attacks on Graph Neural Networks via Meta Learning",
+    "pdf_link": "https://openreview.net/pdf?id=Bylnx209YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tue Le",
+      "Tuan Nguyen",
+      "Trung Le",
+      "Dinh Phung",
+      "Paul Montague",
+      "Olivier De Vel",
+      "Lizhen Qu"
+    ],
+    "conference": "iclr",
+    "id": "1308bf2a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Maximal Divergence Sequential Autoencoder for Binary Software Vulnerability Detection",
+    "pdf_link": "https://openreview.net/pdf?id=ByloIiCqYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Marko Vasic",
+      "Aditya Kanade",
+      "Petros Maniatis",
+      "David Bieber",
+      "Rishabh Singh"
+    ],
+    "conference": "iclr",
+    "id": "bf3f129d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Program Repair by Jointly Learning to Localize and Repair",
+    "pdf_link": "https://openreview.net/pdf?id=ByloJ20qtm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Nikolay Nikolov",
+      "Johannes Kirschner",
+      "Felix Berkenkamp",
+      "Andreas Krause"
+    ],
+    "conference": "iclr",
+    "id": "da9ccff5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Information-Directed Exploration for Deep Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=Byx83s09Km",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wouter Kool",
+      "Herke van Hoof",
+      "Max Welling"
+    ],
+    "conference": "iclr",
+    "id": "5654d419",
+    "metadata": {
+      "words": []
+    },
+    "name": "Attention, Learn to Solve Routing Problems!",
+    "pdf_link": "https://openreview.net/pdf?id=ByxBFsRqYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Haifeng Qian",
+      "Mark N. Wegman"
+    ],
+    "conference": "iclr",
+    "id": "96b1d146",
+    "metadata": {
+      "words": []
+    },
+    "name": "L2-Nonexpansive Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=ByxGSsR9FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hoang Thanh-Tung",
+      "Truyen Tran",
+      "Svetha Venkatesh"
+    ],
+    "conference": "iclr",
+    "id": "3eb4ca4c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Generalization and Stability of Generative Adversarial Networks",
+    "pdf_link": "https://openreview.net/pdf?id=ByxPYjC5KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alexei Baevski",
+      "Michael Auli"
+    ],
+    "conference": "iclr",
+    "id": "282ee4e8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Input Representations for Neural Language Modeling",
+    "pdf_link": "https://openreview.net/pdf?id=ByxZX20qFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Bastian Rieck",
+      "Matteo Togninalli",
+      "Christian Bock",
+      "Michael Moor",
+      "Max Horn",
+      "Thomas Gumbsch",
+      "Karsten Borgwardt"
+    ],
+    "conference": "iclr",
+    "id": "4eacd038",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Persistence: A Complexity Measure for Deep Neural Networks Using Algebraic Topology",
+    "pdf_link": "https://openreview.net/pdf?id=ByxkijC5FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Michael Kuchnik",
+      "Virginia Smith"
+    ],
+    "conference": "iclr",
+    "id": "3185da57",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficient Augmentation via Data Subsampling",
+    "pdf_link": "https://openreview.net/pdf?id=Byxpfh0cFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Shuang Ma",
+      "Daniel Mcduff",
+      "Yale Song"
+    ],
+    "conference": "iclr",
+    "id": "da97ff68",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural TTS Stylization with Adversarial and Collaborative Games",
+    "pdf_link": "https://openreview.net/pdf?id=ByzcS3AcYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yize Chen",
+      "Yuanyuan Shi",
+      "Baosen Zhang"
+    ],
+    "conference": "iclr",
+    "id": "1bdf5742",
+    "metadata": {
+      "words": []
+    },
+    "name": "Optimal Control Via Neural Networks: A Convex Approach",
+    "pdf_link": "https://openreview.net/pdf?id=H1MW72AcK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Florian Mai",
+      "Lukas Galke",
+      "Ansgar Scherp"
+    ],
+    "conference": "iclr",
+    "id": "a7853d32",
+    "metadata": {
+      "words": []
+    },
+    "name": "CBOW Is Not All You Need: Combining CBOW with the Compositional Matrix Space Model",
+    "pdf_link": "https://openreview.net/pdf?id=H1MgjoR9tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Aditya Grover",
+      "Eric Wang",
+      "Aaron Zweig",
+      "Stefano Ermon"
+    ],
+    "conference": "iclr",
+    "id": "8a99f808",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Optimization of Sorting Networks via Continuous Relaxations",
+    "pdf_link": "https://openreview.net/pdf?id=H1eSS3CcKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Taiji Suzuki"
+    ],
+    "conference": "iclr",
+    "id": "f388f49f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptivity of deep ReLU network for learning in Besov and mixed smooth Besov spaces: optimal rate and curse of dimensionality",
+    "pdf_link": "https://openreview.net/pdf?id=H1ebTsActm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tobias Hinz",
+      "Stefan Heinrich",
+      "Stefan Wermter"
+    ],
+    "conference": "iclr",
+    "id": "ab883618",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generating Multiple Objects at Spatially Distinct Locations",
+    "pdf_link": "https://openreview.net/pdf?id=H1edIiA9KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ofir Nachum",
+      "Shixiang Gu",
+      "Honglak Lee",
+      "Sergey Levine"
+    ],
+    "conference": "iclr",
+    "id": "0cc5797d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Near-Optimal Representation Learning for Hierarchical Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=H1emus0qF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Abraham Frandsen",
+      "Rong Ge"
+    ],
+    "conference": "iclr",
+    "id": "4db42be2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding Composition of Word Embeddings via Tensor Decomposition",
+    "pdf_link": "https://openreview.net/pdf?id=H1eqjiCctX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Patrick Fernandes",
+      "Miltiadis Allamanis",
+      "Marc Brockschmidt"
+    ],
+    "conference": "iclr",
+    "id": "de84de45",
+    "metadata": {
+      "words": []
+    },
+    "name": "Structured Neural Summarization",
+    "pdf_link": "https://openreview.net/pdf?id=H1ersoRqtm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Bingbing Xu",
+      "Huawei Shen",
+      "Qi Cao",
+      "Yunqi Qiu",
+      "Xueqi Cheng"
+    ],
+    "conference": "iclr",
+    "id": "6f4ffea6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Graph Wavelet Neural Network",
+    "pdf_link": "https://openreview.net/pdf?id=H1ewdiR5tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alexander S. Ecker",
+      "Fabian H. Sinz",
+      "Emmanouil Froudarakis",
+      "Paul G. Fahey",
+      "Santiago A. Cadena",
+      "Edgar Y. Walker",
+      "Erick Cobos",
+      "Jacob Reimer",
+      "Andreas S. Tolias",
+      "Matthias Bethge"
+    ],
+    "conference": "iclr",
+    "id": "c2dd38b6",
+    "metadata": {
+      "words": []
+    },
+    "name": "A rotation-equivariant convolutional neural network model of primary visual cortex",
+    "pdf_link": "https://openreview.net/pdf?id=H1fU8iAqKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Zhengdao Chen",
+      "Lisha Li",
+      "Joan Bruna"
+    ],
+    "conference": "iclr",
+    "id": "a295199d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Supervised Community Detection with Line Graph Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=H1g0Z3A9Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Guillaume Lample",
+      "Sandeep Subramanian",
+      "Eric Smith",
+      "Ludovic Denoyer",
+      "Marc'Aurelio Ranzato",
+      "Y-Lan Boureau"
+    ],
+    "conference": "iclr",
+    "id": "70045c44",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multiple-Attribute Text Rewriting",
+    "pdf_link": "https://openreview.net/pdf?id=H1g2NhC5KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Pierre Dognin*",
+      "Igor Melnyk*",
+      "Youssef Mroueh*",
+      "Jarret Ross*",
+      "Cicero Dos Santos*",
+      "Tom Sercu*"
+    ],
+    "conference": "iclr",
+    "id": "07849fef",
+    "metadata": {
+      "words": []
+    },
+    "name": "Wasserstein Barycenter Model Ensembling",
+    "pdf_link": "https://openreview.net/pdf?id=H1g4k309F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wenhao Yu",
+      "C. Karen Liu",
+      "Greg Turk"
+    ],
+    "conference": "iclr",
+    "id": "416757d4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Policy Transfer with Strategy Optimization",
+    "pdf_link": "https://openreview.net/pdf?id=H1g6osRcFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Uri Alon",
+      "Shaked Brody",
+      "Omer Levy",
+      "Eran Yahav"
+    ],
+    "conference": "iclr",
+    "id": "f7e7a765",
+    "metadata": {
+      "words": []
+    },
+    "name": "code2seq: Generating Sequences from Structured Representations of Code",
+    "pdf_link": "https://openreview.net/pdf?id=H1gKYo09tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Johannes Klicpera",
+      "Aleksandar Bojchevski",
+      "Stephan G\u00fcnnemann"
+    ],
+    "conference": "iclr",
+    "id": "ed34cc9e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Predict then Propagate: Graph Neural Networks meet Personalized PageRank",
+    "pdf_link": "https://openreview.net/pdf?id=H1gL-2A9Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jiahui Yu",
+      "Linjie Yang",
+      "Ning Xu",
+      "Jianchao Yang",
+      "Thomas Huang"
+    ],
+    "conference": "iclr",
+    "id": "8af328a8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Slimmable Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=H1gMCsAqY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "David Saxton",
+      "Edward Grefenstette",
+      "Felix Hill",
+      "Pushmeet Kohli"
+    ],
+    "conference": "iclr",
+    "id": "7bf746b3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Analysing Mathematical Reasoning Abilities of Neural Models",
+    "pdf_link": "https://openreview.net/pdf?id=H1gR5iR5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xiuyuan Cheng",
+      "Qiang Qiu",
+      "Robert Calderbank",
+      "Guillermo Sapiro"
+    ],
+    "conference": "iclr",
+    "id": "3314b523",
+    "metadata": {
+      "words": []
+    },
+    "name": "RotDCF: Decomposition of Convolutional Filters for Rotation-Equivariant Deep Networks",
+    "pdf_link": "https://openreview.net/pdf?id=H1gTEj09FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xinyun Chen",
+      "Chang Liu",
+      "Dawn Song"
+    ],
+    "conference": "iclr",
+    "id": "462b6a35",
+    "metadata": {
+      "words": []
+    },
+    "name": "Execution-Guided Neural Program Synthesis",
+    "pdf_link": "https://openreview.net/pdf?id=H1gfOiAqYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Liu Liu",
+      "Lei Deng",
+      "Xing Hu",
+      "Maohua Zhu",
+      "Guoqi Li",
+      "Yufei Ding",
+      "Yuan Xie"
+    ],
+    "conference": "iclr",
+    "id": "0bc1c5f6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dynamic Sparse Graph for Efficient Deep Learning",
+    "pdf_link": "https://openreview.net/pdf?id=H1goBoR9F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hongyi Zhang",
+      "Yann N. Dauphin",
+      "Tengyu Ma"
+    ],
+    "conference": "iclr",
+    "id": "b817e207",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fixup Initialization: Residual Learning Without Normalization",
+    "pdf_link": "https://openreview.net/pdf?id=H1gsz30cKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hao He",
+      "Hao Wang",
+      "Guang-He Lee",
+      "Yonglong Tian"
+    ],
+    "conference": "iclr",
+    "id": "700b30a9",
+    "metadata": {
+      "words": []
+    },
+    "name": "ProbGAN: Towards Probabilistic GAN with Theoretical Guarantees",
+    "pdf_link": "https://openreview.net/pdf?id=H1l7bnR5Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yuri Burda",
+      "Harrison Edwards",
+      "Amos Storkey",
+      "Oleg Klimov"
+    ],
+    "conference": "iclr",
+    "id": "447e69d7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Exploration by random network distillation",
+    "pdf_link": "https://openreview.net/pdf?id=H1lJJnR5Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Lior Wolf",
+      "Sagie Benaim",
+      "Tomer Galanti"
+    ],
+    "conference": "iclr",
+    "id": "866735c5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Learning of the Set of Local Maxima",
+    "pdf_link": "https://openreview.net/pdf?id=H1lqZhRcFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xiangyi Chen",
+      "Sijia Liu",
+      "Ruoyu Sun",
+      "Mingyi Hong"
+    ],
+    "conference": "iclr",
+    "id": "a690ad06",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Convergence of A Class of Adam-Type Algorithms  for Non-Convex Optimization",
+    "pdf_link": "https://openreview.net/pdf?id=H1x-x309tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Huan Zhang",
+      "Hai Zhao"
+    ],
+    "conference": "iclr",
+    "id": "c83bd1fc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Minimum Divergence vs. Maximum Margin: an Empirical Comparison on Seq2Seq Models",
+    "pdf_link": "https://openreview.net/pdf?id=H1xD9sR5Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jesse Engel",
+      "Kumar Krishna Agrawal",
+      "Shuo Chen",
+      "Ishaan Gulrajani",
+      "Chris Donahue",
+      "Adam Roberts"
+    ],
+    "conference": "iclr",
+    "id": "21873543",
+    "metadata": {
+      "words": []
+    },
+    "name": "GANSynth: Adversarial Neural Audio Synthesis",
+    "pdf_link": "https://openreview.net/pdf?id=H1xQVn09FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Soheil Kolouri",
+      "Phillip E. Pope",
+      "Charles E. Martin",
+      "Gustavo K. Rohde"
+    ],
+    "conference": "iclr",
+    "id": "51d01bff",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sliced Wasserstein Auto-Encoders",
+    "pdf_link": "https://openreview.net/pdf?id=H1xaJn05FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Rong Ge",
+      "Rohith Kuditipudi",
+      "Zhize Li",
+      "Xiang Wang"
+    ],
+    "conference": "iclr",
+    "id": "0e9f009e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Two-layer Neural Networks with Symmetric Inputs",
+    "pdf_link": "https://openreview.net/pdf?id=H1xipsA5K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Dzmitry Bahdanau",
+      "Felix Hill",
+      "Jan Leike",
+      "Edward Hughes",
+      "Arian Hosseini",
+      "Pushmeet Kohli",
+      "Edward Grefenstette"
+    ],
+    "conference": "iclr",
+    "id": "18524326",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Understand Goal Specifications by Modelling Reward",
+    "pdf_link": "https://openreview.net/pdf?id=H1xsSjC9Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Eric Nalisnick",
+      "Akihiro Matsukawa",
+      "Yee Whye Teh",
+      "Dilan Gorur",
+      "Balaji Lakshminarayanan"
+    ],
+    "conference": "iclr",
+    "id": "55ebe4d1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Do Deep Generative Models Know What They Don't Know?",
+    "pdf_link": "https://openreview.net/pdf?id=H1xwNhCcYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Anthony Bau",
+      "Yonatan Belinkov",
+      "Hassan Sajjad",
+      "Nadir Durrani",
+      "Fahim Dalvi",
+      "James Glass"
+    ],
+    "conference": "iclr",
+    "id": "2e8ab2ac",
+    "metadata": {
+      "words": []
+    },
+    "name": "Identifying and Controlling Important Neurons in Neural Machine Translation",
+    "pdf_link": "https://openreview.net/pdf?id=H1z-PsR5KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Joshua J. Michalenko",
+      "Ameesh Shah",
+      "Abhinav Verma",
+      "Richard G. Baraniuk",
+      "Swarat Chaudhuri",
+      "Ankit B. Patel"
+    ],
+    "conference": "iclr",
+    "id": "20f4e701",
+    "metadata": {
+      "words": []
+    },
+    "name": "Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=H1zeHnA9KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jose Oramas",
+      "Kaili Wang",
+      "Tinne Tuytelaars"
+    ],
+    "conference": "iclr",
+    "id": "bc907783",
+    "metadata": {
+      "words": []
+    },
+    "name": "Visual Explanation by Interpretation: Improving Visual Feedback Capabilities of Deep Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=H1ziPjC5Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Brady Zhou",
+      "Philipp Kr\u00e4henb\u00fchl"
+    ],
+    "conference": "iclr",
+    "id": "b3ad0ffa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Don't let your Discriminator  be fooled",
+    "pdf_link": "https://openreview.net/pdf?id=HJE6X305Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "ShahRukh Athar",
+      "Evgeny Burnaev",
+      "Victor Lempitsky"
+    ],
+    "conference": "iclr",
+    "id": "62c4501e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Latent Convolutional Models",
+    "pdf_link": "https://openreview.net/pdf?id=HJGciiR5Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Noam Mor",
+      "Lior Wolf",
+      "Adam Polyak",
+      "Yaniv Taigman"
+    ],
+    "conference": "iclr",
+    "id": "2e37fb8b",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Universal Music Translation Network",
+    "pdf_link": "https://openreview.net/pdf?id=HJGkisCcKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Antreas Antoniou",
+      "Harrison Edwards",
+      "Amos Storkey"
+    ],
+    "conference": "iclr",
+    "id": "753e7dfe",
+    "metadata": {
+      "words": []
+    },
+    "name": "How to train your MAML",
+    "pdf_link": "https://openreview.net/pdf?id=HJGven05Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Daniel Selsam",
+      "Matthew Lamm",
+      "Benedikt B\\\"{u}nz",
+      "Percy Liang",
+      "Leonardo de Moura",
+      "David L. Dill"
+    ],
+    "conference": "iclr",
+    "id": "5c42e3e3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning a SAT Solver from Single-Bit Supervision",
+    "pdf_link": "https://openreview.net/pdf?id=HJMC_iA5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yan Zhang",
+      "Jonathon Hare",
+      "Adam Pr\u00fcgel-Bennett"
+    ],
+    "conference": "iclr",
+    "id": "ca574a0f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Representations of Sets through Optimized Permutations",
+    "pdf_link": "https://openreview.net/pdf?id=HJMCcjAcYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chun-Fu (Richard) Chen",
+      "Quanfu Fan",
+      "Neil Mallinar",
+      "Tom Sercu",
+      "Rogerio Feris"
+    ],
+    "conference": "iclr",
+    "id": "181598d2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Big-Little Net: An Efficient Multi-Scale Feature Representation for Visual and Speech Recognition",
+    "pdf_link": "https://openreview.net/pdf?id=HJMHpjC9Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jean Alaux",
+      "Edouard Grave",
+      "Marco Cuturi",
+      "Armand Joulin"
+    ],
+    "conference": "iclr",
+    "id": "2f6f100b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Hyper-alignment for Multilingual Word Embeddings",
+    "pdf_link": "https://openreview.net/pdf?id=HJe62s09tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wei Yang",
+      "Xiaolong Wang",
+      "Ali Farhadi",
+      "Abhinav Gupta",
+      "Roozbeh Mottaghi"
+    ],
+    "conference": "iclr",
+    "id": "3bd0aca3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Visual Semantic Navigation using Scene Priors",
+    "pdf_link": "https://openreview.net/pdf?id=HJeRkh05Km",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sirisha Rambhatla",
+      "Xingguo Li",
+      "Jarvis Haupt"
+    ],
+    "conference": "iclr",
+    "id": "d029a8bc",
+    "metadata": {
+      "words": []
+    },
+    "name": "NOODL: Provable Online Dictionary Learning and Sparse Coding",
+    "pdf_link": "https://openreview.net/pdf?id=HJeu43ActQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Navid Azizan",
+      "Babak Hassibi"
+    ],
+    "conference": "iclr",
+    "id": "a0de9d23",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Gradient/Mirror Descent: Minimax Optimality and Implicit Regularization",
+    "pdf_link": "https://openreview.net/pdf?id=HJf9ZhC9FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Peiyun Hu",
+      "Zachary C. Lipton",
+      "Anima Anandkumar",
+      "Deva Ramanan"
+    ],
+    "conference": "iclr",
+    "id": "681c66bf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Active Learning with Partial Feedback",
+    "pdf_link": "https://openreview.net/pdf?id=HJfSEnRqKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ziwei Ji",
+      "Matus Telgarsky"
+    ],
+    "conference": "iclr",
+    "id": "13811384",
+    "metadata": {
+      "words": []
+    },
+    "name": "Gradient descent aligns the layers of deep linear networks",
+    "pdf_link": "https://openreview.net/pdf?id=HJflg30qKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Cenk Baykal",
+      "Lucas Liebenwein",
+      "Igor Gilitschenski",
+      "Dan Feldman",
+      "Daniela Rus"
+    ],
+    "conference": "iclr",
+    "id": "7429f09e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Data-Dependent Coresets for Compressing Neural Networks with Applications to Generalization Bounds",
+    "pdf_link": "https://openreview.net/pdf?id=HJfwJ2A5KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Quynh Nguyen",
+      "Mahesh Chandra Mukkamala",
+      "Matthias Hein"
+    ],
+    "conference": "iclr",
+    "id": "8f4004f4",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the loss landscape of a class of deep neural networks with no bad local valleys",
+    "pdf_link": "https://openreview.net/pdf?id=HJgXsjA5tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sheng Jia",
+      "Jamie Ryan Kiros",
+      "Jimmy Ba"
+    ],
+    "conference": "iclr",
+    "id": "ba854c61",
+    "metadata": {
+      "words": []
+    },
+    "name": "DOM-Q-NET:  Grounded RL on Structured Language",
+    "pdf_link": "https://openreview.net/pdf?id=HJgd1nAqFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Gagandeep Singh",
+      "Timon Gehr",
+      "Markus P\u00fcschel",
+      "Martin Vechev"
+    ],
+    "conference": "iclr",
+    "id": "5b11118b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Boosting Robustness Certification of Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=HJgeEh09KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Nataniel Ruiz",
+      "Samuel Schulter",
+      "Manmohan Chandraker"
+    ],
+    "conference": "iclr",
+    "id": "a7e5f8d7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning To Simulate",
+    "pdf_link": "https://openreview.net/pdf?id=HJgkx2Aqt7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ping Luo",
+      "Xinjiang Wang",
+      "Wenqi Shao",
+      "Zhanglin Peng"
+    ],
+    "conference": "iclr",
+    "id": "c380ec66",
+    "metadata": {
+      "words": []
+    },
+    "name": "Towards Understanding Regularization in Batch Normalization",
+    "pdf_link": "https://openreview.net/pdf?id=HJlLKjR9FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yifan Wu",
+      "George Tucker",
+      "Ofir Nachum"
+    ],
+    "conference": "iclr",
+    "id": "88ac6cac",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Laplacian in RL: Learning Representations with Efficient Approximations",
+    "pdf_link": "https://openreview.net/pdf?id=HJlNpoA5YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yiding Jiang",
+      "Dilip Krishnan",
+      "Hossein Mobahi",
+      "Samy Bengio"
+    ],
+    "conference": "iclr",
+    "id": "584ef541",
+    "metadata": {
+      "words": []
+    },
+    "name": "Predicting the Generalization Gap in Deep Networks with Margin Distributions",
+    "pdf_link": "https://openreview.net/pdf?id=HJlQfnCqKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ahmed H. Qureshi",
+      "Byron Boots",
+      "Michael C. Yip"
+    ],
+    "conference": "iclr",
+    "id": "755b861b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Imitation via Variational Inverse Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=HJlmHoR5tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Michael Janner",
+      "Sergey Levine",
+      "William T. Freeman",
+      "Joshua B. Tenenbaum",
+      "Chelsea Finn",
+      "Jiajun Wu"
+    ],
+    "conference": "iclr",
+    "id": "eee29629",
+    "metadata": {
+      "words": []
+    },
+    "name": "Reasoning About Physical Interactions with Object-Oriented Prediction and Planning",
+    "pdf_link": "https://openreview.net/pdf?id=HJx9EhC9tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jianan Li",
+      "Jimei Yang",
+      "Aaron Hertzmann",
+      "Jianming Zhang",
+      "Tingfa Xu"
+    ],
+    "conference": "iclr",
+    "id": "5b5ba8fe",
+    "metadata": {
+      "words": []
+    },
+    "name": "LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators",
+    "pdf_link": "https://openreview.net/pdf?id=HJxB5sRcFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Albert Gu",
+      "Frederic Sala",
+      "Beliz Gunel",
+      "Christopher R\u00e9"
+    ],
+    "conference": "iclr",
+    "id": "8b98d9c8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Mixed-Curvature Representations in Product Spaces",
+    "pdf_link": "https://openreview.net/pdf?id=HJxeWnCcF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ningyuan Zheng",
+      "Yifan Jiang",
+      "Dingjiang Huang"
+    ],
+    "conference": "iclr",
+    "id": "683948cd",
+    "metadata": {
+      "words": []
+    },
+    "name": "StrokeNet: A Neural Painting Environment",
+    "pdf_link": "https://openreview.net/pdf?id=HJxwDiActX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Soochan Lee",
+      "Junsoo Ha",
+      "Gunhee Kim"
+    ],
+    "conference": "iclr",
+    "id": "edd552df",
+    "metadata": {
+      "words": []
+    },
+    "name": "Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation",
+    "pdf_link": "https://openreview.net/pdf?id=HJxyAjRcFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jacob Andreas"
+    ],
+    "conference": "iclr",
+    "id": "b6377baf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Measuring Compositionality in Representation Learning",
+    "pdf_link": "https://openreview.net/pdf?id=HJz05o0qK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Dan Hendrycks",
+      "Thomas Dietterich"
+    ],
+    "conference": "iclr",
+    "id": "43d3dfa9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+    "pdf_link": "https://openreview.net/pdf?id=HJz6tiCqYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Rima Alaifari",
+      "Giovanni S. Alberti",
+      "Tandri Gauksson"
+    ],
+    "conference": "iclr",
+    "id": "7be9a0d9",
+    "metadata": {
+      "words": []
+    },
+    "name": "ADef: an Iterative Algorithm to Construct Adversarial Deformations",
+    "pdf_link": "https://openreview.net/pdf?id=Hk4dFjR5K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ilya Kostrikov",
+      "Kumar Krishna Agrawal",
+      "Debidatta Dwibedi",
+      "Sergey Levine",
+      "Jonathan Tompson"
+    ],
+    "conference": "iclr",
+    "id": "b01c292c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning",
+    "pdf_link": "https://openreview.net/pdf?id=Hk4fpoA5Km",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "George Tucker",
+      "Dieterich Lawson",
+      "Shixiang Gu",
+      "Chris J. Maddison"
+    ],
+    "conference": "iclr",
+    "id": "ae7b6627",
+    "metadata": {
+      "words": []
+    },
+    "name": "Doubly Reparameterized Gradient Estimators for Monte Carlo Objectives",
+    "pdf_link": "https://openreview.net/pdf?id=HkG3e205K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Arash Ardakani",
+      "Zhengyun Ji",
+      "Sean C. Smithson",
+      "Brett H. Meyer",
+      "Warren J. Gross"
+    ],
+    "conference": "iclr",
+    "id": "23ba0f57",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Recurrent Binary/Ternary Weights",
+    "pdf_link": "https://openreview.net/pdf?id=HkNGYjR9FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "William La Cava",
+      "Tilak Raj Singh",
+      "James Taggart",
+      "Srinivas Suri"
+    ],
+    "conference": "iclr",
+    "id": "bb220a76",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning concise representations for regression by evolving networks of trees",
+    "pdf_link": "https://openreview.net/pdf?id=Hke-JhA9Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Walid Krichene",
+      "Nicolas Mayoraz",
+      "Steffen Rendle",
+      "Li Zhang",
+      "Xinyang Yi",
+      "Lichan Hong",
+      "Ed Chi",
+      "John Anderson"
+    ],
+    "conference": "iclr",
+    "id": "a77a08ae",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficient Training on Very Large Corpora via Gramian Estimation",
+    "pdf_link": "https://openreview.net/pdf?id=Hke20iA9Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xuezhe Ma",
+      "Chunting Zhou",
+      "Eduard Hovy"
+    ],
+    "conference": "iclr",
+    "id": "f373dac2",
+    "metadata": {
+      "words": []
+    },
+    "name": "MAE: Mutual Posterior-Divergence Regularization for Variational AutoEncoders",
+    "pdf_link": "https://openreview.net/pdf?id=Hke4l2AcKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yulun Zhang",
+      "Kunpeng Li",
+      "Kai Li",
+      "Bineng Zhong",
+      "Yun Fu"
+    ],
+    "conference": "iclr",
+    "id": "7809e09c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Residual Non-local Attention Networks for Image Restoration",
+    "pdf_link": "https://openreview.net/pdf?id=HkeGhoA5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wenbo Gong",
+      "Yingzhen Li",
+      "Jos\u00e9 Miguel Hern\u00e1ndez-Lobato"
+    ],
+    "conference": "iclr",
+    "id": "50122159",
+    "metadata": {
+      "words": []
+    },
+    "name": "Meta-Learning For Stochastic Gradient MCMC",
+    "pdf_link": "https://openreview.net/pdf?id=HkeoOo09YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Dzmitry Bahdanau*",
+      "Shikhar Murty*",
+      "Michael Noukhovitch",
+      "Thien Huu Nguyen",
+      "Harm de Vries",
+      "Aaron Courville"
+    ],
+    "conference": "iclr",
+    "id": "53bedb06",
+    "metadata": {
+      "words": []
+    },
+    "name": "Systematic Generalization: What Is Required and Can It Be Learned?",
+    "pdf_link": "https://openreview.net/pdf?id=HkezXnA9YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Arslan Chaudhry",
+      "Marc\u2019Aurelio Ranzato",
+      "Marcus Rohrbach",
+      "Mohamed Elhoseiny"
+    ],
+    "conference": "iclr",
+    "id": "22c08acf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficient Lifelong Learning with A-GEM",
+    "pdf_link": "https://openreview.net/pdf?id=Hkf2_sC5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Rajarshi Das",
+      "Shehzaad Dhuliawala",
+      "Manzil Zaheer",
+      "Andrew McCallum"
+    ],
+    "conference": "iclr",
+    "id": "786da469",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-step Retriever-Reader Interaction for Scalable Open-domain Question Answering",
+    "pdf_link": "https://openreview.net/pdf?id=HkfPSh05K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Daehyun Ahn",
+      "Dongsoo Lee",
+      "Taesu Kim",
+      "Jae-Joon Kim"
+    ],
+    "conference": "iclr",
+    "id": "7e4d42d7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Double Viterbi: Weight Encoding for High Compression Ratio and Fast On-Chip Reconstruction for Deep Neural Network",
+    "pdf_link": "https://openreview.net/pdf?id=HkfYOoCcYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jos\u00e9 Lezama"
+    ],
+    "conference": "iclr",
+    "id": "cc621320",
+    "metadata": {
+      "words": []
+    },
+    "name": "Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision",
+    "pdf_link": "https://openreview.net/pdf?id=Hkg4W2AcFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Zhiqing Sun",
+      "Zhi-Hong Deng",
+      "Jian-Yun Nie",
+      "Jian Tang"
+    ],
+    "conference": "iclr",
+    "id": "92a095e6",
+    "metadata": {
+      "words": []
+    },
+    "name": "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space",
+    "pdf_link": "https://openreview.net/pdf?id=HkgEQnRqYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "John D. Co-Reyes",
+      "Abhishek Gupta",
+      "Suvansh Sanjeev",
+      "Nick Altieri",
+      "Jacob Andreas",
+      "John DeNero",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "conference": "iclr",
+    "id": "a41d7882",
+    "metadata": {
+      "words": []
+    },
+    "name": "Guiding Policies with Language via Meta-Learning",
+    "pdf_link": "https://openreview.net/pdf?id=HkgSEnA5KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Zhiming Zhou*",
+      "Qingru Zhang*",
+      "Guansong Lu",
+      "Hongwei Wang",
+      "Weinan Zhang",
+      "Yong Yu"
+    ],
+    "conference": "iclr",
+    "id": "5bb29999",
+    "metadata": {
+      "words": []
+    },
+    "name": "AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods",
+    "pdf_link": "https://openreview.net/pdf?id=HkgTkhRcKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Fangwei Zhong",
+      "Peng Sun",
+      "Wenhan Luo",
+      "Tingyun Yan",
+      "Yizhou Wang"
+    ],
+    "conference": "iclr",
+    "id": "b4c69bc0",
+    "metadata": {
+      "words": []
+    },
+    "name": "AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking",
+    "pdf_link": "https://openreview.net/pdf?id=HkgYmhR9KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Carson Eisenach",
+      "Haichuan Yang",
+      "Ji Liu",
+      "Han Liu"
+    ],
+    "conference": "iclr",
+    "id": "e405b9e7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Marginal Policy Gradients: A Unified Family of Estimators for Bounded Action Spaces with Applications",
+    "pdf_link": "https://openreview.net/pdf?id=HkgqFiAcFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ting Chen",
+      "Mario Lucic",
+      "Neil Houlsby",
+      "Sylvain Gelly"
+    ],
+    "conference": "iclr",
+    "id": "b777743f",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Self Modulation for Generative Adversarial Networks",
+    "pdf_link": "https://openreview.net/pdf?id=Hkl5aoR5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yuan Xie",
+      "Boyi Liu",
+      "Qiang Liu",
+      "Zhaoran Wang",
+      "Yuan Zhou",
+      "Jian Peng"
+    ],
+    "conference": "iclr",
+    "id": "377d767a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Off-Policy Evaluation and Learning from Logged Bandit Feedback: Error Reduction via Surrogate Policy",
+    "pdf_link": "https://openreview.net/pdf?id=HklKui0ct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yu Bai",
+      "Qijia Jiang",
+      "Ju Sun"
+    ],
+    "conference": "iclr",
+    "id": "8a492371",
+    "metadata": {
+      "words": []
+    },
+    "name": "Subgradient Descent Learns Orthogonal Dictionaries",
+    "pdf_link": "https://openreview.net/pdf?id=HklSf3CqKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wei Ping",
+      "Kainan Peng",
+      "Jitong Chen"
+    ],
+    "conference": "iclr",
+    "id": "634fd2ff",
+    "metadata": {
+      "words": []
+    },
+    "name": "ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech",
+    "pdf_link": "https://openreview.net/pdf?id=HklY120cYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yuan Yuan",
+      "Yueming Lyu",
+      "Xi Shen",
+      "Ivor W. Tsang",
+      "Dit-Yan Yeung"
+    ],
+    "conference": "iclr",
+    "id": "5539ecf2",
+    "metadata": {
+      "words": []
+    },
+    "name": "MARGINALIZED AVERAGE ATTENTIONAL NETWORK FOR WEAKLY-SUPERVISED LEARNING",
+    "pdf_link": "https://openreview.net/pdf?id=HkljioCcFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ishaan Gulrajani",
+      "Colin Raffel",
+      "Luke Metz"
+    ],
+    "conference": "iclr",
+    "id": "4416a118",
+    "metadata": {
+      "words": []
+    },
+    "name": "Towards GAN Benchmarks Which Require Generalization",
+    "pdf_link": "https://openreview.net/pdf?id=HkxKH2AcFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wei-Yu Chen",
+      "Yen-Cheng Liu",
+      "Zsolt Kira",
+      "Yu-Chiang Frank Wang",
+      "Jia-Bin Huang"
+    ],
+    "conference": "iclr",
+    "id": "3646d4cd",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Closer Look at Few-shot Classification",
+    "pdf_link": "https://openreview.net/pdf?id=HkxLXnAcFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jonathan Gordon",
+      "John Bronskill",
+      "Matthias Bauer",
+      "Sebastian Nowozin",
+      "Richard Turner"
+    ],
+    "conference": "iclr",
+    "id": "2d5d136f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Meta-Learning Probabilistic Inference for Prediction",
+    "pdf_link": "https://openreview.net/pdf?id=HkxStoC5F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Vinicius Zambaldi",
+      "David Raposo",
+      "Adam Santoro",
+      "Victor Bapst",
+      "Yujia Li",
+      "Igor Babuschkin",
+      "Karl Tuyls",
+      "David Reichert",
+      "Timothy Lillicrap",
+      "Edward Lockhart",
+      "Murray Shanahan",
+      "Victoria Langston",
+      "Razvan Pascanu",
+      "Matthew Botvinick",
+      "Oriol Vinyals",
+      "Peter Battaglia"
+    ],
+    "conference": "iclr",
+    "id": "afc58174",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep reinforcement learning with relational inductive biases",
+    "pdf_link": "https://openreview.net/pdf?id=HkxaFoC9KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Christos Louizos",
+      "Matthias Reisser",
+      "Tijmen Blankevoort",
+      "Efstratios Gavves",
+      "Max Welling"
+    ],
+    "conference": "iclr",
+    "id": "bf752efe",
+    "metadata": {
+      "words": []
+    },
+    "name": "Relaxed Quantization for Discretized Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=HkxjYoCqKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Josue Nassar",
+      "Scott Linderman",
+      "Monica Bugallo",
+      "Il Memming Park"
+    ],
+    "conference": "iclr",
+    "id": "297c0822",
+    "metadata": {
+      "words": []
+    },
+    "name": "Tree-Structured Recurrent Switching Linear Dynamical Systems for Multi-Scale Modeling",
+    "pdf_link": "https://openreview.net/pdf?id=HkzRQhR9YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Emre Aksan",
+      "Otmar Hilliges"
+    ],
+    "conference": "iclr",
+    "id": "0a58cee7",
+    "metadata": {
+      "words": []
+    },
+    "name": "STCN: Stochastic Temporal Convolutional Networks",
+    "pdf_link": "https://openreview.net/pdf?id=HkzSQhCcK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jordi Grau-Moya",
+      "Felix Leibfried",
+      "Peter Vrancx"
+    ],
+    "conference": "iclr",
+    "id": "d6c749f8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Soft Q-Learning with Mutual-Information Regularization",
+    "pdf_link": "https://openreview.net/pdf?id=HyEtjoCqFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jorge P\u00e9rez",
+      "Javier Marinkovi\u0107",
+      "Pablo Barcel\u00f3"
+    ],
+    "conference": "iclr",
+    "id": "0b361b10",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Turing Completeness of Modern Neural Network Architectures",
+    "pdf_link": "https://openreview.net/pdf?id=HyGBdo0qFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Robert Csordas",
+      "Juergen Schmidhuber"
+    ],
+    "conference": "iclr",
+    "id": "7a8b4436",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Differentiable Neural Computers Through Memory Masking, De-allocation, and Link Distribution Sharpness Control",
+    "pdf_link": "https://openreview.net/pdf?id=HyGEM3C9KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Vincent Tjeng",
+      "Kai Y. Xiao",
+      "Russ Tedrake"
+    ],
+    "conference": "iclr",
+    "id": "9208c177",
+    "metadata": {
+      "words": []
+    },
+    "name": "Evaluating Robustness of Neural Networks with Mixed Integer Programming",
+    "pdf_link": "https://openreview.net/pdf?id=HyGIdiRqtm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Konik Kothari*",
+      "Sidharth Gupta*",
+      "Maarten v. de Hoop",
+      "Ivan Dokmanic"
+    ],
+    "conference": "iclr",
+    "id": "ec0c4bf7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Random mesh projectors for inverse problems",
+    "pdf_link": "https://openreview.net/pdf?id=HyGcghRct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yiren Wang",
+      "Yingce Xia",
+      "Tianyu He",
+      "Fei Tian",
+      "Tao Qin",
+      "ChengXiang Zhai",
+      "Tie-Yan Liu"
+    ],
+    "conference": "iclr",
+    "id": "428ec036",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-Agent Dual Learning",
+    "pdf_link": "https://openreview.net/pdf?id=HyGhN2A5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hao-Yun Chen",
+      "Pei-Hsin Wang",
+      "Chun-Hao Liu",
+      "Shih-Chieh Chang",
+      "Jia-Yu Pan",
+      "Yu-Ting Chen",
+      "Wei Wei",
+      "Da-Cheng Juan"
+    ],
+    "conference": "iclr",
+    "id": "f843a8d6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Complement Objective Training",
+    "pdf_link": "https://openreview.net/pdf?id=HyM7AiA5YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Lucas Deecke",
+      "Iain Murray",
+      "Hakan Bilen"
+    ],
+    "conference": "iclr",
+    "id": "e447b532",
+    "metadata": {
+      "words": []
+    },
+    "name": "Mode Normalization",
+    "pdf_link": "https://openreview.net/pdf?id=HyN-M2Rctm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tianxing He",
+      "James Glass"
+    ],
+    "conference": "iclr",
+    "id": "f7c023d3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Detecting Egregious Responses in Neural Sequence-to-sequence Models",
+    "pdf_link": "https://openreview.net/pdf?id=HyNA5iRcFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Dibya Ghosh",
+      "Abhishek Gupta",
+      "Sergey Levine"
+    ],
+    "conference": "iclr",
+    "id": "51f944d1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Actionable Representations with Goal Conditioned Policies",
+    "pdf_link": "https://openreview.net/pdf?id=Hye9lnCct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chongli Qin",
+      "Krishnamurthy (Dj) Dvijotham",
+      "Brendan O'Donoghue",
+      "Rudy Bunel",
+      "Robert Stanforth",
+      "Sven Gowal",
+      "Jonathan Uesato",
+      "Grzegorz Swirszcz",
+      "Pushmeet Kohli"
+    ],
+    "conference": "iclr",
+    "id": "81dd9174",
+    "metadata": {
+      "words": []
+    },
+    "name": "Verification of Non-Linear Specifications for Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=HyeFAsRctQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Lukas Prantl",
+      "Boris Bonev",
+      "Nils Thuerey"
+    ],
+    "conference": "iclr",
+    "id": "7ee340da",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generating Liquid Simulations with Deformation-aware Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=HyeGBj09Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Rakshit Trivedi",
+      "Mehrdad Farajtabar",
+      "Prasenjeet Biswal",
+      "Hongyuan Zha"
+    ],
+    "conference": "iclr",
+    "id": "ee1af730",
+    "metadata": {
+      "words": []
+    },
+    "name": "DyRep: Learning Representations over Dynamic Graphs",
+    "pdf_link": "https://openreview.net/pdf?id=HyePrhR5KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Shaojie Bai",
+      "J. Zico Kolter",
+      "Vladlen Koltun"
+    ],
+    "conference": "iclr",
+    "id": "3aba9bfa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Trellis Networks for Sequence Modeling",
+    "pdf_link": "https://openreview.net/pdf?id=HyeVtoRqtQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Karren D. Yang",
+      "Caroline Uhler"
+    ],
+    "conference": "iclr",
+    "id": "d92b60db",
+    "metadata": {
+      "words": []
+    },
+    "name": "Scalable Unbalanced Optimal Transport using Generative Adversarial Networks",
+    "pdf_link": "https://openreview.net/pdf?id=HyexAiA5Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Stephen McAleer",
+      "Forest Agostinelli",
+      "Alexander Shmakov",
+      "Pierre Baldi"
+    ],
+    "conference": "iclr",
+    "id": "ede07fdb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Solving the Rubik's Cube with Approximate Policy Iteration",
+    "pdf_link": "https://openreview.net/pdf?id=Hyfn2jCcKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hongzi Mao",
+      "Shaileshh Bojja Venkatakrishnan",
+      "Malte Schwarzkopf",
+      "Mohammad Alizadeh"
+    ],
+    "conference": "iclr",
+    "id": "f52a41f0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variance Reduction for Reinforcement Learning in Input-Driven Environments",
+    "pdf_link": "https://openreview.net/pdf?id=Hyg1G2AqtQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Mikael Henaff",
+      "Alfredo Canziani",
+      "Yann LeCun"
+    ],
+    "conference": "iclr",
+    "id": "06acef6d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic",
+    "pdf_link": "https://openreview.net/pdf?id=HygQBn0cYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "David Bau",
+      "Jun-Yan Zhu",
+      "Hendrik Strobelt",
+      "Bolei Zhou",
+      "Joshua B. Tenenbaum",
+      "William T. Freeman",
+      "Antonio Torralba"
+    ],
+    "conference": "iclr",
+    "id": "e634fd45",
+    "metadata": {
+      "words": []
+    },
+    "name": "GAN Dissection: Visualizing and Understanding Generative Adversarial Networks",
+    "pdf_link": "https://openreview.net/pdf?id=Hyg_X2C5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wei Wang",
+      "Yuan Sun",
+      "Saman Halgamuge"
+    ],
+    "conference": "iclr",
+    "id": "79eed728",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving MMD-GAN Training with Repulsive Loss Function",
+    "pdf_link": "https://openreview.net/pdf?id=HygjqjR9Km",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Vaishnavh Nagarajan",
+      "Zico Kolter"
+    ],
+    "conference": "iclr",
+    "id": "79444cf4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deterministic PAC-Bayesian generalization bounds for deep networks via generalizing noise-resilience",
+    "pdf_link": "https://openreview.net/pdf?id=Hygn2o0qKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Anirudh Goyal",
+      "Philemon Brakel",
+      "William Fedus",
+      "Soumye Singhal",
+      "Timothy Lillicrap",
+      "Sergey Levine",
+      "Hugo Larochelle",
+      "Yoshua Bengio"
+    ],
+    "conference": "iclr",
+    "id": "f8688349",
+    "metadata": {
+      "words": []
+    },
+    "name": "Recall Traces: Backtracking Models for Efficient Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=HygsfnR9Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "John Miller",
+      "Moritz Hardt"
+    ],
+    "conference": "iclr",
+    "id": "08db0aa6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stable Recurrent Models",
+    "pdf_link": "https://openreview.net/pdf?id=Hygxb2CqKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Huan Zhang*",
+      "Hongge Chen*",
+      "Zhao Song",
+      "Duane Boning",
+      "Inderjit S. Dhillon",
+      "Cho-Jui Hsieh"
+    ],
+    "conference": "iclr",
+    "id": "9b176311",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Limitations of Adversarial Training and the Blind-Spot Attack",
+    "pdf_link": "https://openreview.net/pdf?id=HylTBhA5tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chulhee Yun",
+      "Suvrit Sra",
+      "Ali Jadbabaie"
+    ],
+    "conference": "iclr",
+    "id": "6e3c6f2d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficiently testing local optimality and escaping saddles for ReLU networks",
+    "pdf_link": "https://openreview.net/pdf?id=HylTXn0qYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Han Cai",
+      "Ligeng Zhu",
+      "Song Han"
+    ],
+    "conference": "iclr",
+    "id": "2ca98bf1",
+    "metadata": {
+      "words": []
+    },
+    "name": "ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware",
+    "pdf_link": "https://openreview.net/pdf?id=HylVB3AqYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Takayuki Osa",
+      "Voot Tangkaratt",
+      "Masashi Sugiyama"
+    ],
+    "conference": "iclr",
+    "id": "9902aa63",
+    "metadata": {
+      "words": []
+    },
+    "name": "Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization",
+    "pdf_link": "https://openreview.net/pdf?id=Hyl_vjC5KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Farzan Farnia",
+      "Jesse Zhang",
+      "David Tse"
+    ],
+    "conference": "iclr",
+    "id": "ef86a065",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generalizable Adversarial Training via Spectral Normalization",
+    "pdf_link": "https://openreview.net/pdf?id=Hyx4knR9Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ali Farshchian",
+      "Juan A. Gallego",
+      "Joseph P. Cohen",
+      "Yoshua Bengio",
+      "Lee E. Miller",
+      "Sara A. Solla"
+    ],
+    "conference": "iclr",
+    "id": "5f0dbdc0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Domain Adaptation for Stable Brain-Machine Interfaces",
+    "pdf_link": "https://openreview.net/pdf?id=Hyx6Bi0qYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Anusha Nagabandi",
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "conference": "iclr",
+    "id": "896d909a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Online Learning Via Meta-Learning: Continual Adaptation for Model-Based RL",
+    "pdf_link": "https://openreview.net/pdf?id=HyxAfnA5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Dan Hendrycks",
+      "Mantas Mazeika",
+      "Thomas Dietterich"
+    ],
+    "conference": "iclr",
+    "id": "5324283c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Anomaly Detection with Outlier Exposure",
+    "pdf_link": "https://openreview.net/pdf?id=HyxCxhRcY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jongwook Choi",
+      "Yijie Guo",
+      "Marcin Moczulski",
+      "Junhyuk Oh",
+      "Neal Wu",
+      "Mohammad Norouzi",
+      "Honglak Lee"
+    ],
+    "conference": "iclr",
+    "id": "9f49274e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Contingency-Aware Exploration in Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=HyxGB2AcY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jooyoung Lee",
+      "Seunghyun Cho",
+      "Seung-Kwon Beack"
+    ],
+    "conference": "iclr",
+    "id": "e9d51193",
+    "metadata": {
+      "words": []
+    },
+    "name": "Context-adaptive Entropy Model for End-to-end Optimized Image Compression",
+    "pdf_link": "https://openreview.net/pdf?id=HyxKIiAqYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xue Bin Peng",
+      "Angjoo Kanazawa",
+      "Sam Toyer",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "conference": "iclr",
+    "id": "87658c2a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow",
+    "pdf_link": "https://openreview.net/pdf?id=HyxPx3R9tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Luca Bertinetto",
+      "Joao F. Henriques",
+      "Philip Torr",
+      "Andrea Vedaldi"
+    ],
+    "conference": "iclr",
+    "id": "b626f9b4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Meta-learning with differentiable closed-form solvers",
+    "pdf_link": "https://openreview.net/pdf?id=HyxnZh0ct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tanmay Gangwani",
+      "Qiang Liu",
+      "Jian Peng"
+    ],
+    "conference": "iclr",
+    "id": "344a7ed5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Self-Imitating Diverse Policies",
+    "pdf_link": "https://openreview.net/pdf?id=HyxzRsR9Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yu Bai",
+      "Yu-Xiang Wang",
+      "Edo Liberty"
+    ],
+    "conference": "iclr",
+    "id": "c3ee56fb",
+    "metadata": {
+      "words": []
+    },
+    "name": "ProxQuant: Quantized Neural Networks via Proximal Operators",
+    "pdf_link": "https://openreview.net/pdf?id=HyzMyhCcK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Mostafa Dehghani",
+      "Stephan Gouws",
+      "Oriol Vinyals",
+      "Jakob Uszkoreit",
+      "Lukasz Kaiser"
+    ],
+    "conference": "iclr",
+    "id": "6b70e129",
+    "metadata": {
+      "words": []
+    },
+    "name": "Universal Transformers",
+    "pdf_link": "https://openreview.net/pdf?id=HyzdRiR9Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Anusha Nagabandi",
+      "Ignasi Clavera",
+      "Simin Liu",
+      "Ronald S. Fearing",
+      "Pieter Abbeel",
+      "Sergey Levine",
+      "Chelsea Finn"
+    ],
+    "conference": "iclr",
+    "id": "b9671ace",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Adapt in Dynamic, Real-World Environments through Meta-Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=HyztsoC5Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jianbo Chen",
+      "Le Song",
+      "Martin J. Wainwright",
+      "Michael I. Jordan"
+    ],
+    "conference": "iclr",
+    "id": "ed23e994",
+    "metadata": {
+      "words": []
+    },
+    "name": "L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data",
+    "pdf_link": "https://openreview.net/pdf?id=S1E3Ko09F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Seil Na",
+      "Yo Joong Choe",
+      "Dong-Hyun Lee",
+      "Gunhee Kim"
+    ],
+    "conference": "iclr",
+    "id": "3bccf989",
+    "metadata": {
+      "words": []
+    },
+    "name": "Discovery of Natural Language Concepts in Individual Units of CNNs",
+    "pdf_link": "https://openreview.net/pdf?id=S1EERs09YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Lukas Schott",
+      "Jonas Rauber",
+      "Matthias Bethge",
+      "Wieland Brendel"
+    ],
+    "conference": "iclr",
+    "id": "9124d979",
+    "metadata": {
+      "words": []
+    },
+    "name": "Towards the first adversarially robust neural network model on MNIST",
+    "pdf_link": "https://openreview.net/pdf?id=S1EHOsC9tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Samaneh Azadi",
+      "Catherine Olsson",
+      "Trevor Darrell",
+      "Ian Goodfellow",
+      "Augustus Odena"
+    ],
+    "conference": "iclr",
+    "id": "a69c03b5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Discriminator Rejection Sampling",
+    "pdf_link": "https://openreview.net/pdf?id=S1GkToR5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Rui Zhang",
+      "Tomas Pfister",
+      "Jia Li"
+    ],
+    "conference": "iclr",
+    "id": "da15f27e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Harmonic Unpaired Image-to-image Translation",
+    "pdf_link": "https://openreview.net/pdf?id=S1M6Z2Cctm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Diana Borsa",
+      "Andre Barreto",
+      "John Quan",
+      "Daniel J. Mankowitz",
+      "Hado van Hasselt",
+      "Remi Munos",
+      "David Silver",
+      "Tom Schaul"
+    ],
+    "conference": "iclr",
+    "id": "094e84ef",
+    "metadata": {
+      "words": []
+    },
+    "name": "Universal Successor Features Approximators",
+    "pdf_link": "https://openreview.net/pdf?id=S1VWjiRcKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Simon S. Du",
+      "Xiyu Zhai",
+      "Barnabas Poczos",
+      "Aarti Singh"
+    ],
+    "conference": "iclr",
+    "id": "3330a2da",
+    "metadata": {
+      "words": []
+    },
+    "name": "Gradient Descent Provably Optimizes Over-parameterized Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=S1eK3i09YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Mohammad Kachuee",
+      "Orpaz Goldstein",
+      "Kimmo K\u00e4rkk\u00e4inen",
+      "Sajad Darabi",
+      "Majid Sarrafzadeh"
+    ],
+    "conference": "iclr",
+    "id": "7b823acc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Opportunistic Learning: Budgeted Cost-Sensitive Learning from Data Streams",
+    "pdf_link": "https://openreview.net/pdf?id=S1eOHo09KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hanxiao Liu",
+      "Karen Simonyan",
+      "Yiming Yang"
+    ],
+    "conference": "iclr",
+    "id": "41bb2a6e",
+    "metadata": {
+      "words": []
+    },
+    "name": "DARTS: Differentiable Architecture Search",
+    "pdf_link": "https://openreview.net/pdf?id=S1eYHoC5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Klas Leino",
+      "Emily Black",
+      "Matt Fredrikson",
+      "Shayak Sen",
+      "Anupam Datta"
+    ],
+    "conference": "iclr",
+    "id": "38b6970e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Feature-Wise Bias Amplification",
+    "pdf_link": "https://openreview.net/pdf?id=S1ecm2C9K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alexia Jolicoeur-Martineau"
+    ],
+    "conference": "iclr",
+    "id": "acfaedab",
+    "metadata": {
+      "words": []
+    },
+    "name": "The relativistic discriminator: a key element missing from standard GAN",
+    "pdf_link": "https://openreview.net/pdf?id=S1erHoR5t7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "David Berthelot*",
+      "Colin Raffel*",
+      "Aurko Roy",
+      "Ian Goodfellow"
+    ],
+    "conference": "iclr",
+    "id": "cc3ceae0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer",
+    "pdf_link": "https://openreview.net/pdf?id=S1fQSiCcYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jerry Ma",
+      "Denis Yarats"
+    ],
+    "conference": "iclr",
+    "id": "bccdfa27",
+    "metadata": {
+      "words": []
+    },
+    "name": "Quasi-hyperbolic momentum and Adam for deep learning",
+    "pdf_link": "https://openreview.net/pdf?id=S1fUpoR5FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sebastian U. Stich"
+    ],
+    "conference": "iclr",
+    "id": "85dea4a6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Local SGD Converges Fast and Communicates Little",
+    "pdf_link": "https://openreview.net/pdf?id=S1g2JnRcFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Anurag Koul",
+      "Alan Fern",
+      "Sam Greydanus"
+    ],
+    "conference": "iclr",
+    "id": "7f3005df",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Finite State Representations of Recurrent Policy Networks",
+    "pdf_link": "https://openreview.net/pdf?id=S1gOpsCctm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xu Tan",
+      "Yi Ren",
+      "Di He",
+      "Tao Qin",
+      "Zhou Zhao",
+      "Tie-Yan Liu"
+    ],
+    "conference": "iclr",
+    "id": "75872bf6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multilingual Neural Machine Translation with Knowledge Distillation",
+    "pdf_link": "https://openreview.net/pdf?id=S1gUsoR9YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Steven Cheng-Xian Li",
+      "Bo Jiang",
+      "Benjamin Marlin"
+    ],
+    "conference": "iclr",
+    "id": "b72bc479",
+    "metadata": {
+      "words": []
+    },
+    "name": "MisGAN: Learning from Incomplete Data with Generative Adversarial Networks",
+    "pdf_link": "https://openreview.net/pdf?id=S1lDV3RcKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Huaxia Wang",
+      "Chun-Nam Yu"
+    ],
+    "conference": "iclr",
+    "id": "a50a06f0",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Direct Approach to Robust Deep Learning Using Adversarial Networks",
+    "pdf_link": "https://openreview.net/pdf?id=S1lIMn05F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Elias B Khalil",
+      "Amrita Gupta",
+      "Bistra Dilkina"
+    ],
+    "conference": "iclr",
+    "id": "0fe2fabf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Combinatorial Attacks on Binarized Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=S1lTEh09FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Liqian Ma",
+      "Xu Jia",
+      "Stamatios Georgoulis",
+      "Tinne Tuytelaars",
+      "Luc Van Gool"
+    ],
+    "conference": "iclr",
+    "id": "a216d921",
+    "metadata": {
+      "words": []
+    },
+    "name": "Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency",
+    "pdf_link": "https://openreview.net/pdf?id=S1lTg3RqYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Mingzhang Yin",
+      "Mingyuan Zhou"
+    ],
+    "conference": "iclr",
+    "id": "c4e13e14",
+    "metadata": {
+      "words": []
+    },
+    "name": "ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks",
+    "pdf_link": "https://openreview.net/pdf?id=S1lg0jAcYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Rajarshi Das",
+      "Tsendsuren Munkhdalai",
+      "Xingdi Yuan",
+      "Adam Trischler",
+      "Andrew McCallum"
+    ],
+    "conference": "iclr",
+    "id": "5588e8f7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Building Dynamic Knowledge Graphs from Text using Machine Reading Comprehension",
+    "pdf_link": "https://openreview.net/pdf?id=S1lhbnRqF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alexandre Galashov",
+      "Siddhant M. Jayakumar",
+      "Leonard Hasenclever",
+      "Dhruva Tirumala",
+      "Jonathan Schwarz",
+      "Guillaume Desjardins",
+      "Wojciech M. Czarnecki",
+      "Yee Whye Teh",
+      "Razvan Pascanu",
+      "Nicolas Heess"
+    ],
+    "conference": "iclr",
+    "id": "6ec4e722",
+    "metadata": {
+      "words": []
+    },
+    "name": "Information asymmetry in KL-regularized RL",
+    "pdf_link": "https://openreview.net/pdf?id=S1lqMn05Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sicong Huang",
+      "Qiyang Li",
+      "Cem Anil",
+      "Xuchan Bao",
+      "Sageev Oore",
+      "Roger B. Grosse"
+    ],
+    "conference": "iclr",
+    "id": "52715de1",
+    "metadata": {
+      "words": []
+    },
+    "name": "TimbreTron: A WaveNet(CycleGAN(CQT(Audio))) Pipeline for Musical Timbre Transfer",
+    "pdf_link": "https://openreview.net/pdf?id=S1lvm305YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Aliaksandr Siarohin",
+      "Enver Sangineto",
+      "Nicu Sebe"
+    ],
+    "conference": "iclr",
+    "id": "5e6b3f4c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Whitening and Coloring Batch Transform for GANs",
+    "pdf_link": "https://openreview.net/pdf?id=S1x2Fj0qKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Shengcao Cao",
+      "Xiaofang Wang",
+      "Kris M. Kitani"
+    ],
+    "conference": "iclr",
+    "id": "3086b03e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learnable Embedding Space for Efficient Neural Architecture Compression",
+    "pdf_link": "https://openreview.net/pdf?id=S1xLN3C9YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Gavin Weiguang Ding",
+      "Kry Yik Chau Lui",
+      "Xiaomeng Jin",
+      "Luyu Wang",
+      "Ruitong Huang"
+    ],
+    "conference": "iclr",
+    "id": "c37ed1fb",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Sensitivity of Adversarial Robustness to Input Data Distributions",
+    "pdf_link": "https://openreview.net/pdf?id=S1xNEhR9KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sanjana Srivastava",
+      "Guy Ben-Yosef",
+      "Xavier Boix"
+    ],
+    "conference": "iclr",
+    "id": "749667b5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Minimal Images in Deep Neural Networks: Fragile Object Recognition in Natural Images",
+    "pdf_link": "https://openreview.net/pdf?id=S1xNb2A9YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Stefan Webb",
+      "Tom Rainforth",
+      "Yee Whye Teh",
+      "M. Pawan Kumar"
+    ],
+    "conference": "iclr",
+    "id": "36e46b69",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Statistical Approach to Assessing Neural Network Robustness",
+    "pdf_link": "https://openreview.net/pdf?id=S1xcx3C5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Liqun Chen",
+      "Yizhe Zhang",
+      "Ruiyi Zhang",
+      "Chenyang Tao",
+      "Zhe Gan",
+      "Haichao Zhang",
+      "Bai Li",
+      "Dinghan Shen",
+      "Changyou Chen",
+      "Lawrence Carin"
+    ],
+    "conference": "iclr",
+    "id": "318a679c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Sequence-to-Sequence Learning via Optimal Transport",
+    "pdf_link": "https://openreview.net/pdf?id=S1xtAjR5tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "James Jordon",
+      "Jinsung Yoon",
+      "Mihaela van der Schaar"
+    ],
+    "conference": "iclr",
+    "id": "b5b3f6b7",
+    "metadata": {
+      "words": []
+    },
+    "name": "PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees",
+    "pdf_link": "https://openreview.net/pdf?id=S1zk9iRqF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Johannes Ball\u00e9",
+      "Nick Johnston",
+      "David Minnen"
+    ],
+    "conference": "iclr",
+    "id": "29a5f3e9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Integer Networks for Data Compression with Latent-Variable Models",
+    "pdf_link": "https://openreview.net/pdf?id=S1zz2i0cY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Nantas Nardelli",
+      "Gabriel Synnaeve",
+      "Zeming Lin",
+      "Pushmeet Kohli",
+      "Philip H. S. Torr",
+      "Nicolas Usunier"
+    ],
+    "conference": "iclr",
+    "id": "815bbed0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Value Propagation Networks",
+    "pdf_link": "https://openreview.net/pdf?id=SJG6G2RqtX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Gilwoo Lee",
+      "Brian Hou",
+      "Aditya Mandalika",
+      "Jeongseok Lee",
+      "Sanjiban Choudhury",
+      "Siddhartha S. Srinivasa"
+    ],
+    "conference": "iclr",
+    "id": "7a6a013b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bayesian Policy Optimization for Model Uncertainty",
+    "pdf_link": "https://openreview.net/pdf?id=SJGvns0qK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Cheng Zhang",
+      "Frederick A. Matsen IV"
+    ],
+    "conference": "iclr",
+    "id": "0acf64b1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variational Bayesian Phylogenetic Inference",
+    "pdf_link": "https://openreview.net/pdf?id=SJVmjjR9FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Mahsa Baktashmotlagh",
+      "Masoud Faraki",
+      "Tom Drummond",
+      "Mathieu Salzmann"
+    ],
+    "conference": "iclr",
+    "id": "965b9212",
+    "metadata": {
+      "words": []
+    },
+    "name": "LEARNING FACTORIZED REPRESENTATIONS FOR OPEN-SET DOMAIN ADAPTATION",
+    "pdf_link": "https://openreview.net/pdf?id=SJe3HiC5KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yukun Ding",
+      "Jinglan Liu",
+      "Jinjun Xiong",
+      "Yiyu Shi"
+    ],
+    "conference": "iclr",
+    "id": "403a1c01",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Universal Approximability and Complexity Bounds of Quantized ReLU Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=SJe9rh0cFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Diego Valsesia",
+      "Giulia Fracastoro",
+      "Enrico Magli"
+    ],
+    "conference": "iclr",
+    "id": "49676450",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Localized Generative Models for 3D Point Clouds via Graph Convolution",
+    "pdf_link": "https://openreview.net/pdf?id=SJeXSo09FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yi Chen",
+      "Jinglin Chen",
+      "Jing Dong",
+      "Jian Peng",
+      "Zhaoran Wang"
+    ],
+    "conference": "iclr",
+    "id": "cbed2ce6",
+    "metadata": {
+      "words": []
+    },
+    "name": "ACCELERATING NONCONVEX LEARNING VIA REPLICA EXCHANGE LANGEVIN DIFFUSION",
+    "pdf_link": "https://openreview.net/pdf?id=SJfPFjA9Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xiaoshuai Zhang",
+      "Yiping Lu",
+      "Jiaying Liu",
+      "Bin Dong"
+    ],
+    "conference": "iclr",
+    "id": "51e27d62",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration",
+    "pdf_link": "https://openreview.net/pdf?id=SJfZKiC5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yonatan Geifman",
+      "Guy Uziel",
+      "Ran El-Yaniv"
+    ],
+    "conference": "iclr",
+    "id": "e6710ce1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers",
+    "pdf_link": "https://openreview.net/pdf?id=SJfb5jCqKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yang Zhang",
+      "Hassan Foroosh",
+      "Philip David",
+      "Boqing Gong"
+    ],
+    "conference": "iclr",
+    "id": "4e17df3b",
+    "metadata": {
+      "words": []
+    },
+    "name": "CAMOU: Learning Physical Vehicle Camouflages to Adversarially Attack Detectors in the Wild",
+    "pdf_link": "https://openreview.net/pdf?id=SJgEl3A5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xiaopeng Li",
+      "Zhourong Chen",
+      "Leonard K. M. Poon",
+      "Nevin L. Zhang"
+    ],
+    "conference": "iclr",
+    "id": "ccccece8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Latent Superstructures in Variational Autoencoders for Deep Multidimensional Clustering",
+    "pdf_link": "https://openreview.net/pdf?id=SJgNwi09Km",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Svetlin Penkov",
+      "Subramanian Ramamoorthy"
+    ],
+    "conference": "iclr",
+    "id": "2deb886f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Programmatically Structured Representations with Perceptor Gradients",
+    "pdf_link": "https://openreview.net/pdf?id=SJggZnRcFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jiawei He",
+      "Yu Gong",
+      "Joseph Marino",
+      "Greg Mori",
+      "Andreas Lehrmann"
+    ],
+    "conference": "iclr",
+    "id": "ddd76e69",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variational Autoencoders with Jointly Optimized Latent Dependency Structure",
+    "pdf_link": "https://openreview.net/pdf?id=SJgsCjCqt7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yasin Yaz{\\i}c{\\i}",
+      "Chuan-Sheng Foo",
+      "Stefan Winkler",
+      "Kim-Hui Yap",
+      "Georgios Piliouras",
+      "Vijay Chandrasekhar"
+    ],
+    "conference": "iclr",
+    "id": "cffd7c79",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Unusual Effectiveness of Averaging in GAN Training",
+    "pdf_link": "https://openreview.net/pdf?id=SJgw_sRqFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hsueh-Ti Derek Liu",
+      "Michael Tao",
+      "Chun-Liang Li",
+      "Derek Nowrouzezahrai",
+      "Alec Jacobson"
+    ],
+    "conference": "iclr",
+    "id": "13a4f1fb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer",
+    "pdf_link": "https://openreview.net/pdf?id=SJl2niR9KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Benjamin Eysenbach",
+      "Abhishek Gupta",
+      "Julian Ibarz",
+      "Sergey Levine"
+    ],
+    "conference": "iclr",
+    "id": "b3662be3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Diversity is All You Need: Learning Skills without a Reward Function",
+    "pdf_link": "https://openreview.net/pdf?id=SJx63jRqFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Quan Vuong",
+      "Yiming Zhang",
+      "Keith W. Ross"
+    ],
+    "conference": "iclr",
+    "id": "2ce891ca",
+    "metadata": {
+      "words": []
+    },
+    "name": "Supervised Policy Update for Deep Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=SJxTroR9F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Victoria Xia",
+      "Zi Wang",
+      "Kelsey Allen",
+      "Tom Silver",
+      "Leslie Pack Kaelbling"
+    ],
+    "conference": "iclr",
+    "id": "161eb0c7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning sparse relational transition models",
+    "pdf_link": "https://openreview.net/pdf?id=SJxsV2R5FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Daewoo Kim",
+      "Sangwoo Moon",
+      "David Hostallero",
+      "Wan Ju Kang",
+      "Taeyoung Lee",
+      "Kyunghwan Son",
+      "Yung Yi"
+    ],
+    "conference": "iclr",
+    "id": "f7de6e05",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Schedule Communication in Multi-agent Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=SJxu5iR9KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kenneth Marino",
+      "Abhinav Gupta",
+      "Rob Fergus",
+      "Arthur Szlam"
+    ],
+    "conference": "iclr",
+    "id": "eca235ea",
+    "metadata": {
+      "words": []
+    },
+    "name": "Hierarchical RL Using an Ensemble of Proprioceptive Periodic Policies",
+    "pdf_link": "https://openreview.net/pdf?id=SJz1x20cFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yen-Chang Hsu",
+      "Zhaoyang Lv",
+      "Joel Schlosser",
+      "Phillip Odom",
+      "Zsolt Kira"
+    ],
+    "conference": "iclr",
+    "id": "f4fd8ff5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-class classification without multi-class labels",
+    "pdf_link": "https://openreview.net/pdf?id=SJzR2iRcK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ian Tenney",
+      "Patrick Xia",
+      "Berlin Chen",
+      "Alex Wang",
+      "Adam Poliak",
+      "R Thomas McCoy",
+      "Najoung Kim",
+      "Benjamin Van Durme",
+      "Samuel R. Bowman",
+      "Dipanjan Das",
+      "Ellie Pavlick"
+    ],
+    "conference": "iclr",
+    "id": "96fccaa8",
+    "metadata": {
+      "words": []
+    },
+    "name": "What do you learn from context? Probing for sentence structure in contextualized word representations",
+    "pdf_link": "https://openreview.net/pdf?id=SJzSgnRcKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "David Pfau",
+      "Stig Petersen",
+      "Ashish Agarwal",
+      "David G. T. Barrett",
+      "Kimberly L. Stachenfeld"
+    ],
+    "conference": "iclr",
+    "id": "8b17c486",
+    "metadata": {
+      "words": []
+    },
+    "name": "Spectral Inference Networks: Unifying Deep and Spectral Learning",
+    "pdf_link": "https://openreview.net/pdf?id=SJzqpj09YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jan Svoboda",
+      "Jonathan Masci",
+      "Federico Monti",
+      "Michael Bronstein",
+      "Leonidas Guibas"
+    ],
+    "conference": "iclr",
+    "id": "e6253b83",
+    "metadata": {
+      "words": []
+    },
+    "name": "PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks",
+    "pdf_link": "https://openreview.net/pdf?id=Sk4jFoA9K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hyunjik Kim",
+      "Andriy Mnih",
+      "Jonathan Schwarz",
+      "Marta Garnelo",
+      "Ali Eslami",
+      "Dan Rosenbaum",
+      "Oriol Vinyals",
+      "Yee Whye Teh"
+    ],
+    "conference": "iclr",
+    "id": "c7b5718f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Attentive Neural Processes",
+    "pdf_link": "https://openreview.net/pdf?id=SkE6PjC9KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jun Gao",
+      "Di He",
+      "Xu Tan",
+      "Tao Qin",
+      "Liwei Wang",
+      "Tieyan Liu"
+    ],
+    "conference": "iclr",
+    "id": "ad66051a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Representation Degeneration Problem in Training Natural Language Generation Models",
+    "pdf_link": "https://openreview.net/pdf?id=SkEYojRqtm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chandan Singh",
+      "W. James Murdoch",
+      "Bin Yu"
+    ],
+    "conference": "iclr",
+    "id": "9d29ab4f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Hierarchical interpretations for neural network predictions",
+    "pdf_link": "https://openreview.net/pdf?id=SkEqro0ctQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alexandre Sablayrolles",
+      "Matthijs Douze",
+      "Cordelia Schmid",
+      "Herv\u00e9 J\u00e9gou"
+    ],
+    "conference": "iclr",
+    "id": "afd3e203",
+    "metadata": {
+      "words": []
+    },
+    "name": "Spreading vectors for similarity search",
+    "pdf_link": "https://openreview.net/pdf?id=SkGuG2R5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sanjeev Arora",
+      "Nadav Cohen",
+      "Noah Golowich",
+      "Wei Hu"
+    ],
+    "conference": "iclr",
+    "id": "c3074f81",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=SkMQg3C5K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alexander Shekhovtsov",
+      "Boris Flach"
+    ],
+    "conference": "iclr",
+    "id": "71044fd0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Feed-forward Propagation in Probabilistic Neural Networks with Categorical and Max Layers",
+    "pdf_link": "https://openreview.net/pdf?id=SkMuPjRcKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ari Benjamin",
+      "David Rolnick",
+      "Konrad Kording"
+    ],
+    "conference": "iclr",
+    "id": "a2d4e6e5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Measuring and regularizing networks in function space",
+    "pdf_link": "https://openreview.net/pdf?id=SkMwpiR9Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sho Yaida"
+    ],
+    "conference": "iclr",
+    "id": "97fadc49",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fluctuation-dissipation relations for stochastic gradient descent",
+    "pdf_link": "https://openreview.net/pdf?id=SkNksoRctQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alexandru Tifrea*",
+      "Gary Becigneul*",
+      "Octavian-Eugen Ganea*"
+    ],
+    "conference": "iclr",
+    "id": "f2f1d042",
+    "metadata": {
+      "words": []
+    },
+    "name": "Poincare Glove: Hyperbolic Word Embeddings",
+    "pdf_link": "https://openreview.net/pdf?id=Ske5r3AqK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Nikolay Savinov",
+      "Anton Raichuk",
+      "Damien Vincent",
+      "Raphael Marinier",
+      "Marc Pollefeys",
+      "Timothy Lillicrap",
+      "Sylvain Gelly"
+    ],
+    "conference": "iclr",
+    "id": "aedc142d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Episodic Curiosity through Reachability",
+    "pdf_link": "https://openreview.net/pdf?id=SkeK3s0qKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hyeong-Seok Choi",
+      "Jang-Hyun Kim",
+      "Jaesung Huh",
+      "Adrian Kim",
+      "Jung-Woo Ha",
+      "Kyogu Lee"
+    ],
+    "conference": "iclr",
+    "id": "d03325d9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Phase-Aware Speech Enhancement with Deep Complex U-Net",
+    "pdf_link": "https://openreview.net/pdf?id=SkeRTsAcYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yannick Schroecker",
+      "Mel Vecerik",
+      "Jon Scholz"
+    ],
+    "conference": "iclr",
+    "id": "28c3f9e8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generative predecessor models for sample-efficient imitation learning",
+    "pdf_link": "https://openreview.net/pdf?id=SkeVsiAcYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ivan Chelombiev",
+      "Conor Houghton",
+      "Cian O'Donnell"
+    ],
+    "conference": "iclr",
+    "id": "c06c6dea",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Estimators Show Information Compression in Deep Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=SkeZisA5t7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xinyi Wang",
+      "Hieu Pham",
+      "Philip Arthur",
+      "Graham Neubig"
+    ],
+    "conference": "iclr",
+    "id": "8b8c2163",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multilingual Neural Machine Translation With Soft Decoupled Encoding",
+    "pdf_link": "https://openreview.net/pdf?id=Skeke3C5Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wieland Brendel",
+      "Matthias Bethge"
+    ],
+    "conference": "iclr",
+    "id": "78bb4a4d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet",
+    "pdf_link": "https://openreview.net/pdf?id=SkfMWhAqYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chen Tessler",
+      "Daniel J. Mankowitz",
+      "Shie Mannor"
+    ],
+    "conference": "iclr",
+    "id": "ca846f35",
+    "metadata": {
+      "words": []
+    },
+    "name": "Reward Constrained Policy Optimization",
+    "pdf_link": "https://openreview.net/pdf?id=SkfrvsA9FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Stanis\u0142aw Jastrz\u0119bski",
+      "Zachary Kenton",
+      "Nicolas Ballas",
+      "Asja Fischer",
+      "Yoshua Bengio",
+      "Amos Storkey"
+    ],
+    "conference": "iclr",
+    "id": "89a25a5f",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length",
+    "pdf_link": "https://openreview.net/pdf?id=SkgEaj05t7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Nan Rosemary Ke",
+      "Amanpreet Singh",
+      "Ahmed Touati",
+      "Anirudh Goyal",
+      "Yoshua Bengio",
+      "Devi Parikh",
+      "Dhruv Batra"
+    ],
+    "conference": "iclr",
+    "id": "5c8df904",
+    "metadata": {
+      "words": []
+    },
+    "name": "Modeling the Long Term Future in Model-Based Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=SkgQBn0cF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Penghang Yin",
+      "Jiancheng Lyu",
+      "Shuai Zhang",
+      "Stanley Osher",
+      "Yingyong Qi",
+      "Jack Xin"
+    ],
+    "conference": "iclr",
+    "id": "879ad781",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding Straight-Through Estimator in Training Activation Quantized Neural Nets",
+    "pdf_link": "https://openreview.net/pdf?id=Skh4jRcKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Shoichiro Yamaguchi",
+      "Masanori Koyama"
+    ],
+    "conference": "iclr",
+    "id": "cb0d388a",
+    "metadata": {
+      "words": []
+    },
+    "name": "DISTRIBUTIONAL CONCAVITY REGULARIZATION FOR GANS",
+    "pdf_link": "https://openreview.net/pdf?id=SklEEnC5tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Elke Kirschbaum",
+      "Manuel Hau\u00dfmann",
+      "Steffen Wolf",
+      "Hannah Sonntag",
+      "Justus Schneider",
+      "Shehabeldin Elzoheiry",
+      "Oliver Kann",
+      "Daniel Durstewitz",
+      "Fred A Hamprecht"
+    ],
+    "conference": "iclr",
+    "id": "d3c741e0",
+    "metadata": {
+      "words": []
+    },
+    "name": "LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos",
+    "pdf_link": "https://openreview.net/pdf?id=SkloDjAqYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hao Liu",
+      "Alexander Trott",
+      "Richard Socher",
+      "Caiming Xiong"
+    ],
+    "conference": "iclr",
+    "id": "f64b9cde",
+    "metadata": {
+      "words": []
+    },
+    "name": "Competitive experience replay",
+    "pdf_link": "https://openreview.net/pdf?id=Sklsm20ctX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alice Schoenauer-Sebag",
+      "Louise Heinrich",
+      "Marc Schoenauer",
+      "Michele Sebag",
+      "Lani F. Wu",
+      "Steve J. Altschuler"
+    ],
+    "conference": "iclr",
+    "id": "edfe8088",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-Domain Adversarial Learning",
+    "pdf_link": "https://openreview.net/pdf?id=Sklv5iRqYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jonas Rothfuss",
+      "Dennis Lee",
+      "Ignasi Clavera",
+      "Tamim Asfour",
+      "Pieter Abbeel"
+    ],
+    "conference": "iclr",
+    "id": "a1129184",
+    "metadata": {
+      "words": []
+    },
+    "name": "ProMP: Proximal Meta-Policy Search",
+    "pdf_link": "https://openreview.net/pdf?id=SkxXCi0qFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Vitalii Zhelezniak",
+      "Aleksandar Savkov",
+      "April Shen",
+      "Francesco Moramarco",
+      "Jack Flann",
+      "Nils Y. Hammerla"
+    ],
+    "conference": "iclr",
+    "id": "ea98f283",
+    "metadata": {
+      "words": []
+    },
+    "name": "Don't Settle for Average, Go for the Max: Fuzzy Sets and Max-Pooled Word Vectors",
+    "pdf_link": "https://openreview.net/pdf?id=SkxXg2C5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alistair Letcher",
+      "Jakob Foerster",
+      "David Balduzzi",
+      "Tim Rockt\u00e4schel",
+      "Shimon Whiteson"
+    ],
+    "conference": "iclr",
+    "id": "1cdfdf59",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stable Opponent Shaping in Differentiable Games",
+    "pdf_link": "https://openreview.net/pdf?id=SyGjjsC5tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Greg Yang",
+      "Jeffrey Pennington",
+      "Vinay Rao",
+      "Jascha Sohl-Dickstein",
+      "Samuel S. Schoenholz"
+    ],
+    "conference": "iclr",
+    "id": "b6e05cd3",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Mean Field Theory of Batch Normalization",
+    "pdf_link": "https://openreview.net/pdf?id=SyMDXnCcF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tao Chen",
+      "Saurabh Gupta",
+      "Abhinav Gupta"
+    ],
+    "conference": "iclr",
+    "id": "7f7f2683",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Exploration Policies for Navigation",
+    "pdf_link": "https://openreview.net/pdf?id=SyMWn05F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Damian Le\u015bniak",
+      "Igor Sieradzki",
+      "Igor Podolak"
+    ],
+    "conference": "iclr",
+    "id": "1b5235cf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Distribution-Interpolation Trade off in Generative Models",
+    "pdf_link": "https://openreview.net/pdf?id=SyMhLo0qKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yunchao Liu",
+      "Zheng Wu",
+      "Daniel Ritchie",
+      "William T. Freeman",
+      "Joshua B. Tenenbaum",
+      "Jiajun Wu"
+    ],
+    "conference": "iclr",
+    "id": "09938a7f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Describe Scenes with Programs",
+    "pdf_link": "https://openreview.net/pdf?id=SyNPk2R9K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Daniel McDuff",
+      "Ashish Kapoor"
+    ],
+    "conference": "iclr",
+    "id": "935b2024",
+    "metadata": {
+      "words": []
+    },
+    "name": "Visceral Machines: Risk-Aversion in  Reinforcement Learning with Intrinsic Physiological Rewards",
+    "pdf_link": "https://openreview.net/pdf?id=SyNvti09KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Leonard Berrada",
+      "Andrew Zisserman",
+      "M. Pawan Kumar"
+    ],
+    "conference": "iclr",
+    "id": "da85adb1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Frank-Wolfe For Neural Network Optimization",
+    "pdf_link": "https://openreview.net/pdf?id=SyVU6s05K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yanbin Liu",
+      "Juho Lee",
+      "Minseop Park",
+      "Saehoon Kim",
+      "Eunho Yang",
+      "Sung Ju Hwang",
+      "Yi Yang"
+    ],
+    "conference": "iclr",
+    "id": "07fe7990",
+    "metadata": {
+      "words": []
+    },
+    "name": "LEARNING TO PROPAGATE LABELS: TRANSDUCTIVE PROPAGATION NETWORK FOR FEW-SHOT LEARNING",
+    "pdf_link": "https://openreview.net/pdf?id=SyVuRiC5K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chuanbiao Song",
+      "Kun He",
+      "Liwei Wang",
+      "John E. Hopcroft"
+    ],
+    "conference": "iclr",
+    "id": "2e3b8fe6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving the Generalization of Adversarial Training with Domain Adaptation",
+    "pdf_link": "https://openreview.net/pdf?id=SyfIfnC5Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Marc T Law",
+      "Jake Snell",
+      "Amir-massoud Farahmand",
+      "Raquel Urtasun",
+      "Richard S Zemel"
+    ],
+    "conference": "iclr",
+    "id": "b3a55b05",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dimensionality Reduction for Representing the Knowledge of Probabilistic Models",
+    "pdf_link": "https://openreview.net/pdf?id=SygD-hCcF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tristan Bepler",
+      "Bonnie Berger"
+    ],
+    "conference": "iclr",
+    "id": "85b94f07",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning protein sequence embeddings using information from structure",
+    "pdf_link": "https://openreview.net/pdf?id=SygLehCqtm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Lingpeng Kong",
+      "Gabor Melis",
+      "Wang Ling",
+      "Lei Yu",
+      "Dani Yogatama"
+    ],
+    "conference": "iclr",
+    "id": "52d59f91",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variational Smoothing in Recurrent Neural Network Language Models",
+    "pdf_link": "https://openreview.net/pdf?id=SygQvs0cFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Will Xiao",
+      "Honglin Chen",
+      "Qianli Liao",
+      "Tomaso Poggio"
+    ],
+    "conference": "iclr",
+    "id": "663073d6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Biologically-Plausible Learning Algorithms Can Scale to Large Datasets",
+    "pdf_link": "https://openreview.net/pdf?id=SygvZ209F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Victor Zhong",
+      "Caiming Xiong",
+      "Nitish Shirish Keskar",
+      "Richard Socher"
+    ],
+    "conference": "iclr",
+    "id": "a99d74f1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering",
+    "pdf_link": "https://openreview.net/pdf?id=Syl7OsRqY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xujie Si",
+      "Yuan Yang",
+      "Hanjun Dai",
+      "Mayur Naik",
+      "Le Song"
+    ],
+    "conference": "iclr",
+    "id": "ed1d017d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning a Meta-Solver for Syntax-Guided Program Synthesis",
+    "pdf_link": "https://openreview.net/pdf?id=Syl8Sn0cK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Guang-He Lee",
+      "David Alvarez-Melis",
+      "Tommi S. Jaakkola"
+    ],
+    "conference": "iclr",
+    "id": "b4886e26",
+    "metadata": {
+      "words": []
+    },
+    "name": "Towards Robust, Locally Linear Deep Networks",
+    "pdf_link": "https://openreview.net/pdf?id=SylCrnCcFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kedar Dhamdhere",
+      "Mukund Sundararajan",
+      "Qiqi Yan"
+    ],
+    "conference": "iclr",
+    "id": "3db1d2b0",
+    "metadata": {
+      "words": []
+    },
+    "name": "How Important is a Neuron",
+    "pdf_link": "https://openreview.net/pdf?id=SylKoo0cKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Felix Hill",
+      "Adam Santoro",
+      "David Barrett",
+      "Ari Morcos",
+      "Timothy Lillicrap"
+    ],
+    "conference": "iclr",
+    "id": "206046ca",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Make Analogies by Contrasting Abstract Relational Structure",
+    "pdf_link": "https://openreview.net/pdf?id=SylLYsCcFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Oleh Rybkin",
+      "Karl Pertsch",
+      "Konstantinos G. Derpanis",
+      "Kostas Daniilidis",
+      "Andrew Jaegle"
+    ],
+    "conference": "iclr",
+    "id": "fce263da",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning what you can do before doing anything",
+    "pdf_link": "https://openreview.net/pdf?id=SylPMnR9Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ruiqi Gao",
+      "Jianwen Xie",
+      "Song-Chun Zhu",
+      "Ying Nian Wu"
+    ],
+    "conference": "iclr",
+    "id": "d9141630",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Grid Cells as Vector Representation of Self-Position Coupled with Matrix Representation of Self-Motion",
+    "pdf_link": "https://openreview.net/pdf?id=Syx0Mh05YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Zaiyi Chen",
+      "Zhuoning Yuan",
+      "Jinfeng Yi",
+      "Bowen Zhou",
+      "Enhong Chen",
+      "Tianbao Yang"
+    ],
+    "conference": "iclr",
+    "id": "53e5406e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Universal  Stagewise Learning for Non-Convex Problems with  Convergence on  Averaged Solutions",
+    "pdf_link": "https://openreview.net/pdf?id=Syx5V2CcFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Haggai Maron",
+      "Heli Ben-Hamu",
+      "Nadav Shamir",
+      "Yaron Lipman"
+    ],
+    "conference": "iclr",
+    "id": "fe884f44",
+    "metadata": {
+      "words": []
+    },
+    "name": "Invariant and Equivariant Graph Networks",
+    "pdf_link": "https://openreview.net/pdf?id=Syx72jC9tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Dimitris Tsipras",
+      "Shibani Santurkar",
+      "Logan Engstrom",
+      "Alexander Turner",
+      "Aleksander Madry"
+    ],
+    "conference": "iclr",
+    "id": "77f89308",
+    "metadata": {
+      "words": []
+    },
+    "name": "Robustness May Be at Odds with Accuracy",
+    "pdf_link": "https://openreview.net/pdf?id=SyxAb30cY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hongyang Li",
+      "Bo Dai",
+      "Shaoshuai Shi",
+      "Wanli Ouyang",
+      "Xiaogang Wang"
+    ],
+    "conference": "iclr",
+    "id": "b342d66e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Feature Intertwiner for Object Detection",
+    "pdf_link": "https://openreview.net/pdf?id=SyxZJn05YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Gamaleldin F. Elsayed",
+      "Ian Goodfellow",
+      "Jascha Sohl-Dickstein"
+    ],
+    "conference": "iclr",
+    "id": "ccd63a59",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Reprogramming of Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=Syx_Ss05tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Qi Meng",
+      "Shuxin Zheng",
+      "Huishuai Zhang",
+      "Wei Chen",
+      "Qiwei Ye",
+      "Zhi-Ming Ma",
+      "Nenghai Yu",
+      "Tie-Yan Liu"
+    ],
+    "conference": "iclr",
+    "id": "36e5c47f",
+    "metadata": {
+      "words": []
+    },
+    "name": "G-SGD: Optimizing ReLU Neural Networks in its Positively Scale-Invariant Space",
+    "pdf_link": "https://openreview.net/pdf?id=SyxfEn09Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Randall Balestriero",
+      "Richard Baraniuk"
+    ],
+    "conference": "iclr",
+    "id": "f5d6debd",
+    "metadata": {
+      "words": []
+    },
+    "name": "From Hard to Soft: Understanding Deep Network Nonlinearities via Vector Quantization and Statistical Inference",
+    "pdf_link": "https://openreview.net/pdf?id=Syxt2jC5FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "James Lucas",
+      "Shengyang Sun",
+      "Richard Zemel",
+      "Roger  Grosse"
+    ],
+    "conference": "iclr",
+    "id": "e5e67f3c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Aggregated Momentum: Stability Through Passive Damping",
+    "pdf_link": "https://openreview.net/pdf?id=Syxt5oC5YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Oleg Ivanov",
+      "Michael Figurnov",
+      "Dmitry Vetrov"
+    ],
+    "conference": "iclr",
+    "id": "ba817d9f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variational Autoencoder with Arbitrary Conditioning",
+    "pdf_link": "https://openreview.net/pdf?id=SyxtJh0qYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Dinesh Jayaraman",
+      "Frederik Ebert",
+      "Alexei Efros",
+      "Sergey Levine"
+    ],
+    "conference": "iclr",
+    "id": "eb2c6e81",
+    "metadata": {
+      "words": []
+    },
+    "name": "Time-Agnostic Prediction: Predicting Predictable Video Frames",
+    "pdf_link": "https://openreview.net/pdf?id=SyzVb3CcFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Akhilesh Gotmare",
+      "Nitish Shirish Keskar",
+      "Caiming Xiong",
+      "Richard Socher"
+    ],
+    "conference": "iclr",
+    "id": "0d032cd1",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Closer Look at Deep Learning Heuristics: Learning rate restarts, Warmup and Distillation",
+    "pdf_link": "https://openreview.net/pdf?id=r14EOsCqKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chih-Yao Ma",
+      "Jiasen Lu",
+      "Zuxuan Wu",
+      "Ghassan AlRegib",
+      "Zsolt Kira",
+      "Richard Socher",
+      "Caiming Xiong"
+    ],
+    "conference": "iclr",
+    "id": "dc1cee95",
+    "metadata": {
+      "words": []
+    },
+    "name": "Self-Monitoring Navigation Agent via Auxiliary Progress Estimation",
+    "pdf_link": "https://openreview.net/pdf?id=r1GAsjC5Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wei-Cheng Chang",
+      "Chun-Liang Li",
+      "Yiming Yang",
+      "Barnab\u00e1s P\u00f3czos"
+    ],
+    "conference": "iclr",
+    "id": "2710dd70",
+    "metadata": {
+      "words": []
+    },
+    "name": "Kernel Change-point Detection with Auxiliary Deep Generative Models",
+    "pdf_link": "https://openreview.net/pdf?id=r1GbfhRqF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kyle Hsu",
+      "Sergey Levine",
+      "Chelsea Finn"
+    ],
+    "conference": "iclr",
+    "id": "72e3737e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Learning via Meta-Learning",
+    "pdf_link": "https://openreview.net/pdf?id=r1My6sR9tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Raza Habib",
+      "David Barber"
+    ],
+    "conference": "iclr",
+    "id": "30d65576",
+    "metadata": {
+      "words": []
+    },
+    "name": "Auxiliary Variational MCMC",
+    "pdf_link": "https://openreview.net/pdf?id=r1NJqsRctX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alon Jacovi",
+      "Guy Hadash",
+      "Einat Kermany",
+      "Boaz Carmeli",
+      "Ofer Lavi",
+      "George Kour",
+      "Jonathan Berant"
+    ],
+    "conference": "iclr",
+    "id": "a23d10df",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural network gradient-based learning of black-box function interfaces",
+    "pdf_link": "https://openreview.net/pdf?id=r1e13s05YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Matthew Mackay",
+      "Paul Vicol",
+      "Jonathan Lorraine",
+      "David Duvenaud",
+      "Roger Grosse"
+    ],
+    "conference": "iclr",
+    "id": "a766410d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Self-Tuning Networks: Bilevel Optimization of Hyperparameters using Structured Best-Response Functions",
+    "pdf_link": "https://openreview.net/pdf?id=r1eEG20qKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "David Warde-Farley",
+      "Tom Van de Wiele",
+      "Tejas Kulkarni",
+      "Catalin Ionescu",
+      "Steven Hansen",
+      "Volodymyr Mnih"
+    ],
+    "conference": "iclr",
+    "id": "26112def",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Control Through Non-Parametric Discriminative Rewards",
+    "pdf_link": "https://openreview.net/pdf?id=r1eVMnA9K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Satya Narayan Shukla",
+      "Benjamin Marlin"
+    ],
+    "conference": "iclr",
+    "id": "9f909993",
+    "metadata": {
+      "words": []
+    },
+    "name": "Interpolation-Prediction Networks for Irregularly Sampled Time Series",
+    "pdf_link": "https://openreview.net/pdf?id=r1efr3C9Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Gary Becigneul",
+      "Octavian-Eugen Ganea"
+    ],
+    "conference": "iclr",
+    "id": "20443b73",
+    "metadata": {
+      "words": []
+    },
+    "name": "Riemannian Adaptive Optimization Methods",
+    "pdf_link": "https://openreview.net/pdf?id=r1eiqi09K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Marton Havasi",
+      "Robert Peharz",
+      "Jos\u00e9 Miguel Hern\u00e1ndez-Lobato"
+    ],
+    "conference": "iclr",
+    "id": "e2c76ecc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters",
+    "pdf_link": "https://openreview.net/pdf?id=r1f0YiCctm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Zhuolin Yang",
+      "Bo Li",
+      "Pin-Yu Chen",
+      "Dawn Song"
+    ],
+    "conference": "iclr",
+    "id": "012cf502",
+    "metadata": {
+      "words": []
+    },
+    "name": "Characterizing Audio Adversarial Examples Using Temporal Dependency",
+    "pdf_link": "https://openreview.net/pdf?id=r1g4E3C9t7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Pierre Stock",
+      "Benjamin Graham",
+      "R\u00e9mi Gribonval",
+      "Herv\u00e9 J\u00e9gou"
+    ],
+    "conference": "iclr",
+    "id": "14ea797c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Equi-normalization of Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=r1gEqiC9FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Valentin Khrulkov",
+      "Oleksii Hrinchuk",
+      "Ivan Oseledets"
+    ],
+    "conference": "iclr",
+    "id": "8e9c680a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generalized Tensor Models for Recurrent Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=r1gNni0qtm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Emily Dinan",
+      "Stephen Roller",
+      "Kurt Shuster",
+      "Angela Fan",
+      "Michael Auli",
+      "Jason Weston"
+    ],
+    "conference": "iclr",
+    "id": "9f8bc2f4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Wizard of Wikipedia: Knowledge-Powered Conversational Agents",
+    "pdf_link": "https://openreview.net/pdf?id=r1l73iRqKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ali Shafahi",
+      "W. Ronny Huang",
+      "Christoph Studer",
+      "Soheil Feizi",
+      "Tom Goldstein"
+    ],
+    "conference": "iclr",
+    "id": "982cf0a5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Are adversarial examples inevitable?",
+    "pdf_link": "https://openreview.net/pdf?id=r1lWUoA9FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Gauthier Gidel",
+      "Hugo Berard",
+      "Ga\u00ebtan Vignoud",
+      "Pascal Vincent",
+      "Simon Lacoste-Julien"
+    ],
+    "conference": "iclr",
+    "id": "47e61032",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Variational Inequality Perspective on Generative Adversarial Networks",
+    "pdf_link": "https://openreview.net/pdf?id=r1laEnA5Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chen-Yu Hsu",
+      "Piotr Indyk",
+      "Dina Katabi",
+      "Ali Vakilian"
+    ],
+    "conference": "iclr",
+    "id": "0d80f885",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning-Based Frequency Estimation Algorithms",
+    "pdf_link": "https://openreview.net/pdf?id=r1lohoCqY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Justin Fu",
+      "Anoop Korattikara",
+      "Sergey Levine",
+      "Sergio Guadarrama"
+    ],
+    "conference": "iclr",
+    "id": "23c8abd3",
+    "metadata": {
+      "words": []
+    },
+    "name": "From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following",
+    "pdf_link": "https://openreview.net/pdf?id=r1lq1hRqYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Thomas Miconi",
+      "Aditya Rawal",
+      "Jeff Clune",
+      "Kenneth O. Stanley"
+    ],
+    "conference": "iclr",
+    "id": "2b271a33",
+    "metadata": {
+      "words": []
+    },
+    "name": "Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity",
+    "pdf_link": "https://openreview.net/pdf?id=r1lrAiA5Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Steven Kapturowski",
+      "Georg Ostrovski",
+      "John Quan",
+      "Remi Munos",
+      "Will Dabney"
+    ],
+    "conference": "iclr",
+    "id": "d0e9434c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Recurrent Experience Replay in Distributed Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=r1lyTjAqYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "John Bradshaw",
+      "Matt J. Kusner",
+      "Brooks Paige",
+      "Marwin H. S. Segler",
+      "Jos\u00e9 Miguel Hern\u00e1ndez-Lobato"
+    ],
+    "conference": "iclr",
+    "id": "c4b40ffd",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Generative Model For Electron Paths",
+    "pdf_link": "https://openreview.net/pdf?id=r1x4BnCqKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Seong Joon Oh",
+      "Kevin P. Murphy",
+      "Jiyan Pan",
+      "Joseph Roth",
+      "Florian Schroff",
+      "Andrew C. Gallagher"
+    ],
+    "conference": "iclr",
+    "id": "7cdaa32a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Modeling Uncertainty with Hedged Instance Embeddings",
+    "pdf_link": "https://openreview.net/pdf?id=r1xQQhAqKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ray Jiang",
+      "Sven Gowal",
+      "Yuqiu Qian",
+      "Timothy Mann",
+      "Danilo J. Rezende"
+    ],
+    "conference": "iclr",
+    "id": "fcd9ea42",
+    "metadata": {
+      "words": []
+    },
+    "name": "Beyond Greedy Ranking: Slate Optimization via List-CVAE",
+    "pdf_link": "https://openreview.net/pdf?id=r1xX42R5Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chen Sun",
+      "Per Karlsson",
+      "Jiajun Wu",
+      "Joshua B Tenenbaum",
+      "Kevin Murphy"
+    ],
+    "conference": "iclr",
+    "id": "4b9bd8a7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Prediction of Multi-Agent Interactions from Partial Observations",
+    "pdf_link": "https://openreview.net/pdf?id=r1xdH3CcKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Daniel Huang",
+      "Prafulla Dhariwal",
+      "Dawn Song",
+      "Ilya Sutskever"
+    ],
+    "conference": "iclr",
+    "id": "321ea622",
+    "metadata": {
+      "words": []
+    },
+    "name": "GamePad: A Learning Environment for Theorem Proving",
+    "pdf_link": "https://openreview.net/pdf?id=r1xwKoR9Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Alex Wang",
+      "Amanpreet Singh",
+      "Julian Michael",
+      "Felix Hill",
+      "Omer Levy",
+      "Samuel R. Bowman"
+    ],
+    "conference": "iclr",
+    "id": "d963fecc",
+    "metadata": {
+      "words": []
+    },
+    "name": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+    "pdf_link": "https://openreview.net/pdf?id=rJ4km2R5t7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Haoming Jiang",
+      "Zhehui Chen",
+      "Minshuo Chen",
+      "Feng Liu",
+      "Dingding Wang",
+      "Tuo Zhao"
+    ],
+    "conference": "iclr",
+    "id": "72a8c7ad",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Computation and Generalization of Generative Adversarial Networks under Spectrum Control",
+    "pdf_link": "https://openreview.net/pdf?id=rJNH6sAqY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yuri Burda",
+      "Harri Edwards",
+      "Deepak Pathak",
+      "Amos Storkey",
+      "Trevor Darrell",
+      "Alexei A. Efros"
+    ],
+    "conference": "iclr",
+    "id": "dd35beeb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Large-Scale Study of Curiosity-Driven Learning",
+    "pdf_link": "https://openreview.net/pdf?id=rJNwDjAqYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Zhenjia Xu",
+      "Zhijian Liu",
+      "Chen Sun",
+      "Kevin Murphy",
+      "William T. Freeman",
+      "Joshua B. Tenenbaum",
+      "Jiajun Wu"
+    ],
+    "conference": "iclr",
+    "id": "46a165b9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Discovery of Parts, Structure, and Dynamics",
+    "pdf_link": "https://openreview.net/pdf?id=rJe10iC5K7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Cheng-Zhi Anna Huang",
+      "Ashish Vaswani",
+      "Jakob Uszkoreit",
+      "Ian Simon",
+      "Curtis Hawthorne",
+      "Noam Shazeer",
+      "Andrew M. Dai",
+      "Matthew D. Hoffman",
+      "Monica Dinculescu",
+      "Douglas Eck"
+    ],
+    "conference": "iclr",
+    "id": "ec73f341",
+    "metadata": {
+      "words": []
+    },
+    "name": "Music Transformer: Generating Music with Long-Term Structure",
+    "pdf_link": "https://openreview.net/pdf?id=rJe4ShAcF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Maxime Chevalier-Boisvert",
+      "Dzmitry Bahdanau",
+      "Salem Lahlou",
+      "Lucas Willems",
+      "Chitwan Saharia",
+      "Thien Huu Nguyen",
+      "Yoshua Bengio"
+    ],
+    "conference": "iclr",
+    "id": "f9b4d668",
+    "metadata": {
+      "words": []
+    },
+    "name": "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning",
+    "pdf_link": "https://openreview.net/pdf?id=rJeXCo0cYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Lynton Ardizzone",
+      "Jakob Kruse",
+      "Carsten Rother",
+      "Ullrich K\u00f6the"
+    ],
+    "conference": "iclr",
+    "id": "66981e8a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Analyzing Inverse Problems with Invertible Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=rJed6j0cKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Weili Nie",
+      "Nina Narodytska",
+      "Ankit Patel"
+    ],
+    "conference": "iclr",
+    "id": "2503a211",
+    "metadata": {
+      "words": []
+    },
+    "name": "RelGAN: Relational Generative Adversarial Networks for Text Generation",
+    "pdf_link": "https://openreview.net/pdf?id=rJedV3R5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Hanie Sedghi",
+      "Vineet Gupta",
+      "Philip M. Long"
+    ],
+    "conference": "iclr",
+    "id": "4e8c64d9",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Singular Values of Convolutional Layers",
+    "pdf_link": "https://openreview.net/pdf?id=rJevYoA9Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Milad Alizadeh",
+      "Javier Fern\u00e1ndez-Marqu\u00e9s",
+      "Nicholas D. Lane",
+      "Yarin Gal"
+    ],
+    "conference": "iclr",
+    "id": "067f4332",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Empirical study of Binary Neural Networks' Optimisation",
+    "pdf_link": "https://openreview.net/pdf?id=rJfUCoR5KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yu Bai",
+      "Tengyu Ma",
+      "Andrej Risteski"
+    ],
+    "conference": "iclr",
+    "id": "3a713246",
+    "metadata": {
+      "words": []
+    },
+    "name": "Approximability of Discriminators Implies Diversity in GANs",
+    "pdf_link": "https://openreview.net/pdf?id=rJfW5oA5KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Charlie Frogner",
+      "Farzaneh Mirzazadeh",
+      "Justin Solomon"
+    ],
+    "conference": "iclr",
+    "id": "1646d527",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Embeddings into Entropic Wasserstein Spaces",
+    "pdf_link": "https://openreview.net/pdf?id=rJg4J3CqFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Frank Schneider",
+      "Lukas Balles",
+      "Philipp Hennig"
+    ],
+    "conference": "iclr",
+    "id": "787067ea",
+    "metadata": {
+      "words": []
+    },
+    "name": "DeepOBS: A Deep Learning Optimizer Benchmark Suite",
+    "pdf_link": "https://openreview.net/pdf?id=rJg6ssC5Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Anirudh Goyal",
+      "Riashat Islam",
+      "DJ Strouse",
+      "Zafarali Ahmed",
+      "Hugo Larochelle",
+      "Matthew Botvinick",
+      "Yoshua Bengio",
+      "Sergey Levine"
+    ],
+    "conference": "iclr",
+    "id": "5a06f24c",
+    "metadata": {
+      "words": []
+    },
+    "name": "InfoBot: Transfer and Exploration via the Information Bottleneck",
+    "pdf_link": "https://openreview.net/pdf?id=rJg8yhAqKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Frederic Koehler",
+      "Andrej Risteski"
+    ],
+    "conference": "iclr",
+    "id": "f191be10",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Comparative Power of ReLU Networks and Polynomial Kernels in the Presence of Sparse Latent Structure",
+    "pdf_link": "https://openreview.net/pdf?id=rJgTTjA9tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Pedro Savarese",
+      "Michael Maire"
+    ],
+    "conference": "iclr",
+    "id": "41f9f444",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Implicitly Recurrent CNNs Through Parameter Sharing",
+    "pdf_link": "https://openreview.net/pdf?id=rJgYxn09Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yunzhu Li",
+      "Jiajun Wu",
+      "Russ Tedrake",
+      "Joshua B. Tenenbaum",
+      "Antonio Torralba"
+    ],
+    "conference": "iclr",
+    "id": "13349b25",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids",
+    "pdf_link": "https://openreview.net/pdf?id=rJgbSn09Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kamyar Azizzadenesheli",
+      "Anqi Liu",
+      "Fanny Yang",
+      "Animashree Anandkumar"
+    ],
+    "conference": "iclr",
+    "id": "3f397d9b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Regularized Learning for  Domain Adaptation under Label Shifts",
+    "pdf_link": "https://openreview.net/pdf?id=rJl0r3R9KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sachin Kumar",
+      "Yulia Tsvetkov"
+    ],
+    "conference": "iclr",
+    "id": "d9714c1c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs",
+    "pdf_link": "https://openreview.net/pdf?id=rJlDnoA5Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Andrea Tacchetti",
+      "H. Francis Song",
+      "Pedro A. M. Mediano",
+      "Vinicius Zambaldi",
+      "J\u00e1nos Kram\u00e1r",
+      "Neil C. Rabinowitz",
+      "Thore Graepel",
+      "Matthew Botvinick",
+      "Peter W. Battaglia"
+    ],
+    "conference": "iclr",
+    "id": "d403d305",
+    "metadata": {
+      "words": []
+    },
+    "name": "Relational Forward Models for Multi-Agent Learning",
+    "pdf_link": "https://openreview.net/pdf?id=rJlEojAqFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Tiansi Dong",
+      "Chrisitan Bauckhage",
+      "Hailong Jin",
+      "Juanzi Li",
+      "Olaf Cremers",
+      "Daniel Speicher",
+      "Armin B. Cremers",
+      "Joerg Zimmermann"
+    ],
+    "conference": "iclr",
+    "id": "a7e1c70d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Imposing Category Trees Onto Word-Embeddings Using A Geometric Construction",
+    "pdf_link": "https://openreview.net/pdf?id=rJlWOj0qF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wesley Chung",
+      "Somjit Nath",
+      "Ajin Joseph",
+      "Martha White"
+    ],
+    "conference": "iclr",
+    "id": "2b31b493",
+    "metadata": {
+      "words": []
+    },
+    "name": "Two-Timescale Networks for Nonlinear Value Function Approximation",
+    "pdf_link": "https://openreview.net/pdf?id=rJleN20qK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Dingdong Yang",
+      "Seunghoon Hong",
+      "Yunseok Jang",
+      "Tianchen Zhao",
+      "Honglak Lee"
+    ],
+    "conference": "iclr",
+    "id": "0a2b0a78",
+    "metadata": {
+      "words": []
+    },
+    "name": "Diversity-Sensitive Conditional Generative Adversarial Networks",
+    "pdf_link": "https://openreview.net/pdf?id=rJliMh09F7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Minhao Cheng",
+      "Thong Le",
+      "Pin-Yu Chen",
+      "Huan Zhang",
+      "JinFeng Yi",
+      "Cho-Jui Hsieh"
+    ],
+    "conference": "iclr",
+    "id": "8c77e0a1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach",
+    "pdf_link": "https://openreview.net/pdf?id=rJlk6iRqKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Zhuang Liu",
+      "Mingjie Sun",
+      "Tinghui Zhou",
+      "Gao Huang",
+      "Trevor Darrell"
+    ],
+    "conference": "iclr",
+    "id": "e154391f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Rethinking the Value of Network Pruning",
+    "pdf_link": "https://openreview.net/pdf?id=rJlnB3C5Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Caglar Gulcehre",
+      "Misha Denil",
+      "Mateusz Malinowski",
+      "Ali Razavi",
+      "Razvan Pascanu",
+      "Karl Moritz Hermann",
+      "Peter Battaglia",
+      "Victor Bapst",
+      "David Raposo",
+      "Adam Santoro"
+    ],
+    "conference": "iclr",
+    "id": "a2769401",
+    "metadata": {
+      "words": []
+    },
+    "name": "Hyperbolic Attention Networks",
+    "pdf_link": "https://openreview.net/pdf?id=rJxHsjRqFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Masahiro Kato",
+      "Takeshi Teshima",
+      "Junya Honda"
+    ],
+    "conference": "iclr",
+    "id": "f5924d1f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning from Positive and Unlabeled Data with a Selection Bias",
+    "pdf_link": "https://openreview.net/pdf?id=rJzLciCqKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xuanqing Liu",
+      "Yao Li",
+      "Chongruo Wu",
+      "Cho-Jui Hsieh"
+    ],
+    "conference": "iclr",
+    "id": "8cedcbdf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network",
+    "pdf_link": "https://openreview.net/pdf?id=rk4Qso0cKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sara Sabour",
+      "William Chan",
+      "Mohammad Norouzi"
+    ],
+    "conference": "iclr",
+    "id": "676902bd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Optimal Completion Distillation for Sequence Learning",
+    "pdf_link": "https://openreview.net/pdf?id=rkMW1hRqKX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Artemy Kolchinsky",
+      "Brendan D. Tracey",
+      "Steven Van Kuyk"
+    ],
+    "conference": "iclr",
+    "id": "1493c68f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Caveats for information bottleneck in deterministic scenarios",
+    "pdf_link": "https://openreview.net/pdf?id=rke4HiAcY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Min Liu",
+      "Fupin Yao",
+      "Chiho Choi",
+      "Ayan Sinha",
+      "Karthik Ramani"
+    ],
+    "conference": "iclr",
+    "id": "6328f87d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Learning 3D Shapes Using Alt-az Anisotropic 2-Sphere Convolution",
+    "pdf_link": "https://openreview.net/pdf?id=rkeSiiA5Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chulhee Yun",
+      "Suvrit Sra",
+      "Ali Jadbabaie"
+    ],
+    "conference": "iclr",
+    "id": "115012ff",
+    "metadata": {
+      "words": []
+    },
+    "name": "Small nonlinearities in activation functions create bad local minima in neural networks",
+    "pdf_link": "https://openreview.net/pdf?id=rke_YiRct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Luis A. Lastras-Monta\u00f1o"
+    ],
+    "conference": "iclr",
+    "id": "afcd21cf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Information Theoretic lower bounds on negative log likelihood",
+    "pdf_link": "https://openreview.net/pdf?id=rkemqsC9Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Rohin Shah",
+      "Dmitrii Krasheninnikov",
+      "Jordan Alexander",
+      "Pieter Abbeel",
+      "Anca Dragan"
+    ],
+    "conference": "iclr",
+    "id": "6f62ec1b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Preferences Implicit in the State of the World",
+    "pdf_link": "https://openreview.net/pdf?id=rkevMnRqYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Mohamed El Amine Seddik",
+      "Mohamed Tamaazousti",
+      "Romain Couillet"
+    ],
+    "conference": "iclr",
+    "id": "f496feff",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Kernel Random Matrix-Based Approach for Sparse PCA",
+    "pdf_link": "https://openreview.net/pdf?id=rkgBHoCqYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Apratim Bhattacharyya",
+      "Mario Fritz",
+      "Bernt Schiele"
+    ],
+    "conference": "iclr",
+    "id": "75ecffec",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bayesian Prediction of Future Street Scenes using Synthetic Likelihoods",
+    "pdf_link": "https://openreview.net/pdf?id=rkgK3oC5Fm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ben Athiwaratkun",
+      "Marc Finzi",
+      "Pavel Izmailov",
+      "Andrew Gordon Wilson"
+    ],
+    "conference": "iclr",
+    "id": "35c24175",
+    "metadata": {
+      "words": []
+    },
+    "name": "There Are Many Consistent Explanations of Unlabeled Data: Why You Should Average",
+    "pdf_link": "https://openreview.net/pdf?id=rkgKBhA5Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sang-Woo Lee",
+      "Tong Gao",
+      "Sohee Yang",
+      "Jaejun Yoo",
+      "Jung-Woo Ha"
+    ],
+    "conference": "iclr",
+    "id": "f13dfe2e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation",
+    "pdf_link": "https://openreview.net/pdf?id=rkgT3jRct7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chris Zhang",
+      "Mengye Ren",
+      "Raquel Urtasun"
+    ],
+    "conference": "iclr",
+    "id": "68ca629d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Graph HyperNetworks for Neural Architecture Search",
+    "pdf_link": "https://openreview.net/pdf?id=rkgW0oA9FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Xingjian Li",
+      "Haoyi Xiong",
+      "Hanchao Wang",
+      "Yuxuan Rao",
+      "Liping Liu",
+      "Jun Huan"
+    ],
+    "conference": "iclr",
+    "id": "aef4ea9c",
+    "metadata": {
+      "words": []
+    },
+    "name": "DELTA: DEEP LEARNING TRANSFER USING FEATURE MAP WITH ATTENTION FOR CONVOLUTIONAL NETWORKS",
+    "pdf_link": "https://openreview.net/pdf?id=rkgbwsAcYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Pankaj Gupta",
+      "Yatin Chaudhary",
+      "Florian Buettner",
+      "Hinrich Schuetze"
+    ],
+    "conference": "iclr",
+    "id": "bd82a570",
+    "metadata": {
+      "words": []
+    },
+    "name": "textTOvec: DEEP CONTEXTUALIZED NEURAL AUTOREGRESSIVE TOPIC MODELS OF LANGUAGE WITH DISTRIBUTED COMPOSITIONAL PRIOR",
+    "pdf_link": "https://openreview.net/pdf?id=rkgoyn09KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sachin Ravi",
+      "Alex Beatson"
+    ],
+    "conference": "iclr",
+    "id": "6b396330",
+    "metadata": {
+      "words": []
+    },
+    "name": "Amortized Bayesian Meta-Learning",
+    "pdf_link": "https://openreview.net/pdf?id=rkgpy3C5tX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ying Wen",
+      "Yaodong Yang",
+      "Rui Luo",
+      "Jun Wang",
+      "Wei Pan"
+    ],
+    "conference": "iclr",
+    "id": "5f3afdae",
+    "metadata": {
+      "words": []
+    },
+    "name": "Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning",
+    "pdf_link": "https://openreview.net/pdf?id=rkl6As0cF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jun-Ting Hsieh",
+      "Shengjia Zhao",
+      "Stephan Eismann",
+      "Lucia Mirabella",
+      "Stefano Ermon"
+    ],
+    "conference": "iclr",
+    "id": "fd513672",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Neural PDE Solvers with Convergence Guarantees",
+    "pdf_link": "https://openreview.net/pdf?id=rklaWn0qK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Weiwei Kong",
+      "Christopher Liaw",
+      "Aranyak Mehta",
+      "D. Sivakumar"
+    ],
+    "conference": "iclr",
+    "id": "e1d67eba",
+    "metadata": {
+      "words": []
+    },
+    "name": "A new dog learns old tricks:  RL finds classic optimization algorithms",
+    "pdf_link": "https://openreview.net/pdf?id=rkluJ2R9KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Petar Veli\u010dkovi\u0107",
+      "William Fedus",
+      "William L. Hamilton",
+      "Pietro Li\u00f2",
+      "Yoshua Bengio",
+      "R Devon Hjelm"
+    ],
+    "conference": "iclr",
+    "id": "b75bf4fc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Graph Infomax",
+    "pdf_link": "https://openreview.net/pdf?id=rklz9iAcKQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sanjeev Arora",
+      "Zhiyuan Li",
+      "Kaifeng Lyu"
+    ],
+    "conference": "iclr",
+    "id": "98b14813",
+    "metadata": {
+      "words": []
+    },
+    "name": "Theoretical Analysis of Auto Rate-Tuning by Batch Normalization",
+    "pdf_link": "https://openreview.net/pdf?id=rkxQ-nA9FX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Charbel Sakr",
+      "Naresh Shanbhag"
+    ],
+    "conference": "iclr",
+    "id": "fd9d1774",
+    "metadata": {
+      "words": []
+    },
+    "name": "Per-Tensor Fixed-Point Quantization of the Back-Propagation Algorithm",
+    "pdf_link": "https://openreview.net/pdf?id=rkxaNjA9Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Shengyang Sun",
+      "Guodong Zhang",
+      "Jiaxin Shi",
+      "Roger Grosse"
+    ],
+    "conference": "iclr",
+    "id": "84245034",
+    "metadata": {
+      "words": []
+    },
+    "name": "FUNCTIONAL VARIATIONAL BAYESIAN NEURAL NETWORKS",
+    "pdf_link": "https://openreview.net/pdf?id=rkxacs0qY7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sirui Xie",
+      "Junning Huang",
+      "Lanxin Lei",
+      "Chunxiao Liu",
+      "Zheng Ma",
+      "Wei Zhang",
+      "Liang Lin"
+    ],
+    "conference": "iclr",
+    "id": "6195de03",
+    "metadata": {
+      "words": []
+    },
+    "name": "NADPEx: An on-policy temporally consistent exploration method for deep reinforcement learning",
+    "pdf_link": "https://openreview.net/pdf?id=rkxciiC9tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kuan-Hui Lee",
+      "German Ros",
+      "Jie Li",
+      "Adrien Gaidon"
+    ],
+    "conference": "iclr",
+    "id": "864cb63d",
+    "metadata": {
+      "words": []
+    },
+    "name": "SPIGAN: Privileged Adversarial Learning from Simulation",
+    "pdf_link": "https://openreview.net/pdf?id=rkxoNnC5FQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Eric Zhan",
+      "Stephan Zheng",
+      "Yisong Yue",
+      "Long Sha",
+      "Patrick Lucey"
+    ],
+    "conference": "iclr",
+    "id": "0e8c52fa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generating Multi-Agent Trajectories using Programmatic Weak Supervision",
+    "pdf_link": "https://openreview.net/pdf?id=rkxw-hAcFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Kolya Malkin",
+      "Caleb Robinson",
+      "Le Hou",
+      "Rachel Soobitsky",
+      "Jacob Czawlytko",
+      "Dimitris Samaras",
+      "Joel Saltz",
+      "Lucas Joppa",
+      "Nebojsa Jojic"
+    ],
+    "conference": "iclr",
+    "id": "1b8bd73f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Label super-resolution networks",
+    "pdf_link": "https://openreview.net/pdf?id=rkxwShA9Ym",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Nuwan Ferdinand",
+      "Haider Al-Lawati",
+      "Stark Draper",
+      "Matthew Nokleby"
+    ],
+    "conference": "iclr",
+    "id": "39a2b8be",
+    "metadata": {
+      "words": []
+    },
+    "name": "ANYTIME MINIBATCH: EXPLOITING STRAGGLERS IN ONLINE DISTRIBUTED OPTIMIZATION",
+    "pdf_link": "https://openreview.net/pdf?id=rkzDIiA5YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yutian Chen",
+      "Yannis Assael",
+      "Brendan Shillingford",
+      "David Budden",
+      "Scott Reed",
+      "Heiga Zen",
+      "Quan Wang",
+      "Luis C. Cobo",
+      "Andrew Trask",
+      "Ben Laurie",
+      "Caglar Gulcehre",
+      "A\u00e4ron van den Oord",
+      "Oriol Vinyals",
+      "Nando de Freitas"
+    ],
+    "conference": "iclr",
+    "id": "ba7e6ac2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sample Efficient Adaptive Text-to-Speech",
+    "pdf_link": "https://openreview.net/pdf?id=rkzjUoAcFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "James Townsend",
+      "Thomas Bird",
+      "David Barber"
+    ],
+    "conference": "iclr",
+    "id": "4cb116c3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Practical lossless compression with latent variables using bits back coding",
+    "pdf_link": "https://openreview.net/pdf?id=ryE98iR5tm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Christopher Roth",
+      "Ingmar Kanitscheider",
+      "Ila Fiete"
+    ],
+    "conference": "iclr",
+    "id": "f05028c4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Kernel RNN Learning (KeRNL)",
+    "pdf_link": "https://openreview.net/pdf?id=ryGfnoC5KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Jesse Johnson"
+    ],
+    "conference": "iclr",
+    "id": "497c245c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep, Skinny Neural Networks are not Universal Approximators",
+    "pdf_link": "https://openreview.net/pdf?id=ryGgSsAcFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Vassilis Kalofolias",
+      "Nathana\u00ebl Perraudin"
+    ],
+    "conference": "iclr",
+    "id": "affa1ea5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Large Scale Graph Learning From Smooth Signals",
+    "pdf_link": "https://openreview.net/pdf?id=ryGkSo0qYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wenpeng Hu",
+      "Zhou Lin",
+      "Bing Liu",
+      "Chongyang Tao",
+      "Zhengwei Tao",
+      "Jinwen Ma",
+      "Dongyan Zhao",
+      "Rui Yan"
+    ],
+    "conference": "iclr",
+    "id": "c97b02cc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation",
+    "pdf_link": "https://openreview.net/pdf?id=ryGvcoA5YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Lu Hou",
+      "Ruiliang Zhang",
+      "James T. Kwok"
+    ],
+    "conference": "iclr",
+    "id": "230eee81",
+    "metadata": {
+      "words": []
+    },
+    "name": "Analysis of Quantized Models",
+    "pdf_link": "https://openreview.net/pdf?id=ryM_IoAqYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Guillermo Valle-Perez",
+      "Chico Q. Camargo",
+      "Ard A. Louis"
+    ],
+    "conference": "iclr",
+    "id": "dd256dee",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep learning generalizes because the parameter-function map is biased towards simple functions",
+    "pdf_link": "https://openreview.net/pdf?id=rye4g3AqFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Amanpreet Singh",
+      "Tushar Jain",
+      "Sainbayar Sukhbaatar"
+    ],
+    "conference": "iclr",
+    "id": "fa583814",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks",
+    "pdf_link": "https://openreview.net/pdf?id=rye7knCqK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Richard Shin",
+      "Neel Kant",
+      "Kavi Gupta",
+      "Chris Bender",
+      "Brandon Trabucco",
+      "Rishabh Singh",
+      "Dawn Song"
+    ],
+    "conference": "iclr",
+    "id": "00b6a081",
+    "metadata": {
+      "words": []
+    },
+    "name": "Synthetic Datasets for Neural Program Synthesis",
+    "pdf_link": "https://openreview.net/pdf?id=ryeOSnAqYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sunghoon Im",
+      "Hae-Gon Jeon",
+      "Stephen Lin",
+      "In So Kweon"
+    ],
+    "conference": "iclr",
+    "id": "ee0b889e",
+    "metadata": {
+      "words": []
+    },
+    "name": "DPSNet: End-to-end Deep Plane Sweep Stereo",
+    "pdf_link": "https://openreview.net/pdf?id=ryeYHi0ctQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Bo Kang",
+      "Jefrey Lijffijt",
+      "Tijl De Bie"
+    ],
+    "conference": "iclr",
+    "id": "f1e3b015",
+    "metadata": {
+      "words": []
+    },
+    "name": "Conditional Network Embeddings",
+    "pdf_link": "https://openreview.net/pdf?id=ryepUj0qtX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ji Lin",
+      "Chuang Gan",
+      "Song Han"
+    ],
+    "conference": "iclr",
+    "id": "558fbb13",
+    "metadata": {
+      "words": []
+    },
+    "name": "Defensive Quantization: When Efficiency Meets Robustness",
+    "pdf_link": "https://openreview.net/pdf?id=ryetZ20ctX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yulai Cong",
+      "Miaoyun Zhao",
+      "Ke Bai",
+      "Lawrence Carin"
+    ],
+    "conference": "iclr",
+    "id": "c5717723",
+    "metadata": {
+      "words": []
+    },
+    "name": "GO Gradient for Expectation-Based Objectives",
+    "pdf_link": "https://openreview.net/pdf?id=ryf6Fs09YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Bhargav Kanuparthi",
+      "Devansh Arpit",
+      "Giancarlo Kerg",
+      "Nan Rosemary Ke",
+      "Ioannis Mitliagkas",
+      "Yoshua Bengio"
+    ],
+    "conference": "iclr",
+    "id": "6a8a6859",
+    "metadata": {
+      "words": []
+    },
+    "name": "h-detach: Modifying the LSTM Gradient Towards Better Optimization",
+    "pdf_link": "https://openreview.net/pdf?id=ryf7ioRqFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Andrew K. Lampinen",
+      "Surya Ganguli"
+    ],
+    "conference": "iclr",
+    "id": "f6c4cee6",
+    "metadata": {
+      "words": []
+    },
+    "name": "An analytic theory of generalization dynamics and transfer learning in deep linear networks",
+    "pdf_link": "https://openreview.net/pdf?id=ryfMLoCqtQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Ping Luo",
+      "Jiamin Ren",
+      "Zhanglin Peng",
+      "Ruimao Zhang",
+      "Jingyu Li"
+    ],
+    "conference": "iclr",
+    "id": "c7cfa91f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Differentiable Learning-to-Normalize via Switchable Normalization",
+    "pdf_link": "https://openreview.net/pdf?id=ryggIs0cYQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Vincent Fortuin",
+      "Matthias H\u00fcser",
+      "Francesco Locatello",
+      "Heiko Strathmann",
+      "Gunnar R\u00e4tsch"
+    ],
+    "conference": "iclr",
+    "id": "b69fa589",
+    "metadata": {
+      "words": []
+    },
+    "name": "SOM-VAE: Interpretable Discrete Representation Learning on Time Series",
+    "pdf_link": "https://openreview.net/pdf?id=rygjcsR9Y7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wei-Ning Hsu",
+      "Yu Zhang",
+      "Ron J. Weiss",
+      "Heiga Zen",
+      "Yonghui Wu",
+      "Yuxuan Wang",
+      "Yuan Cao",
+      "Ye Jia",
+      "Zhifeng Chen",
+      "Jonathan Shen",
+      "Patrick Nguyen",
+      "Ruoming Pang"
+    ],
+    "conference": "iclr",
+    "id": "978e324a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Hierarchical Generative Modeling for Controllable Speech Synthesis",
+    "pdf_link": "https://openreview.net/pdf?id=rygkk305YQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yao-Hung Hubert Tsai",
+      "Paul Pu Liang",
+      "Amir Zadeh",
+      "Louis-Philippe Morency",
+      "Ruslan Salakhutdinov"
+    ],
+    "conference": "iclr",
+    "id": "0b2af2c8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Factorized Multimodal Representations",
+    "pdf_link": "https://openreview.net/pdf?id=rygqqsA9KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Youngwoon Lee*",
+      "Shao-Hua Sun*",
+      "Sriram Somasundaram",
+      "Edward S. Hu",
+      "Joseph J. Lim"
+    ],
+    "conference": "iclr",
+    "id": "8df04867",
+    "metadata": {
+      "words": []
+    },
+    "name": "Composing Complex Skills by Learning Transition Policies",
+    "pdf_link": "https://openreview.net/pdf?id=rygrBhC5tQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Elisabeth Rumetshofer",
+      "Markus Hofmarcher",
+      "Clemens R\u00f6hrl",
+      "Sepp Hochreiter",
+      "G\u00fcnter Klambauer"
+    ],
+    "conference": "iclr",
+    "id": "fb774ed6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Human-level Protein Localization with Convolutional Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=ryl5khRcKm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Wenxuan Zhou",
+      "Lerrel Pinto",
+      "Abhinav Gupta"
+    ],
+    "conference": "iclr",
+    "id": "f7296e33",
+    "metadata": {
+      "words": []
+    },
+    "name": "Environment Probing Interaction Policies",
+    "pdf_link": "https://openreview.net/pdf?id=ryl8-3AcFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Junxian He",
+      "Daniel Spokoyny",
+      "Graham Neubig",
+      "Taylor Berg-Kirkpatrick"
+    ],
+    "conference": "iclr",
+    "id": "371f525e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Lagging Inference Networks and Posterior Collapse in Variational Autoencoders",
+    "pdf_link": "https://openreview.net/pdf?id=rylDfnCqF7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Robert Hannah",
+      "Fei Feng",
+      "Wotao Yin"
+    ],
+    "conference": "iclr",
+    "id": "015adec0",
+    "metadata": {
+      "words": []
+    },
+    "name": "A2BCD: Asynchronous Acceleration with Optimal Complexity",
+    "pdf_link": "https://openreview.net/pdf?id=rylIAsCqYm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Yonglong Tian",
+      "Andrew Luo",
+      "Xingyuan Sun",
+      "Kevin Ellis",
+      "William T. Freeman",
+      "Joshua B. Tenenbaum",
+      "Jiajun Wu"
+    ],
+    "conference": "iclr",
+    "id": "febd6116",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Infer and Execute 3D Shape Programs",
+    "pdf_link": "https://openreview.net/pdf?id=rylNH20qFQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Reinhard Heckel",
+      "Paul Hand"
+    ],
+    "conference": "iclr",
+    "id": "0a3bbc4b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Decoder: Concise Image Representations from Untrained Non-convolutional Networks",
+    "pdf_link": "https://openreview.net/pdf?id=rylV-2C9KQ",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sirui Xie",
+      "Hehui Zheng",
+      "Chunxiao Liu",
+      "Liang Lin"
+    ],
+    "conference": "iclr",
+    "id": "02262990",
+    "metadata": {
+      "words": []
+    },
+    "name": "SNAS: stochastic neural architecture search",
+    "pdf_link": "https://openreview.net/pdf?id=rylqooRqK7",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Charles Y. Zheng",
+      "Francisco Pereira",
+      "Chris I. Baker",
+      "Martin N. Hebart"
+    ],
+    "conference": "iclr",
+    "id": "92ec6c6b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Revealing interpretable object representations from human behavior",
+    "pdf_link": "https://openreview.net/pdf?id=ryxSrhC9KX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Bo Chang",
+      "Minmin Chen",
+      "Eldad Haber",
+      "Ed H. Chi"
+    ],
+    "conference": "iclr",
+    "id": "d8870c82",
+    "metadata": {
+      "words": []
+    },
+    "name": "AntisymmetricRNN: A Dynamical System View on Recurrent Neural Networks",
+    "pdf_link": "https://openreview.net/pdf?id=ryxepo0cFX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Chien-Sheng Wu",
+      "Richard Socher",
+      "Caiming Xiong"
+    ],
+    "conference": "iclr",
+    "id": "5a911280",
+    "metadata": {
+      "words": []
+    },
+    "name": "Global-to-local Memory Pointer Networks for Task-Oriented Dialogue",
+    "pdf_link": "https://openreview.net/pdf?id=ryxnHhRqFm",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Sangwoo Mo",
+      "Minsu Cho",
+      "Jinwoo Shin"
+    ],
+    "conference": "iclr",
+    "id": "f70aad90",
+    "metadata": {
+      "words": []
+    },
+    "name": "InstaGAN: Instance-aware Image-to-Image Translation",
+    "pdf_link": "https://openreview.net/pdf?id=ryxwJhC9YX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Adel Bibi",
+      "Bernard Ghanem",
+      "Vladlen Koltun",
+      "Rene Ranftl"
+    ],
+    "conference": "iclr",
+    "id": "581f70a5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Layers as Stochastic Solvers",
+    "pdf_link": "https://openreview.net/pdf?id=ryxxCiRqYX",
+    "year": "2019"
+  },
+  {
+    "authors": [
+      "Andrew Levy",
+      "George Konidaris",
+      "Robert Platt",
+      "Kate Saenko"
+    ],
+    "conference": "iclr",
+    "id": "b83bdf8f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Multi-Level Hierarchies with Hindsight",
+    "pdf_link": "https://openreview.net/pdf?id=ryzECoAcY7",
+    "year": "2019"
+  }
+]

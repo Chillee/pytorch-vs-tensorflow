@@ -1,0 +1,7150 @@
+[
+  {
+    "authors": [
+      "Nora Hollenstein",
+      "Ce Zhang"
+    ],
+    "conference": "naacl",
+    "id": "597a471e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Entity Recognition at First Sight: Improving NER with Eye Movement Information",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1001/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yair Lakretz",
+      "German Kruszewski",
+      "Theo Desbordes",
+      "Dieuwke Hupkes",
+      "Stanislas Dehaene",
+      "Marco Baroni"
+    ],
+    "conference": "naacl",
+    "id": "3010ce51",
+    "metadata": {
+      "words": []
+    },
+    "name": "The emergence of number and syntax units in LSTM language models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1002/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hadi Amiri"
+    ],
+    "conference": "naacl",
+    "id": "c5a9b935",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Self-Training through Spaced Repetition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1003/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Richard Futrell",
+      "Ethan Wilcox",
+      "Takashi Morita",
+      "Peng Qian",
+      "Miguel Ballesteros",
+      "Roger Levy"
+    ],
+    "conference": "naacl",
+    "id": "1fcf567f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural language models as psycholinguistic subjects: Representations of syntactic state",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1004/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Dan Schwartz",
+      "Tom Mitchell"
+    ],
+    "conference": "naacl",
+    "id": "e46e8ff3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding language-elicited EEG data by predicting it from a fine-tuned language model",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1005/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sameer Bansal",
+      "Herman Kamper",
+      "Karen Livescu",
+      "Adam Lopez",
+      "Sharon Goldwater"
+    ],
+    "conference": "naacl",
+    "id": "5400e45f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Pre-training on high-resource speech recognition improves low-resource speech-to-text translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1006/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Cory Shain",
+      "Micha Elsner"
+    ],
+    "conference": "naacl",
+    "id": "1e97f0bd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Measuring the perceptual availability of phonological features during language acquisition using unsupervised binary stochastic autoencoders",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1007/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Vicky Zayats",
+      "Mari Ostendorf"
+    ],
+    "conference": "naacl",
+    "id": "d90d0692",
+    "metadata": {
+      "words": []
+    },
+    "name": "Giving Attention to the Unexpected: Using Prosody Innovations in Disfluency Detection",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1008/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Oliver Adams",
+      "Matthew Wiesner",
+      "Shinji Watanabe",
+      "David Yarowsky"
+    ],
+    "conference": "naacl",
+    "id": "3fc68f92",
+    "metadata": {
+      "words": []
+    },
+    "name": "Massively Multilingual Adversarial Speech Recognition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1009/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nikolai Vogler",
+      "Craig Stewart",
+      "Graham Neubig"
+    ],
+    "conference": "naacl",
+    "id": "fa1d7357",
+    "metadata": {
+      "words": []
+    },
+    "name": "Lost in Interpretation: Predicting Untranslated Terminology in Simultaneous Interpretation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1010/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chris Dongjoo Kim",
+      "Byeongchang Kim",
+      "Hyunmin Lee",
+      "Gunhee Kim"
+    ],
+    "conference": "naacl",
+    "id": "8d9b4f31",
+    "metadata": {
+      "words": []
+    },
+    "name": "AudioCaps: Generating Captions for Audios in The Wild",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1011/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nabil Hossain",
+      "John Krumm",
+      "Michael Gamon"
+    ],
+    "conference": "naacl",
+    "id": "1c54e9d2",
+    "metadata": {
+      "words": []
+    },
+    "name": "\u201cPresident Vows to Cut <Taxes> Hair\u201d: Dataset and Analysis of Creative Text Editing for Humorous Headlines",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1012/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sudha Rao",
+      "Hal Daum\u00e9 III"
+    ],
+    "conference": "naacl",
+    "id": "ae0ad153",
+    "metadata": {
+      "words": []
+    },
+    "name": "Answer-based Adversarial Training for Generating Clarification Questions",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1013/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wei Zhao",
+      "Liang Wang",
+      "Kewei Shen",
+      "Ruoyu Jia",
+      "Jingming Liu"
+    ],
+    "conference": "naacl",
+    "id": "bf8cf9b2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1014/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wenlin Wang",
+      "Zhe Gan",
+      "Hongteng Xu",
+      "Ruiyi Zhang",
+      "Guoyin Wang",
+      "Dinghan Shen",
+      "Changyou Chen",
+      "Lawrence Carin"
+    ],
+    "conference": "naacl",
+    "id": "a88219bb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Topic-Guided Variational Auto-Encoder for Text Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1015/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Thomas Ruprecht",
+      "Tobias Denkinger"
+    ],
+    "conference": "naacl",
+    "id": "902cb05a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Implementation of a Chomsky-Sch\u00fctzenberger n-best parser for weighted multiple context-free grammars",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1016/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mathieu Dehouck",
+      "Pascal Denis"
+    ],
+    "conference": "naacl",
+    "id": "f8a940ad",
+    "metadata": {
+      "words": []
+    },
+    "name": "Phylogenic Multi-Lingual Dependency Parsing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1017/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Maximin Coavoux",
+      "Shay B. Cohen"
+    ],
+    "conference": "naacl",
+    "id": "494c7308",
+    "metadata": {
+      "words": []
+    },
+    "name": "Discontinuous Constituency Parsing with a Stack-Free Transition System and a Dynamic Oracle",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1018/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Guillaume Wisniewski",
+      "Fran\u00e7ois Yvon"
+    ],
+    "conference": "naacl",
+    "id": "c97cd89c",
+    "metadata": {
+      "words": []
+    },
+    "name": "How Bad are PoS Tagger in Cross-Corpora Settings? Evaluating Annotation Divergence in the UD Project.",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1019/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Milo\u0161 Stanojevi\u0107",
+      "Mark Steedman"
+    ],
+    "conference": "naacl",
+    "id": "cf1a10ad",
+    "metadata": {
+      "words": []
+    },
+    "name": "CCG Parsing Algorithm with Incremental Tree Rotation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1020/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hao Fu",
+      "Chunyuan Li",
+      "Xiaodong Liu",
+      "Jianfeng Gao",
+      "Asli Celikyilmaz",
+      "Lawrence Carin"
+    ],
+    "conference": "naacl",
+    "id": "00126937",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1021/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Natalie Schluter"
+    ],
+    "conference": "naacl",
+    "id": "b9e5f6e9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Recurrent models and lower bounds for projective syntactic decoding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1022/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Gijs Wijnholds",
+      "Mehrnoosh Sadrzadeh"
+    ],
+    "conference": "naacl",
+    "id": "92eed356",
+    "metadata": {
+      "words": []
+    },
+    "name": "Evaluating Composition Models for Verb Phrase Elliptical Sentence Embeddings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1023/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chu-Cheng Lin",
+      "Hao Zhu",
+      "Matthew R. Gormley",
+      "Jason Eisner"
+    ],
+    "conference": "naacl",
+    "id": "154dd1b3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Finite-State Transducers: Beyond Rational Relations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1024/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Prince Zizhuang Wang",
+      "William Yang Wang"
+    ],
+    "conference": "naacl",
+    "id": "09f2f70a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Riemannian Normalizing Flow on Variational Wasserstein Autoencoder for Text Modeling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1025/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mohammad-Ali Yaghoub-Zadeh-Fard",
+      "Boualem Benatallah",
+      "Moshe Chai Barukh",
+      "Shayan Zamanirad"
+    ],
+    "conference": "naacl",
+    "id": "2f32bcb2",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Study of Incorrect Paraphrases in Crowdsourced User Utterances",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1026/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Abdalghani Abujabal",
+      "Rishiraj Saha Roy",
+      "Mohamed Yahya",
+      "Gerhard Weikum"
+    ],
+    "conference": "naacl",
+    "id": "7d06a88b",
+    "metadata": {
+      "words": []
+    },
+    "name": "ComQA: A Community-sourced Dataset for Complex Factoid Question Answering with Paraphrase Clusters",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1027/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kelvin Jiang",
+      "Dekun Wu",
+      "Hui Jiang"
+    ],
+    "conference": "naacl",
+    "id": "0690c1ab",
+    "metadata": {
+      "words": []
+    },
+    "name": "FreebaseQA: A New Factoid QA Data Set Matching Trivia-Style Question-Answer Pairs with Freebase",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1028/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wenbo Zhao",
+      "Tagyoung Chung",
+      "Anuj Goyal",
+      "Angeliki Metallinou"
+    ],
+    "conference": "naacl",
+    "id": "bff0ec52",
+    "metadata": {
+      "words": []
+    },
+    "name": "Simple Question Answering with Subgraph Ranking and Joint-Scoring",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1029/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jianmo Ni",
+      "Chenguang Zhu",
+      "Weizhu Chen",
+      "Julian McAuley"
+    ],
+    "conference": "naacl",
+    "id": "aad4dc2d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Attend On Essential Terms: An Enhanced Retriever-Reader Model for Open-domain Question Answering",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1030/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Zi-Yuan Chen",
+      "Chih-Hung Chang",
+      "Yi-Pei Chen",
+      "Jijnasa Nayak",
+      "Lun-Wei Ku"
+    ],
+    "conference": "naacl",
+    "id": "73c3632c",
+    "metadata": {
+      "words": []
+    },
+    "name": "UHop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1031/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yu Cao",
+      "Meng Fang",
+      "Dacheng Tao"
+    ],
+    "conference": "naacl",
+    "id": "d8641589",
+    "metadata": {
+      "words": []
+    },
+    "name": "BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1032/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Radu Tudor Ionescu",
+      "Andrei Butnaru"
+    ],
+    "conference": "naacl",
+    "id": "90ec488a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Vector of Locally-Aggregated Word Embeddings (VLAWE): A Novel Document-level Representation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1033/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Md Shad Akhtar",
+      "Dushyant Chauhan",
+      "Deepanway Ghosal",
+      "Soujanya Poria",
+      "Asif Ekbal",
+      "Pushpak Bhattacharyya"
+    ],
+    "conference": "naacl",
+    "id": "dc45786f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1034/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chi Sun",
+      "Luyao Huang",
+      "Xipeng Qiu"
+    ],
+    "conference": "naacl",
+    "id": "5ff82f0a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1035/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ziqian Zeng",
+      "Wenxuan Zhou",
+      "Xin Liu",
+      "Yangqiu Song"
+    ],
+    "conference": "naacl",
+    "id": "d72bb48c",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1036/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wenxiang Jiao",
+      "Haiqin Yang",
+      "Irwin King",
+      "Michael R. Lyu"
+    ],
+    "conference": "naacl",
+    "id": "d0ae423c",
+    "metadata": {
+      "words": []
+    },
+    "name": "HiGRU: Hierarchical Gated Recurrent Units for Utterance-Level Emotion Recognition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1037/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nicolas Pr\u00f6llochs",
+      "Stefan Feuerriegel",
+      "Dirk Neumann"
+    ],
+    "conference": "naacl",
+    "id": "d4a1cbe0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Interpretable Negation Rules via Weak Supervision at Document Level: A Reinforcement Learning Approach",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1038/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Timothy Miller"
+    ],
+    "conference": "naacl",
+    "id": "11b032b2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Simplified Neural Unsupervised Domain Adaptation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1039/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yanlin Feng",
+      "Xiaojun Wan"
+    ],
+    "conference": "naacl",
+    "id": "44b8e7aa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Bilingual Sentiment-Specific Word Embeddings without Cross-lingual Supervision",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1040/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Inigo Jauregi Unanue",
+      "Ehsan Zare Borzeshi",
+      "Nazanin Esmaili",
+      "Massimo Piccardi"
+    ],
+    "conference": "naacl",
+    "id": "f8aef7da",
+    "metadata": {
+      "words": []
+    },
+    "name": "ReWE: Regressing Word Embeddings for Regularization of Neural Machine Translation Systems",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1041/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Reuben Cohn-Gordon",
+      "Noah Goodman"
+    ],
+    "conference": "naacl",
+    "id": "9ca96e72",
+    "metadata": {
+      "words": []
+    },
+    "name": "Lost in Machine Translation: A Method to Reduce Meaning Loss",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1042/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xing Niu",
+      "Weijia Xu",
+      "Marine Carpuat"
+    ],
+    "conference": "naacl",
+    "id": "7c73436f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bi-Directional Differentiable Input Reconstruction for Low-Resource Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1043/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kai Song",
+      "Yue Zhang",
+      "Heng Yu",
+      "Weihua Luo",
+      "Kun Wang",
+      "Min Zhang"
+    ],
+    "conference": "naacl",
+    "id": "2fd61c8e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Code-Switching for Enhancing NMT with Pre-Specified Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1044/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Noa Yehezkel Lubin",
+      "Jacob Goldberger",
+      "Yoav Goldberg"
+    ],
+    "conference": "naacl",
+    "id": "e13c393c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Aligning Vector-spaces with Noisy Supervised Lexicon",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1045/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Guanlin Li",
+      "Lemao Liu",
+      "Xintong Li",
+      "Conghui Zhu",
+      "Tiejun Zhao",
+      "Shuming Shi"
+    ],
+    "conference": "naacl",
+    "id": "30839c52",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding and Improving Hidden Representations for Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1046/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Daniel Hershcovich",
+      "Omri Abend",
+      "Ari Rappoport"
+    ],
+    "conference": "naacl",
+    "id": "68ae8fc6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Content Differences in Syntactic and Semantic Representation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1047/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Timo Schick",
+      "Hinrich Sch\u00fctze"
+    ],
+    "conference": "naacl",
+    "id": "3859db15",
+    "metadata": {
+      "words": []
+    },
+    "name": "Attentive Mimicking: Better Word Embeddings by Attending to Informative Contexts",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1048/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Remi Mir",
+      "Bjarke Felbo",
+      "Nick Obradovich",
+      "Iyad Rahwan"
+    ],
+    "conference": "naacl",
+    "id": "8a84badc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Evaluating Style Transfer for Text",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1049/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shima Asaadi",
+      "Saif Mohammad",
+      "Svetlana Kiritchenko"
+    ],
+    "conference": "naacl",
+    "id": "bedd198c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset for Examining Semantic Composition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1050/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Stefan Larson",
+      "Anish Mahendran",
+      "Andrew Lee",
+      "Jonathan K. Kummerfeld",
+      "Parker Hill",
+      "Michael A. Laurenzano",
+      "Johann Hauswald",
+      "Lingjia Tang",
+      "Jason Mars"
+    ],
+    "conference": "naacl",
+    "id": "e804e1ca",
+    "metadata": {
+      "words": []
+    },
+    "name": "Outlier Detection for Improved Data Quality and Diversity in Dialog Systems",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1051/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Liye Fu",
+      "Jonathan P. Chang",
+      "Cristian Danescu-Niculescu-Mizil"
+    ],
+    "conference": "naacl",
+    "id": "3f422c5a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Asking the Right Question: Inferring Advice-Seeking Intentions from Personal Narratives",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1052/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sihao Chen",
+      "Daniel Khashabi",
+      "Wenpeng Yin",
+      "Chris Callison-Burch",
+      "Dan Roth"
+    ],
+    "conference": "naacl",
+    "id": "2b0ea99c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Seeing Things from a Different Angle:Discovering Diverse Perspectives about Claims",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1053/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tuhin Chakrabarty",
+      "Christopher Hidey",
+      "Kathy McKeown"
+    ],
+    "conference": "naacl",
+    "id": "2767e008",
+    "metadata": {
+      "words": []
+    },
+    "name": "IMHO Fine-Tuning Improves Claim Detection",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1054/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Rashmi Gangadharaiah",
+      "Balakrishnan Narayanaswamy"
+    ],
+    "conference": "naacl",
+    "id": "75119b04",
+    "metadata": {
+      "words": []
+    },
+    "name": "Joint Multiple Intent Detection and Slot Labeling for Goal-Oriented Dialog",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1055/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Malihe Alikhani",
+      "Sreyasi Nag Chowdhury",
+      "Gerard de Melo",
+      "Matthew Stone"
+    ],
+    "conference": "naacl",
+    "id": "7ac04e5f",
+    "metadata": {
+      "words": []
+    },
+    "name": "CITE: A Corpus of Image-Text Discourse Relations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1056/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sanuj Sharma",
+      "Prafulla Kumar Choubey",
+      "Ruihong Huang"
+    ],
+    "conference": "naacl",
+    "id": "aa4039a8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Dialogue State Tracking by Discerning the Relevant Context",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1057/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Satwik Kottur",
+      "Jos\u00e9 M. F. Moura",
+      "Devi Parikh",
+      "Dhruv Batra",
+      "Marcus Rohrbach"
+    ],
+    "conference": "naacl",
+    "id": "902f2396",
+    "metadata": {
+      "words": []
+    },
+    "name": "CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1058/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jesse Mu",
+      "Helen Yannakoudakis",
+      "Ekaterina Shutova"
+    ],
+    "conference": "naacl",
+    "id": "71182517",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Outside the Box: Discourse-level Features Improve Metaphor Identification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1059/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Michael Wiegand",
+      "Josef Ruppenhofer",
+      "Thomas Kleinbauer"
+    ],
+    "conference": "naacl",
+    "id": "b73c897a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Detection of Abusive Language: the Problem of Biased Datasets",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1060/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hila Gonen",
+      "Yoav Goldberg"
+    ],
+    "conference": "naacl",
+    "id": "e5893f65",
+    "metadata": {
+      "words": []
+    },
+    "name": "Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1061/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Thomas Manzini",
+      "Lim Yao Chong",
+      "Alan W Black",
+      "Yulia Tsvetkov"
+    ],
+    "conference": "naacl",
+    "id": "e9280cce",
+    "metadata": {
+      "words": []
+    },
+    "name": "Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1062/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chandler May",
+      "Alex Wang",
+      "Shikha Bordia",
+      "Samuel R. Bowman",
+      "Rachel Rudinger"
+    ],
+    "conference": "naacl",
+    "id": "20242757",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Measuring Social Biases in Sentence Encoders",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1063/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jieyu Zhao",
+      "Tianlu Wang",
+      "Mark Yatskar",
+      "Ryan Cotterell",
+      "Vicente Ordonez",
+      "Kai-Wei Chang"
+    ],
+    "conference": "naacl",
+    "id": "091fcf10",
+    "metadata": {
+      "words": []
+    },
+    "name": "Gender Bias in Contextualized Word Embeddings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1064/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Alexander Miserlis Hoyle",
+      "Lawrence Wolf-Sonkin",
+      "Hanna Wallach",
+      "Ryan Cotterell",
+      "Isabelle Augenstein"
+    ],
+    "conference": "naacl",
+    "id": "514afcd2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Combining Sentiment Lexica with a Multi-View Variational Autoencoder",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1065/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Meishan Zhang",
+      "Peili Liang",
+      "Guohong Fu"
+    ],
+    "conference": "naacl",
+    "id": "091cfc45",
+    "metadata": {
+      "words": []
+    },
+    "name": "Enhancing Opinion Role Labeling with Semantic-Aware Word Representations from Semantic Role Labeling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1066/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Evgeny Kim",
+      "Roman Klinger"
+    ],
+    "conference": "naacl",
+    "id": "add28ae7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Frowning Frodo, Wincing Leia, and a Seriously Great Friendship: Learning to Classify Emotional Relationships of Fictional Characters",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1067/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Janek Bevendorff",
+      "Benno Stein",
+      "Matthias Hagen",
+      "Martin Potthast"
+    ],
+    "conference": "naacl",
+    "id": "32ff2f7e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generalizing Unmasking for Short Texts",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1068/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Robert McHardy",
+      "Heike Adel",
+      "Roman Klinger"
+    ],
+    "conference": "naacl",
+    "id": "70af4c19",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Training for Satire Detection: Controlling for Confounding Variables",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1069/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Erion \u00c7ano",
+      "Ond\u0159ej Bojar"
+    ],
+    "conference": "naacl",
+    "id": "d061df55",
+    "metadata": {
+      "words": []
+    },
+    "name": "Keyphrase Generation: A Text Summarization Struggle",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1070/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Christos Baziotis",
+      "Ion Androutsopoulos",
+      "Ioannis Konstas",
+      "Alexandros Potamianos"
+    ],
+    "conference": "naacl",
+    "id": "20d3eadf",
+    "metadata": {
+      "words": []
+    },
+    "name": "SEQ\u02c63: Differentiable Sequence-to-Sequence-to-Sequence Autoencoder for Unsupervised Abstractive Sentence Compression",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1071/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ori Shapira",
+      "David Gabay",
+      "Yang Gao",
+      "Hadar Ronen",
+      "Ramakanth Pasunuru",
+      "Mohit Bansal",
+      "Yael Amsterdamer",
+      "Ido Dagan"
+    ],
+    "conference": "naacl",
+    "id": "6b6b9e38",
+    "metadata": {
+      "words": []
+    },
+    "name": "Crowdsourcing Lightweight Pyramids for Manual Summary Evaluation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1072/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hassan Hajipoor",
+      "Hadi Amiri",
+      "Maseud Rahgozar",
+      "Farhad Oroumchian"
+    ],
+    "conference": "naacl",
+    "id": "9a1c6389",
+    "metadata": {
+      "words": []
+    },
+    "name": "Serial Recall Effects in Neural Language Modeling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1073/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tobias Falke",
+      "Iryna Gurevych"
+    ],
+    "conference": "naacl",
+    "id": "6165a44a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fast Concept Mention Grouping for Concept Map-based Multi-Document Summarization",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1074/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jungo Kasai",
+      "Dan Friedman",
+      "Robert Frank",
+      "Dragomir Radev",
+      "Owen Rambow"
+    ],
+    "conference": "naacl",
+    "id": "7e04fcb2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Syntax-aware Neural Semantic Role Labeling with Supertags",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1075/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Daniel Fern\u00e1ndez-Gonz\u00e1lez",
+      "Carlos G\u00f3mez-Rodr\u00edguez"
+    ],
+    "conference": "naacl",
+    "id": "efd23095",
+    "metadata": {
+      "words": []
+    },
+    "name": "Left-to-Right Dependency Parsing with Pointer Networks",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1076/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Michalina Strzyz",
+      "David Vilares",
+      "Carlos G\u00f3mez-Rodr\u00edguez"
+    ],
+    "conference": "naacl",
+    "id": "5af2b4bb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Viable Dependency Parsing as Sequence Labeling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1077/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Alan Akbik",
+      "Tanja Bergmann",
+      "Roland Vollgraf"
+    ],
+    "conference": "naacl",
+    "id": "08d23c63",
+    "metadata": {
+      "words": []
+    },
+    "name": "Pooled Contextualized Embeddings for Named Entity Recognition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1078/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Zhanming Jie",
+      "Pengjun Xie",
+      "Wei Lu",
+      "Ruixue Ding",
+      "Linlin Li"
+    ],
+    "conference": "naacl",
+    "id": "fddab588",
+    "metadata": {
+      "words": []
+    },
+    "name": "Better Modeling of Incomplete Annotations for Named Entity Recognition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1079/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shulin Liu",
+      "Yang Li",
+      "Feng Zhang",
+      "Tao Yang",
+      "Xinpeng Zhou"
+    ],
+    "conference": "naacl",
+    "id": "b1920781",
+    "metadata": {
+      "words": []
+    },
+    "name": "Event Detection without Triggers",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1080/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Giannis Bekoulis",
+      "Johannes Deleu",
+      "Thomas Demeester",
+      "Chris Develder"
+    ],
+    "conference": "naacl",
+    "id": "c8e4dab7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sub-event detection from twitter streams as a sequence labeling problem",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1081/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yujie Qian",
+      "Enrico Santus",
+      "Zhijing Jin",
+      "Jiang Guo",
+      "Regina Barzilay"
+    ],
+    "conference": "naacl",
+    "id": "d7d1309b",
+    "metadata": {
+      "words": []
+    },
+    "name": "GraphIE: A Graph-Based Framework for Information Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1082/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Dongxu Zhang",
+      "Subhabrata Mukherjee",
+      "Colin Lockard",
+      "Luna Dong",
+      "Andrew McCallum"
+    ],
+    "conference": "naacl",
+    "id": "6e707bfb",
+    "metadata": {
+      "words": []
+    },
+    "name": "OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1083/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wenhan Xiong",
+      "Jiawei Wu",
+      "Deren Lei",
+      "Mo Yu",
+      "Shiyu Chang",
+      "Xiaoxiao Guo",
+      "William Yang Wang"
+    ],
+    "conference": "naacl",
+    "id": "08b1dec8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1084/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yin Jou Huang",
+      "Jing Lu",
+      "Sadao Kurohashi",
+      "Vincent Ng"
+    ],
+    "conference": "naacl",
+    "id": "5046856f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Event Coreference Resolution by Learning Argument Compatibility from Unlabeled Data",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1085/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hong Wang",
+      "Wenhan Xiong",
+      "Mo Yu",
+      "Xiaoxiao Guo",
+      "Shiyu Chang",
+      "William Yang Wang"
+    ],
+    "conference": "naacl",
+    "id": "b616bfe8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sentence Embedding Alignment for Lifelong Relation Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1086/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Rasha Obeidat",
+      "Xiaoli Fern",
+      "Hamed Shahbazi",
+      "Prasad Tadepalli"
+    ],
+    "conference": "naacl",
+    "id": "d92d2a7c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Description-Based Zero-shot Fine-Grained Entity Typing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1087/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Alexey Romanov",
+      "Anna Rumshisky",
+      "Anna Rogers",
+      "David Donahue"
+    ],
+    "conference": "naacl",
+    "id": "8297e982",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Decomposition of Text Representation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1088/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jun Seok Kang",
+      "Robert Logan",
+      "Zewei Chu",
+      "Yang Chen",
+      "Dheeru Dua",
+      "Kevin Gimpel",
+      "Sameer Singh",
+      "Niranjan Balasubramanian"
+    ],
+    "conference": "naacl",
+    "id": "a881b799",
+    "metadata": {
+      "words": []
+    },
+    "name": "PoMo: Generating Entity-Specific Post-Modifiers in Context",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1089/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "J. Edward Hu",
+      "Huda Khayrallah",
+      "Ryan Culkin",
+      "Patrick Xia",
+      "Tongfei Chen",
+      "Matt Post",
+      "Benjamin Van Durme"
+    ],
+    "conference": "naacl",
+    "id": "2aa23d87",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improved Lexically Constrained Decoding for Translation and Monolingual Rewriting",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1090/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hitesh Golchha",
+      "Mauajama Firdaus",
+      "Asif Ekbal",
+      "Pushpak Bhattacharyya"
+    ],
+    "conference": "naacl",
+    "id": "34890159",
+    "metadata": {
+      "words": []
+    },
+    "name": "Courteously Yours: Inducing courteous behavior in Customer Care responses using Reinforced Pointer Generator Network",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1091/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Zhiwei Yu",
+      "Xiaojun Wan"
+    ],
+    "conference": "naacl",
+    "id": "4ff04cee",
+    "metadata": {
+      "words": []
+    },
+    "name": "How to Avoid Sentences Spelling Boring? Towards a Neural Approach to Unsupervised Metaphor Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1092/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hongming Zhang",
+      "Yan Song",
+      "Yangqiu Song"
+    ],
+    "conference": "naacl",
+    "id": "93eed6a7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Incorporating Context and External Knowledge for Pronoun Coreference Resolution",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1093/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shuohang Wang",
+      "Sheng Zhang",
+      "Yelong Shen",
+      "Xiaodong Liu",
+      "Jingjing Liu",
+      "Jianfeng Gao",
+      "Jing Jiang"
+    ],
+    "conference": "naacl",
+    "id": "34c0dd85",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Deep Structured Semantic Models for Commonsense Reasoning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1094/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jingxuan Yang",
+      "Jianzhuo Tong",
+      "Si Li",
+      "Sheng Gao",
+      "Jun Guo",
+      "Nianwen Xue"
+    ],
+    "conference": "naacl",
+    "id": "b573f400",
+    "metadata": {
+      "words": []
+    },
+    "name": "Recovering dropped pronouns in Chinese conversations via modeling their referents",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1095/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ieva Vasiljeva",
+      "Sorcha Gilroy",
+      "Adam Lopez"
+    ],
+    "conference": "naacl",
+    "id": "3867e38c",
+    "metadata": {
+      "words": []
+    },
+    "name": "The problem with probabilistic DAG automata for semantic graphs",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1096/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yi Zhu",
+      "Ivan Vuli\u0107",
+      "Anna Korhonen"
+    ],
+    "conference": "naacl",
+    "id": "7154f6ef",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Systematic Study of Leveraging Subword Information for Learning Word Representations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1097/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Prakhar Gupta",
+      "Matteo Pagliardini",
+      "Martin Jaggi"
+    ],
+    "conference": "naacl",
+    "id": "8d0b46f1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Better Word Embeddings by Disentangling Contextual n-Gram Information",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1098/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Dingcheng Li",
+      "Siamak Zamani",
+      "Jingyuan Zhang",
+      "Ping Li"
+    ],
+    "conference": "naacl",
+    "id": "da94df38",
+    "metadata": {
+      "words": []
+    },
+    "name": "Integration of Knowledge Graph Embedding Into Topic Modeling with Hierarchical Dirichlet Process",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1099/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Vitalii Zhelezniak",
+      "Aleksandar Savkov",
+      "April Shen",
+      "Nils Hammerla"
+    ],
+    "conference": "naacl",
+    "id": "32679913",
+    "metadata": {
+      "words": []
+    },
+    "name": "Correlation Coefficients and Semantic Textual Similarity",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1100/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "James Thorne",
+      "Andreas Vlachos",
+      "Christos Christodoulopoulos",
+      "Arpit Mittal"
+    ],
+    "conference": "naacl",
+    "id": "68178f16",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generating Token-Level Explanations for Natural Language Inference",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1101/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Pierre Finnimore",
+      "Elisabeth Fritzsch",
+      "Daniel King",
+      "Alison Sneyd",
+      "Aneeq Ur Rehman",
+      "Fernando Alva-Manchego",
+      "Andreas Vlachos"
+    ],
+    "conference": "naacl",
+    "id": "b5766c3c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Strong Baselines for Complex Word Identification across Multiple Languages",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1102/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xiaotian Jiang",
+      "Quan Wang",
+      "Bin Wang"
+    ],
+    "conference": "naacl",
+    "id": "d0869eb1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Convolution for Multi-Relational Learning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1103/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Takuma Ebisu",
+      "Ryutaro Ichise"
+    ],
+    "conference": "naacl",
+    "id": "89f234ae",
+    "metadata": {
+      "words": []
+    },
+    "name": "Graph Pattern Entity Ranking Model for Knowledge Graph Completion",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1104/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xiaozhi Wang",
+      "Xu Han",
+      "Zhiyuan Liu",
+      "Maosong Sun",
+      "Peng Li"
+    ],
+    "conference": "naacl",
+    "id": "e41522ad",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Training for Weakly Supervised Event Detection",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1105/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Elham J. Barezi",
+      "Ian D. Wood",
+      "Pascale Fung",
+      "Hamid R. Rabiee"
+    ],
+    "conference": "naacl",
+    "id": "6653a903",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Submodular Feature-Aware Framework for Label Subset Selection in Extreme Classification Problems",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1106/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jianhao Yan",
+      "Lin He",
+      "Ruqin Huang",
+      "Jian Li",
+      "Ying Liu"
+    ],
+    "conference": "naacl",
+    "id": "f05fe7d8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Relation Extraction with Temporal Reasoning Based on Memory Augmented Distant Supervision",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1107/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jingqing Zhang",
+      "Piyawat Lertvittayakumjorn",
+      "Yike Guo"
+    ],
+    "conference": "naacl",
+    "id": "e757306b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Integrating Semantic Knowledge to Tackle Zero-shot Text Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1108/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Procheta Sen",
+      "Debasis Ganguly",
+      "Gareth Jones"
+    ],
+    "conference": "naacl",
+    "id": "c42b2e61",
+    "metadata": {
+      "words": []
+    },
+    "name": "Word-Node2Vec: Improving Word Embedding with Document-Level Non-Local Word Co-occurrences",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1109/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Eleftheria Briakou",
+      "Nikos Athanasiou",
+      "Alexandros Potamianos"
+    ],
+    "conference": "naacl",
+    "id": "efdd8431",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cross-Topic Distributional Semantic Representations Via Unsupervised Mappings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1110/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Dmetri Hayes"
+    ],
+    "conference": "naacl",
+    "id": "314bc37c",
+    "metadata": {
+      "words": []
+    },
+    "name": "What just happened? Evaluating retrofitted distributional word vectors",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1111/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nelson F. Liu",
+      "Matt Gardner",
+      "Yonatan Belinkov",
+      "Matthew E. Peters",
+      "Noah A. Smith"
+    ],
+    "conference": "naacl",
+    "id": "d9399891",
+    "metadata": {
+      "words": []
+    },
+    "name": "Linguistic Knowledge and Transferability of Contextual Representations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1112/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Karl Stratos"
+    ],
+    "conference": "naacl",
+    "id": "9cb86f7e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Mutual Information Maximization for Simple and Accurate Part-Of-Speech Induction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1113/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yoon Kim",
+      "Alexander Rush",
+      "Lei Yu",
+      "Adhiguna Kuncoro",
+      "Chris Dyer",
+      "G\u00e1bor Melis"
+    ],
+    "conference": "naacl",
+    "id": "691f6c14",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Recurrent Neural Network Grammars",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1114/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Serhii Havrylov",
+      "Germ\u00e1n Kruszewski",
+      "Armand Joulin"
+    ],
+    "conference": "naacl",
+    "id": "3c862dc5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cooperative Learning of Disjoint Syntax and Semantics",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1115/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Andrew Drozdov",
+      "Patrick Verga",
+      "Mohit Yadav",
+      "Mohit Iyyer",
+      "Andrew McCallum"
+    ],
+    "conference": "naacl",
+    "id": "e8281fd7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Auto-Encoders",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1116/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Angli Liu",
+      "Jingfei Du",
+      "Veselin Stoyanov"
+    ],
+    "conference": "naacl",
+    "id": "b5c11a74",
+    "metadata": {
+      "words": []
+    },
+    "name": "Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1117/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Meishan Zhang",
+      "Zhenghua Li",
+      "Guohong Fu",
+      "Min Zhang"
+    ],
+    "conference": "naacl",
+    "id": "b82d36d1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Syntax-Enhanced Neural Machine Translation with Syntax-Aware Word Representations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1118/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Emmanouil Antonios Platanios",
+      "Otilia Stretcu",
+      "Graham Neubig",
+      "Barnabas Poczos",
+      "Tom Mitchell"
+    ],
+    "conference": "naacl",
+    "id": "9ebcc471",
+    "metadata": {
+      "words": []
+    },
+    "name": "Competence-based Curriculum Learning for Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1119/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jiawei Wu",
+      "Xin Wang",
+      "William Yang Wang"
+    ],
+    "conference": "naacl",
+    "id": "e449799f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1120/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Maruan Al-Shedivat",
+      "Ankur Parikh"
+    ],
+    "conference": "naacl",
+    "id": "34db3553",
+    "metadata": {
+      "words": []
+    },
+    "name": "Consistency by Agreement in Zero-Shot Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1121/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jie Hao",
+      "Xing Wang",
+      "Baosong Yang",
+      "Longyue Wang",
+      "Jinfeng Zhang",
+      "Zhaopeng Tu"
+    ],
+    "conference": "naacl",
+    "id": "21042e89",
+    "metadata": {
+      "words": []
+    },
+    "name": "Modeling Recurrence for Transformer",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1122/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tiancheng Zhao",
+      "Kaige Xie",
+      "Maxine Eskenazi"
+    ],
+    "conference": "naacl",
+    "id": "90c5bd35",
+    "metadata": {
+      "words": []
+    },
+    "name": "Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1123/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Deng Cai",
+      "Yan Wang",
+      "Wei Bi",
+      "Zhaopeng Tu",
+      "Xiaojiang Liu",
+      "Wai Lam",
+      "Shuming Shi"
+    ],
+    "conference": "naacl",
+    "id": "1e12d077",
+    "metadata": {
+      "words": []
+    },
+    "name": "Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1124/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xiang Gao",
+      "Sungjin Lee",
+      "Yizhe Zhang",
+      "Chris Brockett",
+      "Michel Galley",
+      "Jianfeng Gao",
+      "Bill Dolan"
+    ],
+    "conference": "naacl",
+    "id": "5e2c8bb6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Jointly Optimizing Diversity and Relevance in Neural Response Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1125/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Dinesh Raghu",
+      "Nikhil Gupta",
+      "Mausam"
+    ],
+    "conference": "naacl",
+    "id": "c07598d0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Disentangling Language and Knowledge in Task-Oriented Dialogs",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1126/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tao Shen",
+      "Tianyi Zhou",
+      "Guodong Long",
+      "Jing Jiang",
+      "Chengqi Zhang"
+    ],
+    "conference": "naacl",
+    "id": "c9677ea5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Tensorized Self-Attention: Efficiently Modeling Pairwise and Global Dependencies Together",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1127/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mohammad Taher Pilehvar",
+      "Jose Camacho-Collados"
+    ],
+    "conference": "naacl",
+    "id": "7cd0750e",
+    "metadata": {
+      "words": []
+    },
+    "name": "WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1128/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yang Gao",
+      "Steffen Eger",
+      "Ilia Kuznetsov",
+      "Iryna Gurevych",
+      "Yusuke Miyao"
+    ],
+    "conference": "naacl",
+    "id": "a9c1b31d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Does My Rebuttal Matter? Insights from a Major NLP Conference",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1129/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shufan Wang",
+      "Mohit Iyyer"
+    ],
+    "conference": "naacl",
+    "id": "3c808400",
+    "metadata": {
+      "words": []
+    },
+    "name": "Casting Light on Invisible Cities: Computationally Engaging with Literary Criticism",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1130/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yuan Zhang",
+      "Jason Baldridge",
+      "Luheng He"
+    ],
+    "conference": "naacl",
+    "id": "a29f2484",
+    "metadata": {
+      "words": []
+    },
+    "name": "PAWS: Paraphrase Adversaries from Word Scrambling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1131/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Masato Mita",
+      "Tomoya Mizumoto",
+      "Masahiro Kaneko",
+      "Ryo Nagata",
+      "Kentaro Inui"
+    ],
+    "conference": "naacl",
+    "id": "bee5247f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models \u2014 Is Single-Corpus Evaluation Enough?",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1132/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Qipeng Guo",
+      "Xipeng Qiu",
+      "Pengfei Liu",
+      "Yunfan Shao",
+      "Xiangyang Xue",
+      "Zheng Zhang"
+    ],
+    "conference": "naacl",
+    "id": "5221fc95",
+    "metadata": {
+      "words": []
+    },
+    "name": "Star-Transformer",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1133/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tasnim Mohiuddin",
+      "Thanh-Tung Nguyen",
+      "Shafiq Joty"
+    ],
+    "conference": "naacl",
+    "id": "9d7608ea",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptation of Hierarchical Structured Models for Speech Act Recognition in Asynchronous Conversation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1134/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Frederike Zufall",
+      "Tobias Horsmann",
+      "Torsten Zesch"
+    ],
+    "conference": "naacl",
+    "id": "f220f97a",
+    "metadata": {
+      "words": []
+    },
+    "name": "From legal to technical concept: Towards an automated classification of German political Twitter postings as criminal offenses",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1135/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hang Dong",
+      "Wei Wang",
+      "Kaizhu Huang",
+      "Frans Coenen"
+    ],
+    "conference": "naacl",
+    "id": "8191896b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Joint Multi-Label Attention Networks for Social Text Annotation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1136/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jumayel Islam",
+      "Robert E. Mercer",
+      "Lu Xiao"
+    ],
+    "conference": "naacl",
+    "id": "ed76abb5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-Channel Convolutional Neural Network for Twitter Emotion and Sentiment Recognition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1137/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Semih Yagcioglu",
+      "Mehmet Saygin Seyfioglu",
+      "Begum Citamak",
+      "Batuhan Bardak",
+      "Seren Guldamlasioglu",
+      "Azmi Yuksel",
+      "Emin Islam Tatli"
+    ],
+    "conference": "naacl",
+    "id": "d6d562e5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Detecting Cybersecurity Events from Noisy Short Text",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1138/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yotam Gil",
+      "Yoav Chai",
+      "Or Gorodissky",
+      "Jonathan Berant"
+    ],
+    "conference": "naacl",
+    "id": "4316f834",
+    "metadata": {
+      "words": []
+    },
+    "name": "White-to-Black: Efficient Distillation of Black-Box Adversarial Attacks",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1139/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shi Zong",
+      "Alan Ritter",
+      "Graham Mueller",
+      "Evan Wright"
+    ],
+    "conference": "naacl",
+    "id": "d4ecf3a1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Analyzing the Perceived Severity of Cybersecurity Threats Reported on Social Media",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1140/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Duc Minh Nguyen",
+      "Tien Huu Do",
+      "Robert Calderbank",
+      "Nikos Deligiannis"
+    ],
+    "conference": "naacl",
+    "id": "7d0a16f2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fake News Detection using Deep Markov Random Fields",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1141/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mareike Hartmann",
+      "Tallulah Jansen",
+      "Isabelle Augenstein",
+      "Anders S\u00f8gaard"
+    ],
+    "conference": "naacl",
+    "id": "3b89a564",
+    "metadata": {
+      "words": []
+    },
+    "name": "Issue Framing in Online Discussion Fora",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1142/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hadi Amiri",
+      "Mitra Mohtarami"
+    ],
+    "conference": "naacl",
+    "id": "dde088b0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Vector of Locally Aggregated Embeddings for Text Representation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1143/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Marcos Zampieri",
+      "Shervin Malmasi",
+      "Preslav Nakov",
+      "Sara Rosenthal",
+      "Noura Farra",
+      "Ritesh Kumar"
+    ],
+    "conference": "naacl",
+    "id": "3449791e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Predicting the Type and Target of Offensive Posts in Social Media",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1144/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Diya Li",
+      "Lifu Huang",
+      "Heng Ji",
+      "Jiawei Han"
+    ],
+    "conference": "naacl",
+    "id": "6a54fb35",
+    "metadata": {
+      "words": []
+    },
+    "name": "Biomedical Event Extraction based on Knowledge-driven Tree-LSTM",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1145/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Zining Zhu",
+      "Jekaterina Novikova",
+      "Frank Rudzicz"
+    ],
+    "conference": "naacl",
+    "id": "f344a884",
+    "metadata": {
+      "words": []
+    },
+    "name": "Detecting cognitive impairments by agreeing on interpretations of linguistic features",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1146/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Gaurav Singh",
+      "Parminder Bhatia"
+    ],
+    "conference": "naacl",
+    "id": "c0328be3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Relation Extraction using Explicit Context Conditioning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1147/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sungjoon Park",
+      "Donghyun Kim",
+      "Alice Oh"
+    ],
+    "conference": "naacl",
+    "id": "6ee7c403",
+    "metadata": {
+      "words": []
+    },
+    "name": "Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1148/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xiang Dai",
+      "Sarvnaz Karimi",
+      "Ben Hachey",
+      "Cecile Paris"
+    ],
+    "conference": "naacl",
+    "id": "07ab0cdc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Using Similarity Measures to Select Pretraining Data for NER",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1149/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yinfei Yang",
+      "Oshin Agarwal",
+      "Chris Tar",
+      "Byron C. Wallace",
+      "Ani Nenkova"
+    ],
+    "conference": "naacl",
+    "id": "3d7483d7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Predicting Annotation Difficulty to Improve Task Routing and Model Performance for Biomedical Information Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1150/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mario Ezra Arag\u00f3n",
+      "Adrian Pastor L\u00f3pez-Monroy",
+      "Luis Carlos Gonz\u00e1lez-Gurrola",
+      "Manuel Montes-y-G\u00f3mez"
+    ],
+    "conference": "naacl",
+    "id": "a68b05ba",
+    "metadata": {
+      "words": []
+    },
+    "name": "Detecting Depression in Social Media using Fine-Grained Emotions",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1151/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Diana Sousa",
+      "Andre Lamurias",
+      "Francisco M. Couto"
+    ],
+    "conference": "naacl",
+    "id": "9a43573f",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Silver Standard Corpus of Human Phenotype-Gene Relations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1152/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Enrique Manjavacas",
+      "\u00c1kos K\u00e1d\u00e1r",
+      "Mike Kestemont"
+    ],
+    "conference": "naacl",
+    "id": "9ad57498",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Lemmatization of Non-Standard Languages with Joint Learning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1153/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nadir Durrani",
+      "Fahim Dalvi",
+      "Hassan Sajjad",
+      "Yonatan Belinkov",
+      "Preslav Nakov"
+    ],
+    "conference": "naacl",
+    "id": "d9b690b6",
+    "metadata": {
+      "words": []
+    },
+    "name": "One Size Does Not Fit All: Comparing NMT Representations of Different Granularities",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1154/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chaitanya Malaviya",
+      "Shijie Wu",
+      "Ryan Cotterell"
+    ],
+    "conference": "naacl",
+    "id": "c6c1a076",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Simple Joint Model for Improved Contextual Neural Lemmatization",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1155/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Johannes Bjerva",
+      "Yova Kementchedjhieva",
+      "Ryan Cotterell",
+      "Isabelle Augenstein"
+    ],
+    "conference": "naacl",
+    "id": "99434623",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Probabilistic Generative Model of Linguistic Typology",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1156/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Manuel Ciosici",
+      "Leon Derczynski",
+      "Ira Assent"
+    ],
+    "conference": "naacl",
+    "id": "678b5529",
+    "metadata": {
+      "words": []
+    },
+    "name": "Quantifying the morphosyntactic content of Brown Clusters",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1157/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shudong Hao",
+      "Michael J. Paul"
+    ],
+    "conference": "naacl",
+    "id": "c84a35f2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Analyzing Bayesian Crosslingual Transfer in Topic Models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1158/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Miryam de Lhoneux",
+      "Miguel Ballesteros",
+      "Joakim Nivre"
+    ],
+    "conference": "naacl",
+    "id": "5c6e0831",
+    "metadata": {
+      "words": []
+    },
+    "name": "Recursive Subtree Composition in LSTM-Based Dependency Parsing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1159/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kilian Evang"
+    ],
+    "conference": "naacl",
+    "id": "8f74b963",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cross-lingual CCG Induction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1160/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chunting Zhou",
+      "Xuezhe Ma",
+      "Di Wang",
+      "Graham Neubig"
+    ],
+    "conference": "naacl",
+    "id": "9a1f2bd4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Density Matching for Bilingual Word Embedding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1161/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tal Schuster",
+      "Ori Ram",
+      "Regina Barzilay",
+      "Amir Globerson"
+    ],
+    "conference": "naacl",
+    "id": "a6c0c35a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1162/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kaimin Zhou",
+      "Chang Shu",
+      "Binyang Li",
+      "Jey Han Lau"
+    ],
+    "conference": "naacl",
+    "id": "3311d9e7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Early Rumour Detection",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1163/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yue Wang",
+      "Jing Li",
+      "Irwin King",
+      "Michael R. Lyu",
+      "Shuming Shi"
+    ],
+    "conference": "naacl",
+    "id": "0addb72e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Microblog Hashtag Generation via Encoding Conversation Contexts",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1164/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Steffen Eger",
+      "G\u00f6zde G\u00fcl \u015eahin",
+      "Andreas R\u00fcckl\u00e9",
+      "Ji-Ung Lee",
+      "Claudia Schulz",
+      "Mohsen Mesgar",
+      "Krishnkant Swarnkar",
+      "Edwin Simpson",
+      "Iryna Gurevych"
+    ],
+    "conference": "naacl",
+    "id": "3ea71378",
+    "metadata": {
+      "words": []
+    },
+    "name": "Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1165/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jack Hessel",
+      "Lillian Lee"
+    ],
+    "conference": "naacl",
+    "id": "96bc4c2a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Something\u2019s Brewing! Early Prediction of Controversy-causing Posts from Discussion Features",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1166/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xiaochuang Han",
+      "Eunsol Choi",
+      "Chenhao Tan"
+    ],
+    "conference": "naacl",
+    "id": "ac01dc26",
+    "metadata": {
+      "words": []
+    },
+    "name": "No Permanent Friends or Enemies: Tracking Relationships between Nations from News",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1167/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sebastian Gehrmann",
+      "Steven Layne",
+      "Franck Dernoncourt"
+    ],
+    "conference": "naacl",
+    "id": "3f49c4b8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Human Text Comprehension through Semi-Markov CRF-based Neural Section Title Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1168/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tatsunori Hashimoto",
+      "Hugh Zhang",
+      "Percy Liang"
+    ],
+    "conference": "naacl",
+    "id": "e042a44e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unifying Human and Statistical Evaluation for Natural Language Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1169/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Abigail See",
+      "Stephen Roller",
+      "Douwe Kiela",
+      "Jason Weston"
+    ],
+    "conference": "naacl",
+    "id": "27d1a054",
+    "metadata": {
+      "words": []
+    },
+    "name": "What makes a good conversation? How controllable attributes affect human judgments",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1170/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kartik Goyal",
+      "Chris Dyer",
+      "Taylor Berg-Kirkpatrick"
+    ],
+    "conference": "naacl",
+    "id": "922163ae",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1171/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "He He",
+      "Nanyun Peng",
+      "Percy Liang"
+    ],
+    "conference": "naacl",
+    "id": "a67f6be8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Pun Generation with Surprise",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1172/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yang Liu",
+      "Ivan Titov",
+      "Mirella Lapata"
+    ],
+    "conference": "naacl",
+    "id": "108a64ee",
+    "metadata": {
+      "words": []
+    },
+    "name": "Single Document Summarization as Tree Induction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1173/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Christopher Hidey",
+      "Kathy McKeown"
+    ],
+    "conference": "naacl",
+    "id": "06263559",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fixed That for You: Generating Contrastive Claims with Semantic Edits",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1174/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Felix Soldner",
+      "Ver\u00f3nica P\u00e9rez-Rosas",
+      "Rada Mihalcea"
+    ],
+    "conference": "naacl",
+    "id": "7d807ebf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Box of Lies: Multimodal Deception Detection in Dialogues",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1175/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Massimo Poesio",
+      "Jon Chamberlain",
+      "Silviu Paun",
+      "Juntao Yu",
+      "Alexandra Uma",
+      "Udo Kruschwitz"
+    ],
+    "conference": "naacl",
+    "id": "dcebf1c5",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Crowdsourced Corpus of Multiple Judgments and Disagreement on Anaphoric Interpretation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1176/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tristan Miller",
+      "Maria Sukhareva",
+      "Iryna Gurevych"
+    ],
+    "conference": "naacl",
+    "id": "9df7df91",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Streamlined Method for Sourcing Discourse-level Argumentation Annotations from the Crowd",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1177/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Weiyan Shi",
+      "Tiancheng Zhao",
+      "Zhou Yu"
+    ],
+    "conference": "naacl",
+    "id": "6b62ebbd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Dialog Structure Learning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1178/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Lei Gao",
+      "Prafulla Kumar Choubey",
+      "Ruihong Huang"
+    ],
+    "conference": "naacl",
+    "id": "21976c66",
+    "metadata": {
+      "words": []
+    },
+    "name": "Modeling Document-level Causal Structures for Event Causal Relation Identification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1179/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chuhan Wu",
+      "Fangzhao Wu",
+      "Junxin Liu",
+      "Yongfeng Huang"
+    ],
+    "conference": "naacl",
+    "id": "5e039710",
+    "metadata": {
+      "words": []
+    },
+    "name": "Hierarchical User and Item Representation with Three-Tier Attention for Recommendation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1180/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tim vor der Br\u00fcck",
+      "Marc Pouly"
+    ],
+    "conference": "naacl",
+    "id": "90e8a488",
+    "metadata": {
+      "words": []
+    },
+    "name": "Text Similarity Estimation Based on Word Embeddings and Matrix Norms for Targeted Marketing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1181/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Animesh Prasad",
+      "Min-Yen Kan"
+    ],
+    "conference": "naacl",
+    "id": "b7759f83",
+    "metadata": {
+      "words": []
+    },
+    "name": "Glocal: Incorporating Global Information in Local Convolution for Keyphrase Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1182/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Iryna Haponchyk",
+      "Alessandro Moschitti"
+    ],
+    "conference": "naacl",
+    "id": "e1f5bcc7",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Study of Latent Structured Prediction Approaches to Passage Reranking",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1183/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Iz Beltagy",
+      "Kyle Lo",
+      "Waleed Ammar"
+    ],
+    "conference": "naacl",
+    "id": "050bfdfb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Combining Distant and Direct Supervision for Neural Relation Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1184/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Umme Aymun Siddiqua",
+      "Abu Nowshed Chy",
+      "Masaki Aono"
+    ],
+    "conference": "naacl",
+    "id": "6a51365e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Tweet Stance Detection Using an Attention based Neural Ensemble Model",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1185/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hiroshi Echizen\u2019ya",
+      "Kenji Araki",
+      "Eduard Hovy"
+    ],
+    "conference": "naacl",
+    "id": "e297464f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Word Embedding-Based Automatic MT Evaluation Metric using Word Position Information",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1186/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mingbo Ma",
+      "Renjie Zheng",
+      "Liang Huang"
+    ],
+    "conference": "naacl",
+    "id": "4b55a0d2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Stop in Structured Prediction for Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1187/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Geert Heyman",
+      "Bregt Verreet",
+      "Ivan Vuli\u0107",
+      "Marie-Francine Moens"
+    ],
+    "conference": "naacl",
+    "id": "c1343d6c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Unsupervised Multilingual Word Embeddings with Incremental Multilingual Hubs",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1188/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xuan Zhang",
+      "Pamela Shapiro",
+      "Gaurav Kumar",
+      "Paul McNamee",
+      "Marine Carpuat",
+      "Kevin Duh"
+    ],
+    "conference": "naacl",
+    "id": "0cae8d7e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Curriculum Learning for Domain Adaptation in Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1189/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Vaibhav Vaibhav",
+      "Sumeet Singh",
+      "Craig Stewart",
+      "Graham Neubig"
+    ],
+    "conference": "naacl",
+    "id": "f712f3e7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Robustness of Machine Translation with Synthetic Noise",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1190/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ankur Bapna",
+      "Orhan Firat"
+    ],
+    "conference": "naacl",
+    "id": "49d66bc4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Non-Parametric Adaptation for Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1191/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hao-Ran Wei",
+      "Shujian Huang",
+      "Ran Wang",
+      "Xin-yu Dai",
+      "Jiajun Chen"
+    ],
+    "conference": "naacl",
+    "id": "ead40c50",
+    "metadata": {
+      "words": []
+    },
+    "name": "Online Distilling from Checkpoints for Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1192/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Dor Muhlgay",
+      "Jonathan Herzig",
+      "Jonathan Berant"
+    ],
+    "conference": "naacl",
+    "id": "89dfc1e8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Value-based Search in Execution Space for Mapping Instructions to Programs",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1193/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Manoj Acharya",
+      "Karan Jariwala",
+      "Christopher Kanan"
+    ],
+    "conference": "naacl",
+    "id": "0cc98a02",
+    "metadata": {
+      "words": []
+    },
+    "name": "VQD: Visual Query Detection In Natural Scenes",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1194/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nikhil Mehta",
+      "Dan Goldwasser"
+    ],
+    "conference": "naacl",
+    "id": "80ee1643",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Natural Language Interaction with Robots Using Advice",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1195/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Victor Prokhorov",
+      "Mohammad Taher Pilehvar",
+      "Nigel Collier"
+    ],
+    "conference": "naacl",
+    "id": "978ba636",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generating Knowledge Graph Paths from Textual Definitions using Sequence-to-Sequence Models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1196/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jesse Thomason",
+      "Daniel Gordon",
+      "Yonatan Bisk"
+    ],
+    "conference": "naacl",
+    "id": "6a4ec71f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Shifting the Baseline: Single Modality Performance on Visual Navigation & QA",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1197/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Soham Ghosh",
+      "Anuva Agarwal",
+      "Zarana Parekh",
+      "Alexander Hauptmann"
+    ],
+    "conference": "naacl",
+    "id": "e7daf4bc",
+    "metadata": {
+      "words": []
+    },
+    "name": "ExCL: Extractive Clip Localization Using Natural Language Descriptions",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1198/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Bai Li",
+      "Yi-Te Hsu",
+      "Frank Rudzicz"
+    ],
+    "conference": "naacl",
+    "id": "4d5a6a6e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Detecting dementia in Mandarin Chinese using transfer learning from a parallel corpus",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1199/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Spandana Gella",
+      "Desmond Elliott",
+      "Frank Keller"
+    ],
+    "conference": "naacl",
+    "id": "0f1e9f88",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cross-lingual Visual Verb Sense Disambiguation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1200/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Manuel Mager",
+      "\u00d6zlem \u00c7etino\u011flu",
+      "Katharina Kann"
+    ],
+    "conference": "naacl",
+    "id": "509ea7f9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Subword-Level Language Identification for Intra-Word Code-Switching",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1201/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mattia A. Di Gangi",
+      "Roldano Cattoni",
+      "Luisa Bentivogli",
+      "Matteo Negri",
+      "Marco Turchi"
+    ],
+    "conference": "naacl",
+    "id": "299fc6e7",
+    "metadata": {
+      "words": []
+    },
+    "name": "MuST-C: a Multilingual Speech Translation Corpus",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1202/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ekaterina Vylomova",
+      "Ryan Cotterell",
+      "Trevor Cohn",
+      "Timothy Baldwin",
+      "Jason Eisner"
+    ],
+    "conference": "naacl",
+    "id": "5d55ee64",
+    "metadata": {
+      "words": []
+    },
+    "name": "Contextualization of Morphological Inflection",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1203/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jessica Ouyang",
+      "Boya Song",
+      "Kathy McKeown"
+    ],
+    "conference": "naacl",
+    "id": "19d8abab",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Robust Abstractive System for Cross-Lingual Summarization",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1204/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chunpeng Ma",
+      "Akihiro Tamura",
+      "Masao Utiyama",
+      "Eiichiro Sumita",
+      "Tiejun Zhao"
+    ],
+    "conference": "naacl",
+    "id": "481c0d9a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Neural Machine Translation with Neural Syntactic Distance",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1205/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Patrick Simianer",
+      "Joern Wuebker",
+      "John DeNero"
+    ],
+    "conference": "naacl",
+    "id": "80da1465",
+    "metadata": {
+      "words": []
+    },
+    "name": "Measuring Immediate Adaptation Performance for Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1206/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Weijia Xu",
+      "Xing Niu",
+      "Marine Carpuat"
+    ],
+    "conference": "naacl",
+    "id": "c5de5c53",
+    "metadata": {
+      "words": []
+    },
+    "name": "Differentiable Sampling with Flexible Reference Word Order for Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1207/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Gaurav Kumar",
+      "George Foster",
+      "Colin Cherry",
+      "Maxim Krikun"
+    ],
+    "conference": "naacl",
+    "id": "1b2d3b6e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Reinforcement Learning based Curriculum Optimization for Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1208/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Brian Thompson",
+      "Jeremy Gwinnup",
+      "Huda Khayrallah",
+      "Kevin Duh",
+      "Philipp Koehn"
+    ],
+    "conference": "naacl",
+    "id": "04565642",
+    "metadata": {
+      "words": []
+    },
+    "name": "Overcoming Catastrophic Forgetting During Domain Adaptation of Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1209/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Marco Del Tredici",
+      "Raquel Fern\u00e1ndez",
+      "Gemma Boleda"
+    ],
+    "conference": "naacl",
+    "id": "f20d800a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Short-Term Meaning Shift: A Distributional Exploration",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1210/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Michael Wiegand",
+      "Maximilian Wolf",
+      "Josef Ruppenhofer"
+    ],
+    "conference": "naacl",
+    "id": "bebab76d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Detecting Derogatory Compounds \u2013 An Unsupervised Approach",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1211/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Guangneng Hu"
+    ],
+    "conference": "naacl",
+    "id": "43ea29b3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Personalized Neural Embeddings for Collaborative Filtering with Text",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1212/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Alexandra Chronopoulou",
+      "Christos Baziotis",
+      "Alexandros Potamianos"
+    ],
+    "conference": "naacl",
+    "id": "36c9c4a3",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1213/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Abhishek Singh",
+      "Eduardo Blanco",
+      "Wei Jin"
+    ],
+    "conference": "naacl",
+    "id": "383640ca",
+    "metadata": {
+      "words": []
+    },
+    "name": "Incorporating Emoji Descriptions Improves Tweet Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1214/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Daisuke Oba",
+      "Naoki Yoshinaga",
+      "Shoetsu Sato",
+      "Satoshi Akasaki",
+      "Masashi Toyoda"
+    ],
+    "conference": "naacl",
+    "id": "b8e75e15",
+    "metadata": {
+      "words": []
+    },
+    "name": "Modeling Personal Biases in Language Use by Inducing Personalized Word Embeddings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1215/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ramy Baly",
+      "Georgi Karadzhov",
+      "Abdelrhman Saleh",
+      "James Glass",
+      "Preslav Nakov"
+    ],
+    "conference": "naacl",
+    "id": "019dea1d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-Task Ordinal Regression for Jointly Predicting the Trustworthiness and the Leading Political Ideology of News Media",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1216/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yanyan Zou",
+      "Wei Lu"
+    ],
+    "conference": "naacl",
+    "id": "3bff1142",
+    "metadata": {
+      "words": []
+    },
+    "name": "Joint Detection and Location of English Puns",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1217/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "David Vilares",
+      "Carlos G\u00f3mez-Rodr\u00edguez"
+    ],
+    "conference": "naacl",
+    "id": "ebb281a8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Harry Potter and the Action Prediction Challenge from Natural Language",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1218/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xinyu Hua",
+      "Mitko Nikolov",
+      "Nikhil Badugu",
+      "Lu Wang"
+    ],
+    "conference": "naacl",
+    "id": "ce5341d5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Argument Mining for Understanding Peer Reviews",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1219/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "David Bamman",
+      "Sejal Popat",
+      "Sheng Shen"
+    ],
+    "conference": "naacl",
+    "id": "8aa86c12",
+    "metadata": {
+      "words": []
+    },
+    "name": "An annotated dataset of literary entities",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1220/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Pushkar Mishra",
+      "Marco Del Tredici",
+      "Helen Yannakoudakis",
+      "Ekaterina Shutova"
+    ],
+    "conference": "naacl",
+    "id": "069fa8bd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Abusive Language Detection with Graph Convolutional Networks",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1221/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mohammad Taher Pilehvar"
+    ],
+    "conference": "naacl",
+    "id": "a3535385",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Importance of Distinguishing Word Meaning Representations: A Case Study on Reverse Dictionary Mapping",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1222/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kris Cao",
+      "Stephen Clark"
+    ],
+    "conference": "naacl",
+    "id": "be07225a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Factorising AMR generation through syntax",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1223/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Anca Dumitrache",
+      "Lora Aroyo",
+      "Chris Welty"
+    ],
+    "conference": "naacl",
+    "id": "83eafd14",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Crowdsourced Frame Disambiguation Corpus with Ambiguity",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1224/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nelson F. Liu",
+      "Roy Schwartz",
+      "Noah A. Smith"
+    ],
+    "conference": "naacl",
+    "id": "108174ad",
+    "metadata": {
+      "words": []
+    },
+    "name": "Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1225/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Dai Quoc Nguyen",
+      "Thanh Vu",
+      "Tu Dinh Nguyen",
+      "Dat Quoc Nguyen",
+      "Dinh Phung"
+    ],
+    "conference": "naacl",
+    "id": "15b4d70e",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1226/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Qiang Ning",
+      "Hangfeng He",
+      "Chuchu Fan",
+      "Dan Roth"
+    ],
+    "conference": "naacl",
+    "id": "090b690c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Partial Or Complete, That\u2019s The Question",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1227/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jianxin Yang",
+      "Wenge Rong",
+      "Libin Shi",
+      "Zhang Xiong"
+    ],
+    "conference": "naacl",
+    "id": "7dc85aa1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sequential Attention with Keyword Mask Model for Community-based Question Answering",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1228/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Peng Shi",
+      "Jinfeng Rao",
+      "Jimmy Lin"
+    ],
+    "conference": "naacl",
+    "id": "29c09b22",
+    "metadata": {
+      "words": []
+    },
+    "name": "Simple Attention-Based Representation Learning for Ranking Short Social Media Posts",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1229/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Santosh Tokala",
+      "Vishal G",
+      "Avirup Saha",
+      "Niloy Ganguly"
+    ],
+    "conference": "naacl",
+    "id": "c8ffc254",
+    "metadata": {
+      "words": []
+    },
+    "name": "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1230/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Alexander Erdmann",
+      "David Joseph Wrisley",
+      "Benjamin Allen",
+      "Christopher Brown",
+      "Sophie Cohen-Bod\u00e9n\u00e8s",
+      "Micha Elsner",
+      "Yukun Feng",
+      "Brian Joseph",
+      "B\u00e9atrice Joyeux-Prunel",
+      "Marie-Catherine de Marneffe"
+    ],
+    "conference": "naacl",
+    "id": "dad4f7e5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Practical, Efficient, and Customizable Active Learning for Named Entity Recognition in the Digital Humanities",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1231/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yifei Zhang",
+      "Hao Zhu"
+    ],
+    "conference": "naacl",
+    "id": "00da3dcc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Doc2hash: Learning Discrete Latent variables for Documents Retrieval",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1232/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Guy Tevet",
+      "Gavriel Habib",
+      "Vered Shwartz",
+      "Jonathan Berant"
+    ],
+    "conference": "naacl",
+    "id": "b61aaa9f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Evaluating Text GANs as Language Models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1233/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Md. Akmal Haidar",
+      "Mehdi Rezagholizadeh",
+      "Alan Do Omri",
+      "Ahmad Rashid"
+    ],
+    "conference": "naacl",
+    "id": "57382cca",
+    "metadata": {
+      "words": []
+    },
+    "name": "Latent Code and Text-based Generative Adversarial Networks for Soft-text Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1234/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Valerie Hajdik",
+      "Jan Buys",
+      "Michael Wayne Goodman",
+      "Emily M. Bender"
+    ],
+    "conference": "naacl",
+    "id": "028c86f3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Text Generation from Rich Semantic Representations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1235/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Amit Moryossef",
+      "Yoav Goldberg",
+      "Ido Dagan"
+    ],
+    "conference": "naacl",
+    "id": "3cbbf07d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1236/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tom Hosking",
+      "Sebastian Riedel"
+    ],
+    "conference": "naacl",
+    "id": "f0291fbc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Evaluating Rewards for Question Generation Models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1237/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Rik Koncel-Kedziorski",
+      "Dhanush Bekal",
+      "Yi Luan",
+      "Mirella Lapata",
+      "Hannaneh Hajishirzi"
+    ],
+    "conference": "naacl",
+    "id": "21e2864e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Text Generation from Knowledge Graphs with Graph Transformers",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1238/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nikita Bhutani",
+      "Yoshihiko Suhara",
+      "Wang-Chiew Tan",
+      "Alon Halevy",
+      "H. V. Jagadish"
+    ],
+    "conference": "naacl",
+    "id": "1566b0c7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Open Information Extraction from Question-Answer Pairs",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1239/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nicola De Cao",
+      "Wilker Aziz",
+      "Ivan Titov"
+    ],
+    "conference": "naacl",
+    "id": "a9dd73a4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Question Answering by Reasoning Across Documents with Graph Convolutional Networks",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1240/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mark Yatskar"
+    ],
+    "conference": "naacl",
+    "id": "b640f611",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1241/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hu Xu",
+      "Bing Liu",
+      "Lei Shu",
+      "Philip Yu"
+    ],
+    "conference": "naacl",
+    "id": "8b805cfe",
+    "metadata": {
+      "words": []
+    },
+    "name": "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1242/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ahmad Sakor",
+      "Isaiah Onando Mulang\u2019",
+      "Kuldeep Singh",
+      "Saeedeh Shekarpour",
+      "Maria Esther Vidal",
+      "Jens Lehmann",
+      "S\u00f6ren Auer"
+    ],
+    "conference": "naacl",
+    "id": "1971bf43",
+    "metadata": {
+      "words": []
+    },
+    "name": "Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1243/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xinya Du",
+      "Bhavana Dalvi",
+      "Niket Tandon",
+      "Antoine Bosselut",
+      "Wen-tau Yih",
+      "Peter Clark",
+      "Claire Cardie"
+    ],
+    "conference": "naacl",
+    "id": "01d6d55b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Be Consistent! Improving Procedural Text Comprehension using Label Consistency",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1244/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Aida Amini",
+      "Saadia Gabriel",
+      "Shanchuan Lin",
+      "Rik Koncel-Kedziorski",
+      "Yejin Choi",
+      "Hannaneh Hajishirzi"
+    ],
+    "conference": "naacl",
+    "id": "1c28eb37",
+    "metadata": {
+      "words": []
+    },
+    "name": "MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1245/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Dheeru Dua",
+      "Yizhong Wang",
+      "Pradeep Dasigi",
+      "Gabriel Stanovsky",
+      "Sameer Singh",
+      "Matt Gardner"
+    ],
+    "conference": "naacl",
+    "id": "67d5f2db",
+    "metadata": {
+      "words": []
+    },
+    "name": "DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1246/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wei Liu",
+      "Tongge Xu",
+      "Qinghua Xu",
+      "Jiayu Song",
+      "Yueran Zu"
+    ],
+    "conference": "naacl",
+    "id": "22c839bd",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Encoding Strategy Based Word-Character LSTM for Chinese NER",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1247/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hamdy Mubarak",
+      "Ahmed Abdelali",
+      "Hassan Sajjad",
+      "Younes Samih",
+      "Kareem Darwish"
+    ],
+    "conference": "naacl",
+    "id": "ed69bc60",
+    "metadata": {
+      "words": []
+    },
+    "name": "Highly Effective Arabic Diacritization using Sequence to Sequence Modeling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1248/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Peng Lu",
+      "Ting Bai",
+      "Philippe Langlais"
+    ],
+    "conference": "naacl",
+    "id": "37d17f8e",
+    "metadata": {
+      "words": []
+    },
+    "name": "SC-LSTM: Learning Task-Specific Representations in Multi-Task Learning for Sequence Labeling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1249/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yasumasa Onoe",
+      "Greg Durrett"
+    ],
+    "conference": "naacl",
+    "id": "44f26dd8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Denoise Distantly-Labeled Data for Entity Typing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1250/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Simon Flachs",
+      "Oph\u00e9lie Lacroix",
+      "Marek Rei",
+      "Helen Yannakoudakis",
+      "Anders S\u00f8gaard"
+    ],
+    "conference": "naacl",
+    "id": "157a6fda",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Simple and Robust Approach to Detecting Subject-Verb Agreement Errors",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1251/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ronald Cardenas",
+      "Ying Lin",
+      "Heng Ji",
+      "Jonathan May"
+    ],
+    "conference": "naacl",
+    "id": "968a5bef",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Grounded Unsupervised Universal Part-of-Speech Tagger for Low-Resource Languages",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1252/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wasi Ahmad",
+      "Zhisong Zhang",
+      "Xuezhe Ma",
+      "Eduard Hovy",
+      "Kai-Wei Chang",
+      "Nanyun Peng"
+    ],
+    "conference": "naacl",
+    "id": "537f6aa8",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Difficulties of Cross-Lingual Transfer with Order Differences: A Case Study on Dependency Parsing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1253/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mingda Chen",
+      "Qingming Tang",
+      "Sam Wiseman",
+      "Kevin Gimpel"
+    ],
+    "conference": "naacl",
+    "id": "1593bdf7",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Multi-Task Approach for Disentangling Syntax and Semantics in Sentence Representations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1254/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hong-You Chen",
+      "Chin-Hua Hu",
+      "Leila Wehbe",
+      "Shou-De Lin"
+    ],
+    "conference": "naacl",
+    "id": "184c7bda",
+    "metadata": {
+      "words": []
+    },
+    "name": "Self-Discriminative Learning for Unsupervised Document Embedding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1255/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Byung-Ju Choi",
+      "Jun-Hyung Park",
+      "SangKeun Lee"
+    ],
+    "conference": "naacl",
+    "id": "ec574f70",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Convolution for Text Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1256/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Soufian Jebbara",
+      "Philipp Cimiano"
+    ],
+    "conference": "naacl",
+    "id": "18e0318d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Zero-Shot Cross-Lingual Opinion Target Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1257/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xiaoye Qu",
+      "Zhikang Zou",
+      "Yu Cheng",
+      "Yang Yang",
+      "Pan Zhou"
+    ],
+    "conference": "naacl",
+    "id": "b4c3412c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Category Alignment Network for Cross-domain Sentiment Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1258/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Zhifang Fan",
+      "Zhen Wu",
+      "Xin-Yu Dai",
+      "Shujian Huang",
+      "Jiajun Chen"
+    ],
+    "conference": "naacl",
+    "id": "57c79dda",
+    "metadata": {
+      "words": []
+    },
+    "name": "Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1259/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Byeongchang Kim",
+      "Hyunwoo Kim",
+      "Gunhee Kim"
+    ],
+    "conference": "naacl",
+    "id": "65099b77",
+    "metadata": {
+      "words": []
+    },
+    "name": "Abstractive Summarization of Reddit Posts with Multi-level Memory Networks",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1260/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Menglin Xia",
+      "Ekaterina Kochmar",
+      "Ted Briscoe"
+    ],
+    "conference": "naacl",
+    "id": "92e47521",
+    "metadata": {
+      "words": []
+    },
+    "name": "Automatic learner summary assessment for reading comprehension",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1261/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Avinesh P.V.S",
+      "Christian M. Meyer"
+    ],
+    "conference": "naacl",
+    "id": "c7041e36",
+    "metadata": {
+      "words": []
+    },
+    "name": "Data-efficient Neural Text Compression with Interactive Learning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1262/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hao Peng",
+      "Ankur Parikh",
+      "Manaal Faruqui",
+      "Bhuwan Dhingra",
+      "Dipanjan Das"
+    ],
+    "conference": "naacl",
+    "id": "490c4677",
+    "metadata": {
+      "words": []
+    },
+    "name": "Text Generation with Exemplar-based Adaptive Decoding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1263/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kristjan Arumae",
+      "Fei Liu"
+    ],
+    "conference": "naacl",
+    "id": "31a843de",
+    "metadata": {
+      "words": []
+    },
+    "name": "Guiding Extractive Summarization with Question-Answering Rewards",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1264/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ravi Shekhar",
+      "Aashish Venkatesh",
+      "Tim Baumg\u00e4rtner",
+      "Elia Bruni",
+      "Barbara Plank",
+      "Raffaella Bernardi",
+      "Raquel Fern\u00e1ndez"
+    ],
+    "conference": "naacl",
+    "id": "f6babf43",
+    "metadata": {
+      "words": []
+    },
+    "name": "Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1265/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yiqun Yao",
+      "Jiaming Xu",
+      "Bo Xu"
+    ],
+    "conference": "naacl",
+    "id": "b74ebd30",
+    "metadata": {
+      "words": []
+    },
+    "name": "The World in My Mind: Visual Dialog with Adversarial Multi-modal Feature Encoding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1266/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Paul Pu Liang",
+      "Yao Chong Lim",
+      "Yao-Hung Hubert Tsai",
+      "Ruslan Salakhutdinov",
+      "Louis-Philippe Morency"
+    ],
+    "conference": "naacl",
+    "id": "b5d47f8d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Strong and Simple Baselines for Multimodal Utterance Embeddings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1267/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hao Tan",
+      "Licheng Yu",
+      "Mohit Bansal"
+    ],
+    "conference": "naacl",
+    "id": "c445c2cd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1268/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shrimai Prabhumoye",
+      "Chris Quirk",
+      "Michel Galley"
+    ],
+    "conference": "naacl",
+    "id": "d92b688c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Towards Content Transfer through Grounded Text Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1269/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kai Sun",
+      "Dian Yu",
+      "Dong Yu",
+      "Claire Cardie"
+    ],
+    "conference": "naacl",
+    "id": "a92a08fe",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Machine Reading Comprehension with General Reading Strategies",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1270/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yichong Xu",
+      "Xiaodong Liu",
+      "Yelong Shen",
+      "Jingjing Liu",
+      "Jianfeng Gao"
+    ],
+    "conference": "naacl",
+    "id": "8b58c3c5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-task Learning with Sample Re-weighting for Machine Reading Comprehension",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1271/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ting-Rui Chiang",
+      "Yun-Nung Chen"
+    ],
+    "conference": "naacl",
+    "id": "1cc6b16f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Semantically-Aligned Equation Generation for Solving and Reasoning Math Word Problems",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1272/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Pradeep Dasigi",
+      "Matt Gardner",
+      "Shikhar Murty",
+      "Luke Zettlemoyer",
+      "Eduard Hovy"
+    ],
+    "conference": "naacl",
+    "id": "6b391358",
+    "metadata": {
+      "words": []
+    },
+    "name": "Iterative Search for Weakly Supervised Semantic Parsing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1273/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Vikas Yadav",
+      "Steven Bethard",
+      "Mihai Surdeanu"
+    ],
+    "conference": "naacl",
+    "id": "1e3072a8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Alignment over Heterogeneous Embeddings for Question Answering",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1274/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Omid Rohanian",
+      "Shiva Taslimipoor",
+      "Samaneh Kouchaki",
+      "Le An Ha",
+      "Ruslan Mitkov"
+    ],
+    "conference": "naacl",
+    "id": "69cbc863",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bridging the Gap: Attending to Discontinuity in Identification of Multiword Expressions",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1275/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shohei Higashiyama",
+      "Masao Utiyama",
+      "Eiichiro Sumita",
+      "Masao Ideuchi",
+      "Yoshiaki Oida",
+      "Yohei Sakamoto",
+      "Isaac Okada"
+    ],
+    "conference": "naacl",
+    "id": "0b580992",
+    "metadata": {
+      "words": []
+    },
+    "name": "Incorporating Word Attention into Character-Based Word Segmentation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1276/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chi Sun",
+      "Xipeng Qiu",
+      "Xuanjing Huang"
+    ],
+    "conference": "naacl",
+    "id": "bddc05b4",
+    "metadata": {
+      "words": []
+    },
+    "name": "VCWE: Visual Character-Enhanced Word Embeddings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1277/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jie Yang",
+      "Yue Zhang",
+      "Shuailong Liang"
+    ],
+    "conference": "naacl",
+    "id": "1b34341c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Subword Encoding in Lattice LSTM for Chinese Word Segmentation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1278/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yuxiao Ye",
+      "Weikang Li",
+      "Yue Zhang",
+      "Likun Qiu",
+      "Jian Sun"
+    ],
+    "conference": "naacl",
+    "id": "ccf55d9d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Cross-Domain Chinese Word Segmentation with Word Embeddings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1279/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Apostolos Kemos",
+      "Heike Adel",
+      "Hinrich Sch\u00fctze"
+    ],
+    "conference": "naacl",
+    "id": "eb52dc88",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Semi-Markov Conditional Random Fields for Robust Character-Based Part-of-Speech Tagging",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1280/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Arseny Tolmachev",
+      "Daisuke Kawahara",
+      "Sadao Kurohashi"
+    ],
+    "conference": "naacl",
+    "id": "c1c66e48",
+    "metadata": {
+      "words": []
+    },
+    "name": "Shrinking Japanese Morphological Analyzers With Neural Networks and Semi-supervised Learning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1281/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Paria Jamshid Lou",
+      "Yufei Wang",
+      "Mark Johnson"
+    ],
+    "conference": "naacl",
+    "id": "63effef0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Constituency Parsing of Speech Transcripts",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1282/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Suyoun Kim",
+      "Florian Metze"
+    ],
+    "conference": "naacl",
+    "id": "d6dc5c85",
+    "metadata": {
+      "words": []
+    },
+    "name": "Acoustic-to-Word Models with Conversational Context Information",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1283/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hao Cheng",
+      "Hao Fang",
+      "Mari Ostendorf"
+    ],
+    "conference": "naacl",
+    "id": "75c6130c",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Dynamic Speaker Model for Conversational Interactions",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1284/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Elizabeth Salesky",
+      "Matthias Sperber",
+      "Alexander Waibel"
+    ],
+    "conference": "naacl",
+    "id": "937d5fe0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fluent Translations from Disfluent Speech in End-to-End Speech Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1285/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Van-Hien Tran",
+      "Van-Thuy Phi",
+      "Hiroyuki Shindo",
+      "Yuji Matsumoto"
+    ],
+    "conference": "naacl",
+    "id": "304a71fb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Relation Classification Using Segment-Level Attention-based CNN and Dependency-based RNN",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1286/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Zhong Qian",
+      "Peifeng Li",
+      "Qiaoming Zhu",
+      "Guodong Zhou"
+    ],
+    "conference": "naacl",
+    "id": "17561909",
+    "metadata": {
+      "words": []
+    },
+    "name": "Document-Level Event Factuality Identification via Adversarial Neural Network",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1287/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Zhi-Xiu Ye",
+      "Zhen-Hua Ling"
+    ],
+    "conference": "naacl",
+    "id": "093fd3ed",
+    "metadata": {
+      "words": []
+    },
+    "name": "Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1288/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Bingyu Wang",
+      "Li Chen",
+      "Wei Sun",
+      "Kechen Qin",
+      "Kefeng Li",
+      "Hui Zhou"
+    ],
+    "conference": "naacl",
+    "id": "a037ea08",
+    "metadata": {
+      "words": []
+    },
+    "name": "Ranking-Based Autoencoder for Extreme Multi-label Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1289/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Qi Zhang",
+      "Siliang Tang",
+      "Xiang Ren",
+      "Fei Wu",
+      "Shiliang Pu",
+      "Yueting Zhuang"
+    ],
+    "conference": "naacl",
+    "id": "1d04be5d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Posterior-regularized REINFORCE for Instance Selection in Distant Supervision",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1290/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Rashidul Islam",
+      "James Foulds"
+    ],
+    "conference": "naacl",
+    "id": "62938e6b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Scalable Collapsed Inference for High-Dimensional Topic Models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1291/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wang Chen",
+      "Hou Pong Chan",
+      "Piji Li",
+      "Lidong Bing",
+      "Irwin King"
+    ],
+    "conference": "naacl",
+    "id": "6fe8cee0",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Integrated Approach for Keyphrase Generation via Exploring the Power of Retrieval and Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1292/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Arpita Roy",
+      "Youngja Park",
+      "Shimei Pan"
+    ],
+    "conference": "naacl",
+    "id": "2cd4243f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Predicting Malware Attributes from Cybersecurity Texts",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1293/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Bo Chen",
+      "Xiaotao Gu",
+      "Yufeng Hu",
+      "Siliang Tang",
+      "Guoping Hu",
+      "Yueting Zhuang",
+      "Xiang Ren"
+    ],
+    "conference": "naacl",
+    "id": "2aa117fb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Distantly-supervised Entity Typing with Compact Latent Space Clustering",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1294/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Maolin Li",
+      "Arvid Fahlstr\u00f6m Myrman",
+      "Tingting Mu",
+      "Sophia Ananiadou"
+    ],
+    "conference": "naacl",
+    "id": "9f80a7f3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Modelling Instance-Level Annotator Reliability for Natural Language Labelling Tasks",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1295/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Guangxiang Zhao",
+      "Jingjing Xu",
+      "Qi Zeng",
+      "Xuancheng Ren",
+      "Xu Sun"
+    ],
+    "conference": "naacl",
+    "id": "465646e9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1296/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Zihao Fu",
+      "Yankai Lin",
+      "Zhiyuan Liu",
+      "Wai Lam"
+    ],
+    "conference": "naacl",
+    "id": "fa80b912",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fact Discovery from Knowledge Base via Facet Decomposition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1297/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Duy-Cat Can",
+      "Hoang-Quynh Le",
+      "Quang-Thuy Ha",
+      "Nigel Collier"
+    ],
+    "conference": "naacl",
+    "id": "bf7756e3",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Richer-but-Smarter Shortest Dependency Path with Attentive Augmentation for Relation Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1298/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yu Chen",
+      "Lingfei Wu",
+      "Mohammed J. Zaki"
+    ],
+    "conference": "naacl",
+    "id": "8f985274",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1299/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Christopher Clark",
+      "Kenton Lee",
+      "Ming-Wei Chang",
+      "Tom Kwiatkowski",
+      "Michael Collins",
+      "Kristina Toutanova"
+    ],
+    "conference": "naacl",
+    "id": "d395ad72",
+    "metadata": {
+      "words": []
+    },
+    "name": "BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1300/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kun Xu",
+      "Yuxuan Lai",
+      "Yansong Feng",
+      "Zhiguo Wang"
+    ],
+    "conference": "naacl",
+    "id": "17f4f24c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1301/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Harsh Trivedi",
+      "Heeyoung Kwon",
+      "Tushar Khot",
+      "Ashish Sabharwal",
+      "Niranjan Balasubramanian"
+    ],
+    "conference": "naacl",
+    "id": "f41625bb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Repurposing Entailment for Multi-Hop Question Answering Tasks",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1302/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ananya",
+      "Nitya Parthasarthi",
+      "Sameer Singh"
+    ],
+    "conference": "naacl",
+    "id": "e36db240",
+    "metadata": {
+      "words": []
+    },
+    "name": "GenderQuant: Quantifying Mention-Level Genderedness",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1303/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Dorottya Demszky",
+      "Nikhil Garg",
+      "Rob Voigt",
+      "James Zou",
+      "Jesse Shapiro",
+      "Matthew Gentzkow",
+      "Dan Jurafsky"
+    ],
+    "conference": "naacl",
+    "id": "1d4e2e63",
+    "metadata": {
+      "words": []
+    },
+    "name": "Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1304/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jing Qian",
+      "Mai ElSherief",
+      "Elizabeth Belding",
+      "William Yang Wang"
+    ],
+    "conference": "naacl",
+    "id": "a56b2e8e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Decipher Hate Symbols",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1305/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ningyu Zhang",
+      "Shumin Deng",
+      "Zhanlin Sun",
+      "Guanying Wang",
+      "Xi Chen",
+      "Wei Zhang",
+      "Huajun Chen"
+    ],
+    "conference": "naacl",
+    "id": "60f3c2aa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1306/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Pengshuai Li",
+      "Xinsong Zhang",
+      "Weijia Jia",
+      "Hai Zhao"
+    ],
+    "conference": "naacl",
+    "id": "a77fb84a",
+    "metadata": {
+      "words": []
+    },
+    "name": "GAN Driven Semi-distant Supervision for Relation Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1307/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yi Luan",
+      "Dave Wadden",
+      "Luheng He",
+      "Amy Shah",
+      "Mari Ostendorf",
+      "Hannaneh Hajishirzi"
+    ],
+    "conference": "naacl",
+    "id": "7e25321c",
+    "metadata": {
+      "words": []
+    },
+    "name": "A general framework for information extraction using dynamic span graphs",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1308/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Colin Lockard",
+      "Prashant Shiralkar",
+      "Xin Luna Dong"
+    ],
+    "conference": "naacl",
+    "id": "5c911191",
+    "metadata": {
+      "words": []
+    },
+    "name": "OpenCeres: When Open Information Extraction Meets the Semi-Structured Web",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1309/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Fan Bai",
+      "Alan Ritter"
+    ],
+    "conference": "naacl",
+    "id": "1f0df58f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Structured Minimally Supervised Learning for Neural Relation Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1310/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Antonios Anastasopoulos",
+      "Alison Lui",
+      "Toan Q. Nguyen",
+      "David Chiang"
+    ],
+    "conference": "naacl",
+    "id": "ca762064",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Machine Translation of Text from Non-Native Speakers",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1311/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shuhao Gu",
+      "Yang Feng",
+      "Qun Liu"
+    ],
+    "conference": "naacl",
+    "id": "a953bf55",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Domain Adaptation Translation with Domain Invariant and Specific Information",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1312/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sameen Maruf",
+      "Andr\u00e9 F. T. Martins",
+      "Gholamreza Haffari"
+    ],
+    "conference": "naacl",
+    "id": "0a3add9f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Selective Attention for Context-aware Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1313/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Paul Michel",
+      "Xian Li",
+      "Graham Neubig",
+      "Juan Pino"
+    ],
+    "conference": "naacl",
+    "id": "36f7e8fe",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1314/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kazuma Hashimoto",
+      "Yoshimasa Tsuruoka"
+    ],
+    "conference": "naacl",
+    "id": "ee441e50",
+    "metadata": {
+      "words": []
+    },
+    "name": "Accelerated Reinforcement Learning for Sentence Generation by Vocabulary Prediction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1315/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xuchao Zhang",
+      "Fanglan Chen",
+      "Chang-Tien Lu",
+      "Naren Ramakrishnan"
+    ],
+    "conference": "naacl",
+    "id": "b6d2857c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Mitigating Uncertainty in Document Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1316/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Reno Kriz",
+      "Jo\u00e3o Sedoc",
+      "Marianna Apidianaki",
+      "Carolina Zheng",
+      "Gaurav Kumar",
+      "Eleni Miltsakaki",
+      "Chris Callison-Burch"
+    ],
+    "conference": "naacl",
+    "id": "8d0802e8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Complexity-Weighted Loss and Diverse Reranking for Sentence Simplification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1317/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kishaloy Halder",
+      "Min-Yen Kan",
+      "Kazunari Sugiyama"
+    ],
+    "conference": "naacl",
+    "id": "ace8b2c3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Predicting Helpful Posts in Open-Ended Discussion Forums: A Neural Architecture",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1318/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Abhijit Mahabal",
+      "Jason Baldridge",
+      "Burcu Karagol Ayan",
+      "Vincent Perot",
+      "Dan Roth"
+    ],
+    "conference": "naacl",
+    "id": "918243de",
+    "metadata": {
+      "words": []
+    },
+    "name": "Text Classification with Few Examples using Controlled Generalization",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1319/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hongyu Gong",
+      "Suma Bhat",
+      "Lingfei Wu",
+      "JinJun Xiong",
+      "Wen-mei Hwu"
+    ],
+    "conference": "naacl",
+    "id": "e204cc0d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1320/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kechen Qin",
+      "Cheng Li",
+      "Virgil Pavlu",
+      "Javed Aslam"
+    ],
+    "conference": "naacl",
+    "id": "c3c9d677",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adapting RNN Sequence Prediction Model to Multi-label Set Prediction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1321/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sudipta Saha Shubha",
+      "Nafis Sadeq",
+      "Shafayat Ahmed",
+      "Md. Nahidul Islam",
+      "Muhammad Abdullah Adnan",
+      "Md. Yasin Ali Khan",
+      "Mohammad Zuberul Islam"
+    ],
+    "conference": "naacl",
+    "id": "dd46a7f5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Customizing Grapheme-to-Phoneme System for Non-Trivial Transcription Problems in Bangla Language",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1322/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Peng Xu",
+      "Denilson Barbosa"
+    ],
+    "conference": "naacl",
+    "id": "b59ff8c0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Connecting Language and Knowledge with Heterogeneous Representations for Neural Relation Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1323/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Geewook Kim",
+      "Kazuki Fukui",
+      "Hidetoshi Shimodaira"
+    ],
+    "conference": "naacl",
+    "id": "ed792b1d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Segmentation-free compositional n-gram embedding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1324/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kaijia Yang",
+      "Liang He",
+      "Xin-yu Dai",
+      "Shujian Huang",
+      "Jiajun Chen"
+    ],
+    "conference": "naacl",
+    "id": "5677fd4b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Exploiting Noisy Data in Distant Supervision Relation Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1325/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Aleksandra Piktus",
+      "Necati Bora Edizel",
+      "Piotr Bojanowski",
+      "Edouard Grave",
+      "Rui Ferreira",
+      "Fabrizio Silvestri"
+    ],
+    "conference": "naacl",
+    "id": "3fb48406",
+    "metadata": {
+      "words": []
+    },
+    "name": "Misspelling Oblivious Word Embeddings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1326/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Gaetano Rossiello",
+      "Alfio Gliozzo",
+      "Robert Farrell",
+      "Nicolas Fauceglia",
+      "Michael Glass"
+    ],
+    "conference": "naacl",
+    "id": "3a4542fd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Relational Representations by Analogy using Hierarchical Siamese Networks",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1327/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ishan Jindal",
+      "Daniel Pressel",
+      "Brian Lester",
+      "Matthew Nokleby"
+    ],
+    "conference": "naacl",
+    "id": "2f2572c8",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Effective Label Noise Model for DNN Text Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1328/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Naomi Saphra",
+      "Adam Lopez"
+    ],
+    "conference": "naacl",
+    "id": "3809b93f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding Learning Dynamics Of Language Models with SVCCA",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1329/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yiben Yang",
+      "Ji-Ping Wang",
+      "Doug Downey"
+    ],
+    "conference": "naacl",
+    "id": "117c9920",
+    "metadata": {
+      "words": []
+    },
+    "name": "Using Large Corpus N-gram Statistics to Improve Recurrent Neural Language Models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1330/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tianlin Liu",
+      "Lyle Ungar",
+      "Jo\u00e3o Sedoc"
+    ],
+    "conference": "naacl",
+    "id": "abd557e8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Continual Learning for Sentence Representations Using Conceptors",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1331/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yan Liang",
+      "Xin Liu",
+      "Jianwen Zhang",
+      "Yangqiu Song"
+    ],
+    "conference": "naacl",
+    "id": "7066d6cf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Relation Discovery with Out-of-Relation Knowledge Base as Supervision",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1332/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jared Lichtarge",
+      "Chris Alberti",
+      "Shankar Kumar",
+      "Noam Shazeer",
+      "Niki Parmar",
+      "Simon Tong"
+    ],
+    "conference": "naacl",
+    "id": "da8f8f86",
+    "metadata": {
+      "words": []
+    },
+    "name": "Corpora Generation for Grammatical Error Correction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1333/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ethan Wilcox",
+      "Peng Qian",
+      "Richard Futrell",
+      "Miguel Ballesteros",
+      "Roger Levy"
+    ],
+    "conference": "naacl",
+    "id": "37a11659",
+    "metadata": {
+      "words": []
+    },
+    "name": "Structural Supervision Improves Learning of Non-Local Grammatical Dependencies",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1334/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Lifu Tu",
+      "Kevin Gimpel"
+    ],
+    "conference": "naacl",
+    "id": "c9d0e2d7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Benchmarking Approximate Inference Methods for Neural Structured Prediction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1335/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Minhao Cheng",
+      "Wei Wei",
+      "Cho-Jui Hsieh"
+    ],
+    "conference": "naacl",
+    "id": "59f1c01e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1336/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Pouya Pezeshkpour",
+      "Yifan Tian",
+      "Sameer Singh"
+    ],
+    "conference": "naacl",
+    "id": "1926b6bf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1337/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chinnadhurai Sankar",
+      "Sujith Ravi",
+      "Zornitsa Kozareva"
+    ],
+    "conference": "naacl",
+    "id": "20519669",
+    "metadata": {
+      "words": []
+    },
+    "name": "Transferable Neural Projection Representations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1339/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chaoyu Guan",
+      "Yuhao Cheng",
+      "Hai Zhao"
+    ],
+    "conference": "naacl",
+    "id": "0a1bc8b9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Semantic Role Labeling with Associated Memory Network",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1340/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "David Vilares",
+      "Mostafa Abdou",
+      "Anders S\u00f8gaard"
+    ],
+    "conference": "naacl",
+    "id": "f73b8cd9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Better, Faster, Stronger Sequence Tagging Constituent Parsers",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1341/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yuying Zhu",
+      "Guoxin Wang"
+    ],
+    "conference": "naacl",
+    "id": "473be180",
+    "metadata": {
+      "words": []
+    },
+    "name": "CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1342/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hiroki Teranishi",
+      "Hiroyuki Shindo",
+      "Yuji Matsumoto"
+    ],
+    "conference": "naacl",
+    "id": "9b9d7ba8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Decomposed Local Models for Coordinate Structure Parsing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1343/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hikaru Omori",
+      "Mamoru Komachi"
+    ],
+    "conference": "naacl",
+    "id": "03a157df",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-Task Learning for Japanese Predicate Argument Structure Analysis",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1344/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Luisa M\u00e4rz",
+      "Dietrich Trautmann",
+      "Benjamin Roth"
+    ],
+    "conference": "naacl",
+    "id": "25ed7e06",
+    "metadata": {
+      "words": []
+    },
+    "name": "Domain adaptation for part-of-speech tagging of noisy user-generated text",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1345/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hao Li",
+      "Wei Lu",
+      "Pengjun Xie",
+      "Linlin Li"
+    ],
+    "conference": "naacl",
+    "id": "1f313a87",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Chinese Address Parsing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1346/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hamid Karimi",
+      "Jiliang Tang"
+    ],
+    "conference": "naacl",
+    "id": "86c9a794",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Hierarchical Discourse-level Structure for Fake News Detection",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1347/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mor Geva",
+      "Eric Malmi",
+      "Idan Szpektor",
+      "Jonathan Berant"
+    ],
+    "conference": "naacl",
+    "id": "b99ae70b",
+    "metadata": {
+      "words": []
+    },
+    "name": "DiscoFuse: A Large-Scale Dataset for Discourse-Based Sentence Fusion",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1348/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wei-Jen Ko",
+      "Greg Durrett",
+      "Junyi Jessy Li"
+    ],
+    "conference": "naacl",
+    "id": "24afb3b3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Linguistically-Informed Specificity and Semantic Plausibility for Dialogue Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1349/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shonosuke Ishiwatari",
+      "Hiroaki Hayashi",
+      "Naoki Yoshinaga",
+      "Graham Neubig",
+      "Shoetsu Sato",
+      "Masashi Toyoda",
+      "Masaru Kitsuregawa"
+    ],
+    "conference": "naacl",
+    "id": "9e98150b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Describe Unknown Phrases with Local and Global Contexts",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1350/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Damien Sileo",
+      "Tim Van De Cruys",
+      "Camille Pradel",
+      "Philippe Muller"
+    ],
+    "conference": "naacl",
+    "id": "eae2d3d6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Mining Discourse Markers for Unsupervised Sentence Representation Learning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1351/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wenhu Chen",
+      "Yu Su",
+      "Yilin Shen",
+      "Zhiyu Chen",
+      "Xifeng Yan",
+      "William Yang Wang"
+    ],
+    "conference": "naacl",
+    "id": "71c8978a",
+    "metadata": {
+      "words": []
+    },
+    "name": "How Large a Vocabulary Does Text Classification Need? A Variational Approach to Vocabulary Selection",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1352/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shota Sasaki",
+      "Jun Suzuki",
+      "Kentaro Inui"
+    ],
+    "conference": "naacl",
+    "id": "cceafefd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Subword-based Compact Reconstruction of Word Embeddings",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1353/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ehsan Shareghi",
+      "Yingzhen Li",
+      "Yi Zhu",
+      "Roi Reichart",
+      "Anna Korhonen"
+    ],
+    "conference": "naacl",
+    "id": "1f0c2bac",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bayesian Learning for Neural Dependency Parsing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1354/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Han Guo",
+      "Ramakanth Pasunuru",
+      "Mohit Bansal"
+    ],
+    "conference": "naacl",
+    "id": "4e4630cd",
+    "metadata": {
+      "words": []
+    },
+    "name": "AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1355/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shauli Ravfogel",
+      "Yoav Goldberg",
+      "Tal Linzen"
+    ],
+    "conference": "naacl",
+    "id": "786444c9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Studying the Inductive Biases of RNNs with Synthetic Variations of Natural Languages",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1356/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sarthak Jain",
+      "Byron C. Wallace"
+    ],
+    "conference": "naacl",
+    "id": "b04ddafc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Attention is not Explanation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1357/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Prithviraj Ammanabrolu",
+      "Mark Riedl"
+    ],
+    "conference": "naacl",
+    "id": "31846840",
+    "metadata": {
+      "words": []
+    },
+    "name": "Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1358/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jian Li",
+      "Baosong Yang",
+      "Zi-Yi Dou",
+      "Xing Wang",
+      "Michael R. Lyu",
+      "Zhaopeng Tu"
+    ],
+    "conference": "naacl",
+    "id": "05b175bb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Information Aggregation for Multi-Head Attention with Routing-by-Agreement",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1359/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Charles Chen",
+      "Razvan Bunescu"
+    ],
+    "conference": "naacl",
+    "id": "85578692",
+    "metadata": {
+      "words": []
+    },
+    "name": "Context Dependent Semantic Parsing over Temporally Structured Data",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1360/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Arman Cohan",
+      "Waleed Ammar",
+      "Madeleine van Zuylen",
+      "Field Cady"
+    ],
+    "conference": "naacl",
+    "id": "d78e1e01",
+    "metadata": {
+      "words": []
+    },
+    "name": "Structural Scaffolds for Citation Intent Classification in Scientific Publications",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1361/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mandar Joshi",
+      "Eunsol Choi",
+      "Omer Levy",
+      "Daniel Weld",
+      "Luke Zettlemoyer"
+    ],
+    "conference": "naacl",
+    "id": "1d218f2f",
+    "metadata": {
+      "words": []
+    },
+    "name": "pair2vec: Compositional Word-Pair Embeddings for Cross-Sentence Inference",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1362/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ashutosh Kumar",
+      "Satwik Bhattamishra",
+      "Manik Bhandari",
+      "Partha Talukdar"
+    ],
+    "conference": "naacl",
+    "id": "2ba7bf16",
+    "metadata": {
+      "words": []
+    },
+    "name": "Submodular Optimization-based Diverse Paraphrasing and its Effectiveness in Data Augmentation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1363/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Diyi Yang",
+      "Jiaao Chen",
+      "Zichao Yang",
+      "Dan Jurafsky",
+      "Eduard Hovy"
+    ],
+    "conference": "naacl",
+    "id": "1e6603b0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Let\u2019s Make Your Request More Persuasive: Modeling Persuasive Strategies via Semi-Supervised Neural Nets on Crowdfunding Platforms",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1364/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ignacio Cases",
+      "Clemens Rosenbaum",
+      "Matthew Riemer",
+      "Atticus Geiger",
+      "Tim Klinger",
+      "Alex Tamkin",
+      "Olivia Li",
+      "Sandhini Agarwal",
+      "Joshua D. Greene",
+      "Dan Jurafsky",
+      "Christopher Potts",
+      "Lauri Karttunen"
+    ],
+    "conference": "naacl",
+    "id": "f4728c08",
+    "metadata": {
+      "words": []
+    },
+    "name": "Recursive Routing Networks: Learning to Compose Modules for Language Understanding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1365/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Marco Damonte",
+      "Shay B. Cohen"
+    ],
+    "conference": "naacl",
+    "id": "502afa93",
+    "metadata": {
+      "words": []
+    },
+    "name": "Structural Neural Encoders for AMR-to-text Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1366/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kathleen C. Fraser",
+      "Nicklas Linz",
+      "Bai Li",
+      "Kristina Lundholm Fors",
+      "Frank Rudzicz",
+      "Alexandra K\u00f6nig",
+      "Jan Alexandersson",
+      "Philippe Robert",
+      "Dimitrios Kokkinakis"
+    ],
+    "conference": "naacl",
+    "id": "e7b76051",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multilingual prediction of Alzheimer\u2019s disease through domain adaptation and concept-based language modelling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1367/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Debjit Paul",
+      "Anette Frank"
+    ],
+    "conference": "naacl",
+    "id": "28aaa0ac",
+    "metadata": {
+      "words": []
+    },
+    "name": "Ranking and Selecting Multi-Hop Knowledge Paths to Better Predict Human Needs",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1368/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Amy Olex",
+      "Luke Maffey",
+      "Bridget McInnes"
+    ],
+    "conference": "naacl",
+    "id": "4c6189a5",
+    "metadata": {
+      "words": []
+    },
+    "name": "NLP Whack-A-Mole: Challenges in Cross-Domain Temporal Expression Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1369/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Robin Jia",
+      "Cliff Wong",
+      "Hoifung Poon"
+    ],
+    "conference": "naacl",
+    "id": "e9c08732",
+    "metadata": {
+      "words": []
+    },
+    "name": "Document-Level N-ary Relation Extraction with Multiscale Representation Learning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1370/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Eric Lehman",
+      "Jay DeYoung",
+      "Regina Barzilay",
+      "Byron C. Wallace"
+    ],
+    "conference": "naacl",
+    "id": "e4afb8ba",
+    "metadata": {
+      "words": []
+    },
+    "name": "Inferring Which Medical Treatments Work from Reports of Clinical Trials",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1371/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jonggu Kim",
+      "Jong-Hyeok Lee"
+    ],
+    "conference": "naacl",
+    "id": "fe1f538d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Decay-Function-Free Time-Aware Attention to Context and Speaker Indicator for Spoken Language Understanding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1372/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Vipul Raheja",
+      "Joel Tetreault"
+    ],
+    "conference": "naacl",
+    "id": "e3b182b9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dialogue Act Classification with Context-Aware Self-Attention",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1373/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Pierre Colombo",
+      "Wojciech Witon",
+      "Ashutosh Modi",
+      "James Kennedy",
+      "Mubbasir Kapadia"
+    ],
+    "conference": "naacl",
+    "id": "698d4262",
+    "metadata": {
+      "words": []
+    },
+    "name": "Affect-Driven Dialog Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1374/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Revanth Gangi Reddy",
+      "Danish Contractor",
+      "Dinesh Raghu",
+      "Sachindra Joshi"
+    ],
+    "conference": "naacl",
+    "id": "719580ca",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-Level Memory for Task Oriented Dialogs",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1375/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Pooja Chitkara",
+      "Ashutosh Modi",
+      "Pravalika Avvaru",
+      "Sepehr Janghorbani",
+      "Mubbasir Kapadia"
+    ],
+    "conference": "naacl",
+    "id": "4684bf6f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Topic Spotting using Hierarchical Networks with Self Attention",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1376/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wenchao Du",
+      "Alan W Black"
+    ],
+    "conference": "naacl",
+    "id": "a5ff3826",
+    "metadata": {
+      "words": []
+    },
+    "name": "Top-Down Structurally-Constrained Neural Response Generation with Lexicalized Probabilistic Context-Free Grammar",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1377/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Laura Aina",
+      "Carina Silberer",
+      "Ionut-Teodor Sorodoc",
+      "Matthijs Westera",
+      "Gemma Boleda"
+    ],
+    "conference": "naacl",
+    "id": "7329dc41",
+    "metadata": {
+      "words": []
+    },
+    "name": "What do Entity-Centric Models Learn? Insights from Entity Linking in Multi-Party Dialogue",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1378/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Han Li",
+      "Jihwan Lee",
+      "Sidharth Mudgal",
+      "Ruhi Sarikaya",
+      "Young-Bum Kim"
+    ],
+    "conference": "naacl",
+    "id": "634184b3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Continuous Learning for Large-scale Personalized Domain Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1379/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sebastian Schuster",
+      "Sonal Gupta",
+      "Rushin Shah",
+      "Mike Lewis"
+    ],
+    "conference": "naacl",
+    "id": "04f1fb60",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cross-lingual Transfer Learning for Multilingual Task Oriented Dialog",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1380/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nouha Dziri",
+      "Ehsan Kamalloo",
+      "Kory Mathewson",
+      "Osmar Zaiane"
+    ],
+    "conference": "naacl",
+    "id": "a080bff8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Evaluating Coherence in Dialogue Systems using Entailment",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1381/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Siddhartha Arora",
+      "Mitesh M. Khapra",
+      "Harish G. Ramaswamy"
+    ],
+    "conference": "naacl",
+    "id": "a0a83a6f",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Knowledge distillation from complex networks for response prediction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1382/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Lifu Huang",
+      "Heng Ji",
+      "Jonathan May"
+    ],
+    "conference": "naacl",
+    "id": "73e64cb7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cross-lingual Multi-Level Adversarial Transfer to Enhance Low-Resource Name Tagging",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1383/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Benjamin Marie",
+      "Atsushi Fujita"
+    ],
+    "conference": "naacl",
+    "id": "070aeff7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Extraction of Partial Translations for Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1384/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Mohammad Sadegh Rasooli",
+      "Michael Collins"
+    ],
+    "conference": "naacl",
+    "id": "cd32fe4a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Low-Resource Syntactic Transfer with Unsupervised Source Reordering",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1385/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Tasnim Mohiuddin",
+      "Shafiq Joty"
+    ],
+    "conference": "naacl",
+    "id": "42e0d235",
+    "metadata": {
+      "words": []
+    },
+    "name": "Revisiting Adversarial Autoencoder for Unsupervised Word Translation with Cycle Consistency and Improved Training",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1386/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Rudra Murthy",
+      "Anoop Kunchukuttan",
+      "Pushpak Bhattacharyya"
+    ],
+    "conference": "naacl",
+    "id": "a210ff83",
+    "metadata": {
+      "words": []
+    },
+    "name": "Addressing word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1387/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Roee Aharoni",
+      "Melvin Johnson",
+      "Orhan Firat"
+    ],
+    "conference": "naacl",
+    "id": "e6bfce18",
+    "metadata": {
+      "words": []
+    },
+    "name": "Massively Multilingual Neural Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1388/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Marcel Bollmann"
+    ],
+    "conference": "naacl",
+    "id": "3fcd8405",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Large-Scale Comparison of Historical Text Normalization Systems",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1389/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Michael Roth",
+      "Shyam Upadhyay"
+    ],
+    "conference": "naacl",
+    "id": "98c5c2de",
+    "metadata": {
+      "words": []
+    },
+    "name": "Combining Discourse Markers and Cross-lingual Embeddings for Synonym\u2013Antonym Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1390/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hanan Aldarmaki",
+      "Mona Diab"
+    ],
+    "conference": "naacl",
+    "id": "b62eb680",
+    "metadata": {
+      "words": []
+    },
+    "name": "Context-Aware Cross-Lingual Mapping",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1391/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Phoebe Mulcaire",
+      "Jungo Kasai",
+      "Noah A. Smith"
+    ],
+    "conference": "naacl",
+    "id": "7c4bfcf0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Polyglot Contextual Representations Improve Crosslingual Transfer",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1392/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Manon Scholivet",
+      "Franck Dary",
+      "Alexis Nasr",
+      "Benoit Favre",
+      "Carlos Ramisch"
+    ],
+    "conference": "naacl",
+    "id": "636997e4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Typological Features for Multilingual Delexicalised Dependency Parsing",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1393/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Alexander LeClair",
+      "Collin McMillan"
+    ],
+    "conference": "naacl",
+    "id": "f4f84116",
+    "metadata": {
+      "words": []
+    },
+    "name": "Recommendations for Datasets for Source Code Summarization",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1394/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Matan Eyal",
+      "Tal Baumel",
+      "Michael Elhadad"
+    ],
+    "conference": "naacl",
+    "id": "e9f0e19a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Question Answering as an Automatic Evaluation Metric for News Article Summarization",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1395/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Krtin Kumar",
+      "Jackie Chi Kit Cheung"
+    ],
+    "conference": "naacl",
+    "id": "83521d42",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding the Behaviour of Neural Abstractive Summarizers using Contrastive Examples",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1396/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Afonso Mendes",
+      "Shashi Narayan",
+      "Sebasti\u00e3o Miranda",
+      "Zita Marinho",
+      "Andr\u00e9 F. T. Martins",
+      "Shay B. Cohen"
+    ],
+    "conference": "naacl",
+    "id": "7993474b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Jointly Extracting and Compressing Documents with Summary State Representations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1397/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sanjeev Kumar Karn",
+      "Mark Buckley",
+      "Ulli Waltinger",
+      "Hinrich Sch\u00fctze"
+    ],
+    "conference": "naacl",
+    "id": "9cdd1308",
+    "metadata": {
+      "words": []
+    },
+    "name": "News Article Teaser Tweets and How to Generate Them",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1398/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jeffrey Lund",
+      "Piper Armstrong",
+      "Wilson Fearn",
+      "Stephen Cowley",
+      "Emily Hales",
+      "Kevin Seppi"
+    ],
+    "conference": "naacl",
+    "id": "d9178c63",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cross-referencing Using Fine-grained Topic Modeling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1399/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Satoshi Akasaki",
+      "Nobuhiro Kaji"
+    ],
+    "conference": "naacl",
+    "id": "32711401",
+    "metadata": {
+      "words": []
+    },
+    "name": "Conversation Initiation by Diverse News Contents Introduction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1400/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sho Takase",
+      "Naoaki Okazaki"
+    ],
+    "conference": "naacl",
+    "id": "b8438756",
+    "metadata": {
+      "words": []
+    },
+    "name": "Positional Encoding to Control Output Sequence Length",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1401/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Chao Wang",
+      "Hui Jiang"
+    ],
+    "conference": "naacl",
+    "id": "fbda7f81",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Lower The Simpler: Simplifying Hierarchical Recurrent Models",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1402/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Rajkumar Pujari",
+      "Dan Goldwasser"
+    ],
+    "conference": "naacl",
+    "id": "a64f6e3e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Using Natural Language Relations between Answer Choices for Machine Comprehension",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1403/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Reza Ghaeini",
+      "Xiaoli Fern",
+      "Hamed Shahbazi",
+      "Prasad Tadepalli"
+    ],
+    "conference": "naacl",
+    "id": "93bb4816",
+    "metadata": {
+      "words": []
+    },
+    "name": "Saliency Learning: Teaching the Model Where to Pay Attention",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1404/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jifan Chen",
+      "Greg Durrett"
+    ],
+    "conference": "naacl",
+    "id": "b910d8b8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding Dataset Design Choices for Multi-hop Reasoning",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1405/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Felix Stahlberg",
+      "Christopher Bryant",
+      "Bill Byrne"
+    ],
+    "conference": "naacl",
+    "id": "94f5397e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Grammatical Error Correction with Finite State Transducers",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1406/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Baosong Yang",
+      "Longyue Wang",
+      "Derek F. Wong",
+      "Lidia S. Chao",
+      "Zhaopeng Tu"
+    ],
+    "conference": "naacl",
+    "id": "ec992667",
+    "metadata": {
+      "words": []
+    },
+    "name": "Convolutional Self-Attention Networks",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1407/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ashutosh Adhikari",
+      "Achyudh Ram",
+      "Raphael Tang",
+      "Jimmy Lin"
+    ],
+    "conference": "naacl",
+    "id": "c26448c9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Rethinking Complex Neural Network Architectures for Document Classification",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1408/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sergey Edunov",
+      "Alexei Baevski",
+      "Michael Auli"
+    ],
+    "conference": "naacl",
+    "id": "481755e5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Pre-trained language model representations for language generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1409/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sheng Shen",
+      "Daniel Fried",
+      "Jacob Andreas",
+      "Dan Klein"
+    ],
+    "conference": "naacl",
+    "id": "94cd9664",
+    "metadata": {
+      "words": []
+    },
+    "name": "Pragmatically Informative Text Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1410/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Hareesh Bahuleyan",
+      "Lili Mou",
+      "Hao Zhou",
+      "Olga Vechtomova"
+    ],
+    "conference": "naacl",
+    "id": "cecb624b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Wasserstein Autoencoder for Probabilistic Sentence Generation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1411/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yonatan Bisk",
+      "Jan Buys",
+      "Karl Pichotta",
+      "Yejin Choi"
+    ],
+    "conference": "naacl",
+    "id": "981fcc7d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Benchmarking Hierarchical Script Knowledge",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1412/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Cory Shain"
+    ],
+    "conference": "naacl",
+    "id": "0cc2dd81",
+    "metadata": {
+      "words": []
+    },
+    "name": "A large-scale study of the effects of word frequency and predictability in naturalistic reading",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1413/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Akshay Budhkar",
+      "Frank Rudzicz"
+    ],
+    "conference": "naacl",
+    "id": "df5071fe",
+    "metadata": {
+      "words": []
+    },
+    "name": "Augmenting word2vec with latent Dirichlet allocation within a clinical application",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1414/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shijia Liu",
+      "Hongyuan Mei",
+      "Adina Williams",
+      "Ryan Cotterell"
+    ],
+    "conference": "naacl",
+    "id": "a248b61e",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Idiosyncrasies of the Mandarin Chinese Classifier System",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1415/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Sara Meftah",
+      "Youssef Tamaazousti",
+      "Nasredine Semmar",
+      "Hassane Essafi",
+      "Fatiha Sadat"
+    ],
+    "conference": "naacl",
+    "id": "ad2f15a7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Joint Learning of Pre-Trained and Random Units for Domain Adaptation in Part-of-Speech Tagging",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1416/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ehsan Shareghi",
+      "Daniela Gerz",
+      "Ivan Vuli\u0107",
+      "Anna Korhonen"
+    ],
+    "conference": "naacl",
+    "id": "10226714",
+    "metadata": {
+      "words": []
+    },
+    "name": "Show Some Love to Your n-grams: A Bit of Progress and Stronger n-gram Language Modeling Baselines",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1417/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Toms Bergmanis",
+      "Sharon Goldwater"
+    ],
+    "conference": "naacl",
+    "id": "89f7ead7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Training Data Augmentation for Context-Sensitive Neural Lemmatizer Using Inflection Tables and Raw Text",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1418/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "John Hewitt",
+      "Christopher D. Manning"
+    ],
+    "conference": "naacl",
+    "id": "f11ce14d",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Structural Probe for Finding Syntax in Word Representations",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1419/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Qiuchi Li",
+      "Benyou Wang",
+      "Massimo Melucci"
+    ],
+    "conference": "naacl",
+    "id": "1a6b6074",
+    "metadata": {
+      "words": []
+    },
+    "name": "CNM: An Interpretable Complex-valued Network for Matching",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1420/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Alon Talmor",
+      "Jonathan Herzig",
+      "Nicholas Lourie",
+      "Jonathan Berant"
+    ],
+    "conference": "naacl",
+    "id": "e9c94594",
+    "metadata": {
+      "words": []
+    },
+    "name": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1421/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ozan Caglayan",
+      "Pranava Madhyastha",
+      "Lucia Specia",
+      "Lo\u00efc Barrault"
+    ],
+    "conference": "naacl",
+    "id": "5f115083",
+    "metadata": {
+      "words": []
+    },
+    "name": "Probing the Need for Visual Context in Multimodal Machine Translation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1422/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "conference": "naacl",
+    "id": "cdf06a73",
+    "metadata": {
+      "words": []
+    },
+    "name": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1423/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Alexey Romanov",
+      "Maria De-Arteaga",
+      "Hanna Wallach",
+      "Jennifer Chayes",
+      "Christian Borgs",
+      "Alexandra Chouldechova",
+      "Sahin Geyik",
+      "Krishnaram Kenthapadi",
+      "Anna Rumshisky",
+      "Adam Kalai"
+    ],
+    "conference": "naacl",
+    "id": "06cc4cc2",
+    "metadata": {
+      "words": []
+    },
+    "name": "What\u2019s in a Name? Reducing Bias in Bios without Access to Protected Attributes",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-1424/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jiali Yao",
+      "Raphael Shu",
+      "Xinjian Li",
+      "Katsutoshi Ohtsuki",
+      "Hideki Nakayama"
+    ],
+    "conference": "naacl",
+    "id": "7eef9717",
+    "metadata": {
+      "words": []
+    },
+    "name": "Enabling Real-time Neural IME with Incremental Vocabulary Selection",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2001/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jihwan Lee",
+      "Ruhi Sarikaya",
+      "Young-Bum Kim"
+    ],
+    "conference": "naacl",
+    "id": "f871794f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Locale-agnostic Universal Domain Classification Model in Spoken Language Understanding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2002/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Marco Damonte",
+      "Rahul Goel",
+      "Tagyoung Chung"
+    ],
+    "conference": "naacl",
+    "id": "ac36cd4d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Practical Semantic Parsing for Spoken Language Understanding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2003/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Zhengyuan Liu",
+      "Hazel Lim",
+      "Nur Farah Ain Suhaimi",
+      "Shao Chuen Tong",
+      "Sharon Ong",
+      "Angela Ng",
+      "Sheldon Lee",
+      "Michael R. Macdonald",
+      "Savitha Ramasamy",
+      "Pavitra Krishnaswamy",
+      "Wai Leng Chow",
+      "Nancy F. Chen"
+    ],
+    "conference": "naacl",
+    "id": "7e91df53",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fast Prototyping a Dialogue Comprehension System for Nurse-Patient Conversations on Symptom Monitoring",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2004/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Xiaojing Liu",
+      "Feiyu Gao",
+      "Qiong Zhang",
+      "Huasha Zhao"
+    ],
+    "conference": "naacl",
+    "id": "fb003f0c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Graph Convolution for Multimodal Information Extraction from Visually Rich Documents",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2005/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Budhaditya Deb",
+      "Peter Bailey",
+      "Milad Shokouhi"
+    ],
+    "conference": "naacl",
+    "id": "160e2e0e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Diversifying Reply Suggestions Using a Matching-Conditional Variational Autoencoder",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2006/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yichao Lu",
+      "Manisha Srivastava",
+      "Jared Kramer",
+      "Heba Elfardy",
+      "Andrea Kahn",
+      "Song Wang",
+      "Vikas Bhardwaj"
+    ],
+    "conference": "naacl",
+    "id": "cc6c56b8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Goal-Oriented End-to-End Conversational Models with Profile Features in a Real-World Setting",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2007/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Wei Yang",
+      "Luchen Tan",
+      "Chunwei Lu",
+      "Anqi Cui",
+      "Han Li",
+      "Xi Chen",
+      "Kun Xiong",
+      "Muzi Wang",
+      "Ming Li",
+      "Jian Pei",
+      "Jimmy Lin"
+    ],
+    "conference": "naacl",
+    "id": "ddacd367",
+    "metadata": {
+      "words": []
+    },
+    "name": "Detecting Customer Complaint Escalation with Recurrent Neural Networks and Manually-Engineered Features",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2008/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Jianguo Zhang",
+      "Pengcheng Zou",
+      "Zhao Li",
+      "Yao Wan",
+      "Xiuming Pan",
+      "Yu Gong",
+      "Philip S. Yu"
+    ],
+    "conference": "naacl",
+    "id": "d3d66006",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-Modal Generative Adversarial Network for Short Product Title Generation in Mobile E-Commerce",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2009/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kazuma Murao",
+      "Ken Kobayashi",
+      "Hayato Kobayashi",
+      "Taichi Yatsuka",
+      "Takeshi Masuyama",
+      "Tatsuru Higurashi",
+      "Yoshimune Tabuchi"
+    ],
+    "conference": "naacl",
+    "id": "674910e9",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Case Study on Neural Headline Generation for Editing Support",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2010/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Kyle Williams"
+    ],
+    "conference": "naacl",
+    "id": "1fd9082b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Lexicons for Slot Tagging in Spoken Language Understanding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2011/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Stanislav Peshterliev",
+      "John Kearney",
+      "Abhyuday Jagannatha",
+      "Imre Kiss",
+      "Spyros Matsoukas"
+    ],
+    "conference": "naacl",
+    "id": "c7637888",
+    "metadata": {
+      "words": []
+    },
+    "name": "Active Learning for New Domains in Natural Language Understanding",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2012/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Pushpendre Rastogi",
+      "Arpit Gupta",
+      "Tongfei Chen",
+      "Mathias Lambert"
+    ],
+    "conference": "naacl",
+    "id": "dee3dc2c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Scaling Multi-Domain Dialogue State Tracking via Query Reformulation",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2013/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Marie Meteer",
+      "Meghan Hickey",
+      "Carmi Rothberg",
+      "David Nahamoo",
+      "Ellen Eide Kislal"
+    ],
+    "conference": "naacl",
+    "id": "7d1cdb89",
+    "metadata": {
+      "words": []
+    },
+    "name": "Are the Tools up to the Task? an Evaluation of Commercial Dialog Tools in Developing Conversational Enterprise-grade Dialog Systems",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2014/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Shazia Afzal",
+      "Tejas Dhamecha",
+      "Nirmal Mukhi",
+      "Renuka Sindhgatta",
+      "Smit Marvaniya",
+      "Matthew Ventura",
+      "Jessica Yarbro"
+    ],
+    "conference": "naacl",
+    "id": "493f420c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Development and Deployment of a Large-Scale Dialog-based Intelligent Tutoring System",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2015/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Fr\u00e9deric Godin",
+      "Anjishnu Kumar",
+      "Arpit Mittal"
+    ],
+    "conference": "naacl",
+    "id": "d75cc06e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning When Not to Answer: a Ternary Reward Structure for Reinforcement Learning Based Question Answering",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2016/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Girish Palshikar",
+      "Nitin Ramrakhiyani",
+      "Sangameshwar Patil",
+      "Sachin Pawar",
+      "Swapnil Hingmire",
+      "Vasudeva Varma",
+      "Pushpak Bhattacharyya"
+    ],
+    "conference": "naacl",
+    "id": "1fbf5528",
+    "metadata": {
+      "words": []
+    },
+    "name": "Extraction of Message Sequence Charts from Software Use-Case Descriptions",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2017/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Boya Peng",
+      "Yejin Huh",
+      "Xiao Ling",
+      "Michele Banko"
+    ],
+    "conference": "naacl",
+    "id": "5c6b79c4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Knowledge Base Construction from Robust Infobox Extraction",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2018/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Yue Chen",
+      "John Chen"
+    ],
+    "conference": "naacl",
+    "id": "9cc26489",
+    "metadata": {
+      "words": []
+    },
+    "name": "A k-Nearest Neighbor Approach towards Multi-level Sequence Labeling",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2019/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Lahari Poddar",
+      "Leonardo Neves",
+      "William Brendel",
+      "Luis Marujo",
+      "Sergey Tulyakov",
+      "Pradeep Karuturi"
+    ],
+    "conference": "naacl",
+    "id": "ec58d38c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Train One Get One Free: Partially Supervised Neural Network for Bug Report Duplicate Detection and Clustering",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2020/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Gabriel Marzinotto",
+      "G\u00e9raldine Damnati",
+      "Fr\u00e9d\u00e9ric B\u00e9chet",
+      "Beno\u00eet Favre"
+    ],
+    "conference": "naacl",
+    "id": "06fa95a1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Robust Semantic Parsing with Adversarial Learning for Domain Generalization",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2021/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Lin Sun",
+      "Kai Zhang",
+      "Fule Ji",
+      "Zhenhua Yang"
+    ],
+    "conference": "naacl",
+    "id": "5906f1b2",
+    "metadata": {
+      "words": []
+    },
+    "name": "TOI-CNN: a Solution of Information Extraction on Chinese Insurance Policy",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2022/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Andrew Johnson",
+      "Penny Karanasou",
+      "Judith Gaspers",
+      "Dietrich Klakow"
+    ],
+    "conference": "naacl",
+    "id": "81d2a7c2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cross-lingual Transfer Learning for Japanese Named Entity Recognition",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2023/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Courtney Mansfield",
+      "Ming Sun",
+      "Yuzong Liu",
+      "Ankur Gandhe",
+      "Bj\u00f6rn Hoffmeister"
+    ],
+    "conference": "naacl",
+    "id": "759681ae",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Text Normalization with Subword Units",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2024/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ido Cohn",
+      "Itay Laish",
+      "Genady Beryozkin",
+      "Gang Li",
+      "Izhak Shafran",
+      "Idan Szpektor",
+      "Tzvika Hartman",
+      "Avinatan Hassidim",
+      "Yossi Matias"
+    ],
+    "conference": "naacl",
+    "id": "8c36060d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Audio De-identification - a New Entity Recognition Task",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2025/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Nishant Prateek",
+      "Mateusz \u0141ajszczak",
+      "Roberto Barra-Chicote",
+      "Thomas Drugman",
+      "Jaime Lorenzo-Trueba",
+      "Thomas Merritt",
+      "Srikanth Ronanki",
+      "Trevor Wood"
+    ],
+    "conference": "naacl",
+    "id": "a25ec6f5",
+    "metadata": {
+      "words": []
+    },
+    "name": "In Other News: a Bi-style Text-to-speech Model for Synthesizing Newscaster Voice with Limited Data",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2026/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Ashwini Challa",
+      "Kartikeya Upasani",
+      "Anusha Balakrishnan",
+      "Rajen Subba"
+    ],
+    "conference": "naacl",
+    "id": "67b19740",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generate, Filter, and Rank: Grammaticality Classification for Production-Ready NLG Systems",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2027/",
+    "year": 2019
+  },
+  {
+    "authors": [
+      "Heidar Davoudi",
+      "Aijun An",
+      "Gordon Edall"
+    ],
+    "conference": "naacl",
+    "id": "42255d9c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Content-based Dwell Time Engagement Prediction Model for News Articles",
+    "pdf_link": "https://aclweb.org/anthology/papers/N/N19/N19-2028/",
+    "year": 2019
+  }
+]

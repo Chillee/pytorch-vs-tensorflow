@@ -1,0 +1,6798 @@
+[
+  {
+    "authors": [
+      "Massil Achab",
+      "Emmanuel Bacry",
+      "St\u00e9phane Ga\u0131\u0308ffas",
+      "Iacopo Mastromatteo",
+      "Jean-Fran\u00e7ois Muzy"
+    ],
+    "conference": "icml",
+    "id": "8dbce774",
+    "metadata": {
+      "words": []
+    },
+    "name": "Uncovering Causality from Multivariate Hawkes Integrated Cumulants",
+    "pdf_link": "http://proceedings.mlr.press/v70/achab17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jayadev Acharya",
+      "Hirakendu Das",
+      "Alon Orlitsky",
+      "Ananda Theertha Suresh"
+    ],
+    "conference": "icml",
+    "id": "0aa45081",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Unified Maximum Likelihood Approach for Estimating Symmetric Properties of Discrete Distributions",
+    "pdf_link": "http://proceedings.mlr.press/v70/acharya17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Joshua Achiam",
+      "David Held",
+      "Aviv Tamar",
+      "Pieter Abbeel"
+    ],
+    "conference": "icml",
+    "id": "a1a5a1ae",
+    "metadata": {
+      "words": []
+    },
+    "name": "Constrained Policy Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/achiam17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Naman Agarwal",
+      "Karan Singh"
+    ],
+    "conference": "icml",
+    "id": "9703d7e5",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Price of Differential Privacy for Online Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/agarwal17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Riad Akrour",
+      "Dmitry Sorokin",
+      "Jan Peters",
+      "Gerhard Neumann"
+    ],
+    "conference": "icml",
+    "id": "487e09c2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Local Bayesian Optimization of Motor Skills",
+    "pdf_link": "http://proceedings.mlr.press/v70/akrour17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Cem Aksoylar",
+      "Lorenzo Orecchia",
+      "Venkatesh Saligrama"
+    ],
+    "conference": "icml",
+    "id": "b2898b59",
+    "metadata": {
+      "words": []
+    },
+    "name": "Connected Subgraph Detection with Mirror Descent on SDPs",
+    "pdf_link": "http://proceedings.mlr.press/v70/aksoylar17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ahmed M. Alaa",
+      "Scott Hu",
+      "Mihaela Schaar"
+    ],
+    "conference": "icml",
+    "id": "362ced59",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning from Clinical Judgments: Semi-Markov-Modulated Marked Hawkes Processes for Risk Prognosis",
+    "pdf_link": "http://proceedings.mlr.press/v70/alaa17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Alnur Ali",
+      "Eric Wong",
+      "J. Zico Kolter"
+    ],
+    "conference": "icml",
+    "id": "d275d4f3",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Semismooth Newton Method for Fast, Generic Convex Programming",
+    "pdf_link": "http://proceedings.mlr.press/v70/ali17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Miltiadis Allamanis",
+      "Pankajan Chanthirasegaran",
+      "Pushmeet Kohli",
+      "Charles Sutton"
+    ],
+    "conference": "icml",
+    "id": "260470a3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Continuous Semantic Representations of Symbolic Expressions",
+    "pdf_link": "http://proceedings.mlr.press/v70/allamanis17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zeyuan Allen-Zhu"
+    ],
+    "conference": "icml",
+    "id": "91c34465",
+    "metadata": {
+      "words": []
+    },
+    "name": "Natasha: Faster Non-Convex Stochastic Optimization via Strongly Non-Convex Parameter",
+    "pdf_link": "http://proceedings.mlr.press/v70/allen-zhu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li"
+    ],
+    "conference": "icml",
+    "id": "265d5511",
+    "metadata": {
+      "words": []
+    },
+    "name": "Doubly Accelerated Methods for Faster CCA and Generalized Eigendecomposition",
+    "pdf_link": "http://proceedings.mlr.press/v70/allen-zhu17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li"
+    ],
+    "conference": "icml",
+    "id": "c3fedcdc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Faster Principal Component Regression and Stable Matrix Chebyshev Approximation",
+    "pdf_link": "http://proceedings.mlr.press/v70/allen-zhu17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li"
+    ],
+    "conference": "icml",
+    "id": "e5dafb26",
+    "metadata": {
+      "words": []
+    },
+    "name": "Follow the Compressed Leader: Faster Online Learning of Eigenvectors and Faster MMWU",
+    "pdf_link": "http://proceedings.mlr.press/v70/allen-zhu17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Aarti Singh",
+      "Yining Wang"
+    ],
+    "conference": "icml",
+    "id": "c71e3437",
+    "metadata": {
+      "words": []
+    },
+    "name": "Near-Optimal Design of Experiments via Regret Minimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/allen-zhu17e.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Brandon Amos",
+      "J. Zico Kolter"
+    ],
+    "conference": "icml",
+    "id": "7b772c7f",
+    "metadata": {
+      "words": []
+    },
+    "name": "OptNet: Differentiable Optimization as a Layer in Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/amos17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Brandon Amos",
+      "Lei Xu",
+      "J. Zico Kolter"
+    ],
+    "conference": "icml",
+    "id": "687c64e5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Input Convex Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/amos17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "David Anderson",
+      "Ming Gu"
+    ],
+    "conference": "icml",
+    "id": "b29de280",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Efficient, Sparsity-Preserving, Online Algorithm for Low-Rank Approximation",
+    "pdf_link": "http://proceedings.mlr.press/v70/anderson17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jacob Andreas",
+      "Dan Klein",
+      "Sergey Levine"
+    ],
+    "conference": "icml",
+    "id": "3f64dfaf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Modular Multitask Reinforcement Learning with Policy Sketches",
+    "pdf_link": "http://proceedings.mlr.press/v70/andreas17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Oron Anschel",
+      "Nir Baram",
+      "Nahum Shimkin"
+    ],
+    "conference": "icml",
+    "id": "d6efbc2d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/anschel17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ron Appel",
+      "Pietro Perona"
+    ],
+    "conference": "icml",
+    "id": "103cfa5e",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Simple Multi-Class Boosting Framework with Theoretical Guarantees and Empirical Proficiency",
+    "pdf_link": "http://proceedings.mlr.press/v70/appel17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Sercan \u00d6. Ar\u0131k",
+      "Mike Chrzanowski",
+      "Adam Coates",
+      "Gregory Diamos",
+      "Andrew Gibiansky",
+      "Yongguo Kang",
+      "Xian Li",
+      "John Miller",
+      "Andrew Ng",
+      "Jonathan Raiman",
+      "Shubho Sengupta",
+      "Mohammad Shoeybi"
+    ],
+    "conference": "icml",
+    "id": "5f081caf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Voice: Real-time Neural Text-to-Speech",
+    "pdf_link": "http://proceedings.mlr.press/v70/arik17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yossi Arjevani",
+      "Ohad Shamir"
+    ],
+    "conference": "icml",
+    "id": "c7a1bbbe",
+    "metadata": {
+      "words": []
+    },
+    "name": "Oracle Complexity of Second-Order Methods for Finite-Sum Problems",
+    "pdf_link": "http://proceedings.mlr.press/v70/arjevani17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Martin Arjovsky",
+      "Soumith Chintala",
+      "L\u00e9on Bottou"
+    ],
+    "conference": "icml",
+    "id": "d9206440",
+    "metadata": {
+      "words": []
+    },
+    "name": "Wasserstein Generative Adversarial Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/arjovsky17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Sanjeev Arora",
+      "Rong Ge",
+      "Yingyu Liang",
+      "Tengyu Ma",
+      "Yi Zhang"
+    ],
+    "conference": "icml",
+    "id": "f5e3770f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Generalization and Equilibrium in Generative Adversarial Nets (GANs)",
+    "pdf_link": "http://proceedings.mlr.press/v70/arora17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Devansh Arpit",
+      "Stanis\u0142aw Jastrz\u0119bski",
+      "Nicolas Ballas",
+      "David Krueger",
+      "Emmanuel Bengio",
+      "Maxinder S. Kanwal",
+      "Tegan Maharaj",
+      "Asja Fischer",
+      "Aaron Courville",
+      "Yoshua Bengio",
+      "Simon Lacoste-Julien"
+    ],
+    "conference": "icml",
+    "id": "e459bdaa",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Closer Look at Memorization in Deep Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/arpit17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kavosh Asadi",
+      "Michael L. Littman"
+    ],
+    "conference": "icml",
+    "id": "34772363",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Alternative Softmax Operator for Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/asadi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Haim Avron",
+      "Michael Kapralov",
+      "Cameron Musco",
+      "Christopher Musco",
+      "Ameya Velingker",
+      "Amir Zandieh"
+    ],
+    "conference": "icml",
+    "id": "55b07787",
+    "metadata": {
+      "words": []
+    },
+    "name": "Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees",
+    "pdf_link": "http://proceedings.mlr.press/v70/avron17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mohammad Gheshlaghi Azar",
+      "Ian Osband",
+      "R\u00e9mi Munos"
+    ],
+    "conference": "icml",
+    "id": "fdbf69a7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Minimax Regret Bounds for Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/azar17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Stephen H. Bach",
+      "Bryan He",
+      "Alexander Ratner",
+      "Christopher R\u00e9"
+    ],
+    "conference": "icml",
+    "id": "26f5459c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning the Structure of Generative Models without Labeled Data",
+    "pdf_link": "http://proceedings.mlr.press/v70/bach17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Olivier Bachem",
+      "Mario Lucic",
+      "S. Hamed Hassani",
+      "Andreas Krause"
+    ],
+    "conference": "icml",
+    "id": "a3ca4337",
+    "metadata": {
+      "words": []
+    },
+    "name": "Uniform Deviation Bounds for k-Means Clustering",
+    "pdf_link": "http://proceedings.mlr.press/v70/bachem17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Olivier Bachem",
+      "Mario Lucic",
+      "Andreas Krause"
+    ],
+    "conference": "icml",
+    "id": "76089190",
+    "metadata": {
+      "words": []
+    },
+    "name": "Distributed and Provably Good Seedings for k-Means in Constant Rounds",
+    "pdf_link": "http://proceedings.mlr.press/v70/bachem17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Philip Bachman",
+      "Alessandro Sordoni",
+      "Adam Trischler"
+    ],
+    "conference": "icml",
+    "id": "7d19b6b3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Algorithms for Active Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/bachman17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Arturs Backurs",
+      "Christos Tzamos"
+    ],
+    "conference": "icml",
+    "id": "287e48d7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Viterbi is Hard: Better Runtimes Imply Faster Clique Algorithms",
+    "pdf_link": "http://proceedings.mlr.press/v70/backurs17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Maria-Florina Balcan",
+      "Travis Dick",
+      "Yingyu Liang",
+      "Wenlong Mou",
+      "Hongyang Zhang"
+    ],
+    "conference": "icml",
+    "id": "06c8af3f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Differentially Private Clustering in High-Dimensional Euclidean Spaces",
+    "pdf_link": "http://proceedings.mlr.press/v70/balcan17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "David Balduzzi"
+    ],
+    "conference": "icml",
+    "id": "f14491be",
+    "metadata": {
+      "words": []
+    },
+    "name": "Strongly-Typed Agents are Guaranteed to Interact Safely",
+    "pdf_link": "http://proceedings.mlr.press/v70/balduzzi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "David Balduzzi",
+      "Marcus Frean",
+      "Lennox Leary",
+      "J. P. Lewis",
+      "Kurt Wan-Duo Ma",
+      "Brian McWilliams"
+    ],
+    "conference": "icml",
+    "id": "98bb09db",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Shattered Gradients Problem: If resnets are the answer, then what is the question?",
+    "pdf_link": "http://proceedings.mlr.press/v70/balduzzi17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "David Balduzzi",
+      "Brian McWilliams",
+      "Tony Butler-Yeoman"
+    ],
+    "conference": "icml",
+    "id": "e6e6ae0f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Taylor Approximations: Convergence and Exploration in Rectifier Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/balduzzi17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Borja Balle",
+      "Odalric-Ambrym Maillard"
+    ],
+    "conference": "icml",
+    "id": "2c33cefb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Spectral Learning from a Single Trajectory under Finite-State Policies",
+    "pdf_link": "http://proceedings.mlr.press/v70/balle17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Matej Balog",
+      "Nilesh Tripuraneni",
+      "Zoubin Ghahramani",
+      "Adrian Weller"
+    ],
+    "conference": "icml",
+    "id": "1baf0568",
+    "metadata": {
+      "words": []
+    },
+    "name": "Lost Relatives of the Gumbel Trick",
+    "pdf_link": "http://proceedings.mlr.press/v70/balog17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Robert Bamler",
+      "Stephan Mandt"
+    ],
+    "conference": "icml",
+    "id": "738e1f7a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dynamic Word Embeddings",
+    "pdf_link": "http://proceedings.mlr.press/v70/bamler17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Nir Baram",
+      "Oron Anschel",
+      "Itai Caspi",
+      "Shie Mannor"
+    ],
+    "conference": "icml",
+    "id": "9309cd39",
+    "metadata": {
+      "words": []
+    },
+    "name": "End-to-End Differentiable Adversarial Imitation Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/baram17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Andreas B\u00e4rmann",
+      "Sebastian Pokutta",
+      "Oskar Schneider"
+    ],
+    "conference": "icml",
+    "id": "728df191",
+    "metadata": {
+      "words": []
+    },
+    "name": "Emulating the Expert: Inverse Optimization through Online Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/barmann17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Christopher Beckham",
+      "Christopher Pal"
+    ],
+    "conference": "icml",
+    "id": "017ccfb1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unimodal Probability Distributions for Deep Ordinal Classification",
+    "pdf_link": "http://proceedings.mlr.press/v70/beckham17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jean-Michel Begon",
+      "Arnaud Joly",
+      "Pierre Geurts"
+    ],
+    "conference": "icml",
+    "id": "4c5c2acb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Globally Induced Forest: A Prepruning Compression Scheme",
+    "pdf_link": "http://proceedings.mlr.press/v70/begon17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "David Belanger",
+      "Bishan Yang",
+      "Andrew McCallum"
+    ],
+    "conference": "icml",
+    "id": "ba722aaf",
+    "metadata": {
+      "words": []
+    },
+    "name": "End-to-End Learning for Structured Prediction Energy Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/belanger17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Eugene Belilovsky",
+      "Kyle Kastner",
+      "Gael Varoquaux",
+      "Matthew B. Blaschko"
+    ],
+    "conference": "icml",
+    "id": "96ef5071",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Discover Sparse Graphical Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/belilovsky17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Marc G. Bellemare",
+      "Will Dabney",
+      "R\u00e9mi Munos"
+    ],
+    "conference": "icml",
+    "id": "92ba91d2",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Distributional Perspective on Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/bellemare17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Irwan Bello",
+      "Barret Zoph",
+      "Vijay Vasudevan",
+      "Quoc V. Le"
+    ],
+    "conference": "icml",
+    "id": "73d8cc99",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Optimizer Search with Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/bello17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Urs Bergmann",
+      "Nikolay Jetchev",
+      "Roland Vollgraf"
+    ],
+    "conference": "icml",
+    "id": "62e589da",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Texture Manifolds with the Periodic Spatial GAN",
+    "pdf_link": "http://proceedings.mlr.press/v70/bergmann17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Garrett Bernstein",
+      "Ryan McKenna",
+      "Tao Sun",
+      "Daniel Sheldon",
+      "Michael Hay",
+      "Gerome Miklau"
+    ],
+    "conference": "icml",
+    "id": "3010a688",
+    "metadata": {
+      "words": []
+    },
+    "name": "Differentially Private Learning of Undirected Graphical Models Using Collective Graphical Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/bernstein17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Alina Beygelzimer",
+      "Francesco Orabona",
+      "Chicheng Zhang"
+    ],
+    "conference": "icml",
+    "id": "01012fb9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficient Online Bandit Multiclass Learning with <span class=\"MathJax_Preview\" style=\"color: inherit; display: none;\"></span><span class=\"MathJax\" id=\"MathJax-Element-1-Frame\" tabindex=\"0\" data-mathml=\"<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mover><mi>O</mi><mo stretchy=&quot;false&quot;>&amp;#x007E;</mo></mover></mrow><mo stretchy=&quot;false&quot;>(</mo><msqrt><mi>T</mi></msqrt><mo stretchy=&quot;false&quot;>)</mo></math>\" role=\"presentation\" style=\"position: relative;\"><nobr aria-hidden=\"true\"><span class=\"math\" id=\"MathJax-Span-1\" style=\"width: 3.867em; display: inline-block;\"><span style=\"display: inline-block; position: relative; width: 3.165em; height: 0px; font-size: 122%;\"><span style=\"position: absolute; clip: rect(1.057em, 1003.05em, 2.579em, -999.997em); top: -2.163em; left: 0em;\"><span class=\"mrow\" id=\"MathJax-Span-2\"><span class=\"texatom\" id=\"MathJax-Span-3\"><span class=\"mrow\" id=\"MathJax-Span-4\"><span class=\"munderover\" id=\"MathJax-Span-5\"><span style=\"display: inline-block; position: relative; width: 0.764em; height: 0px;\"><span style=\"position: absolute; clip: rect(3.106em, 1000.76em, 4.16em, -999.997em); top: -3.978em; left: 0em;\"><span class=\"mi\" id=\"MathJax-Span-6\" style=\"font-family: MathJax_Math-italic;\">O</span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span><span style=\"position: absolute; clip: rect(3.516em, 1000.41em, 3.926em, -999.997em); top: -4.622em; left: 0.237em;\"><span class=\"mo\" id=\"MathJax-Span-7\" style=\"font-family: MathJax_Main;\">~</span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span></span></span></span></span><span class=\"mo\" id=\"MathJax-Span-8\" style=\"font-family: MathJax_Main;\">(</span><span class=\"msqrt\" id=\"MathJax-Span-9\"><span style=\"display: inline-block; position: relative; width: 1.642em; height: 0px;\"><span style=\"position: absolute; clip: rect(3.106em, 1000.71em, 4.16em, -999.997em); top: -3.978em; left: 0.823em;\"><span class=\"mrow\" id=\"MathJax-Span-10\"><span class=\"mi\" id=\"MathJax-Span-11\" style=\"font-family: MathJax_Math-italic;\">T<span style=\"display: inline-block; overflow: hidden; height: 1px; width: 0.12em;\"></span></span></span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span><span style=\"position: absolute; clip: rect(3.516em, 1000.82em, 3.926em, -999.997em); top: -4.505em; left: 0.823em;\"><span style=\"display: inline-block; position: relative; width: 0.823em; height: 0px;\"><span style=\"position: absolute; font-family: MathJax_Main; top: -3.978em; left: -0.056em;\">\u2212<span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span><span style=\"position: absolute; font-family: MathJax_Main; top: -3.978em; left: 0.12em;\">\u2212<span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span></span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span><span style=\"position: absolute; clip: rect(2.989em, 1000.88em, 4.335em, -999.997em); top: -4.037em; left: 0em;\"><span style=\"font-family: MathJax_Main;\">\u221a</span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span></span></span><span class=\"mo\" id=\"MathJax-Span-12\" style=\"font-family: MathJax_Main;\">)</span></span><span style=\"display: inline-block; width: 0px; height: 2.169em;\"></span></span></span><span style=\"display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.646em;\"></span></span></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow class=\"MJX-TeXAtom-ORD\"><mover><mi>O</mi><mo stretchy=\"false\">~</mo></mover></mrow><mo stretchy=\"false\">(</mo><msqrt><mi>T</mi></msqrt><mo stretchy=\"false\">)</mo></math></span></span><script type=\"math/tex\" id=\"MathJax-Element-1\">\\tilde{O}(\\sqrt{T})</script> Regret",
+    "pdf_link": "http://proceedings.mlr.press/v70/beygelzimer17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Andrew An Bian",
+      "Joachim M. Buhmann",
+      "Andreas Krause",
+      "Sebastian Tschiatschek"
+    ],
+    "conference": "icml",
+    "id": "422be061",
+    "metadata": {
+      "words": []
+    },
+    "name": "Guarantees for Greedy Maximization of Non-submodular Functions with Applications",
+    "pdf_link": "http://proceedings.mlr.press/v70/bian17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ilija Bogunovic",
+      "Slobodan Mitrovi\u0107",
+      "Jonathan Scarlett",
+      "Volkan Cevher"
+    ],
+    "conference": "icml",
+    "id": "3b6d461b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Robust Submodular Maximization: A Non-Uniform Partitioning Approach",
+    "pdf_link": "http://proceedings.mlr.press/v70/bogunovic17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Piotr Bojanowski",
+      "Armand Joulin"
+    ],
+    "conference": "icml",
+    "id": "151d056d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unsupervised Learning by Predicting Noise",
+    "pdf_link": "http://proceedings.mlr.press/v70/bojanowski17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tolga Bolukbasi",
+      "Joseph Wang",
+      "Ofer Dekel",
+      "Venkatesh Saligrama"
+    ],
+    "conference": "icml",
+    "id": "ecda91fa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Neural Networks for Efficient Inference",
+    "pdf_link": "http://proceedings.mlr.press/v70/bolukbasi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ashish Bora",
+      "Ajil Jalal",
+      "Eric Price",
+      "Alexandros G. Dimakis"
+    ],
+    "conference": "icml",
+    "id": "47ccf450",
+    "metadata": {
+      "words": []
+    },
+    "name": "Compressed Sensing using Generative Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/bora17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Matko Bo\u0161njak",
+      "Tim Rockt\u00e4schel",
+      "Jason Naradowsky",
+      "Sebastian Riedel"
+    ],
+    "conference": "icml",
+    "id": "c6d2a96c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Programming with a Differentiable Forth Interpreter",
+    "pdf_link": "http://proceedings.mlr.press/v70/bosnjak17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Aleksandar Botev",
+      "Hippolyt Ritter",
+      "David Barber"
+    ],
+    "conference": "icml",
+    "id": "df5bb9d6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Practical Gauss-Newton Optimisation for Deep Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/botev17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "G\u00e1bor Braun",
+      "Sebastian Pokutta",
+      "Daniel Zink"
+    ],
+    "conference": "icml",
+    "id": "20cfcecb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Lazifying Conditional Gradient Algorithms",
+    "pdf_link": "http://proceedings.mlr.press/v70/braun17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Vladimir Braverman",
+      "Gereon Frahling",
+      "Harry Lang",
+      "Christian Sohler",
+      "Lin F. Yang"
+    ],
+    "conference": "icml",
+    "id": "92a3b399",
+    "metadata": {
+      "words": []
+    },
+    "name": "Clustering High Dimensional Dynamic Data Streams",
+    "pdf_link": "http://proceedings.mlr.press/v70/braverman17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Fran\u00e7ois-Xavier Briol",
+      "Chris J. Oates",
+      "Jon Cockayne",
+      "Wilson Ye Chen",
+      "Mark Girolami"
+    ],
+    "conference": "icml",
+    "id": "d39f2dba",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Sampling Problem for Kernel Quadrature",
+    "pdf_link": "http://proceedings.mlr.press/v70/briol17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Noam Brown",
+      "Tuomas Sandholm"
+    ],
+    "conference": "icml",
+    "id": "385ae0f0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Reduced Space and Faster Convergence in Imperfect-Information Games via Pruning",
+    "pdf_link": "http://proceedings.mlr.press/v70/brown17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Alon Brutzkus",
+      "Amir Globerson"
+    ],
+    "conference": "icml",
+    "id": "446439f2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Globally Optimal Gradient Descent for a ConvNet with Gaussian Inputs",
+    "pdf_link": "http://proceedings.mlr.press/v70/brutzkus17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "David Budden",
+      "Alexander Matveev",
+      "Shibani Santurkar",
+      "Shraman Ray Chaudhuri",
+      "Nir Shavit"
+    ],
+    "conference": "icml",
+    "id": "19a701f8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Tensor Convolution on Multicores",
+    "pdf_link": "http://proceedings.mlr.press/v70/budden17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "R\u00f3bert Busa-Fekete",
+      "Bal\u00e1zs Sz\u00f6r\u00e9nyi",
+      "Paul Weng",
+      "Shie Mannor"
+    ],
+    "conference": "icml",
+    "id": "db5419d8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-objective Bandits: Optimizing the Generalized Gini Index",
+    "pdf_link": "http://proceedings.mlr.press/v70/busa-fekete17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Bryan Cai",
+      "Constantinos Daskalakis",
+      "Gautam Kamath"
+    ],
+    "conference": "icml",
+    "id": "bde94c89",
+    "metadata": {
+      "words": []
+    },
+    "name": "Priv\u2019IT: Private and Sample Efficient Identity Testing",
+    "pdf_link": "http://proceedings.mlr.press/v70/cai17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Daniele Calandriello",
+      "Alessandro Lazaric",
+      "Michal Valko"
+    ],
+    "conference": "icml",
+    "id": "43f67646",
+    "metadata": {
+      "words": []
+    },
+    "name": "Second-Order Kernel Online Convex Optimization with Adaptive Sketching",
+    "pdf_link": "http://proceedings.mlr.press/v70/calandriello17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yair Carmon",
+      "John C. Duchi",
+      "Oliver Hinder",
+      "Aaron Sidford"
+    ],
+    "conference": "icml",
+    "id": "280bae26",
+    "metadata": {
+      "words": []
+    },
+    "name": "\u201cConvex Until Proven Guilty\u201d: Dimension-Free Acceleration of Gradient Descent on Non-Convex Functions",
+    "pdf_link": "http://proceedings.mlr.press/v70/carmon17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mathieu Carri\u00e8re",
+      "Marco Cuturi",
+      "Steve Oudot"
+    ],
+    "conference": "icml",
+    "id": "e5e19a6c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sliced Wasserstein Kernel for Persistence Diagrams",
+    "pdf_link": "http://proceedings.mlr.press/v70/carriere17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yale Chang",
+      "Junxiang Chen",
+      "Michael H. Cho",
+      "Peter J. Castaldi",
+      "Edwin K. Silverman",
+      "Jennifer G. Dy"
+    ],
+    "conference": "icml",
+    "id": "767b9a4a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multiple Clustering Views from Multiple Uncertain Experts",
+    "pdf_link": "http://proceedings.mlr.press/v70/chang17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Aditya Chaudhry",
+      "Pan Xu",
+      "Quanquan Gu"
+    ],
+    "conference": "icml",
+    "id": "a46ba0ba",
+    "metadata": {
+      "words": []
+    },
+    "name": "Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference",
+    "pdf_link": "http://proceedings.mlr.press/v70/chaudhry17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kamalika Chaudhuri",
+      "Prateek Jain",
+      "Nagarajan Natarajan"
+    ],
+    "conference": "icml",
+    "id": "c5f2a8e6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Active Heteroscedastic Regression",
+    "pdf_link": "http://proceedings.mlr.press/v70/chaudhuri17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yevgen Chebotar",
+      "Karol Hausman",
+      "Marvin Zhang",
+      "Gaurav Sukhatme",
+      "Stefan Schaal",
+      "Sergey Levine"
+    ],
+    "conference": "icml",
+    "id": "601f4327",
+    "metadata": {
+      "words": []
+    },
+    "name": "Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/chebotar17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Sheng Chen",
+      "Arindam Banerjee"
+    ],
+    "conference": "icml",
+    "id": "c91b5992",
+    "metadata": {
+      "words": []
+    },
+    "name": "Robust Structured Estimation with Single-Index Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/chen17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jiecao Chen",
+      "Xi Chen",
+      "Qin Zhang",
+      "Yuan Zhou"
+    ],
+    "conference": "icml",
+    "id": "12b714ee",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Multiple-Arm Identification",
+    "pdf_link": "http://proceedings.mlr.press/v70/chen17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Bangrui Chen",
+      "Peter I. Frazier"
+    ],
+    "conference": "icml",
+    "id": "944015fc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dueling Bandits with Weak Regret",
+    "pdf_link": "http://proceedings.mlr.press/v70/chen17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yichen Chen",
+      "Dongdong Ge",
+      "Mengdi Wang",
+      "Zizhuo Wang",
+      "Yinyu Ye",
+      "Hao Yin"
+    ],
+    "conference": "icml",
+    "id": "5f015a84",
+    "metadata": {
+      "words": []
+    },
+    "name": "Strong NP-Hardness for Sparse Optimization with Concave Penalty Functions",
+    "pdf_link": "http://proceedings.mlr.press/v70/chen17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yutian Chen",
+      "Matthew W. Hoffman",
+      "Sergio G\u00f3mez Colmenarejo",
+      "Misha Denil",
+      "Timothy P. Lillicrap",
+      "Matt Botvinick",
+      "Nando Freitas"
+    ],
+    "conference": "icml",
+    "id": "7f603a7d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Learn without Gradient Descent by Gradient Descent",
+    "pdf_link": "http://proceedings.mlr.press/v70/chen17e.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Bryant Chen",
+      "Daniel Kumor",
+      "Elias Bareinboim"
+    ],
+    "conference": "icml",
+    "id": "22bdcebd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Identification and Model Testing in Linear Structural Equation Models using Auxiliary Variables",
+    "pdf_link": "http://proceedings.mlr.press/v70/chen17f.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Xixian Chen",
+      "Michael R. Lyu",
+      "Irwin King"
+    ],
+    "conference": "icml",
+    "id": "fb411c66",
+    "metadata": {
+      "words": []
+    },
+    "name": "Toward Efficient and Accurate Covariance Matrix Estimation on Compressed Data",
+    "pdf_link": "http://proceedings.mlr.press/v70/chen17g.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zhehui Chen",
+      "Lin F. Yang",
+      "Chris Junchi Li",
+      "Tuo Zhao"
+    ],
+    "conference": "icml",
+    "id": "f14b05c4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Online Partial Least Square Optimization: Dropping Convexity for Better Efficiency and Scalability",
+    "pdf_link": "http://proceedings.mlr.press/v70/chen17h.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Guangyong Chen",
+      "Shengyu Zhang",
+      "Di Lin",
+      "Hui Huang",
+      "Pheng Ann Heng"
+    ],
+    "conference": "icml",
+    "id": "f3fcecea",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Aggregate Ordinal Labels by Maximizing Separating Width",
+    "pdf_link": "http://proceedings.mlr.press/v70/chen17i.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yeshwanth Cherapanamjeri",
+      "Kartik Gupta",
+      "Prateek Jain"
+    ],
+    "conference": "icml",
+    "id": "01e6a6b3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Nearly Optimal Robust Matrix Completion",
+    "pdf_link": "http://proceedings.mlr.press/v70/cherapanamjeri17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Flavio Chierichetti",
+      "Sreenivas Gollapudi",
+      "Ravi Kumar",
+      "Silvio Lattanzi",
+      "Rina Panigrahy",
+      "David P. Woodruff"
+    ],
+    "conference": "icml",
+    "id": "4dfff4db",
+    "metadata": {
+      "words": []
+    },
+    "name": "Algorithms for <span class=\"MathJax_Preview\" style=\"color: inherit; display: none;\"></span><span class=\"MathJax\" id=\"MathJax-Element-2-Frame\" tabindex=\"0\" data-mathml=\"<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi>&amp;#x2113;</mi><mi>p</mi></msub></math>\" role=\"presentation\" style=\"position: relative;\"><nobr aria-hidden=\"true\"><span class=\"math\" id=\"MathJax-Span-13\" style=\"width: 0.998em; display: inline-block;\"><span style=\"display: inline-block; position: relative; width: 0.823em; height: 0px; font-size: 122%;\"><span style=\"position: absolute; clip: rect(1.291em, 1000.82em, 2.638em, -999.997em); top: -2.163em; left: 0em;\"><span class=\"mrow\" id=\"MathJax-Span-14\"><span class=\"msubsup\" id=\"MathJax-Span-15\"><span style=\"display: inline-block; position: relative; width: 0.823em; height: 0px;\"><span style=\"position: absolute; clip: rect(3.106em, 1000.41em, 4.16em, -999.997em); top: -3.978em; left: 0em;\"><span class=\"mi\" id=\"MathJax-Span-16\" style=\"font-family: MathJax_Main;\">\u2113</span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span><span style=\"position: absolute; top: -3.803em; left: 0.413em;\"><span class=\"mi\" id=\"MathJax-Span-17\" style=\"font-size: 70.7%; font-family: MathJax_Math-italic;\">p</span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span></span></span></span><span style=\"display: inline-block; width: 0px; height: 2.169em;\"></span></span></span><span style=\"display: inline-block; overflow: hidden; vertical-align: -0.425em; border-left: 0px solid; width: 0px; height: 1.361em;\"></span></span></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>\u2113</mi><mi>p</mi></msub></math></span></span><script type=\"math/tex\" id=\"MathJax-Element-2\">\\ell_p</script> Low-Rank Approximation",
+    "pdf_link": "http://proceedings.mlr.press/v70/chierichetti17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Minsik Cho",
+      "Daniel Brand"
+    ],
+    "conference": "icml",
+    "id": "40b20656",
+    "metadata": {
+      "words": []
+    },
+    "name": "MEC: Memory-efficient Convolution for Deep Neural Network",
+    "pdf_link": "http://proceedings.mlr.press/v70/cho17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Arthur Choi",
+      "Adnan Darwiche"
+    ],
+    "conference": "icml",
+    "id": "974345cd",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Relaxing Determinism in Arithmetic Circuits",
+    "pdf_link": "http://proceedings.mlr.press/v70/choi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Po-Wei Chou",
+      "Daniel Maturana",
+      "Sebastian Scherer"
+    ],
+    "conference": "icml",
+    "id": "2cf4d92c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Stochastic Policy Gradients in Continuous Control with Deep Reinforcement Learning using the Beta Distribution",
+    "pdf_link": "http://proceedings.mlr.press/v70/chou17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Sayak Ray Chowdhury",
+      "Aditya Gopalan"
+    ],
+    "conference": "icml",
+    "id": "fc6855dc",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Kernelized Multi-armed Bandits",
+    "pdf_link": "http://proceedings.mlr.press/v70/chowdhury17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Moustapha Cisse",
+      "Piotr Bojanowski",
+      "Edouard Grave",
+      "Yann Dauphin",
+      "Nicolas Usunier"
+    ],
+    "conference": "icml",
+    "id": "47194a10",
+    "metadata": {
+      "words": []
+    },
+    "name": "Parseval Networks: Improving Robustness to Adversarial Examples",
+    "pdf_link": "http://proceedings.mlr.press/v70/cisse17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yulai Cong",
+      "Bo Chen",
+      "Hongwei Liu",
+      "Mingyuan Zhou"
+    ],
+    "conference": "icml",
+    "id": "03a04dfe",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Latent Dirichlet Allocation with Topic-Layer-Adaptive Stochastic Gradient Riemannian MCMC",
+    "pdf_link": "http://proceedings.mlr.press/v70/cong17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Corinna Cortes",
+      "Xavier Gonzalvo",
+      "Vitaly Kuznetsov",
+      "Mehryar Mohri",
+      "Scott Yang"
+    ],
+    "conference": "icml",
+    "id": "88692aa4",
+    "metadata": {
+      "words": []
+    },
+    "name": "AdaNet: Adaptive Structural Learning of Artificial Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/cortes17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kurt Cutajar",
+      "Edwin V. Bonilla",
+      "Pietro Michiardi",
+      "Maurizio Filippone"
+    ],
+    "conference": "icml",
+    "id": "64cf8549",
+    "metadata": {
+      "words": []
+    },
+    "name": "Random Feature Expansions for Deep Gaussian Processes",
+    "pdf_link": "http://proceedings.mlr.press/v70/cutajar17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Marco Cuturi",
+      "Mathieu Blondel"
+    ],
+    "conference": "icml",
+    "id": "02c42223",
+    "metadata": {
+      "words": []
+    },
+    "name": "Soft-DTW: a Differentiable Loss Function for Time-Series",
+    "pdf_link": "http://proceedings.mlr.press/v70/cuturi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Wojciech Marian Czarnecki",
+      "Grzegorz \u015awirszcz",
+      "Max Jaderberg",
+      "Simon Osindero",
+      "Oriol Vinyals",
+      "Koray Kavukcuoglu"
+    ],
+    "conference": "icml",
+    "id": "bc3253c4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding Synthetic Gradients and Decoupled Neural Interfaces",
+    "pdf_link": "http://proceedings.mlr.press/v70/czarnecki17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Bo Dai",
+      "Ruiqi Guo",
+      "Sanjiv Kumar",
+      "Niao He",
+      "Le Song"
+    ],
+    "conference": "icml",
+    "id": "504cd229",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Generative Hashing",
+    "pdf_link": "http://proceedings.mlr.press/v70/dai17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hal Daum\u00e9 III",
+      "Nikos Karampatziakis",
+      "John Langford",
+      "Paul Mineiro"
+    ],
+    "conference": "icml",
+    "id": "a86da1e0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Logarithmic Time One-Against-Some",
+    "pdf_link": "http://proceedings.mlr.press/v70/daume17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yann N. Dauphin",
+      "Angela Fan",
+      "Michael Auli",
+      "David Grangier"
+    ],
+    "conference": "icml",
+    "id": "f5ec1fbe",
+    "metadata": {
+      "words": []
+    },
+    "name": "Language Modeling with Gated Convolutional Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/dauphin17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Colin Reimer Dawson",
+      "Chaofan Huang",
+      "Clayton T. Morrison"
+    ],
+    "conference": "icml",
+    "id": "cb8fa16c",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Infinite Hidden Markov Model With Similarity-Biased Transitions",
+    "pdf_link": "http://proceedings.mlr.press/v70/dawson17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Erik A. Daxberger",
+      "Bryan Kian Hsiang Low"
+    ],
+    "conference": "icml",
+    "id": "8bc7a437",
+    "metadata": {
+      "words": []
+    },
+    "name": "Distributed Batch Gaussian Process Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/daxberger17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Krzysztof Dembczy\u0144ski",
+      "Wojciech Kot\u0142owski",
+      "Oluwasanmi Koyejo",
+      "Nagarajan Natarajan"
+    ],
+    "conference": "icml",
+    "id": "a7e2896d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Consistency Analysis for Binary Classification Revisited",
+    "pdf_link": "http://proceedings.mlr.press/v70/dembczynski17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Walter H. Dempsey",
+      "Alexander Moreno",
+      "Christy K. Scott",
+      "Michael L. Dennis",
+      "David H. Gustafson",
+      "Susan A. Murphy",
+      "James M. Rehg"
+    ],
+    "conference": "icml",
+    "id": "8ffcf9c1",
+    "metadata": {
+      "words": []
+    },
+    "name": "iSurvive: An Interpretable, Event-time Prediction Model for mHealth",
+    "pdf_link": "http://proceedings.mlr.press/v70/dempsey17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yuntian Deng",
+      "Anssi Kanervisto",
+      "Jeffrey Ling",
+      "Alexander M. Rush"
+    ],
+    "conference": "icml",
+    "id": "537571f2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Image-to-Markup Generation with Coarse-to-Fine Attention",
+    "pdf_link": "http://proceedings.mlr.press/v70/deng17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jacob Devlin",
+      "Jonathan Uesato",
+      "Surya Bhupatiraju",
+      "Rishabh Singh",
+      "Abdel-rahman Mohamed",
+      "Pushmeet Kohli"
+    ],
+    "conference": "icml",
+    "id": "c01a3618",
+    "metadata": {
+      "words": []
+    },
+    "name": "RobustFill: Neural Program Learning under Noisy I/O",
+    "pdf_link": "http://proceedings.mlr.press/v70/devlin17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ilias Diakonikolas",
+      "Gautam Kamath",
+      "Daniel M. Kane",
+      "Jerry Li",
+      "Ankur Moitra",
+      "Alistair Stewart"
+    ],
+    "conference": "icml",
+    "id": "98f73a48",
+    "metadata": {
+      "words": []
+    },
+    "name": "Being Robust (in High Dimensions) Can Be Practical",
+    "pdf_link": "http://proceedings.mlr.press/v70/diakonikolas17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Vu Dinh",
+      "Arman Bilge",
+      "Cheng Zhang",
+      "Frederick A. Matsen IV"
+    ],
+    "conference": "icml",
+    "id": "cb1b5254",
+    "metadata": {
+      "words": []
+    },
+    "name": "Probabilistic Path Hamiltonian Monte Carlo",
+    "pdf_link": "http://proceedings.mlr.press/v70/dinh17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Laurent Dinh",
+      "Razvan Pascanu",
+      "Samy Bengio",
+      "Yoshua Bengio"
+    ],
+    "conference": "icml",
+    "id": "c8a71c1c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sharp Minima Can Generalize For Deep Nets",
+    "pdf_link": "http://proceedings.mlr.press/v70/dinh17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Justin Domke"
+    ],
+    "conference": "icml",
+    "id": "b58f1391",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Divergence Bound for Hybrids of MCMC and Variational Inference and an Application to Langevin Dynamics and SGVI",
+    "pdf_link": "http://proceedings.mlr.press/v70/domke17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Chris Donahue",
+      "Zachary C. Lipton",
+      "Julian McAuley"
+    ],
+    "conference": "icml",
+    "id": "bc67a4ed",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dance Dance Convolution",
+    "pdf_link": "http://proceedings.mlr.press/v70/donahue17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Simon S. Du",
+      "Jianshu Chen",
+      "Lihong Li",
+      "Lin Xiao",
+      "Dengyong Zhou"
+    ],
+    "conference": "icml",
+    "id": "a1fec7c0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Variance Reduction Methods for Policy Evaluation",
+    "pdf_link": "http://proceedings.mlr.press/v70/du17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jonathan Eckstein",
+      "Noam Goldberg",
+      "Ai Kagawa"
+    ],
+    "conference": "icml",
+    "id": "4313f37f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Rule-Enhanced Penalized Regression by Column Generation using Rectangular Maximum Agreement",
+    "pdf_link": "http://proceedings.mlr.press/v70/eckstein17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jesse Engel",
+      "Cinjon Resnick",
+      "Adam Roberts",
+      "Sander Dieleman",
+      "Mohammad Norouzi",
+      "Douglas Eck",
+      "Karen Simonyan"
+    ],
+    "conference": "icml",
+    "id": "fd807516",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders",
+    "pdf_link": "http://proceedings.mlr.press/v70/engel17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mohsen Ahmadi Fahandar",
+      "Eyke H\u00fcllermeier",
+      "In\u00e9s Couso"
+    ],
+    "conference": "icml",
+    "id": "998f4972",
+    "metadata": {
+      "words": []
+    },
+    "name": "Statistical Inference for Incomplete Ranking Data: The Case of Rank-Dependent Coarsening",
+    "pdf_link": "http://proceedings.mlr.press/v70/fahandar17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Moein Falahatgar",
+      "Alon Orlitsky",
+      "Venkatadheeraj Pichapati",
+      "Ananda Theertha Suresh"
+    ],
+    "conference": "icml",
+    "id": "1d7d5d82",
+    "metadata": {
+      "words": []
+    },
+    "name": "Maximum Selection and Ranking under Noisy Comparisons",
+    "pdf_link": "http://proceedings.mlr.press/v70/falahatgar17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mehrdad Farajtabar",
+      "Jiachen Yang",
+      "Xiaojing Ye",
+      "Huan Xu",
+      "Rakshit Trivedi",
+      "Elias Khalil",
+      "Shuang Li",
+      "Le Song",
+      "Hongyuan Zha"
+    ],
+    "conference": "icml",
+    "id": "2540355f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fake News Mitigation via Point Process Based Intervention",
+    "pdf_link": "http://proceedings.mlr.press/v70/farajtabar17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Gabriele Farina",
+      "Christian Kroer",
+      "Tuomas Sandholm"
+    ],
+    "conference": "icml",
+    "id": "bb45c584",
+    "metadata": {
+      "words": []
+    },
+    "name": "Regret Minimization in Behaviorally-Constrained Zero-Sum Games",
+    "pdf_link": "http://proceedings.mlr.press/v70/farina17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Dan Feldman",
+      "Sedat Ozer",
+      "Daniela Rus"
+    ],
+    "conference": "icml",
+    "id": "9206870f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Coresets for Vector Summarization with Applications to Network Graphs",
+    "pdf_link": "http://proceedings.mlr.press/v70/feldman17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Chelsea Finn",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "conference": "icml",
+    "id": "4bba43c4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/finn17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jakob N. Foerster",
+      "Justin Gilmer",
+      "Jascha Sohl-Dickstein",
+      "Jan Chorowski",
+      "David Sussillo"
+    ],
+    "conference": "icml",
+    "id": "28f35a12",
+    "metadata": {
+      "words": []
+    },
+    "name": "Input Switched Affine Networks: An RNN Architecture Designed for Interpretability",
+    "pdf_link": "http://proceedings.mlr.press/v70/foerster17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jakob Foerster",
+      "Nantas Nardelli",
+      "Gregory Farquhar",
+      "Triantafyllos Afouras",
+      "Philip H. S. Torr",
+      "Pushmeet Kohli",
+      "Shimon Whiteson"
+    ],
+    "conference": "icml",
+    "id": "ae6a59d6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/foerster17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Andrew Forney",
+      "Judea Pearl",
+      "Elias Bareinboim"
+    ],
+    "conference": "icml",
+    "id": "edbe2470",
+    "metadata": {
+      "words": []
+    },
+    "name": "Counterfactual Data-Fusion for Online Reinforcement Learners",
+    "pdf_link": "http://proceedings.mlr.press/v70/forney17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Luca Franceschi",
+      "Michele Donini",
+      "Paolo Frasconi",
+      "Massimiliano Pontil"
+    ],
+    "conference": "icml",
+    "id": "4fbdb5a3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Forward and Reverse Gradient-Based Hyperparameter Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/franceschi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Joseph Futoma",
+      "Sanjay Hariharan",
+      "Katherine Heller"
+    ],
+    "conference": "icml",
+    "id": "89f0aeb8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Detect Sepsis with a Multitask Gaussian Process RNN Classifier",
+    "pdf_link": "http://proceedings.mlr.press/v70/futoma17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yarin Gal",
+      "Riashat Islam",
+      "Zoubin Ghahramani"
+    ],
+    "conference": "icml",
+    "id": "e6368bad",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Bayesian Active Learning with Image Data",
+    "pdf_link": "http://proceedings.mlr.press/v70/gal17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tian Gao",
+      "Kshitij Fadnis",
+      "Murray Campbell"
+    ],
+    "conference": "icml",
+    "id": "1ea0bd0e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Local-to-Global Bayesian Network Structure Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/gao17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Dan Garber",
+      "Ohad Shamir",
+      "Nathan Srebro"
+    ],
+    "conference": "icml",
+    "id": "f79e14f0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Communication-efficient Algorithms for Distributed Stochastic Principal Component Analysis",
+    "pdf_link": "http://proceedings.mlr.press/v70/garber17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Alexander L. Gaunt",
+      "Marc Brockschmidt",
+      "Nate Kushman",
+      "Daniel Tarlow"
+    ],
+    "conference": "icml",
+    "id": "330bedeb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Differentiable Programs with Neural Libraries",
+    "pdf_link": "http://proceedings.mlr.press/v70/gaunt17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Guillaume Gautier",
+      "R\u00e9mi Bardenet",
+      "Michal Valko"
+    ],
+    "conference": "icml",
+    "id": "f374b208",
+    "metadata": {
+      "words": []
+    },
+    "name": "Zonotope Hit-and-run for Efficient Sampling from Projection DPPs",
+    "pdf_link": "http://proceedings.mlr.press/v70/gautier17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Rong Ge",
+      "Chi Jin",
+      "Yi Zheng"
+    ],
+    "conference": "icml",
+    "id": "7b1c4ad1",
+    "metadata": {
+      "words": []
+    },
+    "name": "No Spurious Local Minima in Nonconvex Low Rank Problems: A Unified Geometric Analysis",
+    "pdf_link": "http://proceedings.mlr.press/v70/ge17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jonas Gehring",
+      "Michael Auli",
+      "David Grangier",
+      "Denis Yarats",
+      "Yann N. Dauphin"
+    ],
+    "conference": "icml",
+    "id": "3413379b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Convolutional Sequence to Sequence Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/gehring17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Claudio Gentile",
+      "Shuai Li",
+      "Purushottam Kar",
+      "Alexandros Karatzoglou",
+      "Giovanni Zappella",
+      "Evans Etrue"
+    ],
+    "conference": "icml",
+    "id": "978177ce",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Context-Dependent Clustering of Bandits",
+    "pdf_link": "http://proceedings.mlr.press/v70/gentile17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Justin Gilmer",
+      "Samuel S. Schoenholz",
+      "Patrick F. Riley",
+      "Oriol Vinyals",
+      "George E. Dahl"
+    ],
+    "conference": "icml",
+    "id": "1573883c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Message Passing for Quantum Chemistry",
+    "pdf_link": "http://proceedings.mlr.press/v70/gilmer17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tom Goldstein",
+      "Christoph Studer"
+    ],
+    "conference": "icml",
+    "id": "fa830a56",
+    "metadata": {
+      "words": []
+    },
+    "name": "Convex Phase Retrieval without Lifting via PhaseMax",
+    "pdf_link": "http://proceedings.mlr.press/v70/goldstein17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Javier Gonz\u00e1lez",
+      "Zhenwen Dai",
+      "Andreas Damianou",
+      "Neil D. Lawrence"
+    ],
+    "conference": "icml",
+    "id": "05328745",
+    "metadata": {
+      "words": []
+    },
+    "name": "Preferential Bayesian Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/gonzalez17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jackson Gorham",
+      "Lester Mackey"
+    ],
+    "conference": "icml",
+    "id": "c683659a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Measuring Sample Quality with Kernels",
+    "pdf_link": "http://proceedings.mlr.press/v70/gorham17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Grave",
+      "Armand Joulin",
+      "Moustapha Ciss\u00e9",
+      "David Grangier",
+      "Herv\u00e9 J\u00e9gou"
+    ],
+    "conference": "icml",
+    "id": "61aea53a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficient softmax approximation for GPUs",
+    "pdf_link": "http://proceedings.mlr.press/v70/grave17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Alex Graves",
+      "Marc G. Bellemare",
+      "Jacob Menick",
+      "R\u00e9mi Munos",
+      "Koray Kavukcuoglu"
+    ],
+    "conference": "icml",
+    "id": "7d7321dd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Automated Curriculum Learning for Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/graves17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Chuan Guo",
+      "Geoff Pleiss",
+      "Yu Sun",
+      "Kilian Q. Weinberger"
+    ],
+    "conference": "icml",
+    "id": "39f86be2",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Calibration of Modern Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/guo17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Chirag Gupta",
+      "Arun Sai Suggala",
+      "Ankit Goyal",
+      "Harsha Vardhan Simhadri",
+      "Bhargavi Paranjape",
+      "Ashish Kumar",
+      "Saurabh Goyal",
+      "Raghavendra Udupa",
+      "Manik Varma",
+      "Prateek Jain"
+    ],
+    "conference": "icml",
+    "id": "052ee224",
+    "metadata": {
+      "words": []
+    },
+    "name": "ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices",
+    "pdf_link": "http://proceedings.mlr.press/v70/gupta17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Michael Gygli",
+      "Mohammad Norouzi",
+      "Anelia Angelova"
+    ],
+    "conference": "icml",
+    "id": "dbf884bf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs",
+    "pdf_link": "http://proceedings.mlr.press/v70/gygli17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tuomas Haarnoja",
+      "Haoran Tang",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "conference": "icml",
+    "id": "a997ff85",
+    "metadata": {
+      "words": []
+    },
+    "name": "Reinforcement Learning with Deep Energy-Based Policies",
+    "pdf_link": "http://proceedings.mlr.press/v70/haarnoja17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ga\u00ebtan Hadjeres",
+      "Fran\u00e7ois Pachet",
+      "Frank Nielsen"
+    ],
+    "conference": "icml",
+    "id": "86311ecf",
+    "metadata": {
+      "words": []
+    },
+    "name": "DeepBach: a Steerable Model for Bach Chorales Generation",
+    "pdf_link": "http://proceedings.mlr.press/v70/hadjeres17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Assaf Hallak",
+      "Shie Mannor"
+    ],
+    "conference": "icml",
+    "id": "3ea4a3b0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Consistent On-Line Off-Policy Evaluation",
+    "pdf_link": "http://proceedings.mlr.press/v70/hallak17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Insu Han",
+      "Prabhanjan Kambadur",
+      "Kyoungsoo Park",
+      "Jinwoo Shin"
+    ],
+    "conference": "icml",
+    "id": "412e31a5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Faster Greedy MAP Inference for Determinantal Point Processes",
+    "pdf_link": "http://proceedings.mlr.press/v70/han17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Josiah P. Hanna",
+      "Philip S. Thomas",
+      "Peter Stone",
+      "Scott Niekum"
+    ],
+    "conference": "icml",
+    "id": "f9e47517",
+    "metadata": {
+      "words": []
+    },
+    "name": "Data-Efficient Policy Evaluation Through Behavior Policy Search",
+    "pdf_link": "http://proceedings.mlr.press/v70/hanna17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mehrtash Harandi",
+      "Mathieu Salzmann",
+      "Richard Hartley"
+    ],
+    "conference": "icml",
+    "id": "de87946a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Joint Dimensionality Reduction and Metric Learning: A Geometric Take",
+    "pdf_link": "http://proceedings.mlr.press/v70/harandi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jason Hartford",
+      "Greg Lewis",
+      "Kevin Leyton-Brown",
+      "Matt Taddy"
+    ],
+    "conference": "icml",
+    "id": "32e910c7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep IV: A Flexible Approach for Counterfactual Prediction",
+    "pdf_link": "http://proceedings.mlr.press/v70/hartford17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Avinatan Hassidim",
+      "Yaron Singer"
+    ],
+    "conference": "icml",
+    "id": "48ab23b8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Robust Guarantees of Stochastic Greedy Algorithms",
+    "pdf_link": "http://proceedings.mlr.press/v70/hassidim17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Elad Hazan",
+      "Karan Singh",
+      "Cyril Zhang"
+    ],
+    "conference": "icml",
+    "id": "9fea8e69",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficient Regret Minimization in Non-Convex Games",
+    "pdf_link": "http://proceedings.mlr.press/v70/hazan17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Lifang He",
+      "Chun-Ta Lu",
+      "Guixiang Ma",
+      "Shen Wang",
+      "Linlin Shen",
+      "Philip S. Yu",
+      "Ann B. Ragin"
+    ],
+    "conference": "icml",
+    "id": "9ba0653f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Kernelized Support Tensor Machines",
+    "pdf_link": "http://proceedings.mlr.press/v70/he17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Reinhard Heckel",
+      "Kannan Ramchandran"
+    ],
+    "conference": "icml",
+    "id": "6d52ad08",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Sample Complexity of Online One-Class Collaborative Filtering",
+    "pdf_link": "http://proceedings.mlr.press/v70/heckel17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jo\u00e3o F. Henriques",
+      "Andrea Vedaldi"
+    ],
+    "conference": "icml",
+    "id": "7b6e5f2b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Warped Convolutions: Efficient Invariance to Spatial Transformations",
+    "pdf_link": "http://proceedings.mlr.press/v70/henriques17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jos\u00e9 Miguel Hern\u00e1ndez-Lobato",
+      "James Requeima",
+      "Edward O. Pyzer-Knapp",
+      "Al\u00e1n Aspuru-Guzik"
+    ],
+    "conference": "icml",
+    "id": "58843873",
+    "metadata": {
+      "words": []
+    },
+    "name": "Parallel and Distributed Thompson Sampling for Large-scale Accelerated Exploration of Chemical Space",
+    "pdf_link": "http://proceedings.mlr.press/v70/hernandez-lobato17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Irina Higgins",
+      "Arka Pal",
+      "Andrei Rusu",
+      "Loic Matthey",
+      "Christopher Burgess",
+      "Alexander Pritzel",
+      "Matthew Botvinick",
+      "Charles Blundell",
+      "Alexander Lerchner"
+    ],
+    "conference": "icml",
+    "id": "590e9ed5",
+    "metadata": {
+      "words": []
+    },
+    "name": "DARLA: Improving Zero-Shot Transfer in Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/higgins17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jun-ichiro Hirayama",
+      "Aapo Hyv\u00e4rinen",
+      "Motoaki Kawanabe"
+    ],
+    "conference": "icml",
+    "id": "093bbbd9",
+    "metadata": {
+      "words": []
+    },
+    "name": "SPLICE: Fully Tractable Hierarchical Extension of ICA with Pooling",
+    "pdf_link": "http://proceedings.mlr.press/v70/hirayama17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Nhat Ho",
+      "XuanLong Nguyen",
+      "Mikhail Yurochkin",
+      "Hung Hai Bui",
+      "Viet Huynh",
+      "Dinh Phung"
+    ],
+    "conference": "icml",
+    "id": "2cc2bc2f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multilevel Clustering via Wasserstein Means",
+    "pdf_link": "http://proceedings.mlr.press/v70/ho17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Matthew D. Hoffman"
+    ],
+    "conference": "icml",
+    "id": "4ff328dc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo",
+    "pdf_link": "http://proceedings.mlr.press/v70/hoffman17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "J\u00e1nos H\u00f6ner",
+      "Shinichi Nakajima",
+      "Alexander Bauer",
+      "Klaus-Robert M\u00fcller",
+      "Nico G\u00f6rnitz"
+    ],
+    "conference": "icml",
+    "id": "d68ba9af",
+    "metadata": {
+      "words": []
+    },
+    "name": "Minimizing Trust Leaks for Robust Sybil Detection",
+    "pdf_link": "http://proceedings.mlr.press/v70/honer17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mingyi Hong",
+      "Davood Hajinezhad",
+      "Ming-Min Zhao"
+    ],
+    "conference": "icml",
+    "id": "26bb9ecf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Prox-PDA: The Proximal Primal-Dual Algorithm for Fast Distributed Nonconvex Optimization and Learning Over Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/hong17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Andrea Hor\u0148\u00e1kov\u00e1",
+      "Jan-Hendrik Lange",
+      "Bjoern Andres"
+    ],
+    "conference": "icml",
+    "id": "71b8c0b3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Analysis and Optimization of Graph Decompositions by Lifted Multicuts",
+    "pdf_link": "http://proceedings.mlr.press/v70/hornakova17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Bin Hu",
+      "Laurent Lessard"
+    ],
+    "conference": "icml",
+    "id": "e7a24d66",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dissipativity Theory for Nesterov\u2019s Accelerated Method",
+    "pdf_link": "http://proceedings.mlr.press/v70/hu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Weihua Hu",
+      "Takeru Miyato",
+      "Seiya Tokui",
+      "Eiichi Matsumoto",
+      "Masashi Sugiyama"
+    ],
+    "conference": "icml",
+    "id": "b6e954dd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Discrete Representations via Information Maximizing Self-Augmented Training",
+    "pdf_link": "http://proceedings.mlr.press/v70/hu17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hao Hu",
+      "Guo-Jun Qi"
+    ],
+    "conference": "icml",
+    "id": "95910d81",
+    "metadata": {
+      "words": []
+    },
+    "name": "State-Frequency Memory Recurrent Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/hu17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Changwei Hu",
+      "Piyush Rai",
+      "Lawrence Carin"
+    ],
+    "conference": "icml",
+    "id": "bb056c54",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Generative Models for Relational Data with Side Information",
+    "pdf_link": "http://proceedings.mlr.press/v70/hu17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zhiting Hu",
+      "Zichao Yang",
+      "Xiaodan Liang",
+      "Ruslan Salakhutdinov",
+      "Eric P. Xing"
+    ],
+    "conference": "icml",
+    "id": "7cceba5b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Toward Controlled Generation of Text",
+    "pdf_link": "http://proceedings.mlr.press/v70/hu17e.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Masaaki Imaizumi",
+      "Kohei Hayashi"
+    ],
+    "conference": "icml",
+    "id": "5aae6a9d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Tensor Decomposition with Smoothness",
+    "pdf_link": "http://proceedings.mlr.press/v70/imaizumi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "John Ingraham",
+      "Debora Marks"
+    ],
+    "conference": "icml",
+    "id": "47fd701a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variational Inference for Sparse and Undirected Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/ingraham17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shahin Jabbari",
+      "Matthew Joseph",
+      "Michael Kearns",
+      "Jamie Morgenstern",
+      "Aaron Roth"
+    ],
+    "conference": "icml",
+    "id": "ec2d36e9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fairness in Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/jabbari17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Max Jaderberg",
+      "Wojciech Marian Czarnecki",
+      "Simon Osindero",
+      "Oriol Vinyals",
+      "Alex Graves",
+      "David Silver",
+      "Koray Kavukcuoglu"
+    ],
+    "conference": "icml",
+    "id": "a9bcbc21",
+    "metadata": {
+      "words": []
+    },
+    "name": "Decoupled Neural Interfaces using Synthetic Gradients",
+    "pdf_link": "http://proceedings.mlr.press/v70/jaderberg17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Vikas Jain",
+      "Nirbhay Modhe",
+      "Piyush Rai"
+    ],
+    "conference": "icml",
+    "id": "a038d9e5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Scalable Generative Models for Multi-label Learning with Missing Labels",
+    "pdf_link": "http://proceedings.mlr.press/v70/jain17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Natasha Jaques",
+      "Shixiang Gu",
+      "Dzmitry Bahdanau",
+      "Jos\u00e9 Miguel Hern\u00e1ndez-Lobato",
+      "Richard E. Turner",
+      "Douglas Eck"
+    ],
+    "conference": "icml",
+    "id": "77fe752e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control",
+    "pdf_link": "http://proceedings.mlr.press/v70/jaques17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Rodolphe Jenatton",
+      "Cedric Archambeau",
+      "Javier Gonz\u00e1lez",
+      "Matthias Seeger"
+    ],
+    "conference": "icml",
+    "id": "55736048",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bayesian Optimization with Tree-structured Dependencies",
+    "pdf_link": "http://proceedings.mlr.press/v70/jenatton17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yacine Jernite",
+      "Anna Choromanska",
+      "David Sontag"
+    ],
+    "conference": "icml",
+    "id": "1344a62d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Simultaneous Learning of Trees and Representations for Extreme Classification and Density Estimation",
+    "pdf_link": "http://proceedings.mlr.press/v70/jernite17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Geng Ji",
+      "Michael C. Hughes",
+      "Erik B. Sudderth"
+    ],
+    "conference": "icml",
+    "id": "123107ee",
+    "metadata": {
+      "words": []
+    },
+    "name": "From Patches to Images: A Nonparametric Generative Model",
+    "pdf_link": "http://proceedings.mlr.press/v70/ji17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Heinrich Jiang"
+    ],
+    "conference": "icml",
+    "id": "6af1b140",
+    "metadata": {
+      "words": []
+    },
+    "name": "Density Level Set Estimation on Manifolds with DBSCAN",
+    "pdf_link": "http://proceedings.mlr.press/v70/jiang17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Heinrich Jiang"
+    ],
+    "conference": "icml",
+    "id": "77e0e89c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Uniform Convergence Rates for Kernel Density Estimation",
+    "pdf_link": "http://proceedings.mlr.press/v70/jiang17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Nan Jiang",
+      "Akshay Krishnamurthy",
+      "Alekh Agarwal",
+      "John Langford",
+      "Robert E. Schapire"
+    ],
+    "conference": "icml",
+    "id": "f737aef7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Contextual Decision Processes with low Bellman rank are PAC-Learnable",
+    "pdf_link": "http://proceedings.mlr.press/v70/jiang17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shali Jiang",
+      "Gustavo Malkomes",
+      "Geoff Converse",
+      "Alyssa Shofner",
+      "Benjamin Moseley",
+      "Roman Garnett"
+    ],
+    "conference": "icml",
+    "id": "17365ba8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficient Nonmyopic Active Search",
+    "pdf_link": "http://proceedings.mlr.press/v70/jiang17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Chi Jin",
+      "Rong Ge",
+      "Praneeth Netrapalli",
+      "Sham M. Kakade",
+      "Michael I. Jordan"
+    ],
+    "conference": "icml",
+    "id": "edc2355d",
+    "metadata": {
+      "words": []
+    },
+    "name": "How to Escape Saddle Points Efficiently",
+    "pdf_link": "http://proceedings.mlr.press/v70/jin17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Li Jing",
+      "Yichen Shen",
+      "Tena Dubcek",
+      "John Peurifoy",
+      "Scott Skirlo",
+      "Yann LeCun",
+      "Max Tegmark",
+      "Marin Solja\u010di\u0107"
+    ],
+    "conference": "icml",
+    "id": "ed506276",
+    "metadata": {
+      "words": []
+    },
+    "name": "Tunable Efficient Unitary Neural Networks (EUNN) and their application to RNNs",
+    "pdf_link": "http://proceedings.mlr.press/v70/jing17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Wittawat Jitkrittum",
+      "Zolt\u00e1n Szab\u00f3",
+      "Arthur Gretton"
+    ],
+    "conference": "icml",
+    "id": "22a1e469",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Adaptive Test of Independence with Analytic Kernel Embeddings",
+    "pdf_link": "http://proceedings.mlr.press/v70/jitkrittum17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tyler B. Johnson",
+      "Carlos Guestrin"
+    ],
+    "conference": "icml",
+    "id": "b0c797b6",
+    "metadata": {
+      "words": []
+    },
+    "name": "StingyCD: Safely Avoiding Wasteful Updates in Coordinate Descent",
+    "pdf_link": "http://proceedings.mlr.press/v70/johnson17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kazuya Kakizaki",
+      "Kazuto Fukuchi",
+      "Jun Sakuma"
+    ],
+    "conference": "icml",
+    "id": "3ec38594",
+    "metadata": {
+      "words": []
+    },
+    "name": "Differentially Private Chi-squared Test by Unit Circle Mechanism",
+    "pdf_link": "http://proceedings.mlr.press/v70/kakizaki17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Nal Kalchbrenner",
+      "A\u00e4ron Oord",
+      "Karen Simonyan",
+      "Ivo Danihelka",
+      "Oriol Vinyals",
+      "Alex Graves",
+      "Koray Kavukcuoglu"
+    ],
+    "conference": "icml",
+    "id": "a8600ec3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Video Pixel Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/kalchbrenner17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Satyen Kale",
+      "Zohar Karnin",
+      "Tengyuan Liang",
+      "D\u00e1vid P\u00e1l"
+    ],
+    "conference": "icml",
+    "id": "420924cc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Feature Selection: Computationally Efficient Online Sparse Linear Regression under RIP",
+    "pdf_link": "http://proceedings.mlr.press/v70/kale17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Nathan Kallus"
+    ],
+    "conference": "icml",
+    "id": "818402db",
+    "metadata": {
+      "words": []
+    },
+    "name": "Recursive Partitioning for Personalization using Observational Data",
+    "pdf_link": "http://proceedings.mlr.press/v70/kallus17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kirthevasan Kandasamy",
+      "Gautam Dasarathy",
+      "Jeff Schneider",
+      "Barnab\u00e1s P\u00f3czos"
+    ],
+    "conference": "icml",
+    "id": "66fc3eda",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-fidelity Bayesian Optimisation with Continuous Approximations",
+    "pdf_link": "http://proceedings.mlr.press/v70/kandasamy17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ken Kansky",
+      "Tom Silver",
+      "David A. M\u00e9ly",
+      "Mohamed Eldawy",
+      "Miguel L\u00e1zaro-Gredilla",
+      "Xinghua Lou",
+      "Nimrod Dorfman",
+      "Szymon Sidor",
+      "Scott Phoenix",
+      "Dileep George"
+    ],
+    "conference": "icml",
+    "id": "f8c09e78",
+    "metadata": {
+      "words": []
+    },
+    "name": "Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics",
+    "pdf_link": "http://proceedings.mlr.press/v70/kansky17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Sammie Katt",
+      "Frans A. Oliehoek",
+      "Christopher Amato"
+    ],
+    "conference": "icml",
+    "id": "25e2a4f1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning in POMDPs with Monte Carlo Tree Search",
+    "pdf_link": "http://proceedings.mlr.press/v70/katt17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Michael Kearns",
+      "Aaron Roth",
+      "Zhiwei Steven Wu"
+    ],
+    "conference": "icml",
+    "id": "e2be299c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Meritocratic Fairness for Cross-Population Selection",
+    "pdf_link": "http://proceedings.mlr.press/v70/kearns17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Rajiv Khanna",
+      "Ethan R. Elenberg",
+      "Alexandros G. Dimakis",
+      "Joydeep Ghosh",
+      "Sahand Negahban"
+    ],
+    "conference": "icml",
+    "id": "3fdc0c39",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Approximation Guarantees for Greedy Low Rank Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/khanna17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Renata Khasanova",
+      "Pascal Frossard"
+    ],
+    "conference": "icml",
+    "id": "cba1f316",
+    "metadata": {
+      "words": []
+    },
+    "name": "Graph-based Isometry Invariant Representation Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/khasanova17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Taeksoo Kim",
+      "Moonsu Cha",
+      "Hyunsoo Kim",
+      "Jung Kwon Lee",
+      "Jiwon Kim"
+    ],
+    "conference": "icml",
+    "id": "83736dd1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/kim17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Juyong Kim",
+      "Yookoon Park",
+      "Gunhee Kim",
+      "Sung Ju Hwang"
+    ],
+    "conference": "icml",
+    "id": "c8669348",
+    "metadata": {
+      "words": []
+    },
+    "name": "SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization",
+    "pdf_link": "http://proceedings.mlr.press/v70/kim17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Murat Kocaoglu",
+      "Alex Dimakis",
+      "Sriram Vishwanath"
+    ],
+    "conference": "icml",
+    "id": "c672dc12",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cost-Optimal Learning of Causal Graphs",
+    "pdf_link": "http://proceedings.mlr.press/v70/kocaoglu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Pang Wei Koh",
+      "Percy Liang"
+    ],
+    "conference": "icml",
+    "id": "84e0c22d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding Black-box Predictions via Influence Functions",
+    "pdf_link": "http://proceedings.mlr.press/v70/koh17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jonas Moritz Kohler",
+      "Aurelien Lucchi"
+    ],
+    "conference": "icml",
+    "id": "fb415afb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sub-sampled Cubic Regularization for Non-convex Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/kohler17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Alexander Kolesnikov",
+      "Christoph H. Lampert"
+    ],
+    "conference": "icml",
+    "id": "62852f65",
+    "metadata": {
+      "words": []
+    },
+    "name": "PixelCNN Models with Auxiliary Variables for Natural Image Modeling",
+    "pdf_link": "http://proceedings.mlr.press/v70/kolesnikov17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Akshay Krishnamurthy",
+      "Alekh Agarwal",
+      "Tzu-Kuo Huang",
+      "Hal Daum\u00e9 III",
+      "John Langford"
+    ],
+    "conference": "icml",
+    "id": "e79aa674",
+    "metadata": {
+      "words": []
+    },
+    "name": "Active Learning for Cost-Sensitive Classification",
+    "pdf_link": "http://proceedings.mlr.press/v70/krishnamurthy17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Alp Kucukelbir",
+      "Yixin Wang",
+      "David M. Blei"
+    ],
+    "conference": "icml",
+    "id": "95404905",
+    "metadata": {
+      "words": []
+    },
+    "name": "Evaluating Bayesian Models with Posterior Dispersion Indices",
+    "pdf_link": "http://proceedings.mlr.press/v70/kucukelbir17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ashish Kumar",
+      "Saurabh Goyal",
+      "Manik Varma"
+    ],
+    "conference": "icml",
+    "id": "90d7f504",
+    "metadata": {
+      "words": []
+    },
+    "name": "Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things",
+    "pdf_link": "http://proceedings.mlr.press/v70/kumar17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Matt J. Kusner",
+      "Brooks Paige",
+      "Jos\u00e9 Miguel Hern\u00e1ndez-Lobato"
+    ],
+    "conference": "icml",
+    "id": "0009573b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Grammar Variational Autoencoder",
+    "pdf_link": "http://proceedings.mlr.press/v70/kusner17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Charlotte Laclau",
+      "Ievgen Redko",
+      "Basarab Matei",
+      "Youn\u00e8s Bennani",
+      "Vincent Brault"
+    ],
+    "conference": "icml",
+    "id": "ff56ef89",
+    "metadata": {
+      "words": []
+    },
+    "name": "Co-clustering through Optimal Transport",
+    "pdf_link": "http://proceedings.mlr.press/v70/laclau17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Guanghui Lan",
+      "Sebastian Pokutta",
+      "Yi Zhou",
+      "Daniel Zink"
+    ],
+    "conference": "icml",
+    "id": "1778a466",
+    "metadata": {
+      "words": []
+    },
+    "name": "Conditional Accelerated Lazy Stochastic Gradient Descent",
+    "pdf_link": "http://proceedings.mlr.press/v70/lan17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Silvio Lattanzi",
+      "Sergei Vassilvitskii"
+    ],
+    "conference": "icml",
+    "id": "e05d079b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Consistent k-Clustering",
+    "pdf_link": "http://proceedings.mlr.press/v70/lattanzi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Marc T. Law",
+      "Raquel Urtasun",
+      "Richard S. Zemel"
+    ],
+    "conference": "icml",
+    "id": "cedfe35a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Spectral Clustering Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/law17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hoang M. Le",
+      "Yisong Yue",
+      "Peter Carr",
+      "Patrick Lucey"
+    ],
+    "conference": "icml",
+    "id": "6c8dd40c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Coordinated Multi-Agent Imitation Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/le17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Juho Lee",
+      "Creighton Heaukulani",
+      "Zoubin Ghahramani",
+      "Lancelot F. James",
+      "Seungjin Choi"
+    ],
+    "conference": "icml",
+    "id": "2c3177d4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bayesian inference on random simple graphs with power law degree distributions",
+    "pdf_link": "http://proceedings.mlr.press/v70/lee17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kimin Lee",
+      "Changho Hwang",
+      "KyoungSoo Park",
+      "Jinwoo Shin"
+    ],
+    "conference": "icml",
+    "id": "2828f1be",
+    "metadata": {
+      "words": []
+    },
+    "name": "Confident Multiple Choice Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/lee17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tao Lei",
+      "Wengong Jin",
+      "Regina Barzilay",
+      "Tommi Jaakkola"
+    ],
+    "conference": "icml",
+    "id": "a431c78c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deriving Neural Architectures from Sequence and Graph Kernels",
+    "pdf_link": "http://proceedings.mlr.press/v70/lei17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Qi Lei",
+      "Ian En-Hsu Yen",
+      "Chao-yuan Wu",
+      "Inderjit S. Dhillon",
+      "Pradeep Ravikumar"
+    ],
+    "conference": "icml",
+    "id": "5c3c67da",
+    "metadata": {
+      "words": []
+    },
+    "name": "Doubly Greedy Primal-Dual Coordinate Descent for Sparse Empirical Risk Minimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/lei17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Dor Levy",
+      "Lior Wolf"
+    ],
+    "conference": "icml",
+    "id": "96a12f43",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Align the Source Code to the Compiled Object Code",
+    "pdf_link": "http://proceedings.mlr.press/v70/levy17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yingzhen Li",
+      "Yarin Gal"
+    ],
+    "conference": "icml",
+    "id": "02fa998a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dropout Inference in Bayesian Neural Networks with Alpha-divergences",
+    "pdf_link": "http://proceedings.mlr.press/v70/li17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yuanzhi Li",
+      "Yingyu Liang"
+    ],
+    "conference": "icml",
+    "id": "1b63be00",
+    "metadata": {
+      "words": []
+    },
+    "name": "Provable Alternating Gradient Descent for Non-negative Matrix Factorization with Strong Correlations",
+    "pdf_link": "http://proceedings.mlr.press/v70/li17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Lihong Li",
+      "Yu Lu",
+      "Dengyong Zhou"
+    ],
+    "conference": "icml",
+    "id": "9b2ae0d2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Provably Optimal Algorithms for Generalized Linear Contextual Bandits",
+    "pdf_link": "http://proceedings.mlr.press/v70/li17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ke Li",
+      "Jitendra Malik"
+    ],
+    "conference": "icml",
+    "id": "2a725ea0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fast k-Nearest Neighbour Search via Prioritized DCI",
+    "pdf_link": "http://proceedings.mlr.press/v70/li17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Alexander Hanbo Li",
+      "Andrew Martin"
+    ],
+    "conference": "icml",
+    "id": "1b3e1d06",
+    "metadata": {
+      "words": []
+    },
+    "name": "Forest-type Regression with General Losses and Robust Forest",
+    "pdf_link": "http://proceedings.mlr.press/v70/li17e.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Qianxiao Li",
+      "Cheng Tai",
+      "Weinan E"
+    ],
+    "conference": "icml",
+    "id": "3be624b1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Modified Equations and Adaptive Stochastic Gradient Algorithms",
+    "pdf_link": "http://proceedings.mlr.press/v70/li17f.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Qunwei Li",
+      "Yi Zhou",
+      "Yingbin Liang",
+      "Pramod K. Varshney"
+    ],
+    "conference": "icml",
+    "id": "0be2ac12",
+    "metadata": {
+      "words": []
+    },
+    "name": "Convergence Analysis of Proximal Gradient with Momentum for Nonconvex Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/li17g.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Erik M. Lindgren",
+      "Alexandros G. Dimakis",
+      "Adam Klivans"
+    ],
+    "conference": "icml",
+    "id": "16585cde",
+    "metadata": {
+      "words": []
+    },
+    "name": "Exact MAP Inference by Avoiding Fractional Vertices",
+    "pdf_link": "http://proceedings.mlr.press/v70/lindgren17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "John Lipor",
+      "Laura Balzano"
+    ],
+    "conference": "icml",
+    "id": "369f673a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Leveraging Union of Subspace Structure to Improve Constrained Clustering",
+    "pdf_link": "http://proceedings.mlr.press/v70/lipor17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Li-Ping Liu",
+      "David M. Blei"
+    ],
+    "conference": "icml",
+    "id": "914bb8db",
+    "metadata": {
+      "words": []
+    },
+    "name": "Zero-Inflated Exponential Family Embeddings",
+    "pdf_link": "http://proceedings.mlr.press/v70/liu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Weiyang Liu",
+      "Bo Dai",
+      "Ahmad Humayun",
+      "Charlene Tay",
+      "Chen Yu",
+      "Linda B. Smith",
+      "James M. Rehg",
+      "Le Song"
+    ],
+    "conference": "icml",
+    "id": "4b58dfc9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Iterative Machine Teaching",
+    "pdf_link": "http://proceedings.mlr.press/v70/liu17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tongliang Liu",
+      "G\u00e1bor Lugosi",
+      "Gergely Neu",
+      "Dacheng Tao"
+    ],
+    "conference": "icml",
+    "id": "90ccce83",
+    "metadata": {
+      "words": []
+    },
+    "name": "Algorithmic Stability and Hypothesis Complexity",
+    "pdf_link": "http://proceedings.mlr.press/v70/liu17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hanxiao Liu",
+      "Yuexin Wu",
+      "Yiming Yang"
+    ],
+    "conference": "icml",
+    "id": "e239e361",
+    "metadata": {
+      "words": []
+    },
+    "name": "Analogical Inference for Multi-relational Embeddings",
+    "pdf_link": "http://proceedings.mlr.press/v70/liu17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Bo Liu",
+      "Xiao-Tong Yuan",
+      "Lezi Wang",
+      "Qingshan Liu",
+      "Dimitris N. Metaxas"
+    ],
+    "conference": "icml",
+    "id": "93801600",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dual Iterative Hard Thresholding: From Non-convex Sparse Minimization to Non-smooth Concave Maximization",
+    "pdf_link": "http://proceedings.mlr.press/v70/liu17e.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hairong Liu",
+      "Zhenyao Zhu",
+      "Xiangang Li",
+      "Sanjeev Satheesh"
+    ],
+    "conference": "icml",
+    "id": "bb4394c8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence Labelling",
+    "pdf_link": "http://proceedings.mlr.press/v70/liu17f.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Roi Livni",
+      "Daniel Carmon",
+      "Amir Globerson"
+    ],
+    "conference": "icml",
+    "id": "398e02b3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Infinite Layer Networks Without the Kernel Trick",
+    "pdf_link": "http://proceedings.mlr.press/v70/livni17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mingsheng Long",
+      "Han Zhu",
+      "Jianmin Wang",
+      "Michael I. Jordan"
+    ],
+    "conference": "icml",
+    "id": "1eef1d4d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Transfer Learning with Joint Adaptation Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/long17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Christos Louizos",
+      "Max Welling"
+    ],
+    "conference": "icml",
+    "id": "8dbd398a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multiplicative Normalizing Flows for Variational Bayesian Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/louizos17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Andreas Loukas"
+    ],
+    "conference": "icml",
+    "id": "68a39bf6",
+    "metadata": {
+      "words": []
+    },
+    "name": "How Close Are the Eigenvectors of the Sample and Actual Covariance Matrices?",
+    "pdf_link": "http://proceedings.mlr.press/v70/loukas17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ping Luo"
+    ],
+    "conference": "icml",
+    "id": "9dd37fcf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Deep Architectures via Generalized Whitened Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/luo17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kaifeng Lv",
+      "Shunhua Jiang",
+      "Jian Li"
+    ],
+    "conference": "icml",
+    "id": "df01a19f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Gradient Descent: Better Generalization and Longer Horizons",
+    "pdf_link": "http://proceedings.mlr.press/v70/lv17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yueming Lyu"
+    ],
+    "conference": "icml",
+    "id": "09a2248e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Spherical Structured Feature Maps for Kernel Approximation",
+    "pdf_link": "http://proceedings.mlr.press/v70/lyu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yi-An Ma",
+      "Nicholas J. Foti",
+      "Emily B. Fox"
+    ],
+    "conference": "icml",
+    "id": "8b74c275",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Gradient MCMC Methods for Hidden Markov Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/ma17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Fan Ma",
+      "Deyu Meng",
+      "Qi Xie",
+      "Zina Li",
+      "Xuanyi Dong"
+    ],
+    "conference": "icml",
+    "id": "cdc1b972",
+    "metadata": {
+      "words": []
+    },
+    "name": "Self-Paced Co-training",
+    "pdf_link": "http://proceedings.mlr.press/v70/ma17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "James MacGlashan",
+      "Mark K. Ho",
+      "Robert Loftin",
+      "Bei Peng",
+      "Guan Wang",
+      "David L. Roberts",
+      "Matthew E. Taylor",
+      "Michael L. Littman"
+    ],
+    "conference": "icml",
+    "id": "9e2d8cb4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Interactive Learning from Policy-Dependent Human Feedback",
+    "pdf_link": "http://proceedings.mlr.press/v70/macglashan17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Marlos C. Machado",
+      "Marc G. Bellemare",
+      "Michael Bowling"
+    ],
+    "conference": "icml",
+    "id": "d0ce28c3",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Laplacian Framework for Option Discovery in Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/machado17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Sebastian Mair",
+      "Ahc\u00e8ne Boubekki",
+      "Ulf Brefeld"
+    ],
+    "conference": "icml",
+    "id": "33049dd9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Frame-based Data Factorizations",
+    "pdf_link": "http://proceedings.mlr.press/v70/mair17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "C\u00e9dric Malherbe",
+      "Nicolas Vayatis"
+    ],
+    "conference": "icml",
+    "id": "4b912461",
+    "metadata": {
+      "words": []
+    },
+    "name": "Global optimization of Lipschitz functions",
+    "pdf_link": "http://proceedings.mlr.press/v70/malherbe17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Xueyu Mao",
+      "Purnamrita Sarkar",
+      "Deepayan Chakrabarti"
+    ],
+    "conference": "icml",
+    "id": "ce300003",
+    "metadata": {
+      "words": []
+    },
+    "name": "On Mixed Memberships and Symmetric Nonnegative Matrix Factorizations",
+    "pdf_link": "http://proceedings.mlr.press/v70/mao17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Andr\u00e9s Masegosa",
+      "Thomas D. Nielsen",
+      "Helge Langseth",
+      "Dar\u0131\u0301o Ramos-L\u00f3pez",
+      "Antonio Salmer\u00f3n",
+      "Anders L. Madsen"
+    ],
+    "conference": "icml",
+    "id": "8b180856",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bayesian Models of Data Streams with Hierarchical Power Priors",
+    "pdf_link": "http://proceedings.mlr.press/v70/masegosa17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Lucas Maystre",
+      "Matthias Grossglauser"
+    ],
+    "conference": "icml",
+    "id": "5451eccb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Just Sort It! A Simple and Effective Approach to Active Preference Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/maystre17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Lucas Maystre",
+      "Matthias Grossglauser"
+    ],
+    "conference": "icml",
+    "id": "74fec1cb",
+    "metadata": {
+      "words": []
+    },
+    "name": "ChoiceRank: Identifying Preferences from Node Traffic in Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/maystre17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mason McGill",
+      "Pietro Perona"
+    ],
+    "conference": "icml",
+    "id": "af2e5915",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deciding How to Decide: Dynamic Routing in Artificial Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/mcgill17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Daniel McNamara",
+      "Maria-Florina Balcan"
+    ],
+    "conference": "icml",
+    "id": "619fe9aa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Risk Bounds for Transferring Representations With and Without Fine-Tuning",
+    "pdf_link": "http://proceedings.mlr.press/v70/mcnamara17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jiali Mei",
+      "Yohann De Castro",
+      "Yannig Goude",
+      "Georges H\u00e9brail"
+    ],
+    "conference": "icml",
+    "id": "739accfa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Nonnegative Matrix Factorization for Time Series Recovery From a Few Temporal Aggregates",
+    "pdf_link": "http://proceedings.mlr.press/v70/mei17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Lars Mescheder",
+      "Sebastian Nowozin",
+      "Andreas Geiger"
+    ],
+    "conference": "icml",
+    "id": "875085d3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/mescheder17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zakaria Mhammedi",
+      "Andrew Hellicar",
+      "Ashfaqur Rahman",
+      "James Bailey"
+    ],
+    "conference": "icml",
+    "id": "69d828c9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficient Orthogonal Parametrisation of Recurrent Neural Networks Using Householder Reflections",
+    "pdf_link": "http://proceedings.mlr.press/v70/mhammedi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yishu Miao",
+      "Edward Grefenstette",
+      "Phil Blunsom"
+    ],
+    "conference": "icml",
+    "id": "28b87d89",
+    "metadata": {
+      "words": []
+    },
+    "name": "Discovering Discrete Latent Topics with Neural Variational Inference",
+    "pdf_link": "http://proceedings.mlr.press/v70/miao17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Andrew C. Miller",
+      "Nicholas J. Foti",
+      "Ryan P. Adams"
+    ],
+    "conference": "icml",
+    "id": "faa33fcb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variational Boosting: Iteratively Refining Posterior Approximations",
+    "pdf_link": "http://proceedings.mlr.press/v70/miller17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Azalia Mirhoseini",
+      "Hieu Pham",
+      "Quoc V. Le",
+      "Benoit Steiner",
+      "Rasmus Larsen",
+      "Yuefeng Zhou",
+      "Naveen Kumar",
+      "Mohammad Norouzi",
+      "Samy Bengio",
+      "Jeff Dean"
+    ],
+    "conference": "icml",
+    "id": "d10e8645",
+    "metadata": {
+      "words": []
+    },
+    "name": "Device Placement Optimization with Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/mirhoseini17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Vahab Mirrokni",
+      "Renato Paes Leme",
+      "Adrian Vladu",
+      "Sam Chiu-wai Wong"
+    ],
+    "conference": "icml",
+    "id": "0ecf70f2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Tight Bounds for Approximate Carath\u00e9odory and Beyond",
+    "pdf_link": "http://proceedings.mlr.press/v70/mirrokni17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Baharan Mirzasoleiman",
+      "Amin Karbasi",
+      "Andreas Krause"
+    ],
+    "conference": "icml",
+    "id": "1520b9b0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deletion-Robust Submodular Maximization: Data Summarization with \u201cthe Right to be Forgotten\u201d",
+    "pdf_link": "http://proceedings.mlr.press/v70/mirzasoleiman17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Nikhil Mishra",
+      "Pieter Abbeel",
+      "Igor Mordatch"
+    ],
+    "conference": "icml",
+    "id": "728bcf58",
+    "metadata": {
+      "words": []
+    },
+    "name": "Prediction and Control with Temporal Segment Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/mishra17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ioannis Mitliagkas",
+      "Lester Mackey"
+    ],
+    "conference": "icml",
+    "id": "b4565da0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improving Gibbs Sampler Scan Quality with DoGS",
+    "pdf_link": "http://proceedings.mlr.press/v70/mitliagkas17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Marko Mitrovic",
+      "Mark Bun",
+      "Andreas Krause",
+      "Amin Karbasi"
+    ],
+    "conference": "icml",
+    "id": "9a9c02ce",
+    "metadata": {
+      "words": []
+    },
+    "name": "Differentially Private Submodular Maximization: Data Summarization in Disguise",
+    "pdf_link": "http://proceedings.mlr.press/v70/mitrovic17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Soheil Mohajer",
+      "Changho Suh",
+      "Adel Elmahdy"
+    ],
+    "conference": "icml",
+    "id": "3e73e1d7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Active Learning for Top-<span class=\"MathJax_Preview\" style=\"color: inherit; display: none;\"></span><span class=\"MathJax\" id=\"MathJax-Element-3-Frame\" tabindex=\"0\" data-mathml=\"<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>K</mi></math>\" role=\"presentation\" style=\"position: relative;\"><nobr aria-hidden=\"true\"><span class=\"math\" id=\"MathJax-Span-18\" style=\"width: 1.174em; display: inline-block;\"><span style=\"display: inline-block; position: relative; width: 0.94em; height: 0px; font-size: 122%;\"><span style=\"position: absolute; clip: rect(1.291em, 1000.94em, 2.345em, -999.997em); top: -2.163em; left: 0em;\"><span class=\"mrow\" id=\"MathJax-Span-19\"><span class=\"mi\" id=\"MathJax-Span-20\" style=\"font-family: MathJax_Math-italic;\">K<span style=\"display: inline-block; overflow: hidden; height: 1px; width: 0.061em;\"></span></span></span><span style=\"display: inline-block; width: 0px; height: 2.169em;\"></span></span></span><span style=\"display: inline-block; overflow: hidden; vertical-align: -0.068em; border-left: 0px solid; width: 0px; height: 1.004em;\"></span></span></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi></math></span></span><script type=\"math/tex\" id=\"MathJax-Element-3\">K</script> Rank Aggregation from Noisy Comparisons",
+    "pdf_link": "http://proceedings.mlr.press/v70/mohajer17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Dmitry Molchanov",
+      "Arsenii Ashukha",
+      "Dmitry Vetrov"
+    ],
+    "conference": "icml",
+    "id": "d5c4284c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variational Dropout Sparsifies Deep Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/molchanov17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Amina Mollaysa",
+      "Pablo Strasser",
+      "Alexandros Kalousis"
+    ],
+    "conference": "icml",
+    "id": "09f88375",
+    "metadata": {
+      "words": []
+    },
+    "name": "Regularising Non-linear Models Using Feature Side-information",
+    "pdf_link": "http://proceedings.mlr.press/v70/mollaysa17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Lili Mou",
+      "Zhengdong Lu",
+      "Hang Li",
+      "Zhi Jin"
+    ],
+    "conference": "icml",
+    "id": "6dceb5a9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Coupling Distributed and Symbolic Execution for Natural Language Queries",
+    "pdf_link": "http://proceedings.mlr.press/v70/mou17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Youssef Mroueh",
+      "Tom Sercu",
+      "Vaibhava Goel"
+    ],
+    "conference": "icml",
+    "id": "6849cbfa",
+    "metadata": {
+      "words": []
+    },
+    "name": "McGan: Mean and Covariance Feature Matching GAN",
+    "pdf_link": "http://proceedings.mlr.press/v70/mroueh17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jonas Mueller",
+      "David Gifford",
+      "Tommi Jaakkola"
+    ],
+    "conference": "icml",
+    "id": "130006fe",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sequence to Better Sequence: Continuous Revision of Combinatorial Structures",
+    "pdf_link": "http://proceedings.mlr.press/v70/mueller17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mahesh Chandra Mukkamala",
+      "Matthias Hein"
+    ],
+    "conference": "icml",
+    "id": "23e71b26",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variants of RMSProp and Adagrad with Logarithmic Regret Bounds",
+    "pdf_link": "http://proceedings.mlr.press/v70/mukkamala17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tsendsuren Munkhdalai",
+      "Hong Yu"
+    ],
+    "conference": "icml",
+    "id": "a6e96f7e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Meta Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/munkhdalai17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tasha Nagamine",
+      "Nima Mesgarani"
+    ],
+    "conference": "icml",
+    "id": "705f4034",
+    "metadata": {
+      "words": []
+    },
+    "name": "Understanding the Representation and Computation of Multilayer Perceptrons: A Case Study in Speech Recognition",
+    "pdf_link": "http://proceedings.mlr.press/v70/nagamine17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hongseok Namkoong",
+      "Aman Sinha",
+      "Steve Yadlowsky",
+      "John C. Duchi"
+    ],
+    "conference": "icml",
+    "id": "b7528922",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Sampling Probabilities for Non-Smooth Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/namkoong17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Daniel Neil",
+      "Jun Haeng Lee",
+      "Tobi Delbruck",
+      "Shih-Chii Liu"
+    ],
+    "conference": "icml",
+    "id": "dc512d5c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Delta Networks for Optimized Recurrent Network Computation",
+    "pdf_link": "http://proceedings.mlr.press/v70/neil17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Willie Neiswanger",
+      "Eric Xing"
+    ],
+    "conference": "icml",
+    "id": "4d14b9c1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Post-Inference Prior Swapping",
+    "pdf_link": "http://proceedings.mlr.press/v70/neiswanger17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Quynh Nguyen",
+      "Matthias Hein"
+    ],
+    "conference": "icml",
+    "id": "1bdff73e",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Loss Surface of Deep and Wide Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/nguyen17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Lam M. Nguyen",
+      "Jie Liu",
+      "Katya Scheinberg",
+      "Martin Tak\u00e1\u010d"
+    ],
+    "conference": "icml",
+    "id": "92d50efe",
+    "metadata": {
+      "words": []
+    },
+    "name": "SARAH: A Novel Method for Machine Learning Problems Using Stochastic Recursive Gradient",
+    "pdf_link": "http://proceedings.mlr.press/v70/nguyen17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Xiuyan Ni",
+      "Novi Quadrianto",
+      "Yusu Wang",
+      "Chao Chen"
+    ],
+    "conference": "icml",
+    "id": "74f4701e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Composing Tree Graphical Models with Persistent Homology Features for Clustering Mixed-Type Data",
+    "pdf_link": "http://proceedings.mlr.press/v70/ni17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tsubasa Ochiai",
+      "Shinji Watanabe",
+      "Takaaki Hori",
+      "John R. Hershey"
+    ],
+    "conference": "icml",
+    "id": "ad4df708",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multichannel End-to-end Speech Recognition",
+    "pdf_link": "http://proceedings.mlr.press/v70/ochiai17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Augustus Odena",
+      "Christopher Olah",
+      "Jonathon Shlens"
+    ],
+    "conference": "icml",
+    "id": "d45f891f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Conditional Image Synthesis with Auxiliary Classifier GANs",
+    "pdf_link": "http://proceedings.mlr.press/v70/odena17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Dino Oglic",
+      "Thomas G\u00e4rtner"
+    ],
+    "conference": "icml",
+    "id": "52b2e15d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Nystr\u00f6m Method with Kernel K-means++ Samples as Landmarks",
+    "pdf_link": "http://proceedings.mlr.press/v70/oglic17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Junhyuk Oh",
+      "Satinder Singh",
+      "Honglak Lee",
+      "Pushmeet Kohli"
+    ],
+    "conference": "icml",
+    "id": "69a61e16",
+    "metadata": {
+      "words": []
+    },
+    "name": "Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/oh17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Junier B. Oliva",
+      "Barnab\u00e1s P\u00f3czos",
+      "Jeff Schneider"
+    ],
+    "conference": "icml",
+    "id": "4a3c6a19",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Statistical Recurrent Unit",
+    "pdf_link": "http://proceedings.mlr.press/v70/oliva17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shayegan Omidshafiei",
+      "Jason Pazis",
+      "Christopher Amato",
+      "Jonathan P. How",
+      "John Vian"
+    ],
+    "conference": "icml",
+    "id": "a5fc7c83",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability",
+    "pdf_link": "http://proceedings.mlr.press/v70/omidshafiei17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Greg Ongie",
+      "Rebecca Willett",
+      "Robert D. Nowak",
+      "Laura Balzano"
+    ],
+    "conference": "icml",
+    "id": "51073b2d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Algebraic Variety Models for High-Rank Matrix Completion",
+    "pdf_link": "http://proceedings.mlr.press/v70/ongie17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ian Osband",
+      "Benjamin Van Roy"
+    ],
+    "conference": "icml",
+    "id": "da62ed29",
+    "metadata": {
+      "words": []
+    },
+    "name": "Why is Posterior Sampling Better than Optimism for Reinforcement Learning?",
+    "pdf_link": "http://proceedings.mlr.press/v70/osband17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Takayuki Osogami",
+      "Hiroshi Kajino",
+      "Taro Sekiyama"
+    ],
+    "conference": "icml",
+    "id": "795d70b7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bidirectional Learning for Time-series Models with Hidden Units",
+    "pdf_link": "http://proceedings.mlr.press/v70/osogami17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Georg Ostrovski",
+      "Marc G. Bellemare",
+      "A\u00e4ron Oord",
+      "R\u00e9mi Munos"
+    ],
+    "conference": "icml",
+    "id": "0e173efc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Count-Based Exploration with Neural Density Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/ostrovski17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Pedram Pad",
+      "Farnood Salehi",
+      "Elisa Celis",
+      "Patrick Thiran",
+      "Michael Unser"
+    ],
+    "conference": "icml",
+    "id": "1f82e67f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dictionary Learning Based on Sparse Distribution Tomography",
+    "pdf_link": "http://proceedings.mlr.press/v70/pad17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ari Pakman",
+      "Dar Gilboa",
+      "David Carlson",
+      "Liam Paninski"
+    ],
+    "conference": "icml",
+    "id": "fadf5532",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Bouncy Particle Sampler",
+    "pdf_link": "http://proceedings.mlr.press/v70/pakman17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Konstantina Palla",
+      "David Knowles",
+      "Zoubin Ghahramani"
+    ],
+    "conference": "icml",
+    "id": "94d9aba5",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Birth-Death Process for Feature Allocation",
+    "pdf_link": "http://proceedings.mlr.press/v70/palla17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yunpeng Pan",
+      "Xinyan Yan",
+      "Evangelos A. Theodorou",
+      "Byron Boots"
+    ],
+    "conference": "icml",
+    "id": "f9380552",
+    "metadata": {
+      "words": []
+    },
+    "name": "Prediction under Uncertainty in Sparse Spectrum Gaussian Processes with Applications to Filtering and Control",
+    "pdf_link": "http://proceedings.mlr.press/v70/pan17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ashkan Panahi",
+      "Devdatt Dubhashi",
+      "Fredrik D. Johansson",
+      "Chiranjib Bhattacharyya"
+    ],
+    "conference": "icml",
+    "id": "50165617",
+    "metadata": {
+      "words": []
+    },
+    "name": "Clustering by Sum of Norms: Stochastic Incremental Algorithm, Convergence and Cluster Recovery",
+    "pdf_link": "http://proceedings.mlr.press/v70/panahi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Deepak Pathak",
+      "Pulkit Agrawal",
+      "Alexei A. Efros",
+      "Trevor Darrell"
+    ],
+    "conference": "icml",
+    "id": "5371e5c8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Curiosity-driven Exploration by Self-supervised Prediction",
+    "pdf_link": "http://proceedings.mlr.press/v70/pathak17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hao Peng",
+      "Shandian Zhe",
+      "Xiao Zhang",
+      "Yuan Qi"
+    ],
+    "conference": "icml",
+    "id": "2ca4f36d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Asynchronous Distributed Variational Gaussian Process for Regression",
+    "pdf_link": "http://proceedings.mlr.press/v70/peng17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jeffrey Pennington",
+      "Yasaman Bahri"
+    ],
+    "conference": "icml",
+    "id": "9166f5f2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Geometry of Neural Network Loss Surfaces via Random Matrix Theory",
+    "pdf_link": "http://proceedings.mlr.press/v70/pennington17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Anastasia Pentina",
+      "Christoph H. Lampert"
+    ],
+    "conference": "icml",
+    "id": "04a0d535",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-task Learning with Labeled and Unlabeled Tasks",
+    "pdf_link": "http://proceedings.mlr.press/v70/pentina17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Lerrel Pinto",
+      "James Davidson",
+      "Rahul Sukthankar",
+      "Abhinav Gupta"
+    ],
+    "conference": "icml",
+    "id": "4b86399c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Robust Adversarial Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/pinto17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Alexander Pritzel",
+      "Benigno Uria",
+      "Sriram Srinivasan",
+      "Adri\u00e0 Puigdom\u00e8nech Badia",
+      "Oriol Vinyals",
+      "Demis Hassabis",
+      "Daan Wierstra",
+      "Charles Blundell"
+    ],
+    "conference": "icml",
+    "id": "3fa0d5e9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Episodic Control",
+    "pdf_link": "http://proceedings.mlr.press/v70/pritzel17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Colin Raffel",
+      "Minh-Thang Luong",
+      "Peter J. Liu",
+      "Ron J. Weiss",
+      "Douglas Eck"
+    ],
+    "conference": "icml",
+    "id": "9707176b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Online and Linear-Time Attention by Enforcing Monotonic Alignments",
+    "pdf_link": "http://proceedings.mlr.press/v70/raffel17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Maithra Raghu",
+      "Ben Poole",
+      "Jon Kleinberg",
+      "Surya Ganguli",
+      "Jascha Sohl-Dickstein"
+    ],
+    "conference": "icml",
+    "id": "58e6bded",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Expressive Power of Deep Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/raghu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Aditi Raghunathan",
+      "Gregory Valiant",
+      "James Zou"
+    ],
+    "conference": "icml",
+    "id": "5d82a0fe",
+    "metadata": {
+      "words": []
+    },
+    "name": "Estimating the unseen from multiple populations",
+    "pdf_link": "http://proceedings.mlr.press/v70/raghunathan17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mostafa Rahmani",
+      "George Atia"
+    ],
+    "conference": "icml",
+    "id": "774e4648",
+    "metadata": {
+      "words": []
+    },
+    "name": "Coherence Pursuit: Fast, Simple, and Robust Subspace Recovery",
+    "pdf_link": "http://proceedings.mlr.press/v70/rahmani17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mostafa Rahmani",
+      "George Atia"
+    ],
+    "conference": "icml",
+    "id": "a5728413",
+    "metadata": {
+      "words": []
+    },
+    "name": "Innovation Pursuit: A New Approach to the Subspace Clustering Problem",
+    "pdf_link": "http://proceedings.mlr.press/v70/rahmani17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Santu Rana",
+      "Cheng Li",
+      "Sunil Gupta",
+      "Vu Nguyen",
+      "Svetha Venkatesh"
+    ],
+    "conference": "icml",
+    "id": "f55a8396",
+    "metadata": {
+      "words": []
+    },
+    "name": "High Dimensional Bayesian Optimization with Elastic Gaussian Process",
+    "pdf_link": "http://proceedings.mlr.press/v70/rana17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Siamak Ravanbakhsh",
+      "Jeff Schneider",
+      "Barnab\u00e1s P\u00f3czos"
+    ],
+    "conference": "icml",
+    "id": "adda02c1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Equivariance Through Parameter-Sharing",
+    "pdf_link": "http://proceedings.mlr.press/v70/ravanbakhsh17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Esteban Real",
+      "Sherry Moore",
+      "Andrew Selle",
+      "Saurabh Saxena",
+      "Yutaka Leon Suematsu",
+      "Jie Tan",
+      "Quoc V. Le",
+      "Alexey Kurakin"
+    ],
+    "conference": "icml",
+    "id": "0d69b20a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Large-Scale Evolution of Image Classifiers",
+    "pdf_link": "http://proceedings.mlr.press/v70/real17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Scott Reed",
+      "A\u00e4ron Oord",
+      "Nal Kalchbrenner",
+      "Sergio G\u00f3mez Colmenarejo",
+      "Ziyu Wang",
+      "Yutian Chen",
+      "Dan Belov",
+      "Nando Freitas"
+    ],
+    "conference": "icml",
+    "id": "87613080",
+    "metadata": {
+      "words": []
+    },
+    "name": "Parallel Multiscale Autoregressive Density Estimation",
+    "pdf_link": "http://proceedings.mlr.press/v70/reed17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Oren Rippel",
+      "Lubomir Bourdev"
+    ],
+    "conference": "icml",
+    "id": "05d9f69e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Real-Time Adaptive Image Compression",
+    "pdf_link": "http://proceedings.mlr.press/v70/rippel17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Carlos Riquelme",
+      "Mohammad Ghavamzadeh",
+      "Alessandro Lazaric"
+    ],
+    "conference": "icml",
+    "id": "ed8d0be2",
+    "metadata": {
+      "words": []
+    },
+    "name": "Active Learning for Accurate Estimation of Linear Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/riquelme17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Samuel Ritter",
+      "David G. T. Barrett",
+      "Adam Santoro",
+      "Matt M. Botvinick"
+    ],
+    "conference": "icml",
+    "id": "e8d11798",
+    "metadata": {
+      "words": []
+    },
+    "name": "Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study",
+    "pdf_link": "http://proceedings.mlr.press/v70/ritter17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Benjamin I. P. Rubinstein",
+      "Francesco Ald\u00e0"
+    ],
+    "conference": "icml",
+    "id": "fe3ee237",
+    "metadata": {
+      "words": []
+    },
+    "name": "Pain-Free Random Differential Privacy with Sensitivity Sampling",
+    "pdf_link": "http://proceedings.mlr.press/v70/rubinstein17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Salvatore Ruggieri"
+    ],
+    "conference": "icml",
+    "id": "f88c7eff",
+    "metadata": {
+      "words": []
+    },
+    "name": "Enumerating Distinct Decision Trees",
+    "pdf_link": "http://proceedings.mlr.press/v70/ruggieri17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tammo Rukat",
+      "Chris C. Holmes",
+      "Michalis K. Titsias",
+      "Christopher Yau"
+    ],
+    "conference": "icml",
+    "id": "79b592ef",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bayesian Boolean Matrix Factorisation",
+    "pdf_link": "http://proceedings.mlr.press/v70/rukat17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Itay Safran",
+      "Ohad Shamir"
+    ],
+    "conference": "icml",
+    "id": "5fa33080",
+    "metadata": {
+      "words": []
+    },
+    "name": "Depth-Width Tradeoffs in Approximating Natural Functions with Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/safran17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kuniaki Saito",
+      "Yoshitaka Ushiku",
+      "Tatsuya Harada"
+    ],
+    "conference": "icml",
+    "id": "0bde6640",
+    "metadata": {
+      "words": []
+    },
+    "name": "Asymmetric Tri-training for Unsupervised Domain Adaptation",
+    "pdf_link": "http://proceedings.mlr.press/v70/saito17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tomoya Sakai",
+      "Marthinus Christoffel Plessis",
+      "Gang Niu",
+      "Masashi Sugiyama"
+    ],
+    "conference": "icml",
+    "id": "dcac1a43",
+    "metadata": {
+      "words": []
+    },
+    "name": "Semi-Supervised Classification Based on Classification from Positive and Unlabeled Data",
+    "pdf_link": "http://proceedings.mlr.press/v70/sakai17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Charbel Sakr",
+      "Yongjune Kim",
+      "Naresh Shanbhag"
+    ],
+    "conference": "icml",
+    "id": "bddbc9b6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Analytical Guarantees on Numerical Precision of Deep Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/sakr17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Andrew M. Saxe",
+      "Adam C. Earle",
+      "Benjamin Rosman"
+    ],
+    "conference": "icml",
+    "id": "bac48ea0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Hierarchy Through Composition with Multitask LMDPs",
+    "pdf_link": "http://proceedings.mlr.press/v70/saxe17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kevin Scaman",
+      "Francis Bach",
+      "S\u00e9bastien Bubeck",
+      "Yin Tat Lee",
+      "Laurent Massouli\u00e9"
+    ],
+    "conference": "icml",
+    "id": "f20d86dd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Optimal Algorithms for Smooth and Strongly Convex Distributed Optimization in Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/scaman17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Matthew Schlegel",
+      "Yangchen Pan",
+      "Jiecao Chen",
+      "Martha White"
+    ],
+    "conference": "icml",
+    "id": "b4dab77b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adapting Kernel Representations Online Using Submodular Maximization",
+    "pdf_link": "http://proceedings.mlr.press/v70/schlegel17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Daniel Selsam",
+      "Percy Liang",
+      "David L. Dill"
+    ],
+    "conference": "icml",
+    "id": "06fc38bc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Developing Bug-Free Machine Learning Systems With Formal Mathematics",
+    "pdf_link": "http://proceedings.mlr.press/v70/selsam17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Rajat Sen",
+      "Karthikeyan Shanmugam",
+      "Alexandros G. Dimakis",
+      "Sanjay Shakkottai"
+    ],
+    "conference": "icml",
+    "id": "2c0fb822",
+    "metadata": {
+      "words": []
+    },
+    "name": "Identifying Best Interventions through Online Importance Sampling",
+    "pdf_link": "http://proceedings.mlr.press/v70/sen17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shai Shalev-Shwartz",
+      "Ohad Shamir",
+      "Shaked Shammah"
+    ],
+    "conference": "icml",
+    "id": "fba97290",
+    "metadata": {
+      "words": []
+    },
+    "name": "Failures of Gradient-Based Deep Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/shalev-shwartz17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Uri Shalit",
+      "Fredrik D. Johansson",
+      "David Sontag"
+    ],
+    "conference": "icml",
+    "id": "7dc0dd96",
+    "metadata": {
+      "words": []
+    },
+    "name": "Estimating individual treatment effect: generalization bounds and algorithms",
+    "pdf_link": "http://proceedings.mlr.press/v70/shalit17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ohad Shamir",
+      "Liran Szlak"
+    ],
+    "conference": "icml",
+    "id": "8f7df461",
+    "metadata": {
+      "words": []
+    },
+    "name": "Online Learning with Local Permutations and Delayed Feedback",
+    "pdf_link": "http://proceedings.mlr.press/v70/shamir17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Vatsal Sharan",
+      "Gregory Valiant"
+    ],
+    "conference": "icml",
+    "id": "1f43c921",
+    "metadata": {
+      "words": []
+    },
+    "name": "Orthogonalized ALS: A Theoretically Principled Tensor Decomposition Algorithm for Practical Use",
+    "pdf_link": "http://proceedings.mlr.press/v70/sharan17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Or Sheffet"
+    ],
+    "conference": "icml",
+    "id": "7bfb392a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Differentially Private Ordinary Least Squares",
+    "pdf_link": "http://proceedings.mlr.press/v70/sheffet17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jie Shen",
+      "Ping Li"
+    ],
+    "conference": "icml",
+    "id": "7d1ff1e5",
+    "metadata": {
+      "words": []
+    },
+    "name": "On the Iteration Complexity of Support Recovery via Hard Thresholding Pursuit",
+    "pdf_link": "http://proceedings.mlr.press/v70/shen17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Li Shen",
+      "Wei Liu",
+      "Ganzhao Yuan",
+      "Shiqian Ma"
+    ],
+    "conference": "icml",
+    "id": "63e92473",
+    "metadata": {
+      "words": []
+    },
+    "name": "GSOS: Gauss-Seidel Operator Splitting Algorithm for Multi-Term Nonsmooth Convex Composite Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/shen17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tianlin Shi",
+      "Andrej Karpathy",
+      "Linxi Fan",
+      "Jonathan Hernandez",
+      "Percy Liang"
+    ],
+    "conference": "icml",
+    "id": "e07ecc57",
+    "metadata": {
+      "words": []
+    },
+    "name": "World of Bits: An Open-Domain Platform for Web-Based Agents",
+    "pdf_link": "http://proceedings.mlr.press/v70/shi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Avanti Shrikumar",
+      "Peyton Greenside",
+      "Anshul Kundaje"
+    ],
+    "conference": "icml",
+    "id": "c0ff5571",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Important Features Through Propagating Activation Differences",
+    "pdf_link": "http://proceedings.mlr.press/v70/shrikumar17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Anshumali Shrivastava"
+    ],
+    "conference": "icml",
+    "id": "cdbbbfaa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Optimal Densification for Fast and Accurate Minwise Hashing",
+    "pdf_link": "http://proceedings.mlr.press/v70/shrivastava17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Rui Shu",
+      "Hung H. Bui",
+      "Mohammad Ghavamzadeh"
+    ],
+    "conference": "icml",
+    "id": "4b241819",
+    "metadata": {
+      "words": []
+    },
+    "name": "Bottleneck Conditional Density Estimation",
+    "pdf_link": "http://proceedings.mlr.press/v70/shu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Pranav Shyam",
+      "Shubham Gupta",
+      "Ambedkar Dukkipati"
+    ],
+    "conference": "icml",
+    "id": "0c6ac00a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Attentive Recurrent Comparators",
+    "pdf_link": "http://proceedings.mlr.press/v70/shyam17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Si Si",
+      "Huan Zhang",
+      "S. Sathiya Keerthi",
+      "Dhruv Mahajan",
+      "Inderjit S. Dhillon",
+      "Cho-Jui Hsieh"
+    ],
+    "conference": "icml",
+    "id": "016c3f4a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Gradient Boosted Decision Trees for High Dimensional Sparse Output",
+    "pdf_link": "http://proceedings.mlr.press/v70/si17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "David Silver",
+      "Hado Hasselt",
+      "Matteo Hessel",
+      "Tom Schaul",
+      "Arthur Guez",
+      "Tim Harley",
+      "Gabriel Dulac-Arnold",
+      "David Reichert",
+      "Neil Rabinowitz",
+      "Andre Barreto",
+      "Thomas Degris"
+    ],
+    "conference": "icml",
+    "id": "dd5674c3",
+    "metadata": {
+      "words": []
+    },
+    "name": "The Predictron: End-To-End Learning and Planning",
+    "pdf_link": "http://proceedings.mlr.press/v70/silver17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Umut \u015eim\u015fekli"
+    ],
+    "conference": "icml",
+    "id": "b1c81655",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fractional Langevin Monte Carlo: Exploring Levy Driven Stochastic Differential Equations for Markov Chain Monte Carlo",
+    "pdf_link": "http://proceedings.mlr.press/v70/simsekli17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shashank Singh",
+      "Barnab\u00e1s P\u00f3czos"
+    ],
+    "conference": "icml",
+    "id": "ed1fe53c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Nonparanormal Information Estimation",
+    "pdf_link": "http://proceedings.mlr.press/v70/singh17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Vidyashankar Sivakumar",
+      "Arindam Banerjee"
+    ],
+    "conference": "icml",
+    "id": "df18061f",
+    "metadata": {
+      "words": []
+    },
+    "name": "High-Dimensional Structured Quantile Regression",
+    "pdf_link": "http://proceedings.mlr.press/v70/sivakumar17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Matthew Staib",
+      "Stefanie Jegelka"
+    ],
+    "conference": "icml",
+    "id": "2a4e5e47",
+    "metadata": {
+      "words": []
+    },
+    "name": "Robust Budget Allocation via Continuous Submodular Functions",
+    "pdf_link": "http://proceedings.mlr.press/v70/staib17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Serban Stan",
+      "Morteza Zadimoghaddam",
+      "Andreas Krause",
+      "Amin Karbasi"
+    ],
+    "conference": "icml",
+    "id": "3f59feee",
+    "metadata": {
+      "words": []
+    },
+    "name": "Probabilistic Submodular Maximization in Sub-Linear Time",
+    "pdf_link": "http://proceedings.mlr.press/v70/stan17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Sebastian U. Stich",
+      "Anant Raj",
+      "Martin Jaggi"
+    ],
+    "conference": "icml",
+    "id": "dbbe76fd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Approximate Steepest Coordinate Descent",
+    "pdf_link": "http://proceedings.mlr.press/v70/stich17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Arun Sai Suggala",
+      "Eunho Yang",
+      "Pradeep Ravikumar"
+    ],
+    "conference": "icml",
+    "id": "95502c10",
+    "metadata": {
+      "words": []
+    },
+    "name": "Ordinal Graphical Models: A Tale of Two Approaches",
+    "pdf_link": "http://proceedings.mlr.press/v70/suggala17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mahito Sugiyama",
+      "Hiroyuki Nakahara",
+      "Koji Tsuda"
+    ],
+    "conference": "icml",
+    "id": "0ed513e9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Tensor Balancing on Statistical Manifold",
+    "pdf_link": "http://proceedings.mlr.press/v70/sugiyama17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Wen Sun",
+      "Debadeepta Dey",
+      "Ashish Kapoor"
+    ],
+    "conference": "icml",
+    "id": "a8a07cf5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Safety-Aware Algorithms for Adversarial Contextual Bandit",
+    "pdf_link": "http://proceedings.mlr.press/v70/sun17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ke Sun",
+      "Frank Nielsen"
+    ],
+    "conference": "icml",
+    "id": "90665796",
+    "metadata": {
+      "words": []
+    },
+    "name": "Relative Fisher Information and Natural Gradient for Learning Large Modular Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/sun17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Xu Sun",
+      "Xuancheng Ren",
+      "Shuming Ma",
+      "Houfeng Wang"
+    ],
+    "conference": "icml",
+    "id": "8ab315df",
+    "metadata": {
+      "words": []
+    },
+    "name": "meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting",
+    "pdf_link": "http://proceedings.mlr.press/v70/sun17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Wen Sun",
+      "Arun Venkatraman",
+      "Geoffrey J. Gordon",
+      "Byron Boots",
+      "J. Andrew Bagnell"
+    ],
+    "conference": "icml",
+    "id": "9cee3bdb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Deeply AggreVaTeD: Differentiable Imitation Learning for Sequential Prediction",
+    "pdf_link": "http://proceedings.mlr.press/v70/sun17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mukund Sundararajan",
+      "Ankur Taly",
+      "Qiqi Yan"
+    ],
+    "conference": "icml",
+    "id": "70e69519",
+    "metadata": {
+      "words": []
+    },
+    "name": "Axiomatic Attribution for Deep Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/sundararajan17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ananda Theertha Suresh",
+      "Felix X. Yu",
+      "Sanjiv Kumar",
+      "H. Brendan McMahan"
+    ],
+    "conference": "icml",
+    "id": "7d3986b4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Distributed Mean Estimation with Limited Communication",
+    "pdf_link": "http://proceedings.mlr.press/v70/suresh17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shinya Suzumura",
+      "Kazuya Nakagawa",
+      "Yuta Umezu",
+      "Koji Tsuda",
+      "Ichiro Takeuchi"
+    ],
+    "conference": "icml",
+    "id": "a514e338",
+    "metadata": {
+      "words": []
+    },
+    "name": "Selective Inference for Sparse High-Order Interaction Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/suzumura17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Souhaib Ben Taieb",
+      "James W. Taylor",
+      "Rob J. Hyndman"
+    ],
+    "conference": "icml",
+    "id": "7590a45c",
+    "metadata": {
+      "words": []
+    },
+    "name": "Coherent Probabilistic Forecasts for Hierarchical Time Series",
+    "pdf_link": "http://proceedings.mlr.press/v70/taieb17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zilong Tan",
+      "Sayan Mukherjee"
+    ],
+    "conference": "icml",
+    "id": "7fe2b96a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Partitioned Tensor Factorizations for Learning Mixed Membership Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/tan17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Rashish Tandon",
+      "Qi Lei",
+      "Alexandros G. Dimakis",
+      "Nikos Karampatziakis"
+    ],
+    "conference": "icml",
+    "id": "bb54e6e5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Gradient Coding: Avoiding Stragglers in Distributed Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/tandon17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Junqi Tang",
+      "Mohammad Golbabaee",
+      "Mike E. Davies"
+    ],
+    "conference": "icml",
+    "id": "4f8efb2f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Gradient Projection Iterative Sketch for Large-Scale Constrained Least-Squares",
+    "pdf_link": "http://proceedings.mlr.press/v70/tang17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Matus Telgarsky"
+    ],
+    "conference": "icml",
+    "id": "1c5ba86f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Neural Networks and Rational Functions",
+    "pdf_link": "http://proceedings.mlr.press/v70/telgarsky17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hoai An Le Thi",
+      "Hoai Minh Le",
+      "Duy Nhat Phan",
+      "Bach Tran"
+    ],
+    "conference": "icml",
+    "id": "5487742b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic DCA for the Large-sum of Non-convex Functions Problem and its Application to Group Variable Selection in Classification",
+    "pdf_link": "http://proceedings.mlr.press/v70/thi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yuandong Tian"
+    ],
+    "conference": "icml",
+    "id": "a0b2bced",
+    "metadata": {
+      "words": []
+    },
+    "name": "An Analytical Formula of Population Gradient for two-layered ReLU network and its Applications in Convergence and Critical Point Analysis",
+    "pdf_link": "http://proceedings.mlr.press/v70/tian17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Seiya Tokui",
+      "Issei Sato"
+    ],
+    "conference": "icml",
+    "id": "49029683",
+    "metadata": {
+      "words": []
+    },
+    "name": "Evaluating the Variance of Likelihood-Ratio Gradient Estimators",
+    "pdf_link": "http://proceedings.mlr.press/v70/tokui17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jonathan Tompson",
+      "Kristofer Schlachter",
+      "Pablo Sprechmann",
+      "Ken Perlin"
+    ],
+    "conference": "icml",
+    "id": "a302ace9",
+    "metadata": {
+      "words": []
+    },
+    "name": "Accelerating Eulerian Fluid Simulation With Convolutional Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/tompson17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Samuele Tosatto",
+      "Matteo Pirotta",
+      "Carlo D\u2019Eramo",
+      "Marcello Restelli"
+    ],
+    "conference": "icml",
+    "id": "f6660d5b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Boosted Fitted Q-Iteration",
+    "pdf_link": "http://proceedings.mlr.press/v70/tosatto17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Christopher Tosh",
+      "Sanjoy Dasgupta"
+    ],
+    "conference": "icml",
+    "id": "390a959f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Diameter-Based Active Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/tosh17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Nilesh Tripuraneni",
+      "Mark Rowland",
+      "Zoubin Ghahramani",
+      "Richard Turner"
+    ],
+    "conference": "icml",
+    "id": "0ce910fc",
+    "metadata": {
+      "words": []
+    },
+    "name": "Magnetic Hamiltonian Monte Carlo",
+    "pdf_link": "http://proceedings.mlr.press/v70/tripuraneni17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Rakshit Trivedi",
+      "Hanjun Dai",
+      "Yichen Wang",
+      "Le Song"
+    ],
+    "conference": "icml",
+    "id": "2a474ef6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs",
+    "pdf_link": "http://proceedings.mlr.press/v70/trivedi17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Manolis C. Tsakiris",
+      "Ren\u00e9 Vidal"
+    ],
+    "conference": "icml",
+    "id": "51147104",
+    "metadata": {
+      "words": []
+    },
+    "name": "Hyperplane Clustering via Dual Principal Component Pursuit",
+    "pdf_link": "http://proceedings.mlr.press/v70/tsakiris17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Stephen Tu",
+      "Shivaram Venkataraman",
+      "Ashia C. Wilson",
+      "Alex Gittens",
+      "Michael I. Jordan",
+      "Benjamin Recht"
+    ],
+    "conference": "icml",
+    "id": "dcc20803",
+    "metadata": {
+      "words": []
+    },
+    "name": "Breaking Locality Accelerates Block Gauss-Seidel",
+    "pdf_link": "http://proceedings.mlr.press/v70/tu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shashanka Ubaru",
+      "Arya Mazumdar"
+    ],
+    "conference": "icml",
+    "id": "9cfe25b5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multilabel Classification with Group Testing and Codes",
+    "pdf_link": "http://proceedings.mlr.press/v70/ubaru17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jonas Umlauft",
+      "Sandra Hirche"
+    ],
+    "conference": "icml",
+    "id": "a9828ae0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Stable Stochastic Nonlinear Dynamical Systems",
+    "pdf_link": "http://proceedings.mlr.press/v70/umlauft17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "John Urschel",
+      "Victor-Emmanuel Brunel",
+      "Ankur Moitra",
+      "Philippe Rigollet"
+    ],
+    "conference": "icml",
+    "id": "41e857d5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Determinantal Point Processes with Moments and Cycles",
+    "pdf_link": "http://proceedings.mlr.press/v70/urschel17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Isabel Valera",
+      "Zoubin Ghahramani"
+    ],
+    "conference": "icml",
+    "id": "c5cf3a80",
+    "metadata": {
+      "words": []
+    },
+    "name": "Automatic Discovery of the Statistical Types of Variables in a Dataset",
+    "pdf_link": "http://proceedings.mlr.press/v70/valera17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Sharan Vaswani",
+      "Branislav Kveton",
+      "Zheng Wen",
+      "Mohammad Ghavamzadeh",
+      "Laks V. S. Lakshmanan",
+      "Mark Schmidt"
+    ],
+    "conference": "icml",
+    "id": "bc97a4d8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Model-Independent Online Learning for Influence Maximization",
+    "pdf_link": "http://proceedings.mlr.press/v70/vaswani17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Alexander Sasha Vezhnevets",
+      "Simon Osindero",
+      "Tom Schaul",
+      "Nicolas Heess",
+      "Max Jaderberg",
+      "David Silver",
+      "Koray Kavukcuoglu"
+    ],
+    "conference": "icml",
+    "id": "8e83de60",
+    "metadata": {
+      "words": []
+    },
+    "name": "FeUdal Networks for Hierarchical Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/vezhnevets17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Carlos Villacampa-Calvo",
+      "Daniel Hern\u00e1ndez-Lobato"
+    ],
+    "conference": "icml",
+    "id": "b8ea46f6",
+    "metadata": {
+      "words": []
+    },
+    "name": "Scalable Multi-Class Gaussian Process Classification using Expectation Propagation",
+    "pdf_link": "http://proceedings.mlr.press/v70/villacampa-calvo17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ruben Villegas",
+      "Jimei Yang",
+      "Yuliang Zou",
+      "Sungryull Sohn",
+      "Xunyu Lin",
+      "Honglak Lee"
+    ],
+    "conference": "icml",
+    "id": "d68422b3",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning to Generate Long-term Future via Hierarchical Prediction",
+    "pdf_link": "http://proceedings.mlr.press/v70/villegas17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Eugene Vorontsov",
+      "Chiheb Trabelsi",
+      "Samuel Kadoury",
+      "Chris Pal"
+    ],
+    "conference": "icml",
+    "id": "4a7f6ffe",
+    "metadata": {
+      "words": []
+    },
+    "name": "On orthogonality and learning recurrent networks with long term dependencies",
+    "pdf_link": "http://proceedings.mlr.press/v70/vorontsov17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Christian J. Walder",
+      "Adrian N. Bishop"
+    ],
+    "conference": "icml",
+    "id": "6a6e201e",
+    "metadata": {
+      "words": []
+    },
+    "name": "Fast Bayesian Intensity Estimation for the Permanental Process",
+    "pdf_link": "http://proceedings.mlr.press/v70/walder17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yu-Xiang Wang",
+      "Alekh Agarwal",
+      "Miroslav Dud\u0131\u0301k"
+    ],
+    "conference": "icml",
+    "id": "335908cb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Optimal and Adaptive Off-policy Evaluation in Contextual Bandits",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Di Wang",
+      "Kimon Fountoulakis",
+      "Monika Henzinger",
+      "Michael W. Mahoney",
+      "Satish Rao"
+    ],
+    "conference": "icml",
+    "id": "44f266b0",
+    "metadata": {
+      "words": []
+    },
+    "name": "Capacity Releasing Diffusion for Speed and Locality",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shusen Wang",
+      "Alex Gittens",
+      "Michael W. Mahoney"
+    ],
+    "conference": "icml",
+    "id": "c35c7c28",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sketched Ridge Regression: Optimization Perspective, Statistical Perspective, and Model Averaging",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Lingxiao Wang",
+      "Quanquan Gu"
+    ],
+    "conference": "icml",
+    "id": "7cd44095",
+    "metadata": {
+      "words": []
+    },
+    "name": "Robust Gaussian Graphical Model Estimation with Arbitrary Corruption",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zi Wang",
+      "Stefanie Jegelka"
+    ],
+    "conference": "icml",
+    "id": "c656bcdb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Max-value Entropy Search for Efficient Bayesian Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17e.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jialei Wang",
+      "Mladen Kolar",
+      "Nathan Srebro",
+      "Tong Zhang"
+    ],
+    "conference": "icml",
+    "id": "90141cd1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Efficient Distributed Learning with Sparsity",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17f.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yixin Wang",
+      "Alp Kucukelbir",
+      "David M. Blei"
+    ],
+    "conference": "icml",
+    "id": "9410a702",
+    "metadata": {
+      "words": []
+    },
+    "name": "Robust Probabilistic Modeling with Bayesian Data Reweighting",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17g.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zi Wang",
+      "Chengtao Li",
+      "Stefanie Jegelka",
+      "Pushmeet Kohli"
+    ],
+    "conference": "icml",
+    "id": "2aa0fcfe",
+    "metadata": {
+      "words": []
+    },
+    "name": "Batched High-dimensional Bayesian Optimization via Structural Kernel Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17h.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Po-An Wang",
+      "Chi-Jen Lu"
+    ],
+    "conference": "icml",
+    "id": "1245dc77",
+    "metadata": {
+      "words": []
+    },
+    "name": "Tensor Decomposition via Simultaneous Power Iteration",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17i.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Chong Wang",
+      "Yining Wang",
+      "Po-Sen Huang",
+      "Abdelrahman Mohamed",
+      "Dengyong Zhou",
+      "Li Deng"
+    ],
+    "conference": "icml",
+    "id": "80db6c5a",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sequence Modeling via Segmentations",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17j.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yichen Wang",
+      "Grady Williams",
+      "Evangelos Theodorou",
+      "Le Song"
+    ],
+    "conference": "icml",
+    "id": "2bb34fbd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Variational Policy for Guiding Point Processes",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17k.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jialei Wang",
+      "Lin Xiao"
+    ],
+    "conference": "icml",
+    "id": "b01ccdd5",
+    "metadata": {
+      "words": []
+    },
+    "name": "Exploiting Strong Convexity from Data with Primal-Dual First-Order Algorithms",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17l.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yunhe Wang",
+      "Chang Xu",
+      "Chao Xu",
+      "Dacheng Tao"
+    ],
+    "conference": "icml",
+    "id": "ace72be7",
+    "metadata": {
+      "words": []
+    },
+    "name": "Beyond Filters: Compact Feature Map for Portable Deep Model",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17m.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Lingxiao Wang",
+      "Xiao Zhang",
+      "Quanquan Gu"
+    ],
+    "conference": "icml",
+    "id": "fb584e26",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Unified Variance Reduction-Based Framework for Nonconvex Low-Rank Matrix Recovery",
+    "pdf_link": "http://proceedings.mlr.press/v70/wang17n.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Pengfei Wei",
+      "Ramon Sagarna",
+      "Yiping Ke",
+      "Yew-Soon Ong",
+      "Chi-Keong Goh"
+    ],
+    "conference": "icml",
+    "id": "eae822aa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Source-Target Similarity Modelings for Multi-Source Transfer Gaussian Process Regression",
+    "pdf_link": "http://proceedings.mlr.press/v70/wei17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tsung-Hsien Wen",
+      "Yishu Miao",
+      "Phil Blunsom",
+      "Steve Young"
+    ],
+    "conference": "icml",
+    "id": "28b62104",
+    "metadata": {
+      "words": []
+    },
+    "name": "Latent Intention Dialogue Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/wen17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Martha White"
+    ],
+    "conference": "icml",
+    "id": "cd5b8db1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Unifying Task Specification in Reinforcement Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/white17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Olga Wichrowska",
+      "Niru Maheswaranathan",
+      "Matthew W. Hoffman",
+      "Sergio G\u00f3mez Colmenarejo",
+      "Misha Denil",
+      "Nando Freitas",
+      "Jascha Sohl-Dickstein"
+    ],
+    "conference": "icml",
+    "id": "3b4ddd2b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learned Optimizers that Scale and Generalize",
+    "pdf_link": "http://proceedings.mlr.press/v70/wichrowska17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kevin Winner",
+      "Debora Sujono",
+      "Dan Sheldon"
+    ],
+    "conference": "icml",
+    "id": "e5686b6b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Exact Inference for Integer Latent-Variable Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/winner17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Andrew Wrigley",
+      "Wee Sun Lee",
+      "Nan Ye"
+    ],
+    "conference": "icml",
+    "id": "b0794132",
+    "metadata": {
+      "words": []
+    },
+    "name": "Tensor Belief Propagation",
+    "pdf_link": "http://proceedings.mlr.press/v70/wrigley17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Xi-Zhu Wu",
+      "Zhi-Hua Zhou"
+    ],
+    "conference": "icml",
+    "id": "8cd46c7e",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Unified View of Multi-Label Performance Measures",
+    "pdf_link": "http://proceedings.mlr.press/v70/wu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yingce Xia",
+      "Tao Qin",
+      "Wei Chen",
+      "Jiang Bian",
+      "Nenghai Yu",
+      "Tie-Yan Liu"
+    ],
+    "conference": "icml",
+    "id": "b6f3b189",
+    "metadata": {
+      "words": []
+    },
+    "name": "Dual Supervised Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/xia17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Pengtao Xie",
+      "Yuntian Deng",
+      "Yi Zhou",
+      "Abhimanu Kumar",
+      "Yaoliang Yu",
+      "James Zou",
+      "Eric P. Xing"
+    ],
+    "conference": "icml",
+    "id": "74ceebf4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Latent Space Models with Angular Constraints",
+    "pdf_link": "http://proceedings.mlr.press/v70/xie17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Pengtao Xie",
+      "Aarti Singh",
+      "Eric P. Xing"
+    ],
+    "conference": "icml",
+    "id": "17bcc56f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Uncorrelation and Evenness: a New Diversity-Promoting Regularizer",
+    "pdf_link": "http://proceedings.mlr.press/v70/xie17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yi Xu",
+      "Qihang Lin",
+      "Tianbao Yang"
+    ],
+    "conference": "icml",
+    "id": "90be0a00",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Convex Optimization: Faster Local Growth Implies Faster Global Convergence",
+    "pdf_link": "http://proceedings.mlr.press/v70/xu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hongteng Xu",
+      "Dixin Luo",
+      "Hongyuan Zha"
+    ],
+    "conference": "icml",
+    "id": "c3bbd0d1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Hawkes Processes from Short Doubly-Censored Event Sequences",
+    "pdf_link": "http://proceedings.mlr.press/v70/xu17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zheng Xu",
+      "Gavin Taylor",
+      "Hao Li",
+      "M\u00e1rio A. T. Figueiredo",
+      "Xiaoming Yuan",
+      "Tom Goldstein"
+    ],
+    "conference": "icml",
+    "id": "9cf46dba",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adaptive Consensus ADMM for Distributed Optimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/xu17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zhuoran Yang",
+      "Krishnakumar Balasubramanian",
+      "Han Liu"
+    ],
+    "conference": "icml",
+    "id": "73201206",
+    "metadata": {
+      "words": []
+    },
+    "name": "High-dimensional Non-Gaussian Single Index Models via Thresholded Score Function Estimation",
+    "pdf_link": "http://proceedings.mlr.press/v70/yang17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Bo Yang",
+      "Xiao Fu",
+      "Nicholas D. Sidiropoulos",
+      "Mingyi Hong"
+    ],
+    "conference": "icml",
+    "id": "6a35cb72",
+    "metadata": {
+      "words": []
+    },
+    "name": "Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering",
+    "pdf_link": "http://proceedings.mlr.press/v70/yang17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Haichuan Yang",
+      "Shupeng Gui",
+      "Chuyang Ke",
+      "Daniel Stefankovic",
+      "Ryohei Fujimaki",
+      "Ji Liu"
+    ],
+    "conference": "icml",
+    "id": "8c1c0615",
+    "metadata": {
+      "words": []
+    },
+    "name": "On The Projection Operator to A Three-view Cardinality Constrained Set",
+    "pdf_link": "http://proceedings.mlr.press/v70/yang17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Zichao Yang",
+      "Zhiting Hu",
+      "Ruslan Salakhutdinov",
+      "Taylor Berg-Kirkpatrick"
+    ],
+    "conference": "icml",
+    "id": "87268e44",
+    "metadata": {
+      "words": []
+    },
+    "name": "Improved Variational Autoencoders for Text Modeling using Dilated Convolutions",
+    "pdf_link": "http://proceedings.mlr.press/v70/yang17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yinchong Yang",
+      "Denis Krompass",
+      "Volker Tresp"
+    ],
+    "conference": "icml",
+    "id": "71cfa79d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Tensor-Train Recurrent Neural Networks for Video Classification",
+    "pdf_link": "http://proceedings.mlr.press/v70/yang17e.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Tianbao Yang",
+      "Qihang Lin",
+      "Lijun Zhang"
+    ],
+    "conference": "icml",
+    "id": "c9b42c2f",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Richer Theory of Convex Constrained Optimization with Reduced Projections and Improved Rates",
+    "pdf_link": "http://proceedings.mlr.press/v70/yang17f.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Eunho Yang",
+      "Aur\u00e9lie C. Lozano"
+    ],
+    "conference": "icml",
+    "id": "0ab7173d",
+    "metadata": {
+      "words": []
+    },
+    "name": "Sparse + Group-Sparse Dirty Models: Statistical Guarantees without Unreasonable Conditions and a Case for Non-Convexity",
+    "pdf_link": "http://proceedings.mlr.press/v70/yang17g.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hongyu Yang",
+      "Cynthia Rudin",
+      "Margo Seltzer"
+    ],
+    "conference": "icml",
+    "id": "d4db18ec",
+    "metadata": {
+      "words": []
+    },
+    "name": "Scalable Bayesian Rule Lists",
+    "pdf_link": "http://proceedings.mlr.press/v70/yang17h.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Haishan Ye",
+      "Luo Luo",
+      "Zhihua Zhang"
+    ],
+    "conference": "icml",
+    "id": "19c736d4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Approximate Newton Methods and Their Local Convergence",
+    "pdf_link": "http://proceedings.mlr.press/v70/ye17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jianbo Ye",
+      "James Z. Wang",
+      "Jia Li"
+    ],
+    "conference": "icml",
+    "id": "8cb76137",
+    "metadata": {
+      "words": []
+    },
+    "name": "A Simulated Annealing Based Inexact Oracle for Wasserstein Loss Minimization",
+    "pdf_link": "http://proceedings.mlr.press/v70/ye17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Ian En-Hsu Yen",
+      "Wei-Cheng Lee",
+      "Sung-En Chang",
+      "Arun Sai Suggala",
+      "Shou-De Lin",
+      "Pradeep Ravikumar"
+    ],
+    "conference": "icml",
+    "id": "d05c9fbf",
+    "metadata": {
+      "words": []
+    },
+    "name": "Latent Feature Lasso",
+    "pdf_link": "http://proceedings.mlr.press/v70/yen17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Jaehong Yoon",
+      "Sung Ju Hwang"
+    ],
+    "conference": "icml",
+    "id": "30e8ecd8",
+    "metadata": {
+      "words": []
+    },
+    "name": "Combined Group and Exclusive Sparsity for Deep Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/yoon17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Manzil Zaheer",
+      "Amr Ahmed",
+      "Alexander J. Smola"
+    ],
+    "conference": "icml",
+    "id": "1028bfb1",
+    "metadata": {
+      "words": []
+    },
+    "name": "Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data",
+    "pdf_link": "http://proceedings.mlr.press/v70/zaheer17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Manzil Zaheer",
+      "Satwik Kottur",
+      "Amr Ahmed",
+      "Jos\u00e9 Moura",
+      "Alex Smola"
+    ],
+    "conference": "icml",
+    "id": "e25bfb77",
+    "metadata": {
+      "words": []
+    },
+    "name": "Canopy  Fast Sampling with Cover Trees",
+    "pdf_link": "http://proceedings.mlr.press/v70/zaheer17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Friedemann Zenke",
+      "Ben Poole",
+      "Surya Ganguli"
+    ],
+    "conference": "icml",
+    "id": "9088dd60",
+    "metadata": {
+      "words": []
+    },
+    "name": "Continual Learning Through Synaptic Intelligence",
+    "pdf_link": "http://proceedings.mlr.press/v70/zenke17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yizhe Zhang",
+      "Changyou Chen",
+      "Zhe Gan",
+      "Ricardo Henao",
+      "Lawrence Carin"
+    ],
+    "conference": "icml",
+    "id": "fa2fc974",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Gradient Monomial Gamma Sampler",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhang17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yizhe Zhang",
+      "Zhe Gan",
+      "Kai Fan",
+      "Zhi Chen",
+      "Ricardo Henao",
+      "Dinghan Shen",
+      "Lawrence Carin"
+    ],
+    "conference": "icml",
+    "id": "72c751bd",
+    "metadata": {
+      "words": []
+    },
+    "name": "Adversarial Feature Matching for Text Generation",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhang17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Weizhong Zhang",
+      "Bin Hong",
+      "Wei Liu",
+      "Jieping Ye",
+      "Deng Cai",
+      "Xiaofei He",
+      "Jie Wang"
+    ],
+    "conference": "icml",
+    "id": "97e820fe",
+    "metadata": {
+      "words": []
+    },
+    "name": "Scaling Up Sparse Support Vector Machines by Simultaneous Feature and Sample Reduction",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhang17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Chenzi Zhang",
+      "Shuguang Hu",
+      "Zhihao Gavin Tang",
+      "T-H. Hubert Chan"
+    ],
+    "conference": "icml",
+    "id": "c769f774",
+    "metadata": {
+      "words": []
+    },
+    "name": "Re-revisiting Learning on Hypergraphs: Confidence Interval and Subgradient Method",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhang17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hantian Zhang",
+      "Jerry Li",
+      "Kaan Kara",
+      "Dan Alistarh",
+      "Ji Liu",
+      "Ce Zhang"
+    ],
+    "conference": "icml",
+    "id": "6a3e2607",
+    "metadata": {
+      "words": []
+    },
+    "name": "ZipML: Training Linear Models with End-to-End Low Precision, and a Little Bit of Deep Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhang17e.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yuchen Zhang",
+      "Percy Liang",
+      "Martin J. Wainwright"
+    ],
+    "conference": "icml",
+    "id": "337850aa",
+    "metadata": {
+      "words": []
+    },
+    "name": "Convexified Convolutional Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhang17f.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Wenpeng Zhang",
+      "Peilin Zhao",
+      "Wenwu Zhu",
+      "Steven C. H. Hoi",
+      "Tong Zhang"
+    ],
+    "conference": "icml",
+    "id": "5ad5d712",
+    "metadata": {
+      "words": []
+    },
+    "name": "Projection-free Distributed Online Learning in Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhang17g.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Teng Zhang",
+      "Zhi-Hua Zhou"
+    ],
+    "conference": "icml",
+    "id": "13b80adb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Multi-Class Optimal Margin Distribution Machine",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhang17h.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "He Zhao",
+      "Lan Du",
+      "Wray Buntine"
+    ],
+    "conference": "icml",
+    "id": "5e5eb57b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Leveraging Node Attributes for Incomplete Relational Data",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhao17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Liang Zhao",
+      "Siyu Liao",
+      "Yanzhi Wang",
+      "Zhe Li",
+      "Jian Tang",
+      "Bo Yuan"
+    ],
+    "conference": "icml",
+    "id": "b3f0ebfb",
+    "metadata": {
+      "words": []
+    },
+    "name": "Theoretical Properties for Neural Networks with Weight Matrices of Low Displacement Rank",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhao17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shengjia Zhao",
+      "Jiaming Song",
+      "Stefano Ermon"
+    ],
+    "conference": "icml",
+    "id": "b9b6f1ed",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Hierarchical Features from Deep Generative Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhao17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Mingmin Zhao",
+      "Shichao Yue",
+      "Dina Katabi",
+      "Tommi S. Jaakkola",
+      "Matt T. Bianchi"
+    ],
+    "conference": "icml",
+    "id": "9ad22a2f",
+    "metadata": {
+      "words": []
+    },
+    "name": "Learning Sleep Stages from Radio Signals: A Conditional Adversarial Architecture",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhao17d.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shuai Zheng",
+      "James T. Kwok"
+    ],
+    "conference": "icml",
+    "id": "322ba990",
+    "metadata": {
+      "words": []
+    },
+    "name": "Follow the Moving Leader in Deep Learning",
+    "pdf_link": "http://proceedings.mlr.press/v70/zheng17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Shuxin Zheng",
+      "Qi Meng",
+      "Taifeng Wang",
+      "Wei Chen",
+      "Nenghai Yu",
+      "Zhi-Ming Ma",
+      "Tie-Yan Liu"
+    ],
+    "conference": "icml",
+    "id": "66188575",
+    "metadata": {
+      "words": []
+    },
+    "name": "Asynchronous Stochastic Gradient Descent with Delay Compensation",
+    "pdf_link": "http://proceedings.mlr.press/v70/zheng17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kai Zheng",
+      "Wenlong Mou",
+      "Liwei Wang"
+    ],
+    "conference": "icml",
+    "id": "71b670ee",
+    "metadata": {
+      "words": []
+    },
+    "name": "Collect at Once, Use Effectively: Making Non-interactive Locally Private Learning Possible",
+    "pdf_link": "http://proceedings.mlr.press/v70/zheng17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Kai Zhong",
+      "Zhao Song",
+      "Prateek Jain",
+      "Peter L. Bartlett",
+      "Inderjit S. Dhillon"
+    ],
+    "conference": "icml",
+    "id": "6c05e6ab",
+    "metadata": {
+      "words": []
+    },
+    "name": "Recovery Guarantees for One-hidden-layer Neural Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhong17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Chaoxu Zhou",
+      "Wenbo Gao",
+      "Donald Goldfarb"
+    ],
+    "conference": "icml",
+    "id": "1416cd9b",
+    "metadata": {
+      "words": []
+    },
+    "name": "Stochastic Adaptive Quasi-Newton Methods for Minimizing Expected Values",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhou17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Yichi Zhou",
+      "Jialian Li",
+      "Jun Zhu"
+    ],
+    "conference": "icml",
+    "id": "782c7948",
+    "metadata": {
+      "words": []
+    },
+    "name": "Identify the Nash Equilibrium in Static Games with Random Payoffs",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhou17b.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Hao Henry Zhou",
+      "Yilin Zhang",
+      "Vamsi K. Ithapu",
+      "Sterling C. Johnson",
+      "Grace Wahba",
+      "Vikas Singh"
+    ],
+    "conference": "icml",
+    "id": "338a5e0b",
+    "metadata": {
+      "words": []
+    },
+    "name": "When can Multi-Site Datasets be Pooled for Regression? Hypothesis Tests, <span class=\"MathJax_Preview\" style=\"color: inherit; display: none;\"></span><span class=\"MathJax\" id=\"MathJax-Element-4-Frame\" tabindex=\"0\" data-mathml=\"<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi>&amp;#x2113;</mi><mn>2</mn></msub></math>\" role=\"presentation\" style=\"position: relative;\"><nobr aria-hidden=\"true\"><span class=\"math\" id=\"MathJax-Span-21\" style=\"width: 0.998em; display: inline-block;\"><span style=\"display: inline-block; position: relative; width: 0.823em; height: 0px; font-size: 122%;\"><span style=\"position: absolute; clip: rect(1.291em, 1000.82em, 2.52em, -999.997em); top: -2.163em; left: 0em;\"><span class=\"mrow\" id=\"MathJax-Span-22\"><span class=\"msubsup\" id=\"MathJax-Span-23\"><span style=\"display: inline-block; position: relative; width: 0.823em; height: 0px;\"><span style=\"position: absolute; clip: rect(3.106em, 1000.41em, 4.16em, -999.997em); top: -3.978em; left: 0em;\"><span class=\"mi\" id=\"MathJax-Span-24\" style=\"font-family: MathJax_Main;\">\u2113</span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span><span style=\"position: absolute; top: -3.803em; left: 0.413em;\"><span class=\"mn\" id=\"MathJax-Span-25\" style=\"font-size: 70.7%; font-family: MathJax_Main;\">2</span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span></span></span></span><span style=\"display: inline-block; width: 0px; height: 2.169em;\"></span></span></span><span style=\"display: inline-block; overflow: hidden; vertical-align: -0.282em; border-left: 0px solid; width: 0px; height: 1.218em;\"></span></span></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>\u2113</mi><mn>2</mn></msub></math></span></span><script type=\"math/tex\" id=\"MathJax-Element-4\">\\ell_2</script>-consistency and Neuroscience Applications",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhou17c.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Rongda Zhu",
+      "Lingxiao Wang",
+      "Chengxiang Zhai",
+      "Quanquan Gu"
+    ],
+    "conference": "icml",
+    "id": "6a744e95",
+    "metadata": {
+      "words": []
+    },
+    "name": "High-Dimensional Variance-Reduced Stochastic Gradient Expectation-Maximization Algorithm",
+    "pdf_link": "http://proceedings.mlr.press/v70/zhu17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Julian Georg Zilly",
+      "Rupesh Kumar Srivastava",
+      "Jan Koutn\u0131\u0301k",
+      "J\u00fcrgen Schmidhuber"
+    ],
+    "conference": "icml",
+    "id": "07ab64c4",
+    "metadata": {
+      "words": []
+    },
+    "name": "Recurrent Highway Networks",
+    "pdf_link": "http://proceedings.mlr.press/v70/zilly17a.html",
+    "year": 2017
+  },
+  {
+    "authors": [
+      "Masrour Zoghi",
+      "Tomas Tunys",
+      "Mohammad Ghavamzadeh",
+      "Branislav Kveton",
+      "Csaba Szepesvari",
+      "Zheng Wen"
+    ],
+    "conference": "icml",
+    "id": "98ff6804",
+    "metadata": {
+      "words": []
+    },
+    "name": "Online Learning to Rank in Stochastic Click Models",
+    "pdf_link": "http://proceedings.mlr.press/v70/zoghi17a.html",
+    "year": 2017
+  }
+]
