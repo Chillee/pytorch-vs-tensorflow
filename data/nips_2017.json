@@ -11,6 +11,7 @@
     "conference": "nips",
     "id": "6082febc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning",
@@ -26,6 +27,7 @@
     "conference": "nips",
     "id": "6f35a48d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Concentration of Multilinear Functions of the Ising Model with Applications to Network Data",
@@ -43,7 +45,10 @@
     "conference": "nips",
     "id": "4a178025",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Deep Subspace Clustering Networks",
     "pdf_link": "https://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf",
@@ -57,7 +62,10 @@
     "conference": "nips",
     "id": "8f63fd6d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Attentional Pooling for Action Recognition",
     "pdf_link": "https://papers.nips.cc/paper/6609-attentional-pooling-for-action-recognition.pdf",
@@ -70,6 +78,7 @@
     "conference": "nips",
     "id": "32e67b17",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On the Consistency of Quick Shift",
@@ -85,6 +94,7 @@
     "conference": "nips",
     "id": "95985b65",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Breaking the Nonsmooth Barrier: A Scalable Parallel Method for Composite Optimization",
@@ -107,6 +117,7 @@
     "conference": "nips",
     "id": "28be97fd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dual-Agent GANs for Photorealistic and Identity Preserving Profile Face Synthesis",
@@ -129,7 +140,10 @@
     "conference": "nips",
     "id": "bccaa848",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Dilated Recurrent Neural Networks",
     "pdf_link": "https://papers.nips.cc/paper/6613-dilated-recurrent-neural-networks.pdf",
@@ -143,6 +157,7 @@
     "conference": "nips",
     "id": "3b532026",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs",
@@ -159,6 +174,7 @@
     "conference": "nips",
     "id": "c70a9405",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scalable Generalized Linear Bandits: Online Computation and Hashing",
@@ -176,6 +192,7 @@
     "conference": "nips",
     "id": "610730b0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Probabilistic Models for Integration Error in the Assessment of Functional Cardiac Models",
@@ -192,7 +209,10 @@
     "conference": "nips",
     "id": "8a2750cf",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent",
     "pdf_link": "https://papers.nips.cc/paper/6617-machine-learning-with-adversaries-byzantine-tolerant-gradient-descent.pdf",
@@ -208,6 +228,7 @@
     "conference": "nips",
     "id": "bcf7471e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement Learning",
@@ -223,6 +244,7 @@
     "conference": "nips",
     "id": "d9607fa3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Interactive Submodular Bandit",
@@ -240,6 +262,7 @@
     "conference": "nips",
     "id": "19388552",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to See Physics via Visual De-animation",
@@ -256,7 +279,10 @@
     "conference": "nips",
     "id": "4b689eae",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Label Efficient Learning of Transferable Representations acrosss Domains and Tasks",
     "pdf_link": "https://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks.pdf",
@@ -274,6 +300,7 @@
     "conference": "nips",
     "id": "55208269",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Decoding with Value Networks for Neural Machine Translation",
@@ -290,6 +317,7 @@
     "conference": "nips",
     "id": "72726ddd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Parametric Simplex Method for Sparse Learning",
@@ -306,6 +334,7 @@
     "conference": "nips",
     "id": "b20d7c2d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Group Sparse Additive Machine",
@@ -320,6 +349,7 @@
     "conference": "nips",
     "id": "64054cca",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Uprooting and Rerooting Higher-Order Graphical Models",
@@ -335,7 +365,11 @@
     "conference": "nips",
     "id": "b542a787",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "The Unreasonable Effectiveness of Structured Random Orthogonal Embeddings",
     "pdf_link": "https://papers.nips.cc/paper/6626-the-unreasonable-effectiveness-of-structured-random-orthogonal-embeddings.pdf",
@@ -352,6 +386,7 @@
     "conference": "nips",
     "id": "def2e119",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From Parity to Preference-based Notions of Fairness in Classification",
@@ -371,6 +406,7 @@
     "conference": "nips",
     "id": "16a4e99e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inferring Generative Model Structure with Static Analysis",
@@ -387,7 +423,10 @@
     "conference": "nips",
     "id": "c3a10c84",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Structured Embedding Models for Grouped Data",
     "pdf_link": "https://papers.nips.cc/paper/6629-structured-embedding-models-for-grouped-data.pdf",
@@ -404,6 +443,7 @@
     "conference": "nips",
     "id": "7eadc53e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Linear-Time Kernel Goodness-of-Fit Test",
@@ -421,7 +461,10 @@
     "conference": "nips",
     "id": "27b34b15",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Cortical microcircuits as gated-recurrent neural networks",
     "pdf_link": "https://papers.nips.cc/paper/6631-cortical-microcircuits-as-gated-recurrent-neural-networks.pdf",
@@ -435,6 +478,7 @@
     "conference": "nips",
     "id": "40ac35db",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "k-Support and Ordered Weighted Sparsity for Overlapping Groups: Hardness and Algorithms",
@@ -449,6 +493,7 @@
     "conference": "nips",
     "id": "b4accb6d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A simple model of recognition and recall memory",
@@ -464,6 +509,7 @@
     "conference": "nips",
     "id": "3d930743",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On Structured Prediction Theory with Calibrated Convex Surrogate Losses",
@@ -481,6 +527,7 @@
     "conference": "nips",
     "id": "bbe084fd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model",
@@ -496,6 +543,7 @@
     "conference": "nips",
     "id": "5f3adad4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MaskRNN: Instance Level Video Object Segmentation",
@@ -510,6 +558,7 @@
     "conference": "nips",
     "id": "510fe80e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gated Recurrent Convolution Neural Network for OCR",
@@ -525,6 +574,7 @@
     "conference": "nips",
     "id": "99d3d00c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Accurate Binary Convolutional Neural Network",
@@ -540,6 +590,7 @@
     "conference": "nips",
     "id": "4e727c95",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semi-Supervised Learning for Optical Flow with Generative Adversarial Networks",
@@ -555,7 +606,10 @@
     "conference": "nips",
     "id": "4f666a88",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning a Multi-View Stereo Machine",
     "pdf_link": "https://papers.nips.cc/paper/6640-learning-a-multi-view-stereo-machine.pdf",
@@ -569,6 +623,7 @@
     "conference": "nips",
     "id": "3bb813b6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Phase Transitions in the Pooled Data Problem",
@@ -587,6 +642,7 @@
     "conference": "nips",
     "id": "8bb1c2c0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Universal Style Transfer via Feature Transforms",
@@ -603,6 +659,7 @@
     "conference": "nips",
     "id": "f73a4faa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On the Model Shrinkage Effect of Gamma Process Edge Partition Models",
@@ -621,6 +678,7 @@
     "conference": "nips",
     "id": "f1e4d466",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pose Guided Person Image Generation",
@@ -636,6 +694,7 @@
     "conference": "nips",
     "id": "78fcea74",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inference in Graphical Models via Semidefinite Programming Hierarchies",
@@ -652,6 +711,7 @@
     "conference": "nips",
     "id": "64f58fe8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Variable Importance Using Decision Trees",
@@ -667,6 +727,7 @@
     "conference": "nips",
     "id": "342998ad",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Preventing Gradient Explosions in Gated Recurrent Units",
@@ -682,6 +743,7 @@
     "conference": "nips",
     "id": "b97798f4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On the Power of Truncated SVD for General High-rank Matrix Estimation Problems",
@@ -699,6 +761,7 @@
     "conference": "nips",
     "id": "744c13b3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "f-GANs in an Information Geometric Nutshell",
@@ -718,6 +781,7 @@
     "conference": "nips",
     "id": "169b4abb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Toward Multimodal Image-to-Image Translation",
@@ -736,6 +800,7 @@
     "conference": "nips",
     "id": "cb7867bf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mixture-Rank Matrix Approximation for Collaborative Filtering",
@@ -752,6 +817,7 @@
     "conference": "nips",
     "id": "dea8bf5a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Continuous DR-submodular  Maximization: Structure and Algorithms",
@@ -768,6 +834,7 @@
     "conference": "nips",
     "id": "322f8d91",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning with Average Top-k Loss",
@@ -783,6 +850,7 @@
     "conference": "nips",
     "id": "d1451385",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning multiple visual domains with residual adapters",
@@ -796,6 +864,7 @@
     "conference": "nips",
     "id": "33a53698",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dykstra's Algorithm, ADMM, and Coordinate Descent: Connections, Insights, and Extensions",
@@ -810,7 +879,10 @@
     "conference": "nips",
     "id": "70affe11",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Learning Spherical Convolution for Fast Features from 360\u00b0 Imagery",
     "pdf_link": "https://papers.nips.cc/paper/6656-learning-spherical-convolution-for-fast-features-from-360-imagery.pdf",
@@ -828,6 +900,7 @@
     "conference": "nips",
     "id": "749d022a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MarrNet: 3D Shape Reconstruction via 2.5D Sketches",
@@ -842,6 +915,7 @@
     "conference": "nips",
     "id": "386c5bdd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multimodal Learning and Reasoning for Visual Question Answering",
@@ -857,6 +931,7 @@
     "conference": "nips",
     "id": "2129c9c5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adversarial Surrogate Losses for Ordinal Regression",
@@ -873,6 +948,7 @@
     "conference": "nips",
     "id": "e20ca0cd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hypothesis Transfer Learning via Transformation Functions",
@@ -890,7 +966,10 @@
     "conference": "nips",
     "id": "327daef9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "opennmt"
+      ]
     },
     "name": "Controllable Invariance through Adversarial Feature Learning",
     "pdf_link": "https://papers.nips.cc/paper/6661-controllable-invariance-through-adversarial-feature-learning.pdf",
@@ -904,6 +983,7 @@
     "conference": "nips",
     "id": "601b3356",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convergence Analysis of Two-layer Neural Networks with ReLU Activation",
@@ -918,6 +998,7 @@
     "conference": "nips",
     "id": "1d9e5877",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Doubly Accelerated Stochastic Variance Reduced Dual Averaging Method for Regularized Empirical Risk Minimization",
@@ -933,6 +1014,7 @@
     "conference": "nips",
     "id": "6c921dfb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks",
@@ -946,6 +1028,7 @@
     "conference": "nips",
     "id": "45360e37",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Online Linear Optimization with Approximation Algorithms",
@@ -961,6 +1044,7 @@
     "conference": "nips",
     "id": "ac6b29ec",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Geometric Descent Method for Convex Composite Minimization",
@@ -977,6 +1061,7 @@
     "conference": "nips",
     "id": "59b51c66",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Diffusion Approximations for Online Principal Component Estimation and Global Convergence",
@@ -995,6 +1080,7 @@
     "conference": "nips",
     "id": "6083a05c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Avoiding Discrimination through Causal Reasoning",
@@ -1009,6 +1095,7 @@
     "conference": "nips",
     "id": "6c88b791",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Nonparametric Online Regression while Learning the Metric",
@@ -1023,6 +1110,7 @@
     "conference": "nips",
     "id": "55cde783",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recycling Privileged Learning and Distribution Matching for Fairness",
@@ -1037,6 +1125,7 @@
     "conference": "nips",
     "id": "0b7938fb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Safe and Nested Subgame Solving for Imperfect-Information Games",
@@ -1052,6 +1141,7 @@
     "conference": "nips",
     "id": "c225a1c9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Image-to-Image Translation Networks",
@@ -1067,6 +1157,7 @@
     "conference": "nips",
     "id": "33273d69",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Coded Distributed Computing for Inverse Problems",
@@ -1082,6 +1173,7 @@
     "conference": "nips",
     "id": "69ab25bc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Screening Rule for l1-Regularized Ising Model Estimation",
@@ -1099,6 +1191,7 @@
     "conference": "nips",
     "id": "6007ccaa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Improved Dynamic Regret for Non-degenerate Functions",
@@ -1116,6 +1209,7 @@
     "conference": "nips",
     "id": "b122fcbc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Efficient Object Detection Models with Knowledge Distillation",
@@ -1130,6 +1224,7 @@
     "conference": "nips",
     "id": "61a3539e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "One-Sided Unsupervised Domain Mapping",
@@ -1146,6 +1241,7 @@
     "conference": "nips",
     "id": "3ca2a230",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Mean-Shift Priors for Image Restoration",
@@ -1162,6 +1258,7 @@
     "conference": "nips",
     "id": "67dab1d2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Greedy Algorithms for Cone Constrained Optimization with Convergence Guarantees",
@@ -1177,6 +1274,7 @@
     "conference": "nips",
     "id": "5ac0c856",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A New Theory for Matrix Completion",
@@ -1191,6 +1289,7 @@
     "conference": "nips",
     "id": "d4953044",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Hypothesis Test for Nonlinear Effect with Gaussian Processes",
@@ -1207,6 +1306,7 @@
     "conference": "nips",
     "id": "09819821",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Lower bounds on the robustness to adversarial perturbations",
@@ -1221,6 +1321,7 @@
     "conference": "nips",
     "id": "235e96eb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Minimizing a Submodular Function from Samples",
@@ -1236,7 +1337,10 @@
     "conference": "nips",
     "id": "c556467e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Introspective Classification with Convolutional Nets",
     "pdf_link": "https://papers.nips.cc/paper/6684-introspective-classification-with-convolutional-nets.pdf",
@@ -1252,6 +1356,7 @@
     "conference": "nips",
     "id": "c704f7cd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Label Distribution Learning Forests",
@@ -1267,6 +1372,7 @@
     "conference": "nips",
     "id": "8439eb8d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised learning of object frames by dense equivariant image labelling",
@@ -1281,6 +1387,7 @@
     "conference": "nips",
     "id": "8052b35b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Compression-aware Training of Deep Networks",
@@ -1299,6 +1406,7 @@
     "conference": "nips",
     "id": "8d75ece0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multiscale Semi-Markov Dynamics for Intracortical Brain-Computer Interfaces",
@@ -1316,7 +1424,10 @@
     "conference": "nips",
     "id": "d02d25c3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs",
     "pdf_link": "https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf",
@@ -1332,6 +1443,7 @@
     "conference": "nips",
     "id": "0cf610c7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Detrended Partial Cross Correlation for Brain Connectivity Analysis",
@@ -1346,6 +1458,7 @@
     "conference": "nips",
     "id": "6ea0c55f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Contrastive Learning for Image Captioning",
@@ -1362,7 +1475,10 @@
     "conference": "nips",
     "id": "a2ded651",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Safe Model-based Reinforcement Learning with Stability Guarantees",
     "pdf_link": "https://papers.nips.cc/paper/6692-safe-model-based-reinforcement-learning-with-stability-guarantees.pdf",
@@ -1377,6 +1493,7 @@
     "conference": "nips",
     "id": "559dfe06",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online multiclass boosting",
@@ -1391,6 +1508,7 @@
     "conference": "nips",
     "id": "cd6f1fbe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Matching on Balanced Nonlinear Representations for Treatment Effects Estimation",
@@ -1407,6 +1525,7 @@
     "conference": "nips",
     "id": "d6c6bf04",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Overcomplete HMMs",
@@ -1423,6 +1542,7 @@
     "conference": "nips",
     "id": "52e23c3f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "GP CaKe: Effective brain connectivity with causal kernels",
@@ -1437,7 +1557,10 @@
     "conference": "nips",
     "id": "bfab73dc",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Decoupling \"when to update\" from \"how to update\"",
     "pdf_link": "https://papers.nips.cc/paper/6697-decoupling-when-to-update-from-how-to-update.pdf",
@@ -1453,6 +1576,7 @@
     "conference": "nips",
     "id": "b234bf3c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Self-Normalizing Neural Networks",
@@ -1468,6 +1592,7 @@
     "conference": "nips",
     "id": "85fd8b65",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Pivot with Adversarial Networks",
@@ -1486,6 +1611,7 @@
     "conference": "nips",
     "id": "33dc91e0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SchNet: A continuous-filter convolutional neural network for modeling quantum interactions",
@@ -1501,7 +1627,10 @@
     "conference": "nips",
     "id": "a323f4e8",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples",
     "pdf_link": "https://papers.nips.cc/paper/6701-active-bias-training-more-accurate-neural-networks-by-emphasizing-high-variance-samples.pdf",
@@ -1515,7 +1644,10 @@
     "conference": "nips",
     "id": "4fcc55fe",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Differentiable Learning of Submodular Models",
     "pdf_link": "https://papers.nips.cc/paper/6702-differentiable-learning-of-submodular-models.pdf",
@@ -1530,7 +1662,10 @@
     "conference": "nips",
     "id": "364a521e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Inductive Representation Learning on Large Graphs",
     "pdf_link": "https://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf",
@@ -1544,6 +1679,7 @@
     "conference": "nips",
     "id": "c1f3f734",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Subset Selection and Summarization in Sequential Data",
@@ -1559,6 +1695,7 @@
     "conference": "nips",
     "id": "ac91af6f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Question Asking as Program Generation",
@@ -1573,6 +1710,7 @@
     "conference": "nips",
     "id": "5df8c44c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Revisiting Perceptron: Efficient and Label-Optimal Learning of Halfspaces",
@@ -1591,6 +1729,7 @@
     "conference": "nips",
     "id": "877f0054",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gradient Descent Can Take Exponential Time to Escape Saddle Points",
@@ -1613,6 +1752,7 @@
     "conference": "nips",
     "id": "5548c255",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Union of Intersections (UoI) for Interpretable Data Driven Discovery and Prediction",
@@ -1633,6 +1773,7 @@
     "conference": "nips",
     "id": "771eaeb4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "One-Shot Imitation Learning",
@@ -1649,6 +1790,7 @@
     "conference": "nips",
     "id": "8c83dde1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning the Morphology of Brain Signals Using Alpha-Stable Convolutional Sparse Coding",
@@ -1665,6 +1807,7 @@
     "conference": "nips",
     "id": "fc2c6172",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Integration Methods and Optimization Algorithms",
@@ -1679,6 +1822,7 @@
     "conference": "nips",
     "id": "0d2f67cd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sharpness, Restart and Acceleration",
@@ -1694,6 +1838,7 @@
     "conference": "nips",
     "id": "4116da26",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition",
@@ -1713,6 +1858,7 @@
     "conference": "nips",
     "id": "7413afda",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations",
@@ -1728,6 +1874,7 @@
     "conference": "nips",
     "id": "f0d7dfcb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning spatiotemporal piecewise-geodesic trajectories from longitudinal manifold-valued data",
@@ -1742,6 +1889,7 @@
     "conference": "nips",
     "id": "b44e1796",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Improving Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms and Its Applications",
@@ -1762,7 +1910,10 @@
     "conference": "nips",
     "id": "f9cb646c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Predictive-State Decoders: Encoding the Future into Recurrent Networks",
     "pdf_link": "https://papers.nips.cc/paper/6717-predictive-state-decoders-encoding-the-future-into-recurrent-networks.pdf",
@@ -1776,6 +1927,7 @@
     "conference": "nips",
     "id": "716409ce",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Optimistic posterior sampling for reinforcement learning: worst-case regret bounds",
@@ -1790,7 +1942,10 @@
     "conference": "nips",
     "id": "7bc90147",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results",
     "pdf_link": "https://papers.nips.cc/paper/6719-mean-teachers-are-better-role-models-weight-averaged-consistency-targets-improve-semi-supervised-deep-learning-results.pdf",
@@ -1805,6 +1960,7 @@
     "conference": "nips",
     "id": "9ed6adea",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Matching neural paths: transfer from recognition to correspondence search",
@@ -1821,6 +1977,7 @@
     "conference": "nips",
     "id": "a4c75728",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Linearly constrained Gaussian processes",
@@ -1837,6 +1994,7 @@
     "conference": "nips",
     "id": "f0560ddc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fixed-Rank Approximation of a Positive-Semidefinite Matrix from Streaming Data",
@@ -1854,7 +2012,10 @@
     "conference": "nips",
     "id": "05cc8e16",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets",
     "pdf_link": "https://papers.nips.cc/paper/6723-multi-modal-imitation-learning-from-unstructured-demonstrations-using-generative-adversarial-nets.pdf",
@@ -1869,7 +2030,10 @@
     "conference": "nips",
     "id": "ebd507d5",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Learning to Inpaint for Image Compression",
     "pdf_link": "https://papers.nips.cc/paper/6724-learning-to-inpaint-for-image-compression.pdf",
@@ -1883,6 +2047,7 @@
     "conference": "nips",
     "id": "92dc2fd6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive Bayesian Sampling with Monte Carlo EM",
@@ -1899,6 +2064,7 @@
     "conference": "nips",
     "id": "97815095",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ADMM without a Fixed Penalty Parameter: Faster Convergence with New Adaptive Penalization",
@@ -1917,6 +2083,7 @@
     "conference": "nips",
     "id": "bc369c71",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Shape and Material from Sound",
@@ -1935,6 +2102,7 @@
     "conference": "nips",
     "id": "e6afe851",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Flexible statistical inference for mechanistic models of neural dynamics",
@@ -1949,6 +2117,7 @@
     "conference": "nips",
     "id": "381cdd1e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Prediction with Selfish Experts",
@@ -1964,6 +2133,7 @@
     "conference": "nips",
     "id": "9adb5566",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Tensor Biclustering",
@@ -1979,6 +2149,7 @@
     "conference": "nips",
     "id": "25ca31a8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DPSCREEN: Dynamic Personalized Screening",
@@ -1995,6 +2166,7 @@
     "conference": "nips",
     "id": "d750d827",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Unknown Markov Decision Processes: A Thompson Sampling Approach",
@@ -2010,6 +2182,7 @@
     "conference": "nips",
     "id": "f863a1af",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Testing and Learning on Distributions with Symmetric Noise Invariance",
@@ -2024,6 +2197,7 @@
     "conference": "nips",
     "id": "f5c4c3d0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering",
@@ -2038,6 +2212,7 @@
     "conference": "nips",
     "id": "314f6102",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deanonymization in the Bitcoin P2P Network",
@@ -2052,6 +2227,7 @@
     "conference": "nips",
     "id": "2ab57f9e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Accelerated consensus via Min-Sum Splitting",
@@ -2067,6 +2243,7 @@
     "conference": "nips",
     "id": "5002a377",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Generalized Linear Model Regression under Distance-to-set Penalties",
@@ -2084,7 +2261,10 @@
     "conference": "nips",
     "id": "f0e5afcb",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Adaptive stimulus selection for optimizing neural population responses",
     "pdf_link": "https://papers.nips.cc/paper/6738-adaptive-stimulus-selection-for-optimizing-neural-population-responses.pdf",
@@ -2099,6 +2279,7 @@
     "conference": "nips",
     "id": "e154d97d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Nonbacktracking Bounds on the Influence in Independent Cascade Models",
@@ -2114,6 +2295,7 @@
     "conference": "nips",
     "id": "d43581ad",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning with Feature Evolvable Streams",
@@ -2129,6 +2311,7 @@
     "conference": "nips",
     "id": "bc5262a6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Convex Optimization with Stochastic Constraints",
@@ -2145,6 +2328,7 @@
     "conference": "nips",
     "id": "acf8015d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Max-Margin Invariant Features from Transformed Unlabelled Data",
@@ -2162,6 +2346,7 @@
     "conference": "nips",
     "id": "bdaf18a8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Regularized Modal Regression with Applications in Cognitive Impairment Prediction",
@@ -2178,6 +2363,7 @@
     "conference": "nips",
     "id": "6ff5f9e1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Translation Synchronization via Truncated Least Squares",
@@ -2194,6 +2380,7 @@
     "conference": "nips",
     "id": "6869fac1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From which world is your graph",
@@ -2208,6 +2395,7 @@
     "conference": "nips",
     "id": "3d8b9dab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A New Alternating Direction Method for Linear Programming",
@@ -2221,6 +2409,7 @@
     "conference": "nips",
     "id": "92250382",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Regret Analysis for Continuous Dueling Bandit",
@@ -2235,6 +2424,7 @@
     "conference": "nips",
     "id": "379156cd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Best Response Regression",
@@ -2254,7 +2444,10 @@
     "conference": "nips",
     "id": "86bd90ba",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning",
     "pdf_link": "https://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning.pdf",
@@ -2272,6 +2465,7 @@
     "conference": "nips",
     "id": "cf044cba",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Affinity via Spatial Propagation Networks",
@@ -2287,6 +2481,7 @@
     "conference": "nips",
     "id": "fd576829",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Linear regression without correspondence",
@@ -2303,6 +2498,7 @@
     "conference": "nips",
     "id": "20c9dc08",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "NeuralFDR: Learning Discovery Thresholds from Hypothesis Features",
@@ -2319,6 +2515,7 @@
     "conference": "nips",
     "id": "f2f9139e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cost efficient gradient boosting",
@@ -2334,6 +2531,7 @@
     "conference": "nips",
     "id": "762bd0f7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Probabilistic Rule Realization and Selection",
@@ -2349,6 +2547,7 @@
     "conference": "nips",
     "id": "a38db337",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Nearest-Neighbor Sample Compression: Efficiency, Consistency, Infinite Dimensions",
@@ -2362,6 +2561,7 @@
     "conference": "nips",
     "id": "86de5a5e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Scale Free Algorithm for Stochastic Bandits with Bounded Kurtosis",
@@ -2378,6 +2578,7 @@
     "conference": "nips",
     "id": "aaf2de07",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Multiple Tasks with Multilinear Relationship Networks",
@@ -2392,6 +2593,7 @@
     "conference": "nips",
     "id": "f9daf40d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Hyperalignment",
@@ -2405,6 +2607,7 @@
     "conference": "nips",
     "id": "93f605bc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online to Offline Conversions, Universality and Adaptive Minibatch Sizes",
@@ -2419,6 +2622,7 @@
     "conference": "nips",
     "id": "58055061",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stochastic Optimization with Variance Reduction for Infinite Datasets with Finite Sum Structure",
@@ -2435,7 +2639,10 @@
     "conference": "nips",
     "id": "9fd7fc22",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Deep Learning with Topological Signatures",
     "pdf_link": "https://papers.nips.cc/paper/6761-deep-learning-with-topological-signatures.pdf",
@@ -2451,6 +2658,7 @@
     "conference": "nips",
     "id": "6831caa1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Predicting User Activity Level In Point Processes With Mass Transport Equation",
@@ -2469,6 +2677,7 @@
     "conference": "nips",
     "id": "94cdfd82",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Submultiplicative Glivenko-Cantelli and Uniform Convergence of Revenues",
@@ -2483,6 +2692,7 @@
     "conference": "nips",
     "id": "daa21f75",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Dynamic Poisson Factorization Model",
@@ -2499,6 +2709,7 @@
     "conference": "nips",
     "id": "e7e8e1ee",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Positive-Unlabeled Learning with Non-Negative Risk Estimator",
@@ -2515,6 +2726,7 @@
     "conference": "nips",
     "id": "5d736622",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Optimal Sample Complexity of M-wise Data for Top-K Ranking",
@@ -2529,6 +2741,7 @@
     "conference": "nips",
     "id": "3563105f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Reliable Decision Support using Counterfactual Models",
@@ -2546,7 +2759,10 @@
     "conference": "nips",
     "id": "d3af372b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding",
     "pdf_link": "https://papers.nips.cc/paper/6768-qsgd-communication-efficient-sgd-via-gradient-quantization-and-encoding.pdf",
@@ -2560,6 +2776,7 @@
     "conference": "nips",
     "id": "f9fd3921",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convergent Block Coordinate Descent for Training Tikhonov Regularized Deep Neural Networks",
@@ -2575,7 +2792,11 @@
     "conference": "nips",
     "id": "842eb5a4",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Train longer, generalize better: closing the generalization gap in large batch training of neural networks",
     "pdf_link": "https://papers.nips.cc/paper/6770-train-longer-generalize-better-closing-the-generalization-gap-in-large-batch-training-of-neural-networks.pdf",
@@ -2601,7 +2822,11 @@
     "conference": "nips",
     "id": "bc3487cd",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks",
     "pdf_link": "https://papers.nips.cc/paper/6771-flexpoint-an-adaptive-numerical-format-for-efficient-training-of-deep-neural-networks.pdf",
@@ -2614,6 +2839,7 @@
     "conference": "nips",
     "id": "61217dbc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Model evidence from nonequilibrium simulations",
@@ -2629,6 +2855,7 @@
     "conference": "nips",
     "id": "991a9b18",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Minimal Exploration in Structured Stochastic Bandits",
@@ -2644,7 +2871,10 @@
     "conference": "nips",
     "id": "de48c1fb",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learned D-AMP: Principled Neural Network based Compressive Image Recovery",
     "pdf_link": "https://papers.nips.cc/paper/6774-learned-d-amp-principled-neural-network-based-compressive-image-recovery.pdf",
@@ -2663,6 +2893,7 @@
     "conference": "nips",
     "id": "e27b3496",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deliberation Networks: Sequence Generation Beyond One-Pass Decoding",
@@ -2676,6 +2907,7 @@
     "conference": "nips",
     "id": "629dccdf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive Clustering through Semidefinite Programming",
@@ -2691,6 +2923,7 @@
     "conference": "nips",
     "id": "cc166c28",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Log-normality and Skewness of Estimated State/Action Values in Reinforcement Learning",
@@ -2706,7 +2939,10 @@
     "conference": "nips",
     "id": "db1e1332",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Repeated Inverse Reinforcement Learning",
     "pdf_link": "https://papers.nips.cc/paper/6778-repeated-inverse-reinforcement-learning.pdf",
@@ -2721,7 +2957,11 @@
     "conference": "nips",
     "id": "467338b6",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "The Numerics of GANs",
     "pdf_link": "https://papers.nips.cc/paper/6779-the-numerics-of-gans.pdf",
@@ -2735,6 +2975,7 @@
     "conference": "nips",
     "id": "aaa27a85",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Practical Bayesian Optimization for Model Fitting with Bayesian Adaptive Direct Search",
@@ -2750,6 +2991,7 @@
     "conference": "nips",
     "id": "74fa0916",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Chordal Markov Networks via Branch and Bound",
@@ -2764,6 +3006,7 @@
     "conference": "nips",
     "id": "49cf5fe1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Revenue Optimization with Approximate Bid Predictions",
@@ -2780,6 +3023,7 @@
     "conference": "nips",
     "id": "610a6754",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Solving Most Systems of Random Quadratic Equations",
@@ -2795,6 +3039,7 @@
     "conference": "nips",
     "id": "c1e0bb64",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data",
@@ -2809,6 +3054,7 @@
     "conference": "nips",
     "id": "e7c61535",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Lookahead  Bayesian Optimization with Inequality Constraints",
@@ -2824,6 +3070,7 @@
     "conference": "nips",
     "id": "651075ff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hierarchical Methods of Moments",
@@ -2841,6 +3088,7 @@
     "conference": "nips",
     "id": "148f57dd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts",
@@ -2854,7 +3102,10 @@
     "conference": "nips",
     "id": "6220a7ae",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Revisit Fuzzy Neural Network: Demystifying Batch Normalization and ReLU with Generalized Hamming Network",
     "pdf_link": "https://papers.nips.cc/paper/6788-revisit-fuzzy-neural-network-demystifying-batch-normalization-and-relu-with-generalized-hamming-network.pdf",
@@ -2869,6 +3120,7 @@
     "conference": "nips",
     "id": "f9e850dc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Speeding Up Latent Variable Gaussian Graphical Model Estimation via Nonconvex Optimization",
@@ -2882,7 +3134,10 @@
     "conference": "nips",
     "id": "86d25191",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models",
     "pdf_link": "https://papers.nips.cc/paper/6790-batch-renormalization-towards-reducing-minibatch-dependence-in-batch-normalized-models.pdf",
@@ -2896,7 +3151,10 @@
     "conference": "nips",
     "id": "98ba283e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Generating steganographic images via adversarial training",
     "pdf_link": "https://papers.nips.cc/paper/6791-generating-steganographic-images-via-adversarial-training.pdf",
@@ -2911,6 +3169,7 @@
     "conference": "nips",
     "id": "18e128f9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration",
@@ -2925,7 +3184,10 @@
     "conference": "nips",
     "id": "1204faf7",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "PixelGAN Autoencoders",
     "pdf_link": "https://papers.nips.cc/paper/6793-pixelgan-autoencoders.pdf",
@@ -2941,6 +3203,7 @@
     "conference": "nips",
     "id": "935ed879",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Consistent Multitask Learning with Nonlinear Output Relations",
@@ -2955,6 +3218,7 @@
     "conference": "nips",
     "id": "654f829a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Alternating minimization for dictionary learning with random initialization",
@@ -2968,6 +3232,7 @@
     "conference": "nips",
     "id": "4528347f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning ReLUs via Gradient Descent",
@@ -2984,6 +3249,7 @@
     "conference": "nips",
     "id": "9e173a37",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stabilizing Training of Generative Adversarial Networks through Regularization",
@@ -3001,6 +3267,7 @@
     "conference": "nips",
     "id": "9f6a752e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Expectation Propagation with Stochastic Kinetic Model in Complex Interaction Systems",
@@ -3015,6 +3282,7 @@
     "conference": "nips",
     "id": "c67ff7ea",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Data-Efficient Reinforcement Learning in Continuous State-Action Gaussian-POMDPs",
@@ -3030,6 +3298,7 @@
     "conference": "nips",
     "id": "f3ab882c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Compatible Reward Inverse Reinforcement Learning",
@@ -3044,6 +3313,7 @@
     "conference": "nips",
     "id": "c9f99b72",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "First-Order Adaptive Sample Size Methods to Reduce Complexity of Empirical Risk Minimization",
@@ -3057,7 +3327,10 @@
     "conference": "nips",
     "id": "bac94bb9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Hiding Images in Plain Sight: Deep Steganography",
     "pdf_link": "https://papers.nips.cc/paper/6802-hiding-images-in-plain-sight-deep-steganography.pdf",
@@ -3074,7 +3347,10 @@
     "conference": "nips",
     "id": "f4e86314",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Neural Program Meta-Induction",
     "pdf_link": "https://papers.nips.cc/paper/6803-neural-program-meta-induction.pdf",
@@ -3088,6 +3364,7 @@
     "conference": "nips",
     "id": "eb60d1e6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bayesian Dyadic Trees and Histograms for  Regression",
@@ -3109,6 +3386,7 @@
     "conference": "nips",
     "id": "fab8488e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A graph-theoretic approach to multitasking",
@@ -3125,6 +3403,7 @@
     "conference": "nips",
     "id": "68931a8d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Consistent Robust Regression",
@@ -3143,7 +3422,10 @@
     "conference": "nips",
     "id": "9cb3387c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Natural Value Approximators: Learning when to Trust Past Estimates",
     "pdf_link": "https://papers.nips.cc/paper/6807-natural-value-approximators-learning-when-to-trust-past-estimates.pdf",
@@ -3157,6 +3439,7 @@
     "conference": "nips",
     "id": "eaf8a63a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bandits Dueling on Partially Ordered Sets",
@@ -3171,6 +3454,7 @@
     "conference": "nips",
     "id": "3d64a7fa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Elementary Symmetric Polynomials for Optimal Experimental Design",
@@ -3185,6 +3469,7 @@
     "conference": "nips",
     "id": "25045d9e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols",
@@ -3199,7 +3484,10 @@
     "conference": "nips",
     "id": "6fbe1584",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Training Deep Networks without Learning Rates Through Coin Betting",
     "pdf_link": "https://papers.nips.cc/paper/6811-training-deep-networks-without-learning-rates-through-coin-betting.pdf",
@@ -3213,7 +3501,10 @@
     "conference": "nips",
     "id": "0dc57883",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Pixels to Graphs by Associative Embedding",
     "pdf_link": "https://papers.nips.cc/paper/6812-pixels-to-graphs-by-associative-embedding.pdf",
@@ -3229,6 +3520,7 @@
     "conference": "nips",
     "id": "496d0717",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Runtime Neural Pruning",
@@ -3243,6 +3535,7 @@
     "conference": "nips",
     "id": "a3787813",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Eigenvalue Decay Implies Polynomial-Time Learnability for Neural Networks",
@@ -3260,6 +3553,7 @@
     "conference": "nips",
     "id": "c6ffd04b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MMD GAN: Towards Deeper Understanding of Moment Matching Network",
@@ -3276,7 +3570,10 @@
     "conference": "nips",
     "id": "4f250aea",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "The Reversible Residual Network: Backpropagation Without Storing Activations",
     "pdf_link": "https://papers.nips.cc/paper/6816-the-reversible-residual-network-backpropagation-without-storing-activations.pdf",
@@ -3290,6 +3587,7 @@
     "conference": "nips",
     "id": "95577f30",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Rates for Bandit Optimization with Upper-Confidence Frank-Wolfe",
@@ -3304,6 +3602,7 @@
     "conference": "nips",
     "id": "02a29de3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Zap Q-Learning",
@@ -3319,6 +3618,7 @@
     "conference": "nips",
     "id": "7eb85681",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Expectation Propagation for t-Exponential Family Using q-Algebra",
@@ -3334,6 +3634,7 @@
     "conference": "nips",
     "id": "f5a8f258",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Few-Shot Learning Through an Information Retrieval  Lens",
@@ -3348,7 +3649,10 @@
     "conference": "nips",
     "id": "72e0976b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation",
     "pdf_link": "https://papers.nips.cc/paper/6821-formal-guarantees-on-the-robustness-of-a-classifier-against-adversarial-manipulation.pdf",
@@ -3363,7 +3667,10 @@
     "conference": "nips",
     "id": "0329387b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Associative Embedding: End-to-End Learning for Joint Detection and Grouping",
     "pdf_link": "https://papers.nips.cc/paper/6822-associative-embedding-end-to-end-learning-for-joint-detection-and-grouping.pdf",
@@ -3379,6 +3686,7 @@
     "conference": "nips",
     "id": "93d071ec",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Practical Locally Private Heavy Hitters",
@@ -3394,6 +3702,7 @@
     "conference": "nips",
     "id": "ec1e33ab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Large-Scale Quadratically Constrained Quadratic Program via Low-Discrepancy Sequences",
@@ -3408,6 +3717,7 @@
     "conference": "nips",
     "id": "8288a5e5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inhomogeneous Hypergraph Clustering with Applications",
@@ -3423,7 +3733,10 @@
     "conference": "nips",
     "id": "185731e9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Differentiable Learning of Logical Rules for Knowledge Base Reasoning",
     "pdf_link": "https://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf",
@@ -3434,6 +3747,7 @@
     "conference": "nips",
     "id": "6ae3c5d9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Multi-task Gaussian Processes for Survival Analysis with Competing Risks",
@@ -3449,6 +3763,7 @@
     "conference": "nips",
     "id": "06229804",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Masked Autoregressive Flow for Density Estimation",
@@ -3465,7 +3780,10 @@
     "conference": "nips",
     "id": "840d8e37",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Non-convex Finite-Sum Optimization Via SCSG Methods",
     "pdf_link": "https://papers.nips.cc/paper/6829-non-convex-finite-sum-optimization-via-scsg-methods.pdf",
@@ -3480,6 +3798,7 @@
     "conference": "nips",
     "id": "43c86eeb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Beyond normality: Learning sparse probabilistic graphical models in the non-Gaussian setting",
@@ -3496,6 +3815,7 @@
     "conference": "nips",
     "id": "255021fb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An inner-loop free solution to inverse problems using deep neural networks",
@@ -3515,6 +3835,7 @@
     "conference": "nips",
     "id": "cb112b9c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "OnACID: Online Analysis of Calcium Imaging Data in Real Time",
@@ -3531,6 +3852,7 @@
     "conference": "nips",
     "id": "8f1f4c6f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Collaborative PAC Learning",
@@ -3546,6 +3868,7 @@
     "conference": "nips",
     "id": "fd8f57a7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Black-box Variational Inference through Stochastic Trust-Region Optimization",
@@ -3563,6 +3886,7 @@
     "conference": "nips",
     "id": "bc9428b8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scalable Demand-Aware Recommendation",
@@ -3576,6 +3900,7 @@
     "conference": "nips",
     "id": "4c6d599f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SGD Learns the Conjugate Kernel Class of the Network",
@@ -3593,6 +3918,7 @@
     "conference": "nips",
     "id": "e81ac93f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Noise-Tolerant Interactive Learning Using Pairwise Comparisons",
@@ -3607,6 +3933,7 @@
     "conference": "nips",
     "id": "5befa6b4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Analyzing Hidden Representations in End-to-End Automatic Speech Recognition Systems",
@@ -3624,6 +3951,7 @@
     "conference": "nips",
     "id": "646b0a6d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Generative Local Metric Learning for Kernel Regression",
@@ -3639,6 +3967,7 @@
     "conference": "nips",
     "id": "f8710ed4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Information Theoretic Properties of Markov Random Fields, and their Algorithmic Applications",
@@ -3653,6 +3982,7 @@
     "conference": "nips",
     "id": "fd06c814",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fitting Low-Rank Tensors in Constant Time",
@@ -3669,6 +3999,7 @@
     "conference": "nips",
     "id": "d23365a8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Supervised Discrete Hashing",
@@ -3684,6 +4015,7 @@
     "conference": "nips",
     "id": "1d68df3f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Using Options and Covariance Testing for Long Horizon Off-Policy Policy Evaluation",
@@ -3699,6 +4031,7 @@
     "conference": "nips",
     "id": "70d02e80",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "How regularization affects the critical points in linear networks",
@@ -3713,7 +4046,10 @@
     "conference": "nips",
     "id": "724a0a53",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Fisher GAN",
     "pdf_link": "https://papers.nips.cc/paper/6845-fisher-gan.pdf",
@@ -3727,6 +4063,7 @@
     "conference": "nips",
     "id": "532e22d5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Information-theoretic analysis of generalization capability of learning algorithms",
@@ -3742,6 +4079,7 @@
     "conference": "nips",
     "id": "03e617f4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparse Approximate Conic Hulls",
@@ -3758,6 +4096,7 @@
     "conference": "nips",
     "id": "633f1a73",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rigorous Dynamics and Consistent Estimation in Arbitrarily Conditioned Linear Systems",
@@ -3774,6 +4113,7 @@
     "conference": "nips",
     "id": "bcd049fa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Toward Goal-Driven Neural Network Models for the Rodent Whisker-Trigeminal System",
@@ -3791,6 +4131,7 @@
     "conference": "nips",
     "id": "c08e97c8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Accuracy First: Selecting a Differential Privacy Level for Accuracy Constrained ERM",
@@ -3806,7 +4147,10 @@
     "conference": "nips",
     "id": "e9e5e86e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "EX2: Exploration with Exemplar Models for Deep Reinforcement Learning",
     "pdf_link": "https://papers.nips.cc/paper/6851-ex2-exploration-with-exemplar-models-for-deep-reinforcement-learning.pdf",
@@ -3821,6 +4165,7 @@
     "conference": "nips",
     "id": "399fed56",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multitask Spectral Learning of Weighted Automata",
@@ -3836,6 +4181,7 @@
     "conference": "nips",
     "id": "646d4b24",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-way Interacting Regression via Factorization Machines",
@@ -3852,6 +4198,7 @@
     "conference": "nips",
     "id": "1d3194fc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network",
@@ -3867,6 +4214,7 @@
     "conference": "nips",
     "id": "0518d21d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Practical Data-Dependent Metric Compression with Provable Guarantees",
@@ -3884,7 +4232,12 @@
     "conference": "nips",
     "id": "38e44cb9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models",
     "pdf_link": "https://papers.nips.cc/paper/6856-rebar-low-variance-unbiased-gradient-estimates-for-discrete-latent-variable-models.pdf",
@@ -3898,7 +4251,11 @@
     "conference": "nips",
     "id": "08b15e83",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "Nonlinear random matrix theory for deep learning",
     "pdf_link": "https://papers.nips.cc/paper/6857-nonlinear-random-matrix-theory-for-deep-learning.pdf",
@@ -3914,6 +4271,7 @@
     "conference": "nips",
     "id": "1df36b07",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Parallel Streaming Wasserstein Barycenters",
@@ -3931,7 +4289,11 @@
     "conference": "nips",
     "id": "519b3832",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "fb.com"
+      ]
     },
     "name": "ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games",
     "pdf_link": "https://papers.nips.cc/paper/6859-elf-an-extensive-lightweight-and-flexible-research-platform-for-real-time-strategy-games.pdf",
@@ -3947,7 +4309,10 @@
     "conference": "nips",
     "id": "58b83ea3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Dual Discriminator Generative Adversarial Nets",
     "pdf_link": "https://papers.nips.cc/paper/6860-dual-discriminator-generative-adversarial-nets.pdf",
@@ -3964,7 +4329,10 @@
     "conference": "nips",
     "id": "999fef31",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Dynamic Revenue Sharing",
     "pdf_link": "https://papers.nips.cc/paper/6861-dynamic-revenue-sharing.pdf",
@@ -3978,6 +4346,7 @@
     "conference": "nips",
     "id": "72b5ef27",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Decomposition-Invariant Conditional Gradient for General Polytopes with Line Search",
@@ -3991,7 +4360,11 @@
     "conference": "nips",
     "id": "494d36f7",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "fb.com"
+      ]
     },
     "name": "VAIN: Attentional Multi-agent Predictive Modeling",
     "pdf_link": "https://papers.nips.cc/paper/6863-vain-attentional-multi-agent-predictive-modeling.pdf",
@@ -4004,6 +4377,7 @@
     "conference": "nips",
     "id": "8ab15d16",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Empirical Bayes Approach to Optimizing Machine Learning Algorithms",
@@ -4019,6 +4393,7 @@
     "conference": "nips",
     "id": "77873844",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Differentially Private Empirical Risk Minimization Revisited: Faster and More General",
@@ -4036,6 +4411,7 @@
     "conference": "nips",
     "id": "6d924fa9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Variational Inference via <var>\\chi</var> Upper Bound Minimization",
@@ -4054,6 +4430,7 @@
     "conference": "nips",
     "id": "0b518e19",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On Quadratic Convergence of DC Proximal Newton Algorithm in Nonconvex Sparse Learning",
@@ -4075,6 +4452,7 @@
     "conference": "nips",
     "id": "4aed7e98",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning",
@@ -4092,6 +4470,7 @@
     "conference": "nips",
     "id": "94d6602e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Empirical Study on The Properties of Random Bases for Kernel Methods",
@@ -4108,7 +4487,12 @@
     "conference": "nips",
     "id": "ca99111a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Bridging the Gap Between Value and Policy Based Reinforcement Learning",
     "pdf_link": "https://papers.nips.cc/paper/6870-bridging-the-gap-between-value-and-policy-based-reinforcement-learning.pdf",
@@ -4124,6 +4508,7 @@
     "conference": "nips",
     "id": "5b9bb892",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Premise Selection for Theorem Proving by Deep Graph Embedding",
@@ -4141,6 +4526,7 @@
     "conference": "nips",
     "id": "f9fd72d4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Bayesian Data Augmentation Approach for Learning Deep Models",
@@ -4155,6 +4541,7 @@
     "conference": "nips",
     "id": "0de212b1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Principles of Riemannian Geometry  in Neural Networks",
@@ -4169,7 +4556,11 @@
     "conference": "nips",
     "id": "378e0100",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Cold-Start Reinforcement Learning with Softmax Policy Gradient",
     "pdf_link": "https://papers.nips.cc/paper/6874-cold-start-reinforcement-learning-with-softmax-policy-gradient.pdf",
@@ -4183,6 +4574,7 @@
     "conference": "nips",
     "id": "0c3c83ad",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Dynamic Programming",
@@ -4197,6 +4589,7 @@
     "conference": "nips",
     "id": "29b72601",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Alternating Estimation for Structured High-Dimensional Multi-Response Models",
@@ -4212,7 +4605,10 @@
     "conference": "nips",
     "id": "b89d45a4",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Convolutional Gaussian Processes",
     "pdf_link": "https://papers.nips.cc/paper/6877-convolutional-gaussian-processes.pdf",
@@ -4226,6 +4622,7 @@
     "conference": "nips",
     "id": "09834b95",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Estimation of the covariance structure of heavy-tailed distributions",
@@ -4241,6 +4638,7 @@
     "conference": "nips",
     "id": "b4fdd231",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Decomposable Submodular Function Minimization: Discrete and Continuous",
@@ -4256,6 +4654,7 @@
     "conference": "nips",
     "id": "b3ee3e68",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gauging Variational Inference",
@@ -4272,6 +4671,7 @@
     "conference": "nips",
     "id": "a5ab2c0b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Recurrent Neural Network-Based Identification of Precursor microRNAs",
@@ -4287,6 +4687,7 @@
     "conference": "nips",
     "id": "c90d2b67",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Estimation of Neural Signals in Calcium Imaging",
@@ -4301,6 +4702,7 @@
     "conference": "nips",
     "id": "3aa21722",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "State Aware Imitation Learning",
@@ -4315,6 +4717,7 @@
     "conference": "nips",
     "id": "721abb35",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Beyond Parity: Fairness Objectives for Collaborative Filtering",
@@ -4328,6 +4731,7 @@
     "conference": "nips",
     "id": "2fe6a4b0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A PAC-Bayesian Analysis of Randomized Learning with Application to Stochastic Gradient Descent",
@@ -4343,6 +4747,7 @@
     "conference": "nips",
     "id": "498d82c0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fully Decentralized Policies for Multi-Agent Systems: An Information Theoretic Approach",
@@ -4360,6 +4765,7 @@
     "conference": "nips",
     "id": "98819a04",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Model-Powered Conditional Independence Test",
@@ -4380,6 +4786,7 @@
     "conference": "nips",
     "id": "12a34478",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Voice 2: Multi-Speaker Neural Text-to-Speech",
@@ -4394,6 +4801,7 @@
     "conference": "nips",
     "id": "afc83138",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Variance-based Regularization with Convex Objectives",
@@ -4411,7 +4819,11 @@
     "conference": "nips",
     "id": "5b554c9f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Deep Lattice Networks and Partial Monotonic Functions",
     "pdf_link": "https://papers.nips.cc/paper/6891-deep-lattice-networks-and-partial-monotonic-functions.pdf",
@@ -4427,6 +4839,7 @@
     "conference": "nips",
     "id": "93b1c8bf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Continual Learning with Deep Generative Replay",
@@ -4441,6 +4854,7 @@
     "conference": "nips",
     "id": "7fbb6368",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "AIDE: An algorithm for measuring the accuracy of probabilistic inference algorithms",
@@ -4457,6 +4871,7 @@
     "conference": "nips",
     "id": "0bd73a51",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Causal Structures Using Regression Invariance",
@@ -4473,6 +4888,7 @@
     "conference": "nips",
     "id": "1ed52a48",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Influence Maximization under Independent Cascade Model with Semi-Bandit Feedback",
@@ -4488,6 +4904,7 @@
     "conference": "nips",
     "id": "87150b94",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Near Minimax Optimal Players for the Finite-Time 3-Expert Prediction Problem",
@@ -4503,7 +4920,10 @@
     "conference": "nips",
     "id": "7049327e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Reinforcement Learning under Model Mismatch",
     "pdf_link": "https://papers.nips.cc/paper/6897-reinforcement-learning-under-model-mismatch.pdf",
@@ -4518,6 +4938,7 @@
     "conference": "nips",
     "id": "7c565cfe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hierarchical Attentive Recurrent Tracking",
@@ -4533,6 +4954,7 @@
     "conference": "nips",
     "id": "1bed0264",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Tomography of the London Underground: a Scalable Model for Origin-Destination Data",
@@ -4548,6 +4970,7 @@
     "conference": "nips",
     "id": "116eb142",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rotting Bandits",
@@ -4562,6 +4985,7 @@
     "conference": "nips",
     "id": "04c5f354",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unbiased estimates for linear regression via volume sampling",
@@ -4576,6 +5000,7 @@
     "conference": "nips",
     "id": "6d8887f1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Approximation Bounds for Hierarchical Clustering: Average Linkage, Bisecting K-means, and Local Search",
@@ -4590,6 +5015,7 @@
     "conference": "nips",
     "id": "356b947f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive Accelerated Gradient Converging Method under H\\\"{o}lderian Error Bound Condition",
@@ -4603,6 +5029,7 @@
     "conference": "nips",
     "id": "2f392cdd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stein Variational Gradient Descent as Gradient Flow",
@@ -4617,6 +5044,7 @@
     "conference": "nips",
     "id": "e938768c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Partial Hard Thresholding: Towards A Principled Analysis of Support Recovery",
@@ -4634,6 +5062,7 @@
     "conference": "nips",
     "id": "963a6398",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Shallow Updates for Deep Reinforcement Learning",
@@ -4654,6 +5083,7 @@
     "conference": "nips",
     "id": "4720e9d8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "LightGBM: A Highly Efficient Gradient Boosting Decision Tree",
@@ -4671,6 +5101,7 @@
     "conference": "nips",
     "id": "476018d9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adversarial Ranking for Language Generation",
@@ -4687,6 +5118,7 @@
     "conference": "nips",
     "id": "533f6537",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Regret Minimization in MDPs with Options without Prior Knowledge",
@@ -4703,6 +5135,7 @@
     "conference": "nips",
     "id": "7138ac32",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee",
@@ -4720,6 +5153,7 @@
     "conference": "nips",
     "id": "0b65f258",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Graph Matching via Multiplicative Update Algorithm",
@@ -4735,6 +5169,7 @@
     "conference": "nips",
     "id": "09defc80",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dynamic Importance Sampling for Anytime Bounds of the Partition Function",
@@ -4750,6 +5185,7 @@
     "conference": "nips",
     "id": "47bcbf4c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Is the Bellman residual a bad proxy?",
@@ -4764,6 +5200,7 @@
     "conference": "nips",
     "id": "f49e21c7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Generalization Properties of Learning with Random Features",
@@ -4782,6 +5219,7 @@
     "conference": "nips",
     "id": "efddea7d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Differentially private Bayesian learning on distributed data",
@@ -4799,6 +5237,7 @@
     "conference": "nips",
     "id": "18d4732b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Compose Domain-Specific Transformations for Data Augmentation",
@@ -4817,6 +5256,7 @@
     "conference": "nips",
     "id": "1d5787e5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Wasserstein Learning of Deep Generative Point Process Models",
@@ -4831,6 +5271,7 @@
     "conference": "nips",
     "id": "97184673",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ensemble Sampling",
@@ -4844,6 +5285,7 @@
     "conference": "nips",
     "id": "9fd92714",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Language Modeling with Recurrent Highway Hypernetworks",
@@ -4859,6 +5301,7 @@
     "conference": "nips",
     "id": "815d55ff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive SVRG Methods under Error Bound Conditions with Unknown Growth Parameter",
@@ -4874,7 +5317,10 @@
     "conference": "nips",
     "id": "d4c72586",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Bayesian Compression for Deep Learning",
     "pdf_link": "https://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning.pdf",
@@ -4889,7 +5335,10 @@
     "conference": "nips",
     "id": "35634e4c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Streaming Sparse Gaussian Process Approximations",
     "pdf_link": "https://papers.nips.cc/paper/6922-streaming-sparse-gaussian-process-approximations.pdf",
@@ -4906,7 +5355,10 @@
     "conference": "nips",
     "id": "dd0e128f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning",
     "pdf_link": "https://papers.nips.cc/paper/6923-veegan-reducing-mode-collapse-in-gans-using-implicit-variational-learning.pdf",
@@ -4921,6 +5373,7 @@
     "conference": "nips",
     "id": "35fae8c7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparse Embedded <var>k</var>-Means Clustering",
@@ -4935,6 +5388,7 @@
     "conference": "nips",
     "id": "70bb87ab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dynamic-Depth Context Tree Weighting",
@@ -4949,7 +5403,11 @@
     "conference": "nips",
     "id": "28ddc465",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "opennmt"
+      ]
     },
     "name": "A Regularized Framework for Sparse and Structured Neural Attention",
     "pdf_link": "https://papers.nips.cc/paper/6926-a-regularized-framework-for-sparse-and-structured-neural-attention.pdf",
@@ -4965,6 +5423,7 @@
     "conference": "nips",
     "id": "d10a0adb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-output Polynomial Networks and Factorization Machines",
@@ -4985,6 +5444,7 @@
     "conference": "nips",
     "id": "d3e26806",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Clustering Billions of Reads for DNA Data Storage",
@@ -4999,6 +5459,7 @@
     "conference": "nips",
     "id": "5827ba45",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Objective Non-parametric Sequential Prediction",
@@ -5013,6 +5474,7 @@
     "conference": "nips",
     "id": "9423702c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Universal Analysis of Large-Scale Regularized Least Squares Solutions",
@@ -5031,7 +5493,10 @@
     "conference": "nips",
     "id": "f5a08fd9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Deep Sets",
     "pdf_link": "https://papers.nips.cc/paper/6931-deep-sets.pdf",
@@ -5049,6 +5514,7 @@
     "conference": "nips",
     "id": "8e60ec53",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ExtremeWeather: A large-scale climate dataset for semi-supervised detection, localization, and understanding of extreme weather events",
@@ -5070,6 +5536,7 @@
     "conference": "nips",
     "id": "9e5d39c5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Process-constrained batch Bayesian optimisation",
@@ -5084,6 +5551,7 @@
     "conference": "nips",
     "id": "e109ab83",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bayesian Inference of Individualized Treatment Effects using Multi-task Gaussian Processes",
@@ -5098,7 +5566,10 @@
     "conference": "nips",
     "id": "3759c896",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Spherical convolutions and their application in molecular modelling",
     "pdf_link": "https://papers.nips.cc/paper/6935-spherical-convolutions-and-their-application-in-molecular-modelling.pdf",
@@ -5116,6 +5587,7 @@
     "conference": "nips",
     "id": "a0f07bef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Optimization for Linear Dynamical Systems with Applications to Clustering and Sparse Coding",
@@ -5132,6 +5604,7 @@
     "conference": "nips",
     "id": "19132b6f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On Optimal Generalizability in Parametric Learning",
@@ -5147,6 +5620,7 @@
     "conference": "nips",
     "id": "6a77f71a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Near Optimal Sketching of Low-Rank Tensor Regression",
@@ -5162,6 +5636,7 @@
     "conference": "nips",
     "id": "525e8cfc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Tractability in Structured Probability Spaces",
@@ -5181,7 +5656,10 @@
     "conference": "nips",
     "id": "60b71a24",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Model-based Bayesian inference of neural activity and connectivity from all-optical interrogation of a neural circuit",
     "pdf_link": "https://papers.nips.cc/paper/6940-model-based-bayesian-inference-of-neural-activity-and-connectivity-from-all-optical-interrogation-of-a-neural-circuit.pdf",
@@ -5197,6 +5675,7 @@
     "conference": "nips",
     "id": "db33cdce",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gaussian process based nonlinear latent structure discovery in multivariate spike train data",
@@ -5213,6 +5692,7 @@
     "conference": "nips",
     "id": "7aa3ec09",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural system identification for large populations separating \u201cwhat\u201d and \u201cwhere\u201d",
@@ -5228,6 +5708,7 @@
     "conference": "nips",
     "id": "8abe343c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Certified Defenses for Data Poisoning Attacks",
@@ -5244,6 +5725,7 @@
     "conference": "nips",
     "id": "329ed23e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Eigen-Distortions of Hierarchical Representations",
@@ -5257,6 +5739,7 @@
     "conference": "nips",
     "id": "17d906a9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Limitations on Variance-Reduction and Acceleration Schemes for Finite Sums Optimization",
@@ -5272,7 +5755,10 @@
     "conference": "nips",
     "id": "50836e4c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Unsupervised Sequence Classification using Sequential Output Statistics",
     "pdf_link": "https://papers.nips.cc/paper/6946-unsupervised-sequence-classification-using-sequential-output-statistics.pdf",
@@ -5289,6 +5775,7 @@
     "conference": "nips",
     "id": "953e7d7d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Subset Selection under Noise",
@@ -5304,6 +5791,7 @@
     "conference": "nips",
     "id": "7d5d9d94",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Collecting Telemetry Data Privately",
@@ -5319,6 +5807,7 @@
     "conference": "nips",
     "id": "c81a773e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Concrete Dropout",
@@ -5334,6 +5823,7 @@
     "conference": "nips",
     "id": "e20004f2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive Batch Size for Safe Policy Gradients",
@@ -5350,7 +5840,11 @@
     "conference": "nips",
     "id": "3eb3ed60",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning",
     "pdf_link": "https://papers.nips.cc/paper/6951-a-disentangled-recognition-and-nonlinear-dynamics-model-for-unsupervised-learning.pdf",
@@ -5365,7 +5859,10 @@
     "conference": "nips",
     "id": "c6586f74",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain"
+      ]
     },
     "name": "PASS-GLM: polynomial approximate sufficient statistics for scalable Bayesian GLM inference",
     "pdf_link": "https://papers.nips.cc/paper/6952-pass-glm-polynomial-approximate-sufficient-statistics-for-scalable-bayesian-glm-inference.pdf",
@@ -5379,6 +5876,7 @@
     "conference": "nips",
     "id": "42fec7eb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bayesian GAN",
@@ -5398,6 +5896,7 @@
     "conference": "nips",
     "id": "4871e40c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Off-policy evaluation for slate recommendation",
@@ -5416,7 +5915,10 @@
     "conference": "nips",
     "id": "75682e1d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "A multi-agent reinforcement learning model of common-pool resource appropriation",
     "pdf_link": "https://papers.nips.cc/paper/6955-a-multi-agent-reinforcement-learning-model-of-common-pool-resource-appropriation.pdf",
@@ -5430,6 +5932,7 @@
     "conference": "nips",
     "id": "51229685",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On the Optimization Landscape of Tensor Decompositions",
@@ -5445,6 +5948,7 @@
     "conference": "nips",
     "id": "a4e511bf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "High-Order Attention Models for Visual Question Answering",
@@ -5466,6 +5970,7 @@
     "conference": "nips",
     "id": "d1a6c9d8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparse convolutional coding for neuronal assembly detection",
@@ -5487,6 +5992,7 @@
     "conference": "nips",
     "id": "6111c4b5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Quantifying how much sensory information in a neural code is relevant for behavior",
@@ -5502,7 +6008,10 @@
     "conference": "nips",
     "id": "f49f58e8",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks",
     "pdf_link": "https://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks.pdf",
@@ -5518,7 +6027,12 @@
     "conference": "nips",
     "id": "8d5528af",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Reducing Reparameterization Gradient Variance",
     "pdf_link": "https://papers.nips.cc/paper/6961-reducing-reparameterization-gradient-variance.pdf",
@@ -5534,6 +6048,7 @@
     "conference": "nips",
     "id": "14a9722f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visual Reference Resolution using Attention Memory for Visual Dialog",
@@ -5550,6 +6065,7 @@
     "conference": "nips",
     "id": "b453927a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint distribution optimal transportation for domain adaptation",
@@ -5565,6 +6081,7 @@
     "conference": "nips",
     "id": "0fc2e5e3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multiresolution Kernel Approximation for Gaussian Process Regression",
@@ -5580,6 +6097,7 @@
     "conference": "nips",
     "id": "890a2619",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Collapsed variational Bayes for Markov jump processes",
@@ -5595,6 +6113,7 @@
     "conference": "nips",
     "id": "660f5d19",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Universal consistency and minimax rates for online Mondrian Forests",
@@ -5610,6 +6129,7 @@
     "conference": "nips",
     "id": "41619610",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Welfare Guarantees from Data",
@@ -5624,6 +6144,7 @@
     "conference": "nips",
     "id": "09fc1f23",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Diving into the shallows: a computational perspective on large-scale shallow learning",
@@ -5638,7 +6159,10 @@
     "conference": "nips",
     "id": "82ea97b5",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "End-to-end Differentiable Proving",
     "pdf_link": "https://papers.nips.cc/paper/6969-end-to-end-differentiable-proving.pdf",
@@ -5654,6 +6178,7 @@
     "conference": "nips",
     "id": "d05c74eb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Influence Maximization with <var>\\varepsilon</var>-Almost Submodular Threshold Functions",
@@ -5669,6 +6194,7 @@
     "conference": "nips",
     "id": "610fbbf7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations",
@@ -5683,6 +6209,7 @@
     "conference": "nips",
     "id": "35a5935f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Variational Laws of Visual Attention for Dynamic Scenes",
@@ -5697,6 +6224,7 @@
     "conference": "nips",
     "id": "8a6e1288",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recursive Sampling for the Nystrom Method",
@@ -5715,7 +6243,10 @@
     "conference": "nips",
     "id": "ceb04e03",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning",
     "pdf_link": "https://papers.nips.cc/paper/6974-interpolated-policy-gradient-merging-on-policy-and-off-policy-gradient-estimation-for-deep-reinforcement-learning.pdf",
@@ -5730,7 +6261,12 @@
     "conference": "nips",
     "id": "39be2d7c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Dynamic Routing Between Capsules",
     "pdf_link": "https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf",
@@ -5745,6 +6281,7 @@
     "conference": "nips",
     "id": "a6804ef8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Incorporating Side Information by Adaptive Convolution",
@@ -5760,6 +6297,7 @@
     "conference": "nips",
     "id": "95b7866c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Conic Scan-and-Cover algorithms for nonparametric topic modeling",
@@ -5775,6 +6313,7 @@
     "conference": "nips",
     "id": "8712766b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "FALKON: An Optimal Large Scale Kernel Method",
@@ -5794,7 +6333,10 @@
     "conference": "nips",
     "id": "5006cbf3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Structured Generative Adversarial Networks",
     "pdf_link": "https://papers.nips.cc/paper/6979-structured-generative-adversarial-networks.pdf",
@@ -5810,7 +6352,10 @@
     "conference": "nips",
     "id": "26fc2d20",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Conservative Contextual Linear Bandits",
     "pdf_link": "https://papers.nips.cc/paper/6980-conservative-contextual-linear-bandits.pdf",
@@ -5826,7 +6371,10 @@
     "conference": "nips",
     "id": "b9e34cdc",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Variational Memory Addressing in Generative Models",
     "pdf_link": "https://papers.nips.cc/paper/6981-variational-memory-addressing-in-generative-models.pdf",
@@ -5841,6 +6389,7 @@
     "conference": "nips",
     "id": "017a3106",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On Tensor Train Rank Minimization : Statistical Efficiency and Scalable Algorithm",
@@ -5857,6 +6406,7 @@
     "conference": "nips",
     "id": "55ad0bde",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scalable Levy Process Priors for Spectral Kernel Learning",
@@ -5876,6 +6426,7 @@
     "conference": "nips",
     "id": "f07509ad",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Hyperspherical Learning",
@@ -5894,6 +6445,7 @@
     "conference": "nips",
     "id": "55d1cfe5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction",
@@ -5909,7 +6461,12 @@
     "conference": "nips",
     "id": "3d457293",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "On-the-fly Operation Batching in Dynamic Computation Graphs",
     "pdf_link": "https://papers.nips.cc/paper/6986-on-the-fly-operation-batching-in-dynamic-computation-graphs.pdf",
@@ -5924,6 +6481,7 @@
     "conference": "nips",
     "id": "d4ab6857",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Nonlinear Acceleration of Stochastic Algorithms",
@@ -5941,6 +6499,7 @@
     "conference": "nips",
     "id": "07c85816",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Optimized Pre-Processing for Discrimination Prevention",
@@ -5963,6 +6522,7 @@
     "conference": "nips",
     "id": "c3a4b627",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "YASS: Yet Another Spike Sorter",
@@ -5976,6 +6536,7 @@
     "conference": "nips",
     "id": "56e6867f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Independence clustering (without a matrix)",
@@ -5994,6 +6555,7 @@
     "conference": "nips",
     "id": "69acfab6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast amortized inference of neural activity from calcium imaging data with variational autoencoders",
@@ -6008,6 +6570,7 @@
     "conference": "nips",
     "id": "217d502a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive Active Hypothesis Testing under Limited Information",
@@ -6024,6 +6587,7 @@
     "conference": "nips",
     "id": "c1662681",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Streaming Weak Submodularity: Interpreting Neural Networks on the Fly",
@@ -6043,7 +6607,10 @@
     "conference": "nips",
     "id": "d5114a61",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Successor Features for Transfer in Reinforcement Learning",
     "pdf_link": "https://papers.nips.cc/paper/6994-successor-features-for-transfer-in-reinforcement-learning.pdf",
@@ -6059,6 +6626,7 @@
     "conference": "nips",
     "id": "1690e63e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Counterfactual Fairness",
@@ -6074,6 +6642,7 @@
     "conference": "nips",
     "id": "7274b2a4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Prototypical Networks for Few-shot Learning",
@@ -6090,6 +6659,7 @@
     "conference": "nips",
     "id": "34cd6eef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Triple Generative Adversarial Nets",
@@ -6109,6 +6679,7 @@
     "conference": "nips",
     "id": "5a2ef53a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Sublinear-Regret Algorithms for Online Sparse Linear Regression with Limited Observation",
@@ -6124,6 +6695,7 @@
     "conference": "nips",
     "id": "5236ec39",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mapping distinct timescales of functional interactions among brain networks",
@@ -6139,7 +6711,11 @@
     "conference": "nips",
     "id": "b968d57a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "Multi-Armed Bandits with Metric Movement Costs",
     "pdf_link": "https://papers.nips.cc/paper/7000-multi-armed-bandits-with-metric-movement-costs.pdf",
@@ -6155,6 +6731,7 @@
     "conference": "nips",
     "id": "74ce3a56",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning A Structured Optimal Bipartite Graph for Co-Clustering",
@@ -6170,6 +6747,7 @@
     "conference": "nips",
     "id": "7bc51911",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Low-Dimensional Metrics",
@@ -6187,7 +6765,10 @@
     "conference": "nips",
     "id": "a331bbae",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "The Marginal Value of Adaptive Gradient Methods in Machine Learning",
     "pdf_link": "https://papers.nips.cc/paper/7003-the-marginal-value-of-adaptive-gradient-methods-in-machine-learning.pdf",
@@ -6204,6 +6785,7 @@
     "conference": "nips",
     "id": "281fc173",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Aggressive Sampling for Multi-class to Binary Reduction with Applications to Text Classification",
@@ -6222,6 +6804,7 @@
     "conference": "nips",
     "id": "7dca852f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deconvolutional Paragraph Representation Learning",
@@ -6237,6 +6820,7 @@
     "conference": "nips",
     "id": "b1ebf39b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Random Permutation Online Isotonic Regression",
@@ -6257,7 +6841,10 @@
     "conference": "nips",
     "id": "7968973c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning",
     "pdf_link": "https://papers.nips.cc/paper/7007-a-unified-game-theoretic-approach-to-multiagent-reinforcement-learning.pdf",
@@ -6273,6 +6860,7 @@
     "conference": "nips",
     "id": "9ce02840",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inverse Filtering for Hidden Markov Models",
@@ -6287,6 +6875,7 @@
     "conference": "nips",
     "id": "ed313de6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Non-parametric Structured Output Networks",
@@ -6302,6 +6891,7 @@
     "conference": "nips",
     "id": "c4f10fb3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Active Learning from Data",
@@ -6320,6 +6910,7 @@
     "conference": "nips",
     "id": "cb50814f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "VAE Learning via Stein Variational Gradient Descent",
@@ -6338,6 +6929,7 @@
     "conference": "nips",
     "id": "e90be868",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Reconstructing perceived faces from brain activations with deep adversarial neural decoding",
@@ -6353,6 +6945,7 @@
     "conference": "nips",
     "id": "ff63e0ea",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Use of Limited-Memory Accelerators for Linear Learning on Heterogeneous Systems",
@@ -6367,6 +6960,7 @@
     "conference": "nips",
     "id": "32b5237a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Coherency based Criteria for Predicting Video Frames using Deep Multi-stage Generative Adversarial Networks",
@@ -6384,7 +6978,11 @@
     "conference": "nips",
     "id": "d3f35ed7",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Sobolev Training for Neural Networks",
     "pdf_link": "https://papers.nips.cc/paper/7015-sobolev-training-for-neural-networks.pdf",
@@ -6399,6 +6997,7 @@
     "conference": "nips",
     "id": "363a35d1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Information Source Optimization",
@@ -6417,7 +7016,12 @@
     "conference": "nips",
     "id": "c20d0b83",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Deep Reinforcement Learning from Human Preferences",
     "pdf_link": "https://papers.nips.cc/paper/7017-deep-reinforcement-learning-from-human-preferences.pdf",
@@ -6432,6 +7036,7 @@
     "conference": "nips",
     "id": "367c0588",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On the Fine-Grained Complexity of Empirical Risk Minimization: Kernel Methods and Neural Networks",
@@ -6447,6 +7052,7 @@
     "conference": "nips",
     "id": "78b50426",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Policy Gradient With Value Function Approximation For Collective Multiagent Planning",
@@ -6466,6 +7072,7 @@
     "conference": "nips",
     "id": "d3ecccbb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adversarial Symmetric Variational Autoencoder",
@@ -6482,6 +7089,7 @@
     "conference": "nips",
     "id": "2023e776",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unified representation of tractography and diffusion-weighted MRI data using sparse multidimensional arrays",
@@ -6496,6 +7104,7 @@
     "conference": "nips",
     "id": "d2238a22",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Minimax Optimal Algorithm for Crowdsourcing",
@@ -6512,6 +7121,7 @@
     "conference": "nips",
     "id": "13783d72",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Estimating Accuracy from Unlabeled Data: A Probabilistic Logic Approach",
@@ -6528,7 +7138,10 @@
     "conference": "nips",
     "id": "50e04a7c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "A Decomposition of Forecast Error in Prediction Markets",
     "pdf_link": "https://papers.nips.cc/paper/7024-a-decomposition-of-forecast-error-in-prediction-markets.pdf",
@@ -6543,6 +7156,7 @@
     "conference": "nips",
     "id": "91754b0e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Safe Adaptive Importance Sampling",
@@ -6559,6 +7173,7 @@
     "conference": "nips",
     "id": "393bf195",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net",
@@ -6574,6 +7189,7 @@
     "conference": "nips",
     "id": "15218699",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Polynomial Codes: an Optimal Design for High-Dimensional Coded Matrix Multiplication",
@@ -6588,7 +7204,10 @@
     "conference": "nips",
     "id": "1b5f3401",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Unsupervised Learning of Disentangled Representations from Video",
     "pdf_link": "https://papers.nips.cc/paper/7028-unsupervised-learning-of-disentangled-representations-from-video.pdf",
@@ -6604,6 +7223,7 @@
     "conference": "nips",
     "id": "ca8cc8a2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Federated Multi-Task Learning",
@@ -6618,6 +7238,7 @@
     "conference": "nips",
     "id": "df06a147",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Is Input Sparsity Time Possible for Kernel Low-Rank Approximation?",
@@ -6633,6 +7254,7 @@
     "conference": "nips",
     "id": "70eedd8b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Expxorcist: Nonparametric Graphical Models Via Conditional Exponential Densities",
@@ -6648,7 +7270,10 @@
     "conference": "nips",
     "id": "b0eebe06",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Improved Graph Laplacian via Geometric Self-Consistency",
     "pdf_link": "https://papers.nips.cc/paper/7032-improved-graph-laplacian-via-geometric-self-consistency.pdf",
@@ -6666,6 +7291,7 @@
     "conference": "nips",
     "id": "18a3caed",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dual Path Networks",
@@ -6681,6 +7307,7 @@
     "conference": "nips",
     "id": "91a35ed0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Faster and Non-ergodic O(1/K) Stochastic Alternating Direction Method of Multipliers",
@@ -6696,6 +7323,7 @@
     "conference": "nips",
     "id": "6d517ff6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Probabilistic Framework for Nonlinearities in Stochastic Neural Networks",
@@ -6716,7 +7344,10 @@
     "conference": "nips",
     "id": "2bfbf1e3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Distral: Robust multitask reinforcement learning",
     "pdf_link": "https://papers.nips.cc/paper/7036-distral-robust-multitask-reinforcement-learning.pdf",
@@ -6731,6 +7362,7 @@
     "conference": "nips",
     "id": "9371983a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Learning of Optimal Bidding Strategy in Repeated Multi-Commodity Auctions",
@@ -6747,7 +7379,10 @@
     "conference": "nips",
     "id": "2befe608",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Trimmed Density Ratio Estimation",
     "pdf_link": "https://papers.nips.cc/paper/7038-trimmed-density-ratio-estimation.pdf",
@@ -6761,6 +7396,7 @@
     "conference": "nips",
     "id": "d9bdebc9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems",
@@ -6779,7 +7415,10 @@
     "conference": "nips",
     "id": "8e8da9b3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Visual Interaction Networks: Learning a Physics Simulator from Video",
     "pdf_link": "https://papers.nips.cc/paper/7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf",
@@ -6794,7 +7433,10 @@
     "conference": "nips",
     "id": "5cdd4c77",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Reconstruct &amp; Crush Network",
     "pdf_link": "https://papers.nips.cc/paper/7041-reconstruct-crush-network.pdf",
@@ -6811,6 +7453,7 @@
     "conference": "nips",
     "id": "935bc173",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Streaming Robust Submodular Maximization: A Partitioned Thresholding Approach",
@@ -6825,6 +7468,7 @@
     "conference": "nips",
     "id": "3e62fdc2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Simple strategies for recovering inner products from coarsely quantized random projections",
@@ -6842,6 +7486,7 @@
     "conference": "nips",
     "id": "d8f2c3b5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Discovering Potential Correlations via Hypercontractivity",
@@ -6856,7 +7501,10 @@
     "conference": "nips",
     "id": "73a99843",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Doubly Stochastic Variational Inference for Deep Gaussian Processes",
     "pdf_link": "https://papers.nips.cc/paper/7045-doubly-stochastic-variational-inference-for-deep-gaussian-processes.pdf",
@@ -6870,6 +7518,7 @@
     "conference": "nips",
     "id": "4469287f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ranking Data with Continuous Labels through Oriented Recursive Partitions",
@@ -6886,6 +7535,7 @@
     "conference": "nips",
     "id": "5bc554b5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scalable Model Selection for Belief Networks",
@@ -6905,7 +7555,10 @@
     "conference": "nips",
     "id": "cb1c60f9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Targeting EEG/LFP Synchrony with Neural Nets",
     "pdf_link": "https://papers.nips.cc/paper/7048-targeting-eeglfp-synchrony-with-neural-nets.pdf",
@@ -6921,6 +7574,7 @@
     "conference": "nips",
     "id": "258e7b23",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Near-Optimal Edge Evaluation in Explicit Generalized Binomial Graphs",
@@ -6936,6 +7590,7 @@
     "conference": "nips",
     "id": "7769a76b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Non-Stationary Spectral Kernels",
@@ -6953,7 +7608,10 @@
     "conference": "nips",
     "id": "a16fde48",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Overcoming Catastrophic Forgetting by Incremental Moment Matching",
     "pdf_link": "https://papers.nips.cc/paper/7051-overcoming-catastrophic-forgetting-by-incremental-moment-matching.pdf",
@@ -6969,6 +7627,7 @@
     "conference": "nips",
     "id": "204d38a8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Balancing information exposure in social networks",
@@ -6984,6 +7643,7 @@
     "conference": "nips",
     "id": "90143b52",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud",
@@ -6998,6 +7658,7 @@
     "conference": "nips",
     "id": "b85142cc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Query Complexity of Clustering with Side Information",
@@ -7013,7 +7674,10 @@
     "conference": "nips",
     "id": "4ada6644",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "QMDP-Net: Deep Learning for Planning under Partial Observability",
     "pdf_link": "https://papers.nips.cc/paper/7055-qmdp-net-deep-learning-for-planning-under-partial-observability.pdf",
@@ -7029,6 +7693,7 @@
     "conference": "nips",
     "id": "381351e3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Optimization for Non-Convex Objectives",
@@ -7045,6 +7710,7 @@
     "conference": "nips",
     "id": "414405f6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Thy Friend is My Friend: Iterative Collaborative Filtering for Sparse Matrix Estimation",
@@ -7059,6 +7725,7 @@
     "conference": "nips",
     "id": "9128cea9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive Classification for Prediction Under a Budget",
@@ -7074,6 +7741,7 @@
     "conference": "nips",
     "id": "378a91d8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convergence rates of a partition based Bayesian multivariate density estimation method",
@@ -7088,7 +7756,11 @@
     "conference": "nips",
     "id": "334187a9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "Affine-Invariant Online Optimization and the Low-rank Experts Problem",
     "pdf_link": "https://papers.nips.cc/paper/7060-affine-invariant-online-optimization-and-the-low-rank-experts-problem.pdf",
@@ -7102,6 +7774,7 @@
     "conference": "nips",
     "id": "16967a8f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Beyond Worst-case: A Probabilistic Analysis of Affine Policies in Dynamic Optimization",
@@ -7116,6 +7789,7 @@
     "conference": "nips",
     "id": "d5b41d3f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Unified Approach to Interpreting Model Predictions",
@@ -7132,6 +7806,7 @@
     "conference": "nips",
     "id": "c7c74163",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stochastic Approximation for Canonical Correlation Analysis",
@@ -7147,7 +7822,10 @@
     "conference": "nips",
     "id": "aaf5854e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain"
+      ]
     },
     "name": "Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice",
     "pdf_link": "https://papers.nips.cc/paper/7064-resurrecting-the-sigmoid-in-deep-learning-through-dynamical-isometry-theory-and-practice.pdf",
@@ -7161,6 +7839,7 @@
     "conference": "nips",
     "id": "90792455",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sample and Computationally Efficient Learning Algorithms under S-Concave Distributions",
@@ -7176,6 +7855,7 @@
     "conference": "nips",
     "id": "e94441fd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scalable Variational Inference for Dynamical Systems",
@@ -7192,6 +7872,7 @@
     "conference": "nips",
     "id": "be732998",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Context Selection for Embedding Models",
@@ -7208,7 +7889,10 @@
     "conference": "nips",
     "id": "97a4fe95",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Working hard to know your neighbor's margins: Local descriptor learning loss",
     "pdf_link": "https://papers.nips.cc/paper/7068-working-hard-to-know-your-neighbors-margins-local-descriptor-learning-loss.pdf",
@@ -7224,6 +7908,7 @@
     "conference": "nips",
     "id": "478c67cd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Accelerated Stochastic Greedy Coordinate Descent by Soft Thresholding Projection onto Simplex",
@@ -7239,6 +7924,7 @@
     "conference": "nips",
     "id": "cac6be8e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Task Learning for Contextual Bandits",
@@ -7254,7 +7940,10 @@
     "conference": "nips",
     "id": "a19c7bd1",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon",
     "pdf_link": "https://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon.pdf",
@@ -7271,6 +7960,7 @@
     "conference": "nips",
     "id": "cb91d6f3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Accelerated First-order Methods for Geodesically Convex Optimization on Riemannian Manifolds",
@@ -7285,6 +7975,7 @@
     "conference": "nips",
     "id": "0e3e50c0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Selective Classification for Deep Neural Networks",
@@ -7299,6 +7990,7 @@
     "conference": "nips",
     "id": "ef0f129c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Minimax Estimation of Bandable Precision Matrices",
@@ -7313,6 +8005,7 @@
     "conference": "nips",
     "id": "f54eb865",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Monte-Carlo Tree Search by Best Arm Identification",
@@ -7327,6 +8020,7 @@
     "conference": "nips",
     "id": "0afdaf9c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Group Additive Structure Identification for Kernel Nonparametric Regression",
@@ -7341,6 +8035,7 @@
     "conference": "nips",
     "id": "122488aa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast, Sample-Efficient Algorithms for Structured Phase Retrieval",
@@ -7356,7 +8051,10 @@
     "conference": "nips",
     "id": "fa66424c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Hash Embeddings for Efficient Word Representations",
     "pdf_link": "https://papers.nips.cc/paper/7078-hash-embeddings-for-efficient-word-representations.pdf",
@@ -7372,6 +8070,7 @@
     "conference": "nips",
     "id": "2ac46dd4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Learning for Multivariate Hawkes Processes",
@@ -7387,6 +8086,7 @@
     "conference": "nips",
     "id": "f5a79863",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Maximum Margin Interval Trees",
@@ -7402,7 +8102,10 @@
     "conference": "nips",
     "id": "ea766b21",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "DropoutNet: Addressing Cold Start in Recommender Systems",
     "pdf_link": "https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems.pdf",
@@ -7421,7 +8124,10 @@
     "conference": "nips",
     "id": "a7c59df5",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "A simple neural network module for relational reasoning",
     "pdf_link": "https://papers.nips.cc/paper/7082-a-simple-neural-network-module-for-relational-reasoning.pdf",
@@ -7439,7 +8145,10 @@
     "conference": "nips",
     "id": "f3fc2f68",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Q-LDA: Uncovering Latent Patterns in Text-based Sequential Decision Processes",
     "pdf_link": "https://papers.nips.cc/paper/7083-q-lda-uncovering-latent-patterns-in-text-based-sequential-decision-processes.pdf",
@@ -7454,6 +8163,7 @@
     "conference": "nips",
     "id": "e37112a4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Reinforcement Learning in Stochastic Games",
@@ -7469,6 +8179,7 @@
     "conference": "nips",
     "id": "b020674a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Position-based Multiple-play Bandit Problem with Unknown Position Bias",
@@ -7483,6 +8194,7 @@
     "conference": "nips",
     "id": "5ba3bbca",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Active Exploration for Learning Symbolic Representations",
@@ -7499,6 +8211,7 @@
     "conference": "nips",
     "id": "719ecbe3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Clone MCMC: Parallel High-Dimensional Gaussian Gibbs Sampling",
@@ -7515,6 +8228,7 @@
     "conference": "nips",
     "id": "5bca0589",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fair Clustering Through Fairlets",
@@ -7530,6 +8244,7 @@
     "conference": "nips",
     "id": "c3769d5f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Polynomial time algorithms for dual volume sampling",
@@ -7552,7 +8267,10 @@
     "conference": "nips",
     "id": "a8a6b2c9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Hindsight Experience Replay",
     "pdf_link": "https://papers.nips.cc/paper/7090-hindsight-experience-replay.pdf",
@@ -7566,6 +8284,7 @@
     "conference": "nips",
     "id": "fec1c695",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stochastic and Adversarial Online Learning without Hyperparameters",
@@ -7580,6 +8299,7 @@
     "conference": "nips",
     "id": "f740f925",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Teaching Machines to Describe Images with Natural Language Feedback",
@@ -7596,6 +8316,7 @@
     "conference": "nips",
     "id": "860aa8c3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Perturbative Black Box Variational Inference",
@@ -7614,6 +8335,7 @@
     "conference": "nips",
     "id": "da01e466",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "GibbsNet: Iterative Adversarial Inference for Deep Graphical Models",
@@ -7630,6 +8352,7 @@
     "conference": "nips",
     "id": "491e8ffd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space",
@@ -7646,6 +8369,7 @@
     "conference": "nips",
     "id": "db6fa660",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Regularizing Deep Neural Networks by Noise: Its Interpretation and Optimization",
@@ -7660,6 +8384,7 @@
     "conference": "nips",
     "id": "5281fdef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Graph Representations with Embedding Propagation",
@@ -7675,6 +8400,7 @@
     "conference": "nips",
     "id": "88abf293",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Modeling of Latent Information in Supervised Learning using Gaussian Processes",
@@ -7690,7 +8416,10 @@
     "conference": "nips",
     "id": "9c8455d1",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "A-NICE-MC: Adversarial Training for MCMC",
     "pdf_link": "https://papers.nips.cc/paper/7099-a-nice-mc-adversarial-training-for-mcmc.pdf",
@@ -7704,6 +8433,7 @@
     "conference": "nips",
     "id": "256a1d92",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Excess Risk Bounds for the Bayes Risk using Variational Inference in Latent Gaussian Models",
@@ -7718,6 +8448,7 @@
     "conference": "nips",
     "id": "3295c204",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Real-Time Bidding with Side Information",
@@ -7734,6 +8465,7 @@
     "conference": "nips",
     "id": "17de812c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Saliency-based Sequential Image Attention with Multiset Prediction",
@@ -7748,6 +8480,7 @@
     "conference": "nips",
     "id": "94d2596e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Variational Inference for Gaussian Process Models with Linear Complexity",
@@ -7762,6 +8495,7 @@
     "conference": "nips",
     "id": "32ad7aa3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "K-Medoids For K-Means Seeding",
@@ -7777,6 +8511,7 @@
     "conference": "nips",
     "id": "10f75d1d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Identifying Outlier Arms in Multi-Armed Bandit",
@@ -7791,6 +8526,7 @@
     "conference": "nips",
     "id": "98aad982",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Learning with Transductive Regret",
@@ -7805,6 +8541,7 @@
     "conference": "nips",
     "id": "ebfc3ff0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Riemannian approach to batch normalization",
@@ -7821,7 +8558,10 @@
     "conference": "nips",
     "id": "63644ceb",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Self-supervised Learning of Motion Capture",
     "pdf_link": "https://papers.nips.cc/paper/7108-self-supervised-learning-of-motion-capture.pdf",
@@ -7841,6 +8581,7 @@
     "conference": "nips",
     "id": "a21c73d3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Triangle Generative Adversarial Networks",
@@ -7858,6 +8599,7 @@
     "conference": "nips",
     "id": "1dd24961",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "PRUNE: Preserving Proximity and Global Ranking for Network Embedding",
@@ -7874,6 +8616,7 @@
     "conference": "nips",
     "id": "872ad373",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bayesian Optimization with Gradients",
@@ -7891,6 +8634,7 @@
     "conference": "nips",
     "id": "67be481b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation",
@@ -7906,6 +8650,7 @@
     "conference": "nips",
     "id": "5c0c3543",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Renyi Differential Privacy Mechanisms for Posterior Sampling",
@@ -7922,6 +8667,7 @@
     "conference": "nips",
     "id": "d9a630c5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Learning with a Hint",
@@ -7938,7 +8684,10 @@
     "conference": "nips",
     "id": "2960553d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Identification of Gaussian Process State Space Models",
     "pdf_link": "https://papers.nips.cc/paper/7115-identification-of-gaussian-process-state-space-models.pdf",
@@ -7956,7 +8705,10 @@
     "conference": "nips",
     "id": "2c0dd932",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Robust Imitation of Diverse Behaviors",
     "pdf_link": "https://papers.nips.cc/paper/7116-robust-imitation-of-diverse-behaviors.pdf",
@@ -7974,7 +8726,10 @@
     "conference": "nips",
     "id": "a1be4a57",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent",
     "pdf_link": "https://papers.nips.cc/paper/7117-can-decentralized-algorithms-outperform-centralized-algorithms-a-case-study-for-decentralized-parallel-stochastic-gradient-descent.pdf",
@@ -7988,6 +8743,7 @@
     "conference": "nips",
     "id": "37203959",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Local Aggregative Games",
@@ -8001,6 +8757,7 @@
     "conference": "nips",
     "id": "b3458cdf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Sample Complexity Measure with Applications to Learning Optimal Auctions",
@@ -8016,6 +8773,7 @@
     "conference": "nips",
     "id": "ada22b35",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Thinking Fast and Slow with Deep Learning and Tree Search",
@@ -8035,6 +8793,7 @@
     "conference": "nips",
     "id": "6203d166",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "EEG-GRAPH: A Factor-Graph-Based Model for Capturing Spatial, Temporal, and Observational Relationships in Electroencephalograms",
@@ -8050,6 +8809,7 @@
     "conference": "nips",
     "id": "d3bdb22f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Improving the Expected Improvement Algorithm",
@@ -8068,6 +8828,7 @@
     "conference": "nips",
     "id": "cc620c0a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hybrid Reward Architecture for Reinforcement Learning",
@@ -8082,6 +8843,7 @@
     "conference": "nips",
     "id": "84586190",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Approximate Supermodularity Bounds for Experimental Design",
@@ -8098,6 +8860,7 @@
     "conference": "nips",
     "id": "48d312d0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Maximizing Subset Accuracy with Recurrent Neural Networks in Multi-label Classification",
@@ -8115,7 +8878,11 @@
     "conference": "nips",
     "id": "96217009",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "AdaGAN: Boosting Generative Models",
     "pdf_link": "https://papers.nips.cc/paper/7126-adagan-boosting-generative-models.pdf",
@@ -8131,6 +8898,7 @@
     "conference": "nips",
     "id": "52e9710f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Straggler Mitigation in Distributed Optimization Through Data Encoding",
@@ -8147,6 +8915,7 @@
     "conference": "nips",
     "id": "23330220",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-View Decision Processes: The Helper-AI Problem",
@@ -8163,6 +8932,7 @@
     "conference": "nips",
     "id": "5e710ab7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Greedy Approach for Budgeted Maximum Inner Product Search",
@@ -8180,7 +8950,10 @@
     "conference": "nips",
     "id": "83e40111",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "opennmt"
+      ]
     },
     "name": "SVD-Softmax: Fast Softmax Approximation on Large Vocabulary Neural Networks",
     "pdf_link": "https://papers.nips.cc/paper/7130-svd-softmax-fast-softmax-approximation-on-large-vocabulary-neural-networks.pdf",
@@ -8196,6 +8969,7 @@
     "conference": "nips",
     "id": "f4c91395",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Plan, Attend, Generate: Planning for Sequence-to-Sequence Models",
@@ -8211,6 +8985,7 @@
     "conference": "nips",
     "id": "de3c6521",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Task-based End-to-end Model Learning in Stochastic Optimization",
@@ -8230,6 +9005,7 @@
     "conference": "nips",
     "id": "cd7c4f7a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching",
@@ -8247,6 +9023,7 @@
     "conference": "nips",
     "id": "6a1ddcb0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Finite Sample Analysis of the GTD Policy Evaluation Algorithms in Markov Setting",
@@ -8263,6 +9040,7 @@
     "conference": "nips",
     "id": "b93a1c24",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On the Complexity of Learning Neural Networks",
@@ -8278,6 +9056,7 @@
     "conference": "nips",
     "id": "8088a7c3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hierarchical Implicit Models and Likelihood-Free Variational Inference",
@@ -8293,6 +9072,7 @@
     "conference": "nips",
     "id": "9fc0d3ab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semi-supervised Learning with GANs: Manifold Invariance with Improved Inference",
@@ -8308,7 +9088,11 @@
     "conference": "nips",
     "id": "3e158d68",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "Approximation and Convergence Properties of Generative Adversarial Learning",
     "pdf_link": "https://papers.nips.cc/paper/7138-approximation-and-convergence-properties-of-generative-adversarial-learning.pdf",
@@ -8324,6 +9108,7 @@
     "conference": "nips",
     "id": "74861cff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From Bayesian Sparsity to Gated Recurrent Nets",
@@ -8340,6 +9125,7 @@
     "conference": "nips",
     "id": "a0923aea",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Min-Max Propagation",
@@ -8354,7 +9140,10 @@
     "conference": "nips",
     "id": "0bb0423e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?",
     "pdf_link": "https://papers.nips.cc/paper/7141-what-uncertainties-do-we-need-in-bayesian-deep-learning-for-computer-vision.pdf",
@@ -8368,6 +9157,7 @@
     "conference": "nips",
     "id": "cd92caa0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gradient descent GAN optimization is locally stable",
@@ -8381,7 +9171,10 @@
     "conference": "nips",
     "id": "2a82ea54",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Toward Robustness against Label Noise in Training Deep Discriminative Neural Networks",
     "pdf_link": "https://papers.nips.cc/paper/7143-toward-robustness-against-label-noise-in-training-deep-discriminative-neural-networks.pdf",
@@ -8397,6 +9190,7 @@
     "conference": "nips",
     "id": "241a944c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dualing GANs",
@@ -8416,6 +9210,7 @@
     "conference": "nips",
     "id": "e8cda8e9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model",
@@ -8431,6 +9226,7 @@
     "conference": "nips",
     "id": "0e24c5c8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Do Deep Neural Networks Suffer from Crowding?",
@@ -8447,6 +9243,7 @@
     "conference": "nips",
     "id": "526f7c88",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning from Complementary Labels",
@@ -8463,6 +9260,7 @@
     "conference": "nips",
     "id": "bc7b9e36",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online control of the false discovery rate with decaying memory",
@@ -8477,7 +9275,10 @@
     "conference": "nips",
     "id": "ec01ef3e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Learning from uncertain curves: The 2-Wasserstein metric for Gaussian processes",
     "pdf_link": "https://papers.nips.cc/paper/7149-learning-from-uncertain-curves-the-2-wasserstein-metric-for-gaussian-processes.pdf",
@@ -8491,6 +9292,7 @@
     "conference": "nips",
     "id": "21faba78",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Discriminative State Space Models",
@@ -8508,6 +9310,7 @@
     "conference": "nips",
     "id": "f9a1379c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On Fairness and Calibration",
@@ -8535,7 +9338,10 @@
     "conference": "nips",
     "id": "f35667ce",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Imagination-Augmented Agents for Deep Reinforcement Learning",
     "pdf_link": "https://papers.nips.cc/paper/7152-imagination-augmented-agents-for-deep-reinforcement-learning.pdf",
@@ -8550,6 +9356,7 @@
     "conference": "nips",
     "id": "d5d9668c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Extracting low-dimensional dynamics from multiple large-scale neural population recordings by learning to predict correlations",
@@ -8565,6 +9372,7 @@
     "conference": "nips",
     "id": "6bea0715",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unifying PAC and Regret: Uniform PAC Bounds for Episodic Reinforcement Learning",
@@ -8579,6 +9387,7 @@
     "conference": "nips",
     "id": "318a58bd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gradients of Generative Models for Improved Discriminative Analysis of Tandem Mass Spectra",
@@ -8593,7 +9402,10 @@
     "conference": "nips",
     "id": "5efd4447",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Asynchronous Parallel Coordinate Minimization for MAP Inference",
     "pdf_link": "https://papers.nips.cc/paper/7156-asynchronous-parallel-coordinate-minimization-for-map-inference.pdf",
@@ -8612,7 +9424,10 @@
     "conference": "nips",
     "id": "7eaff545",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Multiscale Quantization for Fast Similarity Search",
     "pdf_link": "https://papers.nips.cc/paper/7157-multiscale-quantization-for-fast-similarity-search.pdf",
@@ -8627,6 +9442,7 @@
     "conference": "nips",
     "id": "84d36c45",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space",
@@ -8644,7 +9460,10 @@
     "conference": "nips",
     "id": "1dea627c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain"
+      ]
     },
     "name": "Improved Training of Wasserstein GANs",
     "pdf_link": "https://papers.nips.cc/paper/7159-improved-training-of-wasserstein-gans.pdf",
@@ -8659,6 +9478,7 @@
     "conference": "nips",
     "id": "9e06339f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Populations of Parameters",
@@ -8673,6 +9493,7 @@
     "conference": "nips",
     "id": "9f60dfc2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Clustering with Noisy Queries",
@@ -8689,6 +9510,7 @@
     "conference": "nips",
     "id": "2041a35f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Higher-Order Total Variation Classes on Grids: Minimax Theory and Trend Filtering Methods",
@@ -8707,6 +9529,7 @@
     "conference": "nips",
     "id": "f6365ca8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Training Quantized Nets: A Deeper Understanding",
@@ -8723,6 +9546,7 @@
     "conference": "nips",
     "id": "6ff9f8b3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Permutation-based Causal Inference Algorithms with Interventions",
@@ -8739,6 +9563,7 @@
     "conference": "nips",
     "id": "0d0a908e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Time-dependent spatially varying graphical models, with application to brain fMRI data analysis",
@@ -8754,6 +9579,7 @@
     "conference": "nips",
     "id": "31a812c5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gradient Methods for Submodular Maximization",
@@ -8770,6 +9596,7 @@
     "conference": "nips",
     "id": "48a92b9d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Smooth Primal-Dual Coordinate Descent Algorithms for Nonsmooth Convex Optimization",
@@ -8785,6 +9612,7 @@
     "conference": "nips",
     "id": "4c493ef3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Importance of Communities for Learning to Influence",
@@ -8800,6 +9628,7 @@
     "conference": "nips",
     "id": "ddd378ee",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multiplicative Weights Update with Constant Step-Size in Congestion Games:  Convergence, Limit Cycles and Chaos",
@@ -8817,7 +9646,10 @@
     "conference": "nips",
     "id": "4810e217",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Learning Neural Representations of Human Cognition across Many fMRI Studies",
     "pdf_link": "https://papers.nips.cc/paper/7170-learning-neural-representations-of-human-cognition-across-many-fmri-studies.pdf",
@@ -8832,6 +9664,7 @@
     "conference": "nips",
     "id": "3b288f0c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A KL-LUCB algorithm for Large-Scale Crowdsourcing",
@@ -8848,7 +9681,10 @@
     "conference": "nips",
     "id": "82ae6fa7",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Collaborative Deep Learning in Fixed Topology Networks",
     "pdf_link": "https://papers.nips.cc/paper/7172-collaborative-deep-learning-in-fixed-topology-networks.pdf",
@@ -8863,6 +9699,7 @@
     "conference": "nips",
     "id": "de800bae",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast-Slow Recurrent Neural Networks",
@@ -8883,7 +9720,11 @@
     "conference": "nips",
     "id": "038abcea",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "google.com"
+      ]
     },
     "name": "Learning Disentangled Representations with Semi-Supervised Deep Generative Models",
     "pdf_link": "https://papers.nips.cc/paper/7174-learning-disentangled-representations-with-semi-supervised-deep-generative-models.pdf",
@@ -8900,6 +9741,7 @@
     "conference": "nips",
     "id": "676fac13",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Self-Supervised Intrinsic Image Decomposition",
@@ -8916,6 +9758,7 @@
     "conference": "nips",
     "id": "ec399973",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exploring Generalization in Deep Learning",
@@ -8932,6 +9775,7 @@
     "conference": "nips",
     "id": "c7a76adf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A framework for Multi-A(rmed)/B(andit) Testing with Online FDR Control",
@@ -8950,7 +9794,10 @@
     "conference": "nips",
     "id": "fd1cff51",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Fader Networks:Manipulating Images by Sliding Attributes",
     "pdf_link": "https://papers.nips.cc/paper/7178-fader-networksmanipulating-images-by-sliding-attributes.pdf",
@@ -8966,6 +9813,7 @@
     "conference": "nips",
     "id": "92450259",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Action Centered Contextual Bandits",
@@ -8982,6 +9830,7 @@
     "conference": "nips",
     "id": "b347a993",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Estimating Mutual Information for Discrete-Continuous Mixtures",
@@ -9002,7 +9851,12 @@
     "conference": "nips",
     "id": "15462a0a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Attention is All you Need",
     "pdf_link": "https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf",
@@ -9020,6 +9874,7 @@
     "conference": "nips",
     "id": "b46e996a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Ladder Networks",
@@ -9036,6 +9891,7 @@
     "conference": "nips",
     "id": "a365850e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Parameter-Free Online Learning via Model Selection",
@@ -9051,6 +9907,7 @@
     "conference": "nips",
     "id": "67d4a215",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bregman Divergence for Stochastic Variance Reduction: Saddle-Point and Adversarial Prediction",
@@ -9066,7 +9923,10 @@
     "conference": "nips",
     "id": "b3e9bf8f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Unbounded cache model for online language modeling with open vocabulary",
     "pdf_link": "https://papers.nips.cc/paper/7185-unbounded-cache-model-for-online-language-modeling-with-open-vocabulary.pdf",
@@ -9083,7 +9943,11 @@
     "conference": "nips",
     "id": "38bc1a36",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Predictive State Recurrent Neural Networks",
     "pdf_link": "https://papers.nips.cc/paper/7186-predictive-state-recurrent-neural-networks.pdf",
@@ -9098,6 +9962,7 @@
     "conference": "nips",
     "id": "e9b8ba14",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Early stopping for kernel boosting algorithms: A general analysis with localized complexities",
@@ -9114,7 +9979,11 @@
     "conference": "nips",
     "id": "a89bb07a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
     "pdf_link": "https://papers.nips.cc/paper/7188-svcca-singular-vector-canonical-correlation-analysis-for-deep-learning-dynamics-and-interpretability.pdf",
@@ -9130,6 +9999,7 @@
     "conference": "nips",
     "id": "9adcb5b1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convolutional Phase Retrieval",
@@ -9146,6 +10016,7 @@
     "conference": "nips",
     "id": "5e1bc638",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Estimating High-dimensional Non-Gaussian Multiple Index Models via Stein\u2019s Lemma",
@@ -9161,6 +10032,7 @@
     "conference": "nips",
     "id": "03c462e8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gaussian Quadrature for Kernel Features",
@@ -9176,7 +10048,12 @@
     "conference": "nips",
     "id": "68c90648",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Value Prediction Network",
     "pdf_link": "https://papers.nips.cc/paper/7192-value-prediction-network.pdf",
@@ -9193,6 +10070,7 @@
     "conference": "nips",
     "id": "ada58053",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Learning Error Analysis for Structured Prediction with Approximate Inference",
@@ -9208,6 +10086,7 @@
     "conference": "nips",
     "id": "b9a1e1f4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Second-Order Online Kernel Learning with Adaptive Embedding",
@@ -9225,6 +10104,7 @@
     "conference": "nips",
     "id": "483b5ae0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Implicit Regularization in Matrix Factorization",
@@ -9239,6 +10119,7 @@
     "conference": "nips",
     "id": "ffad5a40",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Optimal Shrinkage of Singular Values Under Random Data Contamination",
@@ -9256,6 +10137,7 @@
     "conference": "nips",
     "id": "116f2c03",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Countering Feedback Delays in Multi-Agent Learning",
@@ -9271,6 +10153,7 @@
     "conference": "nips",
     "id": "f48f29dc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Asynchronous Coordinate Descent under More Realistic Assumptions",
@@ -9287,6 +10170,7 @@
     "conference": "nips",
     "id": "ae6ea5af",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Linear Convergence of a Frank-Wolfe Type Algorithm over Trace-Norm Balls",
@@ -9302,6 +10186,7 @@
     "conference": "nips",
     "id": "3bde8c60",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hierarchical Clustering Beyond the Worst-Case",
@@ -9316,6 +10201,7 @@
     "conference": "nips",
     "id": "829d14f6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Invariance and Stability of Deep Convolutional Representations",
@@ -9331,7 +10217,10 @@
     "conference": "nips",
     "id": "a424996e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Statistical Cost Sharing",
     "pdf_link": "https://papers.nips.cc/paper/7202-statistical-cost-sharing.pdf",
@@ -9348,6 +10237,7 @@
     "conference": "nips",
     "id": "f4791503",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Expressive Power of Neural Networks: A View from the Width",
@@ -9363,6 +10253,7 @@
     "conference": "nips",
     "id": "ad48ae74",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Spectrally-normalized margin bounds for neural networks",
@@ -9379,6 +10270,7 @@
     "conference": "nips",
     "id": "e908cac4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust and Efficient Transfer Learning with Hidden Parameter Markov Decision Processes",
@@ -9395,7 +10287,10 @@
     "conference": "nips",
     "id": "b332155b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Population Matching Discrepancy and Applications in Deep Learning",
     "pdf_link": "https://papers.nips.cc/paper/7206-population-matching-discrepancy-and-applications-in-deep-learning.pdf",
@@ -9410,7 +10305,10 @@
     "conference": "nips",
     "id": "d1e5b24d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Scalable Planning with Tensorflow for Hybrid Nonlinear Domains",
     "pdf_link": "https://papers.nips.cc/paper/7207-scalable-planning-with-tensorflow-for-hybrid-nonlinear-domains.pdf",
@@ -9426,6 +10324,7 @@
     "conference": "nips",
     "id": "b85331c5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Boltzmann Exploration Done Right",
@@ -9442,7 +10341,11 @@
     "conference": "nips",
     "id": "52cd54e3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "opennmt"
+      ]
     },
     "name": "Learned in Translation: Contextualized Word Vectors",
     "pdf_link": "https://papers.nips.cc/paper/7209-learned-in-translation-contextualized-word-vectors.pdf",
@@ -9457,7 +10360,10 @@
     "conference": "nips",
     "id": "7baf44b3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Neural Discrete Representation Learning",
     "pdf_link": "https://papers.nips.cc/paper/7210-neural-discrete-representation-learning.pdf",
@@ -9473,6 +10379,7 @@
     "conference": "nips",
     "id": "6462ff6d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Generalizing GANs: A Turing Perspective",
@@ -9490,7 +10397,10 @@
     "conference": "nips",
     "id": "0d66ad46",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Scalable Log Determinants for Gaussian Process Kernel Learning",
     "pdf_link": "https://papers.nips.cc/paper/7212-scalable-log-determinants-for-gaussian-process-kernel-learning.pdf",
@@ -9504,7 +10414,10 @@
     "conference": "nips",
     "id": "42d1bd82",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Poincar\u00e9 Embeddings for Learning Hierarchical Representations",
     "pdf_link": "https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations.pdf",
@@ -9521,7 +10434,10 @@
     "conference": "nips",
     "id": "92b2293a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning Combinatorial Optimization Algorithms over Graphs",
     "pdf_link": "https://papers.nips.cc/paper/7214-learning-combinatorial-optimization-algorithms-over-graphs.pdf",
@@ -9535,6 +10451,7 @@
     "conference": "nips",
     "id": "48abd9c1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Conditional Probabilities",
@@ -9550,6 +10467,7 @@
     "conference": "nips",
     "id": "c1a92e3f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning with Bandit Feedback in Potential Games",
@@ -9568,7 +10486,10 @@
     "conference": "nips",
     "id": "2889885b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments",
     "pdf_link": "https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf",
@@ -9586,6 +10507,7 @@
     "conference": "nips",
     "id": "2afecbf2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Communication-Efficient Distributed Learning of Discrete Distributions",
@@ -9601,7 +10523,10 @@
     "conference": "nips",
     "id": "2be5b8bb",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles",
     "pdf_link": "https://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf",
@@ -9617,6 +10542,7 @@
     "conference": "nips",
     "id": "cad16fa5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness",
@@ -9631,6 +10557,7 @@
     "conference": "nips",
     "id": "17ab1074",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Matrix Norm Estimation from a Few Entries",
@@ -9650,6 +10577,7 @@
     "conference": "nips",
     "id": "aad2eff9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Networks for Efficient Bayesian Decoding of Natural Images from Retinal Neurons",
@@ -9668,7 +10596,10 @@
     "conference": "nips",
     "id": "1c17cb2b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Causal Effect Inference with Deep Latent-Variable Models",
     "pdf_link": "https://papers.nips.cc/paper/7223-causal-effect-inference-with-deep-latent-variable-models.pdf",
@@ -9682,6 +10613,7 @@
     "conference": "nips",
     "id": "afa8fb01",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Identifiable Gaussian Bayesian Networks in Polynomial Time and Sample Complexity",
@@ -9696,7 +10628,10 @@
     "conference": "nips",
     "id": "b36beb7a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Gradient Episodic Memory for Continual Learning",
     "pdf_link": "https://papers.nips.cc/paper/7225-gradient-episodic-memory-for-continual-learning.pdf",
@@ -9712,7 +10647,10 @@
     "conference": "nips",
     "id": "969b8efa",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Effective Parallelisation for Machine Learning",
     "pdf_link": "https://papers.nips.cc/paper/7226-effective-parallelisation-for-machine-learning.pdf",
@@ -9726,6 +10664,7 @@
     "conference": "nips",
     "id": "5f228d5e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semisupervised Clustering, AND-Queries and Locally Encodable Source Coding",
@@ -9741,6 +10680,7 @@
     "conference": "nips",
     "id": "63012296",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Clustering Stable Instances of Euclidean k-means.",
@@ -9758,6 +10698,7 @@
     "conference": "nips",
     "id": "ab66f3e0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Good Semi-supervised Learning That Requires a Bad GAN",
@@ -9772,7 +10713,12 @@
     "conference": "nips",
     "id": "927cdbf3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "On Blackbox Backpropagation and Jacobian Sensing",
     "pdf_link": "https://papers.nips.cc/paper/7230-on-blackbox-backpropagation-and-jacobian-sensing.pdf",
@@ -9788,7 +10734,10 @@
     "conference": "nips",
     "id": "e1c33962",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Protein Interface Prediction using Graph Convolutional Networks",
     "pdf_link": "https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf",
@@ -9804,6 +10753,7 @@
     "conference": "nips",
     "id": "189a9924",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D  Electronic Densities",
@@ -9820,7 +10770,10 @@
     "conference": "nips",
     "id": "518d26e6",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Towards Generalization and Simplicity in Continuous Control",
     "pdf_link": "https://papers.nips.cc/paper/7233-towards-generalization-and-simplicity-in-continuous-control.pdf",
@@ -9835,7 +10788,10 @@
     "conference": "nips",
     "id": "94b6e165",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Random Projection Filter Bank for Time Series Data",
     "pdf_link": "https://papers.nips.cc/paper/7234-random-projection-filter-bank-for-time-series-data.pdf",
@@ -9855,7 +10811,12 @@
     "conference": "nips",
     "id": "2a7470a5",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Filtering Variational Objectives",
     "pdf_link": "https://papers.nips.cc/paper/7235-filtering-variational-objectives.pdf",
@@ -9869,6 +10830,7 @@
     "conference": "nips",
     "id": "1dc94933",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On Frank-Wolfe and Equilibrium Computation",
@@ -9887,7 +10849,11 @@
     "conference": "nips",
     "id": "08cf0acf",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "Modulating early visual processing by language",
     "pdf_link": "https://papers.nips.cc/paper/7237-modulating-early-visual-processing-by-language.pdf",
@@ -9902,6 +10868,7 @@
     "conference": "nips",
     "id": "0d01b9d6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Mixture of Gaussians with Streaming Data",
@@ -9917,6 +10884,7 @@
     "conference": "nips",
     "id": "0164c246",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Practical Hash Functions for Similarity Estimation and Dimensionality Reduction",
@@ -9934,6 +10902,7 @@
     "conference": "nips",
     "id": "a51502b5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium",
@@ -9948,6 +10917,7 @@
     "conference": "nips",
     "id": "720954d8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Scaling Limit of High-Dimensional Online Independent Component Analysis",
@@ -9963,6 +10933,7 @@
     "conference": "nips",
     "id": "0f149eba",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Approximation Algorithms for <var>\\ell_0</var>-Low Rank Approximation",
@@ -9979,6 +10950,7 @@
     "conference": "nips",
     "id": "65ec03b4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The power of absolute discounting: all-dimensional distribution estimation",
@@ -9995,6 +10967,7 @@
     "conference": "nips",
     "id": "b05ff12e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Few-Shot Adversarial Domain Adaptation",
@@ -10009,7 +10982,10 @@
     "conference": "nips",
     "id": "b097af2f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Spectral Mixture Kernels for Multi-Output Gaussian Processes",
     "pdf_link": "https://papers.nips.cc/paper/7245-spectral-mixture-kernels-for-multi-output-gaussian-processes.pdf",
@@ -10024,6 +11000,7 @@
     "conference": "nips",
     "id": "f76f0b48",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Expectation Maximization",
@@ -10039,6 +11016,7 @@
     "conference": "nips",
     "id": "2914d9f0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Linear Dynamical Systems via Spectral Filtering",
@@ -10056,6 +11034,7 @@
     "conference": "nips",
     "id": "b2f0e601",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Z-Forcing: Training Stochastic Recurrent Networks",
@@ -10072,7 +11051,11 @@
     "conference": "nips",
     "id": "6caa0aa6",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "Learning Hierarchical Information Flow with Recurrent Neural Modules",
     "pdf_link": "https://papers.nips.cc/paper/7249-learning-hierarchical-information-flow-with-recurrent-neural-modules.pdf",
@@ -10086,6 +11069,7 @@
     "conference": "nips",
     "id": "73342dc9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Variational Inference and Learning in Undirected Graphical Models",
@@ -10100,6 +11084,7 @@
     "conference": "nips",
     "id": "87b3d6df",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Subspace Clustering via Tangent Cones",
@@ -10114,7 +11099,10 @@
     "conference": "nips",
     "id": "e71eaecf",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "The Neural Hawkes Process: A Neurally Self-Modulating Multivariate Point Process",
     "pdf_link": "https://papers.nips.cc/paper/7252-the-neural-hawkes-process-a-neurally-self-modulating-multivariate-point-process.pdf",
@@ -10131,6 +11119,7 @@
     "conference": "nips",
     "id": "682c9a57",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inverse Reward Design",
@@ -10147,7 +11136,10 @@
     "conference": "nips",
     "id": "3b760c9f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Structured Bayesian Pruning via Log-Normal Multiplicative Noise",
     "pdf_link": "https://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise.pdf",
@@ -10163,6 +11155,7 @@
     "conference": "nips",
     "id": "6bc4649f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Attend and Predict: Understanding Gene Regulation by Selective Attention on Chromatin",
@@ -10177,7 +11170,10 @@
     "conference": "nips",
     "id": "d8b7cd22",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Acceleration and Averaging in Stochastic Descent Dynamics",
     "pdf_link": "https://papers.nips.cc/paper/7256-acceleration-and-averaging-in-stochastic-descent-dynamics.pdf",
@@ -10191,6 +11187,7 @@
     "conference": "nips",
     "id": "e048fe28",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Kernel functions based on triplet comparisons",
@@ -10207,6 +11204,7 @@
     "conference": "nips",
     "id": "4c273a92",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Error Detection and Correction Framework for Connectomics",
@@ -10223,7 +11221,10 @@
     "conference": "nips",
     "id": "56376f40",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "opennmt"
+      ]
     },
     "name": "Style Transfer from Non-Parallel Text by Cross-Alignment",
     "pdf_link": "https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf",
@@ -10241,6 +11242,7 @@
     "conference": "nips",
     "id": "3c612939",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cross-Spectral Factor Analysis",
@@ -10257,6 +11259,7 @@
     "conference": "nips",
     "id": "a0ae2057",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stochastic Submodular Maximization: The Case of Coverage Functions",
@@ -10276,7 +11279,10 @@
     "conference": "nips",
     "id": "d35ca53c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Affinity Clustering: Hierarchical Clustering at Scale",
     "pdf_link": "https://papers.nips.cc/paper/7262-affinity-clustering-hierarchical-clustering-at-scale.pdf",
@@ -10291,6 +11297,7 @@
     "conference": "nips",
     "id": "c23bff8f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Transformation Learning via Convex Relaxations",
@@ -10307,6 +11314,7 @@
     "conference": "nips",
     "id": "fc05ec4c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Sharp Error Analysis for the Fused Lasso, with Application to Approximate Changepoint Screening",
@@ -10321,6 +11329,7 @@
     "conference": "nips",
     "id": "c969c17a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Linear Time Computation of Moments in Sum-Product Networks",
@@ -10338,7 +11347,11 @@
     "conference": "nips",
     "id": "f72179b5",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "A Meta-Learning Perspective on Cold-Start Recommendations for Items",
     "pdf_link": "https://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items.pdf",
@@ -10359,6 +11372,7 @@
     "conference": "nips",
     "id": "f97156e1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Predicting Scene Parsing and Motion Dynamics in the Future",
@@ -10374,7 +11388,10 @@
     "conference": "nips",
     "id": "53b7cb1a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Sticking the Landing: Simple, Lower-Variance Gradient Estimators for Variational Inference",
     "pdf_link": "https://papers.nips.cc/paper/7268-sticking-the-landing-simple-lower-variance-gradient-estimators-for-variational-inference.pdf",
@@ -10391,6 +11408,7 @@
     "conference": "nips",
     "id": "b26df2f2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Approximation Algorithms for Strings Kernel Based Sequence Classification",
@@ -10407,6 +11425,7 @@
     "conference": "nips",
     "id": "208dd383",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Kernel Feature Selection via Conditional Covariance Minimization",
@@ -10422,6 +11441,7 @@
     "conference": "nips",
     "id": "cc116db3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convergence of Gradient EM on Multi-component Mixture of Gaussians",
@@ -10436,6 +11456,7 @@
     "conference": "nips",
     "id": "bb3786b9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Real Time Image Saliency for Black Box Classifiers",
@@ -10452,7 +11473,10 @@
     "conference": "nips",
     "id": "9e16f92f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Houdini: Fooling Deep Structured Visual and Speech Recognition Models with Adversarial Examples",
     "pdf_link": "https://papers.nips.cc/paper/7273-houdini-fooling-deep-structured-visual-and-speech-recognition-models-with-adversarial-examples.pdf",
@@ -10468,6 +11492,7 @@
     "conference": "nips",
     "id": "ae3ea01c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient and Flexible Inference for Stochastic Systems",
@@ -10484,6 +11509,7 @@
     "conference": "nips",
     "id": "c3153b3d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "When Cyclic Coordinate Descent Outperforms Randomized Coordinate Descent",
@@ -10498,6 +11524,7 @@
     "conference": "nips",
     "id": "83ece1c8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Active Learning from Peers",
@@ -10513,6 +11540,7 @@
     "conference": "nips",
     "id": "d73a777f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Experimental Design for Learning Causal Graphs with Latent Variables",
@@ -10528,6 +11556,7 @@
     "conference": "nips",
     "id": "1d3975ce",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Model the Tail",
@@ -10545,6 +11574,7 @@
     "conference": "nips",
     "id": "af564a92",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stochastic Mirror Descent in Variationally Coherent Optimization Problems",
@@ -10560,6 +11590,7 @@
     "conference": "nips",
     "id": "bf3bea5a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On Separability of Loss Functions, and Revisiting Discriminative Vs Generative Models",
@@ -10577,6 +11608,7 @@
     "conference": "nips",
     "id": "6b9cedd2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Maxing and Ranking with Few Assumptions",
@@ -10592,6 +11624,7 @@
     "conference": "nips",
     "id": "f4a4bda4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On clustering network-valued data",
@@ -10606,6 +11639,7 @@
     "conference": "nips",
     "id": "c5c627f2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A General Framework for Robust Interactive Learning",
@@ -10622,6 +11656,7 @@
     "conference": "nips",
     "id": "9e1cd12d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-view Matrix Factorization for Linear Dynamical System Estimation",
@@ -10636,7 +11671,11 @@
     "conference": "nips",
     "id": "162103fb",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "Mean Field Residual Networks: On the Edge of Chaos",
     "pdf_link": "https://papers.nips.cc/paper/6879-mean-field-residual-networks-on-the-edge-of-chaos.pdf",

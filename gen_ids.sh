@@ -1,8 +1,8 @@
 #!/bin/sh
 getId() {
-    echo $1 | cut -d : -f 1 | xargs -I {} basename {} .pdf
+    echo $1 | cut -d : -f 1 | xargs -I {} basename {} .txt
 }
-pdfgrep -HiR $1 data/pdfs . | while read -r line ; do
+grep -HiR "$1" --include \*.txt | while read -r line ; do
     id=$(getId $line)
     echo $id
 done | tee "data/$1_t.ids"

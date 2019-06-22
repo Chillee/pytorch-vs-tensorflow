@@ -1,15 +1,1 @@
-acl 2018
-acl 2017
-emnlp 2017
-emnlp 2018
 naacl 2019
-naacl 2018
-colt 2018
-colt 2017
-colt 2016
-icml 2019
-icml 2018
-icml 2017
-aistats 2019
-aistats 2018
-aistats 2017

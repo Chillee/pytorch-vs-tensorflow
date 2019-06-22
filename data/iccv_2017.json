@@ -9,6 +9,7 @@
     "conference": "iccv",
     "id": "1047f7d5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Globally-Optimal Inlier Set Maximisation for Simultaneous Camera Pose and Feature Correspondence",
@@ -22,6 +23,7 @@
     "conference": "iccv",
     "id": "5cf1be09",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Pseudo Random Fields for Light-Field Stereo Matching",
@@ -40,6 +42,7 @@
     "conference": "iccv",
     "id": "a1b8022b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Lightweight Approach for On-The-Fly Reflectance Estimation",
@@ -56,6 +59,7 @@
     "conference": "iccv",
     "id": "ea62a11d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Distributed Very Large Scale Bundle Adjustment by Global Camera Consensus",
@@ -70,6 +74,7 @@
     "conference": "iccv",
     "id": "9f71da69",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Practical Projective Structure From Motion (P2SfM)",
@@ -87,6 +92,7 @@
     "conference": "iccv",
     "id": "fe18c37f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Anticipating Daily Intention Using On-Wrist Motion Triggered Sensing",
@@ -103,6 +109,7 @@
     "conference": "iccv",
     "id": "bd23d213",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rethinking Reprojection: Closing the Loop for Pose-Aware Shape Reconstruction From a Single Image",
@@ -122,7 +129,10 @@
     "conference": "iccv",
     "id": "9cc829af",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "End-To-End Learning of Geometry and Context for Deep Stereo Regression",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Kendall_End-To-End_Learning_of_ICCV_2017_paper.pdf",
@@ -135,6 +145,7 @@
     "conference": "iccv",
     "id": "2289b68d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Using Sparse Elimination for Solving Minimal Problems in Computer Vision",
@@ -152,6 +163,7 @@
     "conference": "iccv",
     "id": "3c868084",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference",
@@ -168,6 +180,7 @@
     "conference": "iccv",
     "id": "df908e0f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Tessellation: A Unified Approach for Video Analysis",
@@ -183,6 +196,7 @@
     "conference": "iccv",
     "id": "f322df11",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Policies for Adaptive Tracking With Deep Feature Cascades",
@@ -200,6 +214,7 @@
     "conference": "iccv",
     "id": "9a945ce9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Shape Super-Resolution by Intra-Frame Motion Encoding Using High-Fps Structured Light",
@@ -215,6 +230,7 @@
     "conference": "iccv",
     "id": "c66f8c48",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Real-Time Monocular Pose Estimation of 3D Objects Using Temporally Consistent Local Color Histograms",
@@ -229,6 +245,7 @@
     "conference": "iccv",
     "id": "a6a85988",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CAD Priors for Accurate and Flexible Instance Reconstruction",
@@ -244,6 +261,7 @@
     "conference": "iccv",
     "id": "d2bd7337",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Colored Point Cloud Registration Revisited",
@@ -259,6 +277,7 @@
     "conference": "iccv",
     "id": "9e1baa00",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Compact Geometric Features",
@@ -275,6 +294,7 @@
     "conference": "iccv",
     "id": "c5203c31",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Layout Estimation and Global Multi-View Registration for Indoor Reconstruction",
@@ -291,6 +311,7 @@
     "conference": "iccv",
     "id": "9fcee02b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Geometric Framework for Statistical Analysis of Trajectories With Distinct Temporal Spans",
@@ -312,6 +333,7 @@
     "conference": "iccv",
     "id": "8d648902",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Optimal Transportation Based Univariate Neuroimaging Index",
@@ -330,6 +352,7 @@
     "conference": "iccv",
     "id": "cfcf793b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "S3FD: Single Shot Scale-Invariant Face Detector",
@@ -347,6 +370,7 @@
     "conference": "iccv",
     "id": "79c4cf38",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Amulet: Aggregating Multi-Level Convolutional Features for Salient Object Detection",
@@ -364,6 +388,7 @@
     "conference": "iccv",
     "id": "17440702",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Uncertain Convolutional Features for Accurate Saliency Detection",
@@ -381,6 +406,7 @@
     "conference": "iccv",
     "id": "a5c9f3d2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Zero-Order Reverse Filtering",
@@ -397,6 +423,7 @@
     "conference": "iccv",
     "id": "18da3501",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Blind Motion Deblurring",
@@ -413,6 +440,7 @@
     "conference": "iccv",
     "id": "b6547762",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Adaptive Sparsity and Low-Rankness on the Fly: An Online Tensor Reconstruction Scheme for Video Denoising",
@@ -431,7 +459,10 @@
     "conference": "iccv",
     "id": "1332128f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Learning to Super-Resolve Blurry Face and Text Images",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Xu_Learning_to_Super-Resolve_ICCV_2017_paper.pdf",
@@ -446,6 +477,7 @@
     "conference": "iccv",
     "id": "9d4bd3ff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Video Frame Interpolation via Adaptive Separable Convolution",
@@ -461,6 +493,7 @@
     "conference": "iccv",
     "id": "5f6ca735",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Occlusion Reasoning for Multi-Camera Multi-Target Detection",
@@ -479,6 +512,7 @@
     "conference": "iccv",
     "id": "e1a37bc9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Encouraging LSTMs to Anticipate Actions Very Early",
@@ -495,6 +529,7 @@
     "conference": "iccv",
     "id": "3acfc062",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "PathTrack: Fast Trajectory Annotation With Path Supervision",
@@ -510,6 +545,7 @@
     "conference": "iccv",
     "id": "7363173e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Tracking the Untrackable: Learning to Track Multiple Cues With Long-Term Dependencies",
@@ -524,6 +560,7 @@
     "conference": "iccv",
     "id": "e657a6ee",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MirrorFlow: Exploiting Symmetries in Joint Optical Flow and Occlusion Estimation",
@@ -538,6 +575,7 @@
     "conference": "iccv",
     "id": "560a4a27",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Tracking as Online Decision-Making: Learning a Policy From Streaming Videos With Reinforcement Learning",
@@ -554,6 +592,7 @@
     "conference": "iccv",
     "id": "270167cd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Non-Convex Rank/Sparsity Regularization and Local Minima",
@@ -569,6 +608,7 @@
     "conference": "iccv",
     "id": "a52499c4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Revisit of Sparse Coding Based Anomaly Detection in Stacked RNN Framework",
@@ -589,6 +629,7 @@
     "conference": "iccv",
     "id": "a8222e6c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis",
@@ -606,7 +647,11 @@
     "conference": "iccv",
     "id": "1bd662b1",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "No Fuss Distance Metric Learning Using Proxies",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Movshovitz-Attias_No_Fuss_Distance_ICCV_2017_paper.pdf",
@@ -620,6 +665,7 @@
     "conference": "iccv",
     "id": "e191df58",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Benchmarking and Error Diagnosis in Multi-Instance Pose Estimation",
@@ -642,6 +688,7 @@
     "conference": "iccv",
     "id": "326240ef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification",
@@ -657,6 +704,7 @@
     "conference": "iccv",
     "id": "34dfc892",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fashion Forward: Forecasting Visual Style in Fashion",
@@ -674,6 +722,7 @@
     "conference": "iccv",
     "id": "b989f675",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards 3D Human Pose Estimation in the Wild: A Weakly-Supervised Approach",
@@ -691,6 +740,7 @@
     "conference": "iccv",
     "id": "f3ded333",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Flow-Guided Feature Aggregation for Video Object Detection",
@@ -707,7 +757,10 @@
     "conference": "iccv",
     "id": "317ad436",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Reasoning About Fine-Grained Attribute Phrases Using Reference Games",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Su_Reasoning_About_Fine-Grained_ICCV_2017_paper.pdf",
@@ -721,6 +774,7 @@
     "conference": "iccv",
     "id": "69120518",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeNet: Scalable Real-Time Object Detection With Directed Sparse Sampling",
@@ -737,6 +791,7 @@
     "conference": "iccv",
     "id": "cef20fad",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MIHash: Online Hashing With Mutual Information",
@@ -752,6 +807,7 @@
     "conference": "iccv",
     "id": "ad67f0e9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SafetyNet: Detecting and Rejecting Adversarial Examples Robustly",
@@ -766,6 +822,7 @@
     "conference": "iccv",
     "id": "b507e1a1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Models for Situation Recognition",
@@ -783,6 +840,7 @@
     "conference": "iccv",
     "id": "531d51d6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Label Image Recognition by Recurrently Discovering Attentional Regions",
@@ -799,6 +857,7 @@
     "conference": "iccv",
     "id": "100a7b9b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Determinantal Point Process for Large-Scale Multi-Label Classification",
@@ -819,6 +878,7 @@
     "conference": "iccv",
     "id": "9e933dd5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visual Semantic Planning Using Deep Successor Representations",
@@ -839,6 +899,7 @@
     "conference": "iccv",
     "id": "4a350b62",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Person Search Machines",
@@ -854,7 +915,10 @@
     "conference": "iccv",
     "id": "8d985542",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "DualNet: Learn Complementary Features for Image Recognition",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Hou_DualNet_Learn_Complementary_ICCV_2017_paper.pdf",
@@ -869,6 +933,7 @@
     "conference": "iccv",
     "id": "05684def",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Higher-Order Integration of Hierarchical Convolutional Activations for Fine-Grained Visual Categorization",
@@ -887,6 +952,7 @@
     "conference": "iccv",
     "id": "f7c22270",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Show, Adapt and Tell: Adversarial Training of Cross-Domain Image Captioner",
@@ -903,6 +969,7 @@
     "conference": "iccv",
     "id": "b3f68865",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Attribute Recognition by Joint Recurrent Learning of Context and Correlation",
@@ -918,6 +985,7 @@
     "conference": "iccv",
     "id": "cf907c04",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "VegFru: A Domain-Specific Dataset for Fine-Grained Visual Categorization",
@@ -932,6 +1000,7 @@
     "conference": "iccv",
     "id": "52792f92",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Increasing CNN Robustness to Occlusions by Reducing Filter Support",
@@ -949,6 +1018,7 @@
     "conference": "iccv",
     "id": "e3ca5ce2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-Similar Vehicles",
@@ -967,6 +1037,7 @@
     "conference": "iccv",
     "id": "e283a788",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Scale Approximation for Object Detection in CNN",
@@ -983,6 +1054,7 @@
     "conference": "iccv",
     "id": "44a0bda1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Embedding 3D Geometric Features for Rigid Object Part Segmentation",
@@ -999,6 +1071,7 @@
     "conference": "iccv",
     "id": "9eded973",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Context-Aware Interaction Recognition for Visual Relationship Detection",
@@ -1018,6 +1091,7 @@
     "conference": "iccv",
     "id": "8fec2285",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "When Unsupervised Domain Adaptation Meets Tensor Representations",
@@ -1032,7 +1106,11 @@
     "conference": "iccv",
     "id": "db7a158c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Look, Listen and Learn",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Arandjelovic_Look_Listen_and_ICCV_2017_paper.pdf",
@@ -1050,6 +1128,7 @@
     "conference": "iccv",
     "id": "76f46007",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Grad-CAM: Visual Explanations From Deep Networks via Gradient-Based Localization",
@@ -1068,7 +1147,10 @@
     "conference": "iccv",
     "id": "091c5771",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Image-Based Localization Using LSTMs for Structured Feature Correlation",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Walch_Image-Based_Localization_Using_ICCV_2017_paper.pdf",
@@ -1085,6 +1167,7 @@
     "conference": "iccv",
     "id": "49b0ca05",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Personalized Image Aesthetics",
@@ -1102,7 +1185,10 @@
     "conference": "iccv",
     "id": "8a32c459",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Predicting Deeper Into the Future of Semantic Segmentation",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf",
@@ -1120,6 +1206,7 @@
     "conference": "iccv",
     "id": "5b310ede",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Coordinating Filters for Faster Deep Neural Networks",
@@ -1136,6 +1223,7 @@
     "conference": "iccv",
     "id": "38a14878",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Representation Learning by Sorting Sequences",
@@ -1152,6 +1240,7 @@
     "conference": "iccv",
     "id": "1e139107",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Read-Write Memory Network for Movie Story Understanding",
@@ -1168,6 +1257,7 @@
     "conference": "iccv",
     "id": "9c31e388",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SegFlow: Joint Learning for Video Object Segmentation and Optical Flow",
@@ -1182,6 +1272,7 @@
     "conference": "iccv",
     "id": "f93e4ec2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Action Discovery and Localization in Videos",
@@ -1199,7 +1290,10 @@
     "conference": "iccv",
     "id": "512c074b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Dense-Captioning Events in Videos",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf",
@@ -1216,7 +1310,10 @@
     "conference": "iccv",
     "id": "fb940684",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning Long-Term Dependencies for Action Recognition With a Biologically-Inspired Deep Network",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Shi_Learning_Long-Term_Dependencies_ICCV_2017_paper.pdf",
@@ -1231,6 +1328,7 @@
     "conference": "iccv",
     "id": "8b920155",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Compressive Quantization for Fast Object Instance Search in Videos",
@@ -1249,6 +1347,7 @@
     "conference": "iccv",
     "id": "50bf38ef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Complex Event Detection by Identifying Reliable Shots From Untrimmed Videos",
@@ -1265,6 +1364,7 @@
     "conference": "iccv",
     "id": "d42bf8cf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Direct Regression for Multi-Oriented Scene Text Detection",
@@ -1279,6 +1379,7 @@
     "conference": "iccv",
     "id": "5b54aff0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Open Set Domain Adaptation",
@@ -1298,6 +1399,7 @@
     "conference": "iccv",
     "id": "0d7c82e8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deformable Convolutional Networks",
@@ -1316,7 +1418,10 @@
     "conference": "iccv",
     "id": "89f218de",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Ensemble Diffusion for Retrieval",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Bai_Ensemble_Diffusion_for_ICCV_2017_paper.pdf",
@@ -1338,6 +1443,7 @@
     "conference": "iccv",
     "id": "77fdd1a2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "FoveaNet: Perspective-Aware Urban Scene Parsing",
@@ -1352,6 +1458,7 @@
     "conference": "iccv",
     "id": "b30a1357",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Beyond Planar Symmetry: Modeling Human Perception of Reflection and Rotation Symmetries in the Wild",
@@ -1369,7 +1476,10 @@
     "conference": "iccv",
     "id": "38959eda",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning to Reason: End-To-End Module Networks for Visual Question Answering",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_Learning_to_Reason_ICCV_2017_paper.pdf",
@@ -1384,6 +1494,7 @@
     "conference": "iccv",
     "id": "82b4b74f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hard-Aware Deeply Cascaded Embedding",
@@ -1399,6 +1510,7 @@
     "conference": "iccv",
     "id": "6d0f4c81",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Query-Guided Regression Network With Context Policy for Phrase Grounding",
@@ -1415,6 +1527,7 @@
     "conference": "iccv",
     "id": "042005bf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SUBIC: A Supervised, Structured Binary Code for Image Search",
@@ -1431,7 +1544,10 @@
     "conference": "iccv",
     "id": "20e42e60",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Revisiting Unreasonable Effectiveness of Data in Deep Learning Era",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Sun_Revisiting_Unreasonable_Effectiveness_ICCV_2017_paper.pdf",
@@ -1446,6 +1562,7 @@
     "conference": "iccv",
     "id": "0cf7d2f0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Generative Model of People in Clothing",
@@ -1460,6 +1577,7 @@
     "conference": "iccv",
     "id": "544e271d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Escape From Cells: Deep Kd-Networks for the Recognition of 3D Point Cloud Models",
@@ -1477,7 +1595,10 @@
     "conference": "iccv",
     "id": "ca0f3327",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Improved Image Captioning via Policy Gradient Optimization of SPIDEr",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Improved_Image_Captioning_ICCV_2017_paper.pdf",
@@ -1492,6 +1613,7 @@
     "conference": "iccv",
     "id": "7f7e527e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rolling Shutter Correction in Manhattan World",
@@ -1507,6 +1629,7 @@
     "conference": "iccv",
     "id": "25b127ff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Local-To-Global Point Cloud Registration Using a Dictionary of Viewpoint Descriptors",
@@ -1524,6 +1647,7 @@
     "conference": "iccv",
     "id": "b08b6984",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "3D-PRNN: Generating Shape Primitives With Recurrent Neural Networks",
@@ -1545,6 +1669,7 @@
     "conference": "iccv",
     "id": "55c71b98",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "BodyFusion: Real-Time Capture of Human Motion and Surface Geometry Using a Single Depth Camera",
@@ -1560,6 +1685,7 @@
     "conference": "iccv",
     "id": "2830d00c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Quasiconvex Plane Sweep for Triangulation With Outliers",
@@ -1576,6 +1702,7 @@
     "conference": "iccv",
     "id": "b2bb0ea2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "\"Maximizing Rigidity\" Revisited: A Convex Programming Approach for Generic 3D Shape Reconstruction From Multiple Perspective Views",
@@ -1593,6 +1720,7 @@
     "conference": "iccv",
     "id": "a4f961b7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Surface Registration via Foliation",
@@ -1608,6 +1736,7 @@
     "conference": "iccv",
     "id": "3b24cf3c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rolling-Shutter-Aware Differential SfM and Image Rectification",
@@ -1626,6 +1755,7 @@
     "conference": "iccv",
     "id": "40c35b1b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Corner-Based Geometric Calibration of Multi-Focus Plenoptic Cameras",
@@ -1641,7 +1771,10 @@
     "conference": "iccv",
     "id": "7310bcc2",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Focal Track: Depth and Accommodation With Oscillating Lens Deformation",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Guo_Focal_Track_Depth_ICCV_2017_paper.pdf",
@@ -1656,6 +1789,7 @@
     "conference": "iccv",
     "id": "df2d8629",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Reconfiguring the Imaging Pipeline for Computer Vision",
@@ -1673,6 +1807,7 @@
     "conference": "iccv",
     "id": "416780b3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Catadioptric HyperSpectral Light Field Imaging",
@@ -1688,6 +1823,7 @@
     "conference": "iccv",
     "id": "ce2bd015",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cross-View Asymmetric Metric Learning for Unsupervised Person Re-Identification",
@@ -1702,6 +1838,7 @@
     "conference": "iccv",
     "id": "c157ea45",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Real Time Eye Gaze Tracking With 3D Deformable Eye-Face Model",
@@ -1718,6 +1855,7 @@
     "conference": "iccv",
     "id": "d3a6e112",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ensemble Deep Learning for Skeleton-Based Action Recognition Using Temporal Sliding LSTM Networks",
@@ -1732,6 +1870,7 @@
     "conference": "iccv",
     "id": "6a28cf33",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "How Far Are We From Solving the 2D &amp; 3D Face Alignment Problem? (And a Dataset of 230,000 3D Facial Landmarks)",
@@ -1748,6 +1887,7 @@
     "conference": "iccv",
     "id": "75a29b2b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Large Pose 3D Face Reconstruction From a Single Image via Direct Volumetric CNN Regression",
@@ -1763,6 +1903,7 @@
     "conference": "iccv",
     "id": "85d35ad9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "RankIQA: Learning From Rankings for No-Reference Image Quality Assessment",
@@ -1779,6 +1920,7 @@
     "conference": "iccv",
     "id": "795d18fe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Look, Perceive and Segment: Finding the Salient Objects in Images via Two-Stream Fixation-Semantic CNNs",
@@ -1796,6 +1938,7 @@
     "conference": "iccv",
     "id": "1e5f8cb5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Delving Into Salient Object Subitizing and Detection",
@@ -1813,6 +1956,7 @@
     "conference": "iccv",
     "id": "ca82e933",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Discriminative Data Fitting Functions for Blind Image Deblurring",
@@ -1829,6 +1973,7 @@
     "conference": "iccv",
     "id": "3f90b37a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Video Deblurring via Semantic Segmentation and Pixel-Wise Non-Linear Kernel",
@@ -1843,6 +1988,7 @@
     "conference": "iccv",
     "id": "551b0e65",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On-Demand Learning for Deep Image Restoration",
@@ -1859,6 +2005,7 @@
     "conference": "iccv",
     "id": "033eeadc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Channel Weighted Nuclear Norm Minimization for Real Color Image Denoising",
@@ -1876,6 +2023,7 @@
     "conference": "iccv",
     "id": "7559c286",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Coherent Online Video Style Transfer",
@@ -1890,6 +2038,7 @@
     "conference": "iccv",
     "id": "e63cb935",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SHaPE: A Novel Graph Theoretic Algorithm for Making Consensus-Based Decisions in Person Re-Identification Systems",
@@ -1907,6 +2056,7 @@
     "conference": "iccv",
     "id": "33356443",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Need for Speed: A Benchmark for Higher Frame Rate Object Tracking",
@@ -1922,6 +2072,7 @@
     "conference": "iccv",
     "id": "5feead75",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Background-Aware Correlation Filters for Visual Tracking",
@@ -1940,6 +2091,7 @@
     "conference": "iccv",
     "id": "169df2ef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Object Tracking Based on Temporal and Spatial Deep Networks",
@@ -1958,6 +2110,7 @@
     "conference": "iccv",
     "id": "71a82989",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Real-Time Hand Tracking Under Occlusion From an Egocentric RGB-D Sensor",
@@ -1974,6 +2127,7 @@
     "conference": "iccv",
     "id": "c825e4d1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Predicting Human Activities Using Stochastic Grammar",
@@ -1989,6 +2143,7 @@
     "conference": "iccv",
     "id": "da245eab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ProbFlow: Joint Optical Flow and Uncertainty Estimation",
@@ -2003,6 +2158,7 @@
     "conference": "iccv",
     "id": "4dbf9cd9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sublabel-Accurate Discretization of Nonconvex Free-Discontinuity Problems",
@@ -2020,6 +2176,7 @@
     "conference": "iccv",
     "id": "563d1e33",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepContext: Context-Encoding Neural Pathways for 3D Holistic Scene Understanding",
@@ -2038,6 +2195,7 @@
     "conference": "iccv",
     "id": "317bda7b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography",
@@ -2055,6 +2213,7 @@
     "conference": "iccv",
     "id": "4a3f3492",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adversarial PoseNet: A Structure-Aware Convolutional Network for Human Pose Estimation",
@@ -2071,6 +2230,7 @@
     "conference": "iccv",
     "id": "e0902cc3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Empirical Study of Language CNN for Image Captioning",
@@ -2086,7 +2246,10 @@
     "conference": "iccv",
     "id": "944e24af",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Attributes2Classname: A Discriminative Model for Attribute-Based Unsupervised Zero-Shot Learning",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Demirel_Attributes2Classname_A_Discriminative_ICCV_2017_paper.pdf",
@@ -2102,6 +2265,7 @@
     "conference": "iccv",
     "id": "cbc09826",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Areas of Attention for Image Captioning",
@@ -2122,6 +2286,7 @@
     "conference": "iccv",
     "id": "f47a21da",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Generative Modeling of Audible Shapes for Object Perception",
@@ -2139,6 +2304,7 @@
     "conference": "iccv",
     "id": "5901b3cf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scene Graph Generation From Objects, Phrases and Region Captions",
@@ -2157,6 +2323,7 @@
     "conference": "iccv",
     "id": "df14855e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Multimodal Interaction for Referring Image Segmentation",
@@ -2174,6 +2341,7 @@
     "conference": "iccv",
     "id": "36b3f0a3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Feature Pyramids for Human Pose Estimation",
@@ -2191,6 +2359,7 @@
     "conference": "iccv",
     "id": "a07bd8aa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structured Attentions for Visual Question Answering",
@@ -2206,6 +2375,7 @@
     "conference": "iccv",
     "id": "84e697af",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection",
@@ -2223,6 +2393,7 @@
     "conference": "iccv",
     "id": "792af954",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cascaded Feature Network for Semantic Segmentation of RGB-D Images",
@@ -2239,6 +2410,7 @@
     "conference": "iccv",
     "id": "6b66de05",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Encoder Based Lifelong Learning",
@@ -2254,6 +2426,7 @@
     "conference": "iccv",
     "id": "85885ab6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Transitive Invariance for Self-Supervised Visual Representation Learning",
@@ -2269,6 +2442,7 @@
     "conference": "iccv",
     "id": "b2d3b353",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Weakly Supervised Learning of Deep Metrics for Stereo Reconstruction",
@@ -2284,6 +2458,7 @@
     "conference": "iccv",
     "id": "8b482bb0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fine-Grained Recognition in the Wild: A Multi-Task Domain Adaptation Approach",
@@ -2304,6 +2479,7 @@
     "conference": "iccv",
     "id": "bbcb8d85",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SORT: Second-Order Response Transform for Visual Recognition",
@@ -2322,6 +2498,7 @@
     "conference": "iccv",
     "id": "689d157c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adversarial Examples for Semantic Segmentation and Object Detection",
@@ -2336,6 +2513,7 @@
     "conference": "iccv",
     "id": "33ca1ab4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Genetic CNN",
@@ -2351,6 +2529,7 @@
     "conference": "iccv",
     "id": "d6fe4809",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Channel Pruning for Accelerating Very Deep Neural Networks",
@@ -2367,6 +2546,7 @@
     "conference": "iccv",
     "id": "25125529",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Infinite Latent Feature Selection: A Probabilistic Latent Graph-Based Ranking Approach",
@@ -2382,6 +2562,7 @@
     "conference": "iccv",
     "id": "eaafc012",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Video Fill in the Blank Using LR/RL LSTMs With Spatial-Temporal Attentions",
@@ -2398,6 +2579,7 @@
     "conference": "iccv",
     "id": "1b849d9e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Primary Video Object Segmentation via Complementary CNNs and Neighborhood Reversible Flow",
@@ -2413,6 +2595,7 @@
     "conference": "iccv",
     "id": "187f2152",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Attentive Semantic Video Generation Using Captions",
@@ -2429,7 +2612,10 @@
     "conference": "iccv",
     "id": "d2955173",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Following Gaze in Video",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Recasens_Following_Gaze_in_ICCV_2017_paper.pdf",
@@ -2446,6 +2632,7 @@
     "conference": "iccv",
     "id": "180c71a2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive RNN Tree for Large-Scale Human Action Recognition",
@@ -2462,6 +2649,7 @@
     "conference": "iccv",
     "id": "1b13cccf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Spatio-Temporal Person Retrieval via Natural Language Queries",
@@ -2482,7 +2670,10 @@
     "conference": "iccv",
     "id": "6b51edc9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Automatic Spatially-Aware Fashion Concept Discovery",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Han_Automatic_Spatially-Aware_Fashion_ICCV_2017_paper.pdf",
@@ -2497,6 +2688,7 @@
     "conference": "iccv",
     "id": "084598c9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ChromaTag: A Colored Marker and Fast Detection Algorithm",
@@ -2512,6 +2704,7 @@
     "conference": "iccv",
     "id": "9a28a2cc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective",
@@ -2527,6 +2720,7 @@
     "conference": "iccv",
     "id": "e683822f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "WeText: Scene Text Detection Under Weak Supervision",
@@ -2541,6 +2735,7 @@
     "conference": "iccv",
     "id": "07dfb46d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Arbitrary Style Transfer in Real-Time With Adaptive Instance Normalization",
@@ -2555,6 +2750,7 @@
     "conference": "iccv",
     "id": "6af64834",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Photographic Image Synthesis With Cascaded Refinement Networks",
@@ -2572,7 +2768,10 @@
     "conference": "iccv",
     "id": "bed7565f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Kehl_SSD-6D_Making_RGB-Based_ICCV_2017_paper.pdf",
@@ -2587,6 +2786,7 @@
     "conference": "iccv",
     "id": "3d6d1b63",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Creation of Parameterized Avatars",
@@ -2603,6 +2803,7 @@
     "conference": "iccv",
     "id": "6a03023d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning for Active 3D Mapping",
@@ -2618,6 +2819,7 @@
     "conference": "iccv",
     "id": "63e1d760",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Toward Perceptually-Consistent Stereo: A Scanline Study",
@@ -2633,6 +2835,7 @@
     "conference": "iccv",
     "id": "fc5d5663",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Surface Normals in the Wild",
@@ -2649,6 +2852,7 @@
     "conference": "iccv",
     "id": "0c971dfa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Learning of Stereo Matching",
@@ -2664,6 +2868,7 @@
     "conference": "iccv",
     "id": "483630b3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unrestricted Facial Geometry Reconstruction Using Image-To-Image Translation",
@@ -2681,6 +2886,7 @@
     "conference": "iccv",
     "id": "764d43a7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learned Multi-Patch Similarity",
@@ -2695,6 +2901,7 @@
     "conference": "iccv",
     "id": "bdaa42a4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Click Here: Human-Localized Keypoints as Guidance for Viewpoint Estimation",
@@ -2711,6 +2918,7 @@
     "conference": "iccv",
     "id": "6a927da1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Adaptation for Deep Stereo",
@@ -2725,6 +2933,7 @@
     "conference": "iccv",
     "id": "29443d4f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Composite Focus Measure for High Quality Depth Maps",
@@ -2742,7 +2951,10 @@
     "conference": "iccv",
     "id": "3eb389c7",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Reconstruction-Based Disentanglement for Pose-Invariant Face Recognition",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Peng_Reconstruction-Based_Disentanglement_for_ICCV_2017_paper.pdf",
@@ -2761,6 +2973,7 @@
     "conference": "iccv",
     "id": "803e06e6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent 3D-2D Dual Learning for Large-Pose Facial Landmark Detection",
@@ -2776,6 +2989,7 @@
     "conference": "iccv",
     "id": "7279da07",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Anchored Regression Networks Applied to Age Estimation and Super Resolution",
@@ -2789,6 +3003,7 @@
     "conference": "iccv",
     "id": "8527c6d8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Infant Footprint Recognition",
@@ -2806,6 +3021,7 @@
     "conference": "iccv",
     "id": "c4258528",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Self-Paced Kernel Estimation for Robust Blind Image Deblurring",
@@ -2822,6 +3038,7 @@
     "conference": "iccv",
     "id": "ca4ab954",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Super-Trajectory for Video Segmentation",
@@ -2839,6 +3056,7 @@
     "conference": "iccv",
     "id": "213c81a0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Be Your Own Prada: Fashion Synthesis With Structural Coherence",
@@ -2855,6 +3073,7 @@
     "conference": "iccv",
     "id": "fda0bdf9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Wavelet-SRNet: A Wavelet-Based CNN for Multi-Scale Face Super Resolution",
@@ -2872,6 +3091,7 @@
     "conference": "iccv",
     "id": "31d35e97",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Gaze Transitions From Depth to Improve Video Saliency Estimation",
@@ -2888,6 +3108,7 @@
     "conference": "iccv",
     "id": "b42a42c2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Convolutional Analysis and Synthesis Sparse Representation for Single Image Layer Separation",
@@ -2902,6 +3123,7 @@
     "conference": "iccv",
     "id": "82898b48",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Modelling the Scene Dependent Imaging in Cameras With a Deep Neural Network",
@@ -2917,6 +3139,7 @@
     "conference": "iccv",
     "id": "206d9a2e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Transformed Low-Rank Model for Line Pattern Noise Removal",
@@ -2931,6 +3154,7 @@
     "conference": "iccv",
     "id": "9840e21e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Weakly Supervised Manifold Learning for Dense Semantic Object Correspondence",
@@ -2947,6 +3171,7 @@
     "conference": "iccv",
     "id": "a6f81db1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dual Motion GAN for Future-Flow Embedded Video Prediction",
@@ -2962,6 +3187,7 @@
     "conference": "iccv",
     "id": "c29864da",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Robust Image Alignment via Subspace Learning From Gradient Orientations",
@@ -2980,6 +3206,7 @@
     "conference": "iccv",
     "id": "80d6cb6f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Dynamic Siamese Network for Visual Object Tracking",
@@ -2994,6 +3221,7 @@
     "conference": "iccv",
     "id": "d728fa0c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "High Order Tensor Formulation for Convolutional Sparse Coding",
@@ -3010,7 +3238,10 @@
     "conference": "iccv",
     "id": "b0b19fbb",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning Proximal Operators: Using Denoising Networks for Regularizing Inverse Imaging Problems",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Meinhardt_Learning_Proximal_Operators_ICCV_2017_paper.pdf",
@@ -3027,6 +3258,7 @@
     "conference": "iccv",
     "id": "ba3b4139",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ScaleNet: Guiding Object Proposal Generation in Supermarkets and Beyond",
@@ -3044,6 +3276,7 @@
     "conference": "iccv",
     "id": "3944e1fc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Dynamic Graph LSTM for Action-Driven Video Object Detection",
@@ -3061,6 +3294,7 @@
     "conference": "iccv",
     "id": "95249f99",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "VQS: Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation",
@@ -3077,6 +3311,7 @@
     "conference": "iccv",
     "id": "ab6afe96",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Modal Factorized Bilinear Pooling With Co-Attention Learning for Visual Question Answering",
@@ -3096,6 +3331,7 @@
     "conference": "iccv",
     "id": "0f1b7296",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SCNet: Learning Semantic Correspondence",
@@ -3113,6 +3349,7 @@
     "conference": "iccv",
     "id": "04392ea8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Soft Proposal Networks for Weakly Supervised Object Localization",
@@ -3128,6 +3365,7 @@
     "conference": "iccv",
     "id": "682ca338",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Class Rectification Hard Mining for Imbalanced Deep Learning",
@@ -3142,6 +3380,7 @@
     "conference": "iccv",
     "id": "9d0f3a38",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Generating High-Quality Crowd Density Maps Using Contextual Pyramid CNNs",
@@ -3158,6 +3397,7 @@
     "conference": "iccv",
     "id": "f72aaba9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "See the Glass Half Full: Reasoning About Liquid Containers, Their Volume and Content",
@@ -3175,6 +3415,7 @@
     "conference": "iccv",
     "id": "6ddb11d6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hierarchical Multimodal LSTM for Dense Visual-Semantic Embedding",
@@ -3192,6 +3433,7 @@
     "conference": "iccv",
     "id": "860f8b50",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Identity-Aware Textual-Visual Matching With Latent Co-Attention",
@@ -3209,6 +3451,7 @@
     "conference": "iccv",
     "id": "c7c71fa0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals",
@@ -3227,7 +3470,10 @@
     "conference": "iccv",
     "id": "5f3d3974",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Learning From Noisy Labels With Distillation",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Learning_From_Noisy_ICCV_2017_paper.pdf",
@@ -3245,6 +3491,7 @@
     "conference": "iccv",
     "id": "34d66502",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DSOD: Learning Deeply Supervised Object Detectors From Scratch",
@@ -3262,6 +3509,7 @@
     "conference": "iccv",
     "id": "e25a3b40",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Phrase Localization and Visual Relationship Detection With Comprehensive Image-Language Cues",
@@ -3278,6 +3526,7 @@
     "conference": "iccv",
     "id": "fd878de4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Chained Cascade Network for Object Detection",
@@ -3300,6 +3549,7 @@
     "conference": "iccv",
     "id": "143d86ea",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition",
@@ -3316,6 +3566,7 @@
     "conference": "iccv",
     "id": "cae050d9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Learning of Important Objects From First-Person Videos",
@@ -3330,6 +3581,7 @@
     "conference": "iccv",
     "id": "f6369502",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Analysis of Visual Question Answering Algorithms",
@@ -3346,6 +3598,7 @@
     "conference": "iccv",
     "id": "ce870f30",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visual Relationship Detection With Internal and External Linguistic Knowledge Distillation",
@@ -3361,6 +3614,7 @@
     "conference": "iccv",
     "id": "c5473936",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Two Stream Siamese Convolutional Neural Network for Person Re-Identification",
@@ -3379,7 +3633,10 @@
     "conference": "iccv",
     "id": "abd7bd5d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "No More Discrimination: Cross City Adaptation of Road Scene Segmenters",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_No_More_Discrimination_ICCV_2017_paper.pdf",
@@ -3396,6 +3653,7 @@
     "conference": "iccv",
     "id": "e984e902",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Open Vocabulary Scene Parsing",
@@ -3412,6 +3670,7 @@
     "conference": "iccv",
     "id": "c6976339",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learned Watershed: End-To-End Learning of Seeded Segmentation",
@@ -3427,6 +3686,7 @@
     "conference": "iccv",
     "id": "847fc211",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes",
@@ -3444,6 +3704,7 @@
     "conference": "iccv",
     "id": "c8384eaf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scale-Adaptive Convolutions for Scene Parsing",
@@ -3460,6 +3721,7 @@
     "conference": "iccv",
     "id": "02ec326e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption",
@@ -3474,7 +3736,10 @@
     "conference": "iccv",
     "id": "e99b3a37",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Multi-Task Self-Supervised Visual Learning",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Doersch_Multi-Task_Self-Supervised_Visual_ICCV_2017_paper.pdf",
@@ -3491,6 +3756,7 @@
     "conference": "iccv",
     "id": "1fb04986",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Self-Balanced Min-Cut Algorithm for Image Clustering",
@@ -3507,6 +3773,7 @@
     "conference": "iccv",
     "id": "e378ee07",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Is Second-Order Information Helpful for Large-Scale Visual Recognition?",
@@ -3523,6 +3790,7 @@
     "conference": "iccv",
     "id": "cb7af80c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Factorized Bilinear Models for Image Recognition",
@@ -3538,6 +3806,7 @@
     "conference": "iccv",
     "id": "9ef01eae",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Octree Generating Networks: Efficient Convolutional Architectures for High-Resolution 3D Outputs",
@@ -3554,6 +3823,7 @@
     "conference": "iccv",
     "id": "cc82e592",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Truncating Wide Networks Using Binary Tree Architectures",
@@ -3571,6 +3841,7 @@
     "conference": "iccv",
     "id": "703a3fb8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bringing Background Into the Foreground: Making All Classes Equal in Weakly-Supervised Video Semantic Segmentation",
@@ -3589,6 +3860,7 @@
     "conference": "iccv",
     "id": "5571f67c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "View Adaptive Recurrent Neural Networks for High Performance Human Action Recognition From Skeleton Data",
@@ -3605,6 +3877,7 @@
     "conference": "iccv",
     "id": "729e8231",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Discovery of Object States and Manipulation Actions",
@@ -3620,6 +3893,7 @@
     "conference": "iccv",
     "id": "1609a6b1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "What Actions Are Needed for Understanding Human Actions in Videos?",
@@ -3638,6 +3912,7 @@
     "conference": "iccv",
     "id": "d755298c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Lattice Long Short-Term Memory for Human Action Recognition",
@@ -3652,6 +3927,7 @@
     "conference": "iccv",
     "id": "eea2730e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Common Action Discovery and Localization in Unconstrained Videos",
@@ -3670,6 +3946,7 @@
     "conference": "iccv",
     "id": "5600058c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pixel-Level Matching for Video Object Segmentation Using Convolutional Neural Networks",
@@ -3686,6 +3963,7 @@
     "conference": "iccv",
     "id": "e0372634",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Am I a Baller? Basketball Performance Assessment From First-Person Videos",
@@ -3700,6 +3978,7 @@
     "conference": "iccv",
     "id": "bde68ca9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Cropping via Attention Box Prediction and Aesthetics Assessment",
@@ -3716,7 +3995,10 @@
     "conference": "iccv",
     "id": "d8176b93",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Raster-To-Vector: Revisiting Floorplan Transformation",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Raster-To-Vector_Revisiting_Floorplan_ICCV_2017_paper.pdf",
@@ -3731,6 +4013,7 @@
     "conference": "iccv",
     "id": "ac6a80e4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep TextSpotter: An End-To-End Trainable Scene Text Localization and Recognition Framework",
@@ -3746,6 +4029,7 @@
     "conference": "iccv",
     "id": "3aa99900",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Playing for Benchmarks",
@@ -3762,6 +4046,7 @@
     "conference": "iccv",
     "id": "7da81088",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks",
@@ -3778,6 +4063,7 @@
     "conference": "iccv",
     "id": "18726668",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "GANs for Biological Image Synthesis",
@@ -3795,6 +4081,7 @@
     "conference": "iccv",
     "id": "b2fc0cf4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Synthesize a 4D RGBD Light Field From a Single Image",
@@ -3810,7 +4097,10 @@
     "conference": "iccv",
     "id": "9bd28721",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Neural EPI-Volume Networks for Shape From Light Field",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Heber_Neural_EPI-Volume_Networks_ICCV_2017_paper.pdf",
@@ -3827,6 +4117,7 @@
     "conference": "iccv",
     "id": "fe1aecaf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Material Editing Using a Physically Based Rendering Network",
@@ -3846,6 +4137,7 @@
     "conference": "iccv",
     "id": "48349e67",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Turning Corners Into Cameras: Principles and Methods",
@@ -3863,6 +4155,7 @@
     "conference": "iccv",
     "id": "55b79c68",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Linear Differential Constraints for Photo-Polarimetric Height Estimation",
@@ -3878,6 +4171,7 @@
     "conference": "iccv",
     "id": "718e3694",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Polynomial Solvers for Saturated Ideals",
@@ -3895,7 +4189,10 @@
     "conference": "iccv",
     "id": "4cb509da",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Shape Inpainting Using 3D Generative Adversarial Network and Recurrent Convolutional Networks",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Shape_Inpainting_Using_ICCV_2017_paper.pdf",
@@ -3912,6 +4209,7 @@
     "conference": "iccv",
     "id": "a669d78e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SurfaceNet: An End-To-End 3D Neural Network for Multiview Stereopsis",
@@ -3927,6 +4225,7 @@
     "conference": "iccv",
     "id": "9ccbac7c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Making Minimal Solvers for Absolute Pose Estimation Compact and Robust",
@@ -3943,6 +4242,7 @@
     "conference": "iccv",
     "id": "2b8dde7b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "3D Surface Detail Enhancement From a Single Normal Map",
@@ -3959,6 +4259,7 @@
     "conference": "iccv",
     "id": "c160bc9c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "RMPE: Regional Multi-Person Pose Estimation",
@@ -3974,6 +4275,7 @@
     "conference": "iccv",
     "id": "b0e81c85",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": " Online Video Object Detection Using Association LSTM",
@@ -3988,6 +4290,7 @@
     "conference": "iccv",
     "id": "d150f751",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "PolyFit: Polygonal Surface Reconstruction From Point Clouds",
@@ -4006,6 +4309,7 @@
     "conference": "iccv",
     "id": "57ef8eef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Progressive Large Scale-Invariant Image Matching in Scale Space",
@@ -4021,6 +4325,7 @@
     "conference": "iccv",
     "id": "c07d2365",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Global 2D-3D Matching for Camera Localization in a Large-Scale 3D Map",
@@ -4035,6 +4340,7 @@
     "conference": "iccv",
     "id": "1e35a514",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-View Non-Rigid Refinement and Normal Selection for High Quality 3D Reconstruction",
@@ -4052,6 +4358,7 @@
     "conference": "iccv",
     "id": "816362ab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Stage Multi-Recursive-Input Fully Convolutional Networks for Neuronal Boundary Detection",
@@ -4070,6 +4377,7 @@
     "conference": "iccv",
     "id": "a73ca3f0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Depth and Image Restoration From Light Field in a Scattering Medium",
@@ -4087,6 +4395,7 @@
     "conference": "iccv",
     "id": "a4b5b2c2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Video Reflection Removal Through Spatio-Temporal Optimization ",
@@ -4103,6 +4412,7 @@
     "conference": "iccv",
     "id": "09da7dd3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Online Local Metric Adaptation via Negative Samples for Person Re-Identification",
@@ -4118,6 +4428,7 @@
     "conference": "iccv",
     "id": "c2b93edb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stepwise Metric Promotion for Unsupervised Video Person Re-Identification",
@@ -4134,7 +4445,10 @@
     "conference": "iccv",
     "id": "9ead135d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Beyond_Face_Rotation_ICCV_2017_paper.pdf",
@@ -4150,6 +4464,7 @@
     "conference": "iccv",
     "id": "f15c2043",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Group Re-Identification via Unsupervised Transfer of Sparse Features Encoding",
@@ -4163,6 +4478,7 @@
     "conference": "iccv",
     "id": "906001cc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visual Transformation Aided Contrastive Learning for Video-Based Kinship Verification",
@@ -4181,6 +4497,7 @@
     "conference": "iccv",
     "id": "d2f0c538",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Decoder Network Over Lightweight Reconstructed Feature for Fast Semantic Style Transfer",
@@ -4197,6 +4514,7 @@
     "conference": "iccv",
     "id": "80edf4ef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Blind Image Deblurring With Outlier Handling",
@@ -4213,7 +4531,10 @@
     "conference": "iccv",
     "id": "cb1f7e22",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Paying Attention to Descriptions Generated by Image Captioning Models",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Tavakoli_Paying_Attention_to_ICCV_2017_paper.pdf",
@@ -4228,7 +4549,10 @@
     "conference": "iccv",
     "id": "8a716e71",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Fast Image Processing With Fully-Convolutional Networks",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Fast_Image_Processing_ICCV_2017_paper.pdf",
@@ -4247,6 +4571,7 @@
     "conference": "iccv",
     "id": "5bd538f2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Video Super-Resolution With Learned Temporal Dynamics",
@@ -4265,6 +4590,7 @@
     "conference": "iccv",
     "id": "c7f80842",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Should We Encode Rain Streaks in Video as Deterministic or Stochastic?",
@@ -4281,6 +4607,7 @@
     "conference": "iccv",
     "id": "91e5be13",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Bi-Layer Optimization for Single-Image Rain Streak Removal",
@@ -4297,6 +4624,7 @@
     "conference": "iccv",
     "id": "76b33993",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Low-Dimensionality Calibration Through Local Anisotropic Scaling for Robust Hand Model Personalization",
@@ -4313,6 +4641,7 @@
     "conference": "iccv",
     "id": "add393a7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Non-Markovian Globally Consistent Multi-Object Tracking",
@@ -4331,6 +4660,7 @@
     "conference": "iccv",
     "id": "acb033ce",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CREST: Convolutional Residual Learning for Visual Tracking",
@@ -4346,6 +4676,7 @@
     "conference": "iccv",
     "id": "61eaa2e6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Volumetric Flow Estimation for Incompressible Fluids Using the Stationary Stokes Equations",
@@ -4364,6 +4695,7 @@
     "conference": "iccv",
     "id": "9b91cd0b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bounding Boxes, Segmentations and Object Coordinates: How Important Is Recognition for 3D Scene Flow Estimation in Autonomous Driving Scenarios?",
@@ -4381,6 +4713,7 @@
     "conference": "iccv",
     "id": "e65f45be",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Performance Guaranteed Network Acceleration via High-Order Residual Quantization",
@@ -4398,6 +4731,7 @@
     "conference": "iccv",
     "id": "08c0540e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Metric Learning With Angular Loss",
@@ -4414,6 +4748,7 @@
     "conference": "iccv",
     "id": "d96124c2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Compositional Human Pose Regression",
@@ -4430,7 +4765,10 @@
     "conference": "iccv",
     "id": "3cd603ab",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "MUTAN: Multimodal Tucker Fusion for Visual Question Answering",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Ben-younes_MUTAN_Multimodal_Tucker_ICCV_2017_paper.pdf",
@@ -4445,6 +4783,7 @@
     "conference": "iccv",
     "id": "cacd59ef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Revisiting IM2GPS in the Deep Learning Era",
@@ -4464,6 +4803,7 @@
     "conference": "iccv",
     "id": "18e65990",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scene Parsing With Global Context Embedding",
@@ -4480,7 +4820,10 @@
     "conference": "iccv",
     "id": "69da00b0",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "A Simple yet Effective Baseline for 3D Human Pose Estimation",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Martinez_A_Simple_yet_ICCV_2017_paper.pdf",
@@ -4496,6 +4839,7 @@
     "conference": "iccv",
     "id": "f227c89d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dual-Glance Model for Deciphering Social Relationships ",
@@ -4513,6 +4857,7 @@
     "conference": "iccv",
     "id": "2db67d87",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sketching With Style: Visual Search With Sketches and Aesthetic Context",
@@ -4530,6 +4875,7 @@
     "conference": "iccv",
     "id": "73cf8616",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Point Set Registration With Global-Local Correspondence and Transformation Estimation",
@@ -4546,6 +4892,7 @@
     "conference": "iccv",
     "id": "e6f144a3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SceneNet RGB-D: Can 5M Synthetic Images Beat Generic ImageNet Pre-Training on Indoor Segmentation?",
@@ -4562,7 +4909,10 @@
     "conference": "iccv",
     "id": "52b29737",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "A Unified Model for Near and Remote Sensing",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Workman_A_Unified_Model_ICCV_2017_paper.pdf",
@@ -4577,6 +4927,7 @@
     "conference": "iccv",
     "id": "2311ea60",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Directionally Convolutional Networks for 3D Shape Segmentation",
@@ -4591,6 +4942,7 @@
     "conference": "iccv",
     "id": "e2e2bc32",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "AMAT: Medial Axis Transform for Natural Images",
@@ -4607,6 +4959,7 @@
     "conference": "iccv",
     "id": "fa87bcbe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Dual Learning for Semantic Image Segmentation",
@@ -4624,6 +4977,7 @@
     "conference": "iccv",
     "id": "5b63f807",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Regional Interactive Image Segmentation Networks",
@@ -4642,6 +4996,7 @@
     "conference": "iccv",
     "id": "ea2e2856",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Efficient Convolutional Networks Through Network Slimming",
@@ -4659,6 +5014,7 @@
     "conference": "iccv",
     "id": "201e1111",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training",
@@ -4675,6 +5031,7 @@
     "conference": "iccv",
     "id": "543c1086",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Universal Adversarial Perturbations Against Semantic Image Segmentation",
@@ -4691,7 +5048,11 @@
     "conference": "iccv",
     "id": "e2b37be3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Associative Domain Adaptation",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Haeusser_Associative_Domain_Adaptation_ICCV_2017_paper.pdf",
@@ -4706,7 +5067,10 @@
     "conference": "iccv",
     "id": "c76e7ffd",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Introspective Neural Networks for Generative Modeling",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Lazarow_Introspective_Neural_Networks_ICCV_2017_paper.pdf",
@@ -4722,6 +5086,7 @@
     "conference": "iccv",
     "id": "fc94c95c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards a Unified Compositional Model for Visual Pattern Modeling",
@@ -4740,7 +5105,10 @@
     "conference": "iccv",
     "id": "adcbbdd2",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Least Squares Generative Adversarial Networks",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Mao_Least_Squares_Generative_ICCV_2017_paper.pdf",
@@ -4757,6 +5125,7 @@
     "conference": "iccv",
     "id": "72ce20e1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Centered Weight Normalization in Accelerating Training of Deep Neural Networks",
@@ -4773,6 +5142,7 @@
     "conference": "iccv",
     "id": "3a465b92",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Growing Learning",
@@ -4790,6 +5160,7 @@
     "conference": "iccv",
     "id": "74440714",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Smart Mining for Deep Metric Learning",
@@ -4805,6 +5176,7 @@
     "conference": "iccv",
     "id": "2a6e22de",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Generative Adversarial Nets With Singular Value Clipping",
@@ -4821,6 +5193,7 @@
     "conference": "iccv",
     "id": "5f5cf91a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sampling Matters in Deep Embedding Learning",
@@ -4837,6 +5210,7 @@
     "conference": "iccv",
     "id": "2fb12b2d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DualGAN: Unsupervised Dual Learning for Image-To-Image Translation",
@@ -4856,6 +5230,7 @@
     "conference": "iccv",
     "id": "e0d3c70b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning View-Invariant Features for Person Identification in Temporally Synchronized Videos Taken by Wearable Cameras",
@@ -4872,6 +5247,7 @@
     "conference": "iccv",
     "id": "63c8f8bf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MarioQA: Answering Questions by Watching Gameplay Videos",
@@ -4886,7 +5262,10 @@
     "conference": "iccv",
     "id": "d0dd1a84",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "SBGAR: Semantics Based Group Activity Recognition",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_SBGAR_Semantics_Based_ICCV_2017_paper.pdf",
@@ -4902,6 +5281,7 @@
     "conference": "iccv",
     "id": "5aa7afed",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Trespassing the Boundaries: Labeling Temporal Bounds for Object Interactions in Egocentric Video",
@@ -4918,6 +5298,7 @@
     "conference": "iccv",
     "id": "781f4b2b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unmasking the Abnormal Events in Video",
@@ -4934,6 +5315,7 @@
     "conference": "iccv",
     "id": "1a0f2b8d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Chained Multi-Stream Networks Exploiting Pose, Motion, and Appearance for Action Classification and Detection",
@@ -4952,6 +5334,7 @@
     "conference": "iccv",
     "id": "2b8fa091",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Action Detection With Structured Segment Networks",
@@ -4967,6 +5350,7 @@
     "conference": "iccv",
     "id": "ac5883c9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Jointly Recognizing Object Fluents and Tasks in Egocentric Videos",
@@ -4982,6 +5366,7 @@
     "conference": "iccv",
     "id": "5f70de60",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Transferring Objects: Joint Inference of Container and Human Pose",
@@ -4996,7 +5381,10 @@
     "conference": "iccv",
     "id": "e2314d77",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Interpretable Learning for Self-Driving Cars by Visualizing Causal Attention",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Kim_Interpretable_Learning_for_ICCV_2017_paper.pdf",
@@ -5013,7 +5401,10 @@
     "conference": "iccv",
     "id": "a36c0549",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Learning Cooperative Visual Dialog Agents With Deep Reinforcement Learning",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Das_Learning_Cooperative_Visual_ICCV_2017_paper.pdf",
@@ -5029,6 +5420,7 @@
     "conference": "iccv",
     "id": "927243b0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mask R-CNN",
@@ -5045,6 +5437,7 @@
     "conference": "iccv",
     "id": "0d83e624",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Diverse and Natural Image Descriptions via a Conditional GAN",
@@ -5062,6 +5455,7 @@
     "conference": "iccv",
     "id": "4479682c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Focal Loss for Dense Object Detection",
@@ -5081,6 +5475,7 @@
     "conference": "iccv",
     "id": "67651f01",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inferring and Executing Programs for Visual Reasoning",
@@ -5098,6 +5493,7 @@
     "conference": "iccv",
     "id": "00dcdfe7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visual Forecasting by Imitating Dynamics in Natural Sequences",
@@ -5120,6 +5516,7 @@
     "conference": "iccv",
     "id": "27213c22",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "TorontoCity: Seeing the World With a Million Eyes",
@@ -5134,6 +5531,7 @@
     "conference": "iccv",
     "id": "1f5de53c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Low-Shot Visual Recognition by Shrinking and Hallucinating Features",
@@ -5149,6 +5547,7 @@
     "conference": "iccv",
     "id": "c5a3e89d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Coarse-Fine Network for Keypoint Localization",
@@ -5164,6 +5563,7 @@
     "conference": "iccv",
     "id": "87a23f5f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Detect to Track and Track to Detect",
@@ -5182,6 +5582,7 @@
     "conference": "iccv",
     "id": "79adce33",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Single Shot Text Detector With Regional Attention",
@@ -5198,7 +5599,10 @@
     "conference": "iccv",
     "id": "b6c5ac4e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "SubUNets: End-To-End Hand Shape and Continuous Sign Language Recognition",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.pdf",
@@ -5212,6 +5616,7 @@
     "conference": "iccv",
     "id": "5605fe60",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Spatiotemporal Oriented Energy Network for Dynamic Texture Recognition",
@@ -5228,6 +5633,7 @@
     "conference": "iccv",
     "id": "0c6f8aff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Probabilistic Structure From Motion With Objects (PSfMO)",
@@ -5244,6 +5650,7 @@
     "conference": "iccv",
     "id": "5a971db3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A 3D Morphable Model of Craniofacial Shape and Texture Variation",
@@ -5259,6 +5666,7 @@
     "conference": "iccv",
     "id": "3a59c105",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-View Dynamic Shape Refinement Using Local Temporal Integration",
@@ -5274,6 +5682,7 @@
     "conference": "iccv",
     "id": "8677fdd4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Hand Articulations by Hallucinating Heat Distribution",
@@ -5291,6 +5700,7 @@
     "conference": "iccv",
     "id": "7bf76378",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Intrinsic3D: High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization With Spatially-Varying Lighting",
@@ -5307,6 +5717,7 @@
     "conference": "iccv",
     "id": "ecf13085",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Hand Pose Estimation During the Interaction With an Unknown Object",
@@ -5323,6 +5734,7 @@
     "conference": "iccv",
     "id": "ea79fbfe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Detailed Surface Geometry and Albedo Recovery From RGB-D Video Under Natural Illumination",
@@ -5337,6 +5749,7 @@
     "conference": "iccv",
     "id": "53a87cb4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Monocular Free-Head 3D Gaze Tracking With Deep Learning and Geometry Constraints",
@@ -5351,6 +5764,7 @@
     "conference": "iccv",
     "id": "50a03587",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Filter Selection for Hyperspectral Estimation",
@@ -5368,6 +5782,7 @@
     "conference": "iccv",
     "id": "9d0801d6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Microfacet-Based Reflectance Model for Photometric Stereo With Highly Specular Surfaces",
@@ -5386,6 +5801,7 @@
     "conference": "iccv",
     "id": "422a8fb2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Detecting Faces Using Inside Cascaded Contextual CNN",
@@ -5402,7 +5818,10 @@
     "conference": "iccv",
     "id": "1c13c8fe",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "A Novel Space-Time Representation on the Positive Semidefinite Cone for Facial Expression Recognition",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Kacem_A_Novel_Space-Time_ICCV_2017_paper.pdf",
@@ -5420,6 +5839,7 @@
     "conference": "iccv",
     "id": "94a14727",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepCoder: Semi-Parametric Variational Autoencoders for Automatic Facial Action Coding",
@@ -5436,6 +5856,7 @@
     "conference": "iccv",
     "id": "98d1427b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pose-Invariant Face Alignment With a Single CNN",
@@ -5454,6 +5875,7 @@
     "conference": "iccv",
     "id": "17202b16",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Domain Adaptation for Face Recognition in Unlabeled Videos",
@@ -5470,6 +5892,7 @@
     "conference": "iccv",
     "id": "5e4cedc7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deeply-Learned Part-Aligned Representations for Person Re-Identification",
@@ -5486,6 +5909,7 @@
     "conference": "iccv",
     "id": "bb203d36",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantic Line Detection and Its Applications",
@@ -5503,6 +5927,7 @@
     "conference": "iccv",
     "id": "dd3ff005",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Generic Deep Architecture for Single Image Reflection Removal and Image Smoothing",
@@ -5518,6 +5943,7 @@
     "conference": "iccv",
     "id": "bcb26b03",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Revisiting Cross-Channel Information Transfer for Chromatic Aberration Correction",
@@ -5535,6 +5961,7 @@
     "conference": "iccv",
     "id": "5d720749",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "High-Quality Correspondence and Segmentation Estimation for Dual-Lens Smart-Phone Portraits",
@@ -5549,6 +5976,7 @@
     "conference": "iccv",
     "id": "95ed3796",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Visual Attention to Identify People With Autism Spectrum Disorder",
@@ -5566,6 +5994,7 @@
     "conference": "iccv",
     "id": "376ac029",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DSLR-Quality Photos on Mobile Devices With Deep Convolutional Networks",
@@ -5581,6 +6010,7 @@
     "conference": "iccv",
     "id": "ebc67100",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Non-Uniform Blind Deblurring by Reblurring",
@@ -5596,6 +6026,7 @@
     "conference": "iccv",
     "id": "8955f766",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Misalignment-Robust Joint Filter for Cross-Modal Image Pairs",
@@ -5610,6 +6041,7 @@
     "conference": "iccv",
     "id": "631f20fb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Low-Rank Tensor Completion: A Pseudo-Bayesian Learning Approach",
@@ -5626,6 +6058,7 @@
     "conference": "iccv",
     "id": "79ee1f95",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepCD: Learning Deep Complementary Descriptors for Patch Representations",
@@ -5642,6 +6075,7 @@
     "conference": "iccv",
     "id": "f909121d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Beyond Standard Benchmarks: Parameterizing Performance Evaluation in Visual Object Tracking",
@@ -5658,6 +6092,7 @@
     "conference": "iccv",
     "id": "32fe5246",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Pose Knows: Video Forecasting by Generating Pose Futures",
@@ -5673,6 +6108,7 @@
     "conference": "iccv",
     "id": "3f341377",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "What Will Happen Next? Forecasting Player Moves in Sports Videos",
@@ -5688,6 +6124,7 @@
     "conference": "iccv",
     "id": "6d1019f7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Kronecker-Decomposable Component Analysis for Low-Rank Modeling",
@@ -5705,6 +6142,7 @@
     "conference": "iccv",
     "id": "0e8646b0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Topic-Transition GAN for Visual Paragraph Generation",
@@ -5720,6 +6158,7 @@
     "conference": "iccv",
     "id": "48b5c6ce",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Two-Streamed Network for Estimating Fine-Scaled Depth Maps From Single RGB Images",
@@ -5735,6 +6174,7 @@
     "conference": "iccv",
     "id": "70172129",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Weakly Supervised Object Localization Using Things and Stuff Transfer",
@@ -5750,6 +6190,7 @@
     "conference": "iccv",
     "id": "e635ee0c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Single Image Action Recognition Using Semantic Body Part Actions",
@@ -5765,7 +6206,10 @@
     "conference": "iccv",
     "id": "5710066a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Incremental Learning of Object Detectors Without Catastrophic Forgetting",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Shmelkov_Incremental_Learning_of_ICCV_2017_paper.pdf",
@@ -5782,6 +6226,7 @@
     "conference": "iccv",
     "id": "d06aaa8a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Generative Adversarial Networks Conditioned by Brain Signals",
@@ -5798,6 +6243,7 @@
     "conference": "iccv",
     "id": "69aa2d50",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Disambiguate by Asking Discriminative Questions",
@@ -5812,6 +6258,7 @@
     "conference": "iccv",
     "id": "0b94a03c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Interpretable Explanations of Black Boxes by Meaningful Perturbation",
@@ -5827,6 +6274,7 @@
     "conference": "iccv",
     "id": "8fb53c3b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepRoadMapper: Extracting Road Topology From Aerial Images",
@@ -5842,6 +6290,7 @@
     "conference": "iccv",
     "id": "0abeeb69",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Monocular 3D Human Pose Estimation by Predicting Depth on Joints",
@@ -5859,7 +6308,10 @@
     "conference": "iccv",
     "id": "0564469c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Large-Scale Image Retrieval With Attentive Deep Local Features",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Noh_Large-Scale_Image_Retrieval_ICCV_2017_paper.pdf",
@@ -5874,6 +6326,7 @@
     "conference": "iccv",
     "id": "43f4b030",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Globally Constrained MRFs for Human Pose Estimation",
@@ -5889,6 +6342,7 @@
     "conference": "iccv",
     "id": "9f2c8f1b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Predicting Visual Exemplars of Unseen Classes for Zero-Shot Learning",
@@ -5903,6 +6357,7 @@
     "conference": "iccv",
     "id": "8abb8962",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Label Learning of Part Detectors for Heavily Occluded Pedestrian Detection",
@@ -5919,6 +6374,7 @@
     "conference": "iccv",
     "id": "022d9d83",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SGN: Sequential Grouping Networks for Instance Segmentation",
@@ -5934,6 +6390,7 @@
     "conference": "iccv",
     "id": "95a4c7a0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive Feeding: Achieving Fast and Accurate Detections by Adaptively Combining Object Detectors",
@@ -5949,6 +6406,7 @@
     "conference": "iccv",
     "id": "247c5c94",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Aesthetic Critiques Generation for Photos",
@@ -5963,6 +6421,7 @@
     "conference": "iccv",
     "id": "6f35a148",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hide-And-Seek: Forcing a Network to Be Meticulous for Weakly-Supervised Object and Action Localization",
@@ -5979,6 +6438,7 @@
     "conference": "iccv",
     "id": "90c06250",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Two-Phase Learning for Weakly Supervised Object Localization",
@@ -5996,6 +6456,7 @@
     "conference": "iccv",
     "id": "75f7c2bb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Curriculum Dropout",
@@ -6011,6 +6472,7 @@
     "conference": "iccv",
     "id": "4c37e902",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Predictor Combination at Test Time",
@@ -6026,6 +6488,7 @@
     "conference": "iccv",
     "id": "57e6d4be",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Guided Perturbations: Self-Corrective Behavior in Convolutional Neural Networks",
@@ -6041,6 +6504,7 @@
     "conference": "iccv",
     "id": "79b37804",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Robust Visual-Semantic Embeddings",
@@ -6056,6 +6520,7 @@
     "conference": "iccv",
     "id": "e60781ac",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "PUnDA: Probabilistic Unsupervised Domain Adaptation for Knowledge Transfer Across Visual Categories",
@@ -6075,6 +6540,7 @@
     "conference": "iccv",
     "id": "ab5e60fa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses",
@@ -6089,6 +6555,7 @@
     "conference": "iccv",
     "id": "21a532b9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CDTS: Collaborative Detection, Tracking, and Segmentation for Online Multiple Object Segmentation in Videos",
@@ -6104,6 +6571,7 @@
     "conference": "iccv",
     "id": "01676757",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Superpixels Based on Proximity-Weighted Patch Matching",
@@ -6119,6 +6587,7 @@
     "conference": "iccv",
     "id": "2a081205",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Detection and Recounting of Abnormal Events by Learning Deep Generic Knowledge",
@@ -6136,7 +6605,11 @@
     "conference": "iccv",
     "id": "14e9cde1",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Gao_TURN_TAP_Temporal_ICCV_2017_paper.pdf",
@@ -6153,6 +6626,7 @@
     "conference": "iccv",
     "id": "672fce51",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Real-Time Multiple Spatiotemporal Action Localisation and Prediction",
@@ -6170,6 +6644,7 @@
     "conference": "iccv",
     "id": "f582d741",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Leveraging Weak Semantic Relevance for Complex Video Event Classification",
@@ -6187,6 +6662,7 @@
     "conference": "iccv",
     "id": "2e8da4b4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Weakly Supervised Summarization of Web Videos",
@@ -6203,6 +6679,7 @@
     "conference": "iccv",
     "id": "31256c7d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "FCN-rLSTM: Deep Spatio-Temporal Neural Networks for Vehicle Counting in City Cameras",
@@ -6219,6 +6696,7 @@
     "conference": "iccv",
     "id": "1bfbee87",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Face-Swap Using Convolutional Neural Networks",
@@ -6234,6 +6712,7 @@
     "conference": "iccv",
     "id": "78a8e996",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards a Visual Privacy Advisor: Understanding and Predicting Privacy Risks in Images",
@@ -6248,6 +6727,7 @@
     "conference": "iccv",
     "id": "48c1dc75",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "First-Person Activity Forecasting With Online Inverse Reinforcement Learning",
@@ -6262,6 +6742,7 @@
     "conference": "iccv",
     "id": "df1106c1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment With Limited Resources",
@@ -6281,6 +6762,7 @@
     "conference": "iccv",
     "id": "91c298e8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MoFA: Model-Based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction",
@@ -6296,6 +6778,7 @@
     "conference": "iccv",
     "id": "e4dcb9d2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "RPAN: An End-To-End Recurrent Pose-Attention Network for Action Recognition in Videos",
@@ -6313,7 +6796,10 @@
     "conference": "iccv",
     "id": "035bd00c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Temporal Non-Volume Preserving Approach to Facial Age-Progression and Age-Invariant Face Recognition",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Duong_Temporal_Non-Volume_Preserving_ICCV_2017_paper.pdf",
@@ -6334,7 +6820,10 @@
     "conference": "iccv",
     "id": "1c452ad2",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Attribute-Enhanced Face Recognition With Neural Tensor Fusion Networks",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_Attribute-Enhanced_Face_Recognition_ICCV_2017_paper.pdf",
@@ -6349,7 +6838,10 @@
     "conference": "iccv",
     "id": "1f25d397",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Unlabeled Samples Generated by GAN Improve the Person Re-Identification Baseline in Vitro",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Unlabeled_Samples_Generated_ICCV_2017_paper.pdf",
@@ -6366,6 +6858,7 @@
     "conference": "iccv",
     "id": "cb70977a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Egocentric Gesture Recognition Using Recurrent 3D Convolutional Neural Networks With Spatiotemporal Transformer Modules",
@@ -6384,6 +6877,7 @@
     "conference": "iccv",
     "id": "cdbcfffd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recursive Spatial Transformer (ReST) for Alignment-Free Face Recognition",
@@ -6400,6 +6894,7 @@
     "conference": "iccv",
     "id": "a64f54ba",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Discriminative Aggregation Network for Video-Based Face Recognition",
@@ -6415,6 +6910,7 @@
     "conference": "iccv",
     "id": "d8548a01",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Synergy Between Face Alignment and Tracking via Discriminative Global Consensus Optimization",
@@ -6431,6 +6927,7 @@
     "conference": "iccv",
     "id": "1f67e283",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SVDNet for Pedestrian Retrieval",
@@ -6445,6 +6942,7 @@
     "conference": "iccv",
     "id": "bebbb9bd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards More Accurate Iris Recognition Using Deeply Learned Spatially Corresponding Features",
@@ -6465,6 +6963,7 @@
     "conference": "iccv",
     "id": "1b054fc7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantically Informed Multiview Surface Refinement",
@@ -6479,6 +6978,7 @@
     "conference": "iccv",
     "id": "67c3f7ca",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects Without Using Depth",
@@ -6493,6 +6993,7 @@
     "conference": "iccv",
     "id": "c16c1d6d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Modeling Urban Scenes From Pointclouds",
@@ -6510,6 +7011,7 @@
     "conference": "iccv",
     "id": "b48f230b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Parameter-Free Lens Distortion Calibration of Central Cameras",
@@ -6528,6 +7030,7 @@
     "conference": "iccv",
     "id": "8396be3f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pose Guided RGBD Feature Learning for 3D Object Pose Estimation",
@@ -6545,6 +7048,7 @@
     "conference": "iccv",
     "id": "62d13b0c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Global Illumination for Morphable Models",
@@ -6565,6 +7069,7 @@
     "conference": "iccv",
     "id": "dfc3c3dd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Low Compute and Fully Parallel Computer Vision With HashMatch",
@@ -6580,6 +7085,7 @@
     "conference": "iccv",
     "id": "b320221e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dense Non-Rigid Structure-From-Motion and Shading With Unknown Albedos",
@@ -6597,6 +7103,7 @@
     "conference": "iccv",
     "id": "ac665950",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From Point Clouds to Mesh Using Regression",
@@ -6612,6 +7119,7 @@
     "conference": "iccv",
     "id": "7d23a3b7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stereo DSO: Large-Scale Direct Sparse Visual Odometry With Stereo Cameras",
@@ -6626,6 +7134,7 @@
     "conference": "iccv",
     "id": "8c822b39",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Space-Time Localization and Mapping",
@@ -6643,6 +7152,7 @@
     "conference": "iccv",
     "id": "3d453e31",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Benchmarking Single-Image Reflection Removal Algorithms",
@@ -6658,6 +7168,7 @@
     "conference": "iccv",
     "id": "4eda8a86",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Attention-Aware Deep Reinforcement Learning for Video Face Recognition",
@@ -6674,6 +7185,7 @@
     "conference": "iccv",
     "id": "f55ed129",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation",
@@ -6690,6 +7202,7 @@
     "conference": "iccv",
     "id": "495a9693",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Facial Action Unit Recognition From Partially Labeled Data",
@@ -6708,6 +7221,7 @@
     "conference": "iccv",
     "id": "f29ab7f3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pose-Driven Deep Convolutional Model for Person Re-Identification",
@@ -6723,6 +7237,7 @@
     "conference": "iccv",
     "id": "f56d79a9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recognition of Action Units in the Wild With Deep Nets and a New Global-Local Loss",
@@ -6739,6 +7254,7 @@
     "conference": "iccv",
     "id": "5c6f7ed9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Faster Than Real-Time Facial Alignment: A 3D Spatial Transformer Network Approach in Unconstrained Poses",
@@ -6756,6 +7272,7 @@
     "conference": "iccv",
     "id": "4f0b56ae",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Large-Pose Face Frontalization in the Wild",
@@ -6774,6 +7291,7 @@
     "conference": "iccv",
     "id": "ae9fb08b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Joint Intrinsic-Extrinsic Prior Model for Retinex",
@@ -6789,6 +7307,7 @@
     "conference": "iccv",
     "id": "e93dac27",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Going Unconstrained With Rolling Shutter Deblurring",
@@ -6806,6 +7325,7 @@
     "conference": "iccv",
     "id": "796df955",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Stagewise Refinement Model for Detecting Salient Objects in Images",
@@ -6820,6 +7340,7 @@
     "conference": "iccv",
     "id": "b3d6ccbc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From Square Pieces to Brick Walls: The Next Challenge in Solving Jigsaw Puzzles",
@@ -6836,6 +7357,7 @@
     "conference": "iccv",
     "id": "cb8c261e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Video Deblurring via Dynamic Temporal Blending Network",
@@ -6851,6 +7373,7 @@
     "conference": "iccv",
     "id": "eab1f9ba",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Supervision by Fusion: Towards Unsupervised Learning of Deep Salient Object Detector",
@@ -6867,6 +7390,7 @@
     "conference": "iccv",
     "id": "4a1a8300",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Multi-Image Matching via Density-Based Clustering",
@@ -6883,6 +7407,7 @@
     "conference": "iccv",
     "id": "ce3184f7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Characterizing and Improving Stability in Neural Style Transfer",
@@ -6899,6 +7424,7 @@
     "conference": "iccv",
     "id": "22f6ce68",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cross-Modal Deep Variational Hashing",
@@ -6913,7 +7439,10 @@
     "conference": "iccv",
     "id": "65f1e3f4",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Spatial Memory for Context Reasoning in Object Detection",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Spatial_Memory_for_ICCV_2017_paper.pdf",
@@ -6929,7 +7458,10 @@
     "conference": "iccv",
     "id": "98c5b1da",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Deep Binaries: Encoding Semantic-Rich Cues for Efficient Textual-Visual Cross Retrieval",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Deep_Binaries_Encoding_ICCV_2017_paper.pdf",
@@ -6945,6 +7477,7 @@
     "conference": "iccv",
     "id": "e630bdd8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning a Recurrent Residual Fusion Network for Multimodal Matching",
@@ -6960,6 +7493,7 @@
     "conference": "iccv",
     "id": "48eac200",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rotational Subgroup Voting and Pose Clustering for Robust 3D Object Recognition",
@@ -6978,6 +7512,7 @@
     "conference": "iccv",
     "id": "2ac01b69",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CoupleNet: Coupling Global Structure With Local Parts for Object Detection",
@@ -6995,6 +7530,7 @@
     "conference": "iccv",
     "id": "69de583a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training",
@@ -7010,6 +7546,7 @@
     "conference": "iccv",
     "id": "2c3793c1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Drone-Based Object Counting by Spatially Regularized Regional Proposal Network",
@@ -7026,7 +7563,10 @@
     "conference": "iccv",
     "id": "c5493adb",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "BlitzNet: A Real-Time Deep Network for Scene Understanding",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Dvornik_BlitzNet_A_Real-Time_ICCV_2017_paper.pdf",
@@ -7042,6 +7582,7 @@
     "conference": "iccv",
     "id": "639910da",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Learning of Object and Action Detectors",
@@ -7060,6 +7601,7 @@
     "conference": "iccv",
     "id": "95f7e5b0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Situation Recognition With Graph Neural Networks",
@@ -7076,7 +7618,10 @@
     "conference": "iccv",
     "id": "469c2f79",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Learning Visual N-Grams From Web Data",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Learning_Visual_N-Grams_ICCV_2017_paper.pdf",
@@ -7096,6 +7641,7 @@
     "conference": "iccv",
     "id": "c06f5dfb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Attention-Based Multimodal Fusion for Video Description",
@@ -7110,6 +7656,7 @@
     "conference": "iccv",
     "id": "a598f0c9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning the Latent \"Look\": Unsupervised Discovery of a Style-Coherent Embedding From Fashion Images",
@@ -7126,7 +7673,11 @@
     "conference": "iccv",
     "id": "88ce7b12",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Aligned Image-Word Representations Improve Inductive Transfer Across Vision-Language Tasks",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Gupta_Aligned_Image-Word_Representations_ICCV_2017_paper.pdf",
@@ -7143,6 +7694,7 @@
     "conference": "iccv",
     "id": "825fe47d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Discriminative Latent Attributes for Zero-Shot Classification",
@@ -7159,6 +7711,7 @@
     "conference": "iccv",
     "id": "e0f3caca",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel Pairwise R-FCN",
@@ -7172,6 +7725,7 @@
     "conference": "iccv",
     "id": "f641fbf2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Higher-Order Minimum Cost Lifted Multicuts for Motion Segmentation",
@@ -7186,6 +7740,7 @@
     "conference": "iccv",
     "id": "9b367a92",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Free-Form Deformation Network for Object-Mask Registration",
@@ -7206,6 +7761,7 @@
     "conference": "iccv",
     "id": "032d5b84",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Region-Based Correspondence Between 3D Shapes via Spatially Smooth Biclustering",
@@ -7223,6 +7779,7 @@
     "conference": "iccv",
     "id": "1b8e1399",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Discriminative ab-Divergences for Positive Definite Matrices",
@@ -7240,6 +7797,7 @@
     "conference": "iccv",
     "id": "62abcfe4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Consensus Convolutional Sparse Coding",
@@ -7257,6 +7815,7 @@
     "conference": "iccv",
     "id": "12217a79",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Domain-Adaptive Deep Network Compression",
@@ -7272,6 +7831,7 @@
     "conference": "iccv",
     "id": "f25d175c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Self-Supervised Learning of Pose Embeddings From Spatiotemporal Relations in Videos",
@@ -7286,6 +7846,7 @@
     "conference": "iccv",
     "id": "c53fdbe8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Approximate Grassmannian Intersections: Subspace-Valued Subspace Learning",
@@ -7301,6 +7862,7 @@
     "conference": "iccv",
     "id": "6df33df1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Side Information in Robust Principal Component Analysis: Algorithms and Applications",
@@ -7317,6 +7879,7 @@
     "conference": "iccv",
     "id": "afa5ba7d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Summarization and Classification of Wearable Camera Streams by Learning the Distributions Over Deep Features of Out-Of-Sample Image Sequences",
@@ -7332,7 +7895,11 @@
     "conference": "iccv",
     "id": "60f4ece1",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Unsupervised Learning From Video to Detect Foreground Objects in Single Images",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Croitoru_Unsupervised_Learning_From_ICCV_2017_paper.pdf",
@@ -7346,6 +7913,7 @@
     "conference": "iccv",
     "id": "ddbc2550",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Supplementary Meta-Learning: Towards a Dynamic Model for Deep Neural Networks",
@@ -7362,6 +7930,7 @@
     "conference": "iccv",
     "id": "1c0c66ee",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adversarial Inverse Graphics Networks: Learning 2D-To-3D Lifting and Image-To-Image Translation From Unpaired Supervision",
@@ -7376,6 +7945,7 @@
     "conference": "iccv",
     "id": "7e8b20f2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Active Learning for Human Pose Estimation",
@@ -7392,6 +7962,7 @@
     "conference": "iccv",
     "id": "b8dde7cb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Interleaved Group Convolutions",
@@ -7407,6 +7978,7 @@
     "conference": "iccv",
     "id": "cf966f9a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning-Based Cloth Material Recovery From Video",
@@ -7423,6 +7995,7 @@
     "conference": "iccv",
     "id": "e1d8cdc0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Video Understanding by Reconciliation of Posture Similarities",
@@ -7439,6 +8012,7 @@
     "conference": "iccv",
     "id": "1a885830",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Action Tubelet Detector for Spatio-Temporal Action Localization",
@@ -7454,6 +8028,7 @@
     "conference": "iccv",
     "id": "1e804302",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "AMTnet: Action-Micro-Tube Regression by End-To-End Trainable Deep Architecture",
@@ -7469,6 +8044,7 @@
     "conference": "iccv",
     "id": "fa0cfd0b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Constrained Convolutional Sparse Coding for Parametric Based Reconstruction of Line Drawings",
@@ -7484,6 +8060,7 @@
     "conference": "iccv",
     "id": "09ac8340",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Ctrl-F: Segmentation-Free Query-By-String Word Spotting in Handwritten Manuscript Collections",
@@ -7498,6 +8075,7 @@
     "conference": "iccv",
     "id": "3f6989bd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Spatial-Aware Object Embeddings for Zero-Shot Localization and Classification of Actions",
@@ -7513,6 +8091,7 @@
     "conference": "iccv",
     "id": "78908372",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantic Video CNNs Through Representation Warping",
@@ -7530,7 +8109,10 @@
     "conference": "iccv",
     "id": "57458780",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Video Frame Synthesis Using Deep Voxel Flow",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Video_Frame_Synthesis_ICCV_2017_paper.pdf",
@@ -7547,7 +8129,10 @@
     "conference": "iccv",
     "id": "ad09adff",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Detail-Revealing Deep Video Super-Resolution",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Tao_Detail-Revealing_Deep_Video_ICCV_2017_paper.pdf",
@@ -7562,6 +8147,7 @@
     "conference": "iccv",
     "id": "a4fe2789",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Video Object Segmentation With Visual Memory",
@@ -7577,7 +8163,10 @@
     "conference": "iccv",
     "id": "2a921d27",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Sajjadi_EnhanceNet_Single_Image_ICCV_2017_paper.pdf",
@@ -7592,6 +8181,7 @@
     "conference": "iccv",
     "id": "8a6c8b52",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Makeup-Go: Blind Reversion of Portrait Edit",
@@ -7609,6 +8199,7 @@
     "conference": "iccv",
     "id": "02ec7e8c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Shadow Detection With Conditional Generative Adversarial Networks",
@@ -7623,6 +8214,7 @@
     "conference": "iccv",
     "id": "6bdae569",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning High Dynamic Range From Outdoor Panoramas",
@@ -7639,6 +8231,7 @@
     "conference": "iccv",
     "id": "fd3ab775",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DCTM: Discrete-Continuous Transformation Matching for Semantic Flow",
@@ -7655,6 +8248,7 @@
     "conference": "iccv",
     "id": "ccee26bb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MemNet: A Persistent Memory Network for Image Restoration",
@@ -7672,6 +8266,7 @@
     "conference": "iccv",
     "id": "7f4d01d7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structure-Measure: A New Way to Evaluate Foreground Maps",
@@ -7689,6 +8284,7 @@
     "conference": "iccv",
     "id": "b35e01b0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Weakly- and Self-Supervised Learning for Content-Aware Deep Image Retargeting",
@@ -7704,6 +8300,7 @@
     "conference": "iccv",
     "id": "58d66471",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Practical and Efficient Multi-View Matching",
@@ -7719,6 +8316,7 @@
     "conference": "iccv",
     "id": "5d275507",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unrolled Memory Inner-Products: An Abstract GPU Operator for Efficient Vision-Related Computations",
@@ -7734,7 +8332,10 @@
     "conference": "iccv",
     "id": "71fbd801",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning to Push the Limits of Efficient FFT-Based Image Deconvolution",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Kruse_Learning_to_Push_ICCV_2017_paper.pdf",
@@ -7750,7 +8351,11 @@
     "conference": "iccv",
     "id": "1648e92b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Learning Spread-Out Local Feature Descriptors",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Learning_Spread-Out_Local_ICCV_2017_paper.pdf",
@@ -7767,6 +8372,7 @@
     "conference": "iccv",
     "id": "83c53499",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visual Odometry for Pixel Processor Arrays",
@@ -7781,6 +8387,7 @@
     "conference": "iccv",
     "id": "c304f550",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Estimation of Camera Pose, Depth, Deblurring, and Super-Resolution From a Blurred Image Sequence",
@@ -7795,6 +8402,7 @@
     "conference": "iccv",
     "id": "eb2ce2aa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "2D-Driven 3D Object Detection in RGB-D Images",
@@ -7812,6 +8420,7 @@
     "conference": "iccv",
     "id": "eccf9087",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ray Space Features for Plenoptic Structure-From-Motion",
@@ -7827,6 +8436,7 @@
     "conference": "iccv",
     "id": "e085da61",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Depth Estimation Using Structured Light Flow -- Analysis of Projected Pattern Flow on an Object's Surface",
@@ -7842,6 +8452,7 @@
     "conference": "iccv",
     "id": "29bbff93",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Monocular Dense 3D Reconstruction of a Complex Dynamic Scene From Two Perspective Frames",
@@ -7857,6 +8468,7 @@
     "conference": "iccv",
     "id": "6d119cff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Optimal Transformation Estimation With Semantic Cues",
@@ -7873,7 +8485,10 @@
     "conference": "iccv",
     "id": "42f19548",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Dynamics Enhanced Multi-Camera Motion Segmentation From Unsynchronized Videos",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Dynamics_Enhanced_Multi-Camera_ICCV_2017_paper.pdf",
@@ -7889,6 +8504,7 @@
     "conference": "iccv",
     "id": "1d46c550",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Taking the Scenic Route to 3D: Optimising Reconstruction From Moving Cameras",
@@ -7903,6 +8519,7 @@
     "conference": "iccv",
     "id": "d8de5705",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "FLaME: Fast Lightweight Mesh Estimation Using Variational Smoothing on Delaunay Graphs",
@@ -7922,6 +8539,7 @@
     "conference": "iccv",
     "id": "50d35909",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Algorithms for Moral Lineage Tracing",
@@ -7941,6 +8559,7 @@
     "conference": "iccv",
     "id": "2a1602a9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From RGB to Spectrum for Natural Scenes via Manifold-Based Mapping",
@@ -7956,6 +8575,7 @@
     "conference": "iccv",
     "id": "f8f1741b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepFuse: A Deep Unsupervised Approach for Exposure Fusion With Extreme Exposure Image Pairs",
@@ -7973,6 +8593,7 @@
     "conference": "iccv",
     "id": "5e44edcc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Dense Facial Correspondences in Unconstrained Images",
@@ -7991,6 +8612,7 @@
     "conference": "iccv",
     "id": "b33617f4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Jointly Attentive Spatial-Temporal Pooling Networks for Video-Based Person Re-Identification",
@@ -8009,6 +8631,7 @@
     "conference": "iccv",
     "id": "9e2ef172",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Automatic Content-Aware Projection for 360deg Videos",
@@ -8024,6 +8647,7 @@
     "conference": "iccv",
     "id": "fdeb61b7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Blur-Invariant Deep Learning for Blind-Deblurring",
@@ -8040,6 +8664,7 @@
     "conference": "iccv",
     "id": "8b953246",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Non-Linear Convolution Filters for CNN-Based Learning",
@@ -8057,6 +8682,7 @@
     "conference": "iccv",
     "id": "fb81b7d1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "AOD-Net: All-In-One Dehazing Network",
@@ -8071,6 +8697,7 @@
     "conference": "iccv",
     "id": "12a07412",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Simultaneous Detection and Removal of High Altitude Clouds From an Image",
@@ -8087,6 +8714,7 @@
     "conference": "iccv",
     "id": "0d15d515",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Understanding Low- and High-Level Contributions to Fixation Prediction",
@@ -8103,6 +8731,7 @@
     "conference": "iccv",
     "id": "26ced142",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Image Super-Resolution Using Dense Skip Connections",
@@ -8117,6 +8746,7 @@
     "conference": "iccv",
     "id": "b000b1bd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convergence Analysis of MAP Based Blur Kernel Estimation",
@@ -8132,6 +8762,7 @@
     "conference": "iccv",
     "id": "17aaba5d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Blob Reconstruction Using Unilateral Second Order Gaussian Kernels With Application to High-ISO Long-Exposure Image Denoising",
@@ -8148,6 +8779,7 @@
     "conference": "iccv",
     "id": "b88b947a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Generative Adversarial Compression Artifact Removal",
@@ -8166,6 +8798,7 @@
     "conference": "iccv",
     "id": "1b9e9490",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Multi-Object Tracking Using CNN-Based Single Object Tracker With Spatial-Temporal Attention Mechanism",
@@ -8183,6 +8816,7 @@
     "conference": "iccv",
     "id": "5797456e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mutual Enhancement for Detection of Multiple Logos in Sports Videos",
@@ -8198,6 +8832,7 @@
     "conference": "iccv",
     "id": "11d61d63",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Referring Expression Generation and Comprehension via Attributes",
@@ -8214,6 +8849,7 @@
     "conference": "iccv",
     "id": "2f6abf21",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "RoomNet: End-To-End Room Layout Estimation",
@@ -8230,6 +8866,7 @@
     "conference": "iccv",
     "id": "292077a0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SSH: Single Stage Headless Face Detector",
@@ -8244,6 +8881,7 @@
     "conference": "iccv",
     "id": "91c21528",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "AnnArbor: Approximate Nearest Neighbors Using Arborescence Coding",
@@ -8261,6 +8899,7 @@
     "conference": "iccv",
     "id": "697abec5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Boosting Image Captioning With Attributes",
@@ -8275,7 +8914,10 @@
     "conference": "iccv",
     "id": "c1e4de83",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning to Estimate 3D Hand Pose From Single RGB Images",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Zimmermann_Learning_to_Estimate_ICCV_2017_paper.pdf",
@@ -8293,6 +8935,7 @@
     "conference": "iccv",
     "id": "f7fec008",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Locally-Transferred Fisher Vectors for Texture Classification",
@@ -8310,6 +8953,7 @@
     "conference": "iccv",
     "id": "12388153",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Object-Level Proposals",
@@ -8326,7 +8970,10 @@
     "conference": "iccv",
     "id": "f88f71cd",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Extreme Clicking for Efficient Object Annotation",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Papadopoulos_Extreme_Clicking_for_ICCV_2017_paper.pdf",
@@ -8344,6 +8991,7 @@
     "conference": "iccv",
     "id": "c303d03d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "WordSup: Exploiting Word Annotations for Character Based Text Detection",
@@ -8359,6 +9007,7 @@
     "conference": "iccv",
     "id": "f4d7c2bd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Illuminating Pedestrians via Simultaneous Detection &amp; Segmentation",
@@ -8376,6 +9025,7 @@
     "conference": "iccv",
     "id": "11c90ed9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Generalized Orderless Pooling Performs Implicit Salient Matching",
@@ -8393,7 +9043,10 @@
     "conference": "iccv",
     "id": "cc565166",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Exploiting Spatial Structure for Localizing Manipulated Image Regions",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Bappy_Exploiting_Spatial_Structure_ICCV_2017_paper.pdf",
@@ -8408,6 +9061,7 @@
     "conference": "iccv",
     "id": "57127c4a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "RDFNet: RGB-D Multi-Level Residual Feature Fusion for Indoor Semantic Segmentation",
@@ -8424,6 +9078,7 @@
     "conference": "iccv",
     "id": "5aac9c7c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Mapillary Vistas Dataset for Semantic Understanding of Street Scenes",
@@ -8438,6 +9093,7 @@
     "conference": "iccv",
     "id": "3db0d39e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Self-Organized Text Detection With Minimal Post-Processing via Border Learning",
@@ -8453,6 +9109,7 @@
     "conference": "iccv",
     "id": "3892bd44",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparse Exact PGA on Riemannian Manifolds",
@@ -8472,6 +9129,7 @@
     "conference": "iccv",
     "id": "fb35827a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Tensor RPCA by Bayesian CP Factorization With Complex Noise",
@@ -8488,6 +9146,7 @@
     "conference": "iccv",
     "id": "0584ebb3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multimodal Gaussian Process Latent Variable Models With Harmonization",
@@ -8503,7 +9162,10 @@
     "conference": "iccv",
     "id": "d5c8e3e4",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Segmentation-Aware Convolutional Networks Using Local Attention Masks",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Harley_Segmentation-Aware_Convolutional_Networks_ICCV_2017_paper.pdf",
@@ -8519,6 +9181,7 @@
     "conference": "iccv",
     "id": "a8e00b38",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rotation Equivariant Vector Field Networks",
@@ -8534,6 +9197,7 @@
     "conference": "iccv",
     "id": "549a4d71",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression",
@@ -8551,6 +9215,7 @@
     "conference": "iccv",
     "id": "e5f31177",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "AutoDIAL: Automatic DomaIn Alignment Layers",
@@ -8569,6 +9234,7 @@
     "conference": "iccv",
     "id": "1d1f640a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Focusing Attention: Towards Accurate Text Recognition in Natural Images",
@@ -8583,6 +9249,7 @@
     "conference": "iccv",
     "id": "2370e5cc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Object Segmentation in Video by Efficient Selection of Highly Probable Positive Features",
@@ -8600,6 +9267,7 @@
     "conference": "iccv",
     "id": "3ac45b31",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Nonparametric Variational Auto-Encoders for Hierarchical Representation Learning",
@@ -8615,7 +9283,10 @@
     "conference": "iccv",
     "id": "930c5cf7",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Dense and Low-Rank Gaussian CRFs Using Deep Embeddings",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Chandra_Dense_and_Low-Rank_ICCV_2017_paper.pdf",
@@ -8631,6 +9302,7 @@
     "conference": "iccv",
     "id": "a25f63fe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses",
@@ -8645,6 +9317,7 @@
     "conference": "iccv",
     "id": "959db882",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Moving Object Detection in Time-Lapse or Motion Trigger Image Sequences Using Low-Rank and Invariant Sparse Decomposition",
@@ -8659,6 +9332,7 @@
     "conference": "iccv",
     "id": "f301cb69",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Multilayer-Based Framework for Online Background Subtraction With Freely Moving Cameras",
@@ -8676,6 +9350,7 @@
     "conference": "iccv",
     "id": "13bd2c3c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dynamic Label Graph Matching for Unsupervised Video Re-Identification",
@@ -8691,7 +9366,10 @@
     "conference": "iccv",
     "id": "947a2ad6",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Spatiotemporal Modeling for Crowd Counting in Videos",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Xiong_Spatiotemporal_Modeling_for_ICCV_2017_paper.pdf",
@@ -8709,6 +9387,7 @@
     "conference": "iccv",
     "id": "1c3f01b9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Personalized Cinemagraphs Using Semantic Understanding and Collaborative Learning",
@@ -8727,6 +9406,7 @@
     "conference": "iccv",
     "id": "5802cc67",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "What Is Around the Camera?",
@@ -8743,6 +9423,7 @@
     "conference": "iccv",
     "id": "26647527",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Weakly-Supervised Learning of Visual Relations",
@@ -8759,6 +9440,7 @@
     "conference": "iccv",
     "id": "0c50f31a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "BIER - Boosting Independent Embeddings Robustly",
@@ -8776,6 +9458,7 @@
     "conference": "iccv",
     "id": "6d88dce1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "3D Graph Neural Networks for RGBD Semantic Segmentation",
@@ -8792,6 +9475,7 @@
     "conference": "iccv",
     "id": "44650513",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition",
@@ -8807,6 +9491,7 @@
     "conference": "iccv",
     "id": "7b393ea7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning 3D Object Categories by Looking Around Them",
@@ -8822,6 +9507,7 @@
     "conference": "iccv",
     "id": "79e645d0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Quantitative Evaluation of Confidence Measures in a Machine Learning World",
@@ -8837,6 +9523,7 @@
     "conference": "iccv",
     "id": "db4ecdc2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards End-To-End Text Spotting With Convolutional Recurrent Neural Networks",
@@ -8855,6 +9542,7 @@
     "conference": "iccv",
     "id": "7abee2c3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepSetNet: Predicting Sets With Deep Neural Networks",
@@ -8872,7 +9560,10 @@
     "conference": "iccv",
     "id": "2dbaa6cd",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Learning From Video and Text via Large-Scale Discriminative Clustering",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Miech_Learning_From_Video_ICCV_2017_paper.pdf",
@@ -8888,7 +9579,10 @@
     "conference": "iccv",
     "id": "adbc6557",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "TALL: Temporal Activity Localization via Language Query",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Gao_TALL_Temporal_Activity_ICCV_2017_paper.pdf",
@@ -8904,6 +9598,7 @@
     "conference": "iccv",
     "id": "f33ec9ec",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "End-To-End Face Detection and Cast Grouping in Movies Using Erdos-Renyi Clustering",
@@ -8918,6 +9613,7 @@
     "conference": "iccv",
     "id": "dbf0d121",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Active Decision Boundary Annotation With Deep Generative Models",
@@ -8934,6 +9630,7 @@
     "conference": "iccv",
     "id": "b41caf09",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convolutional Dictionary Learning via Local Processing",
@@ -8948,6 +9645,7 @@
     "conference": "iccv",
     "id": "149de494",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Editable Parametric Dense Foliage From 3D Capture",
@@ -8967,6 +9665,7 @@
     "conference": "iccv",
     "id": "1ec74f8a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Refractive Structure-From-Motion Through a Flat Refractive Interface",
@@ -8987,6 +9686,7 @@
     "conference": "iccv",
     "id": "131aafdb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Submodular Trajectory Optimization for Aerial 3D Scanning",
@@ -9000,6 +9700,7 @@
     "conference": "iccv",
     "id": "5c94fc9f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Camera Calibration by Global Constraints on the Motion of Silhouettes",
@@ -9017,6 +9718,7 @@
     "conference": "iccv",
     "id": "c8d5479a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deltille Grids for Geometric Camera Calibration",
@@ -9030,6 +9732,7 @@
     "conference": "iccv",
     "id": "c3df9aec",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Lightweight Single-Camera Polarization Compass With Covariance Estimation",
@@ -9048,6 +9751,7 @@
     "conference": "iccv",
     "id": "330c9a52",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Reflectance Capture Using Univariate Sampling of BRDFs",
@@ -9063,6 +9767,7 @@
     "conference": "iccv",
     "id": "f2c42981",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Estimating Defocus Blur via Rank of Local Patches",
@@ -9080,6 +9785,7 @@
     "conference": "iccv",
     "id": "e04f662a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "RGB-Infrared Cross-Modality Person Re-Identification",
@@ -9096,6 +9802,7 @@
     "conference": "iccv",
     "id": "3fc8ff28",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Intrinsic 3D Dynamic Surface Tracking Based on Dynamic Ricci Flow and Teichmuller Map",
@@ -9113,6 +9820,7 @@
     "conference": "iccv",
     "id": "f1750423",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Scale Deep Learning Architectures for Person Re-Identification",
@@ -9130,6 +9838,7 @@
     "conference": "iccv",
     "id": "d5fb389f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Range Loss for Deep Face Recognition With Long-Tailed Training Data",
@@ -9148,6 +9857,7 @@
     "conference": "iccv",
     "id": "824cfe0a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Face Sketch Matching via Coupled Deep Transform Learning",
@@ -9170,7 +9880,10 @@
     "conference": "iccv",
     "id": "61aec9cb",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Realistic Dynamic Facial Textures From a Single Image Using GANs",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Olszewski_Realistic_Dynamic_Facial_ICCV_2017_paper.pdf",
@@ -9185,7 +9898,12 @@
     "conference": "iccv",
     "id": "17241cc1",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Pixel Recursive Super Resolution",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Dahl_Pixel_Recursive_Super_ICCV_2017_paper.pdf",
@@ -9203,6 +9921,7 @@
     "conference": "iccv",
     "id": "a7a6f271",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "PanNet: A Deep Network Architecture for Pan-Sharpening",
@@ -9220,6 +9939,7 @@
     "conference": "iccv",
     "id": "f1537742",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Color Constancy",
@@ -9237,6 +9957,7 @@
     "conference": "iccv",
     "id": "5584cff1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Saliency Pattern Detection by Ranking Structured Trees",
@@ -9254,6 +9975,7 @@
     "conference": "iccv",
     "id": "232a6650",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Monocular Video-Based Trailer Coupler Detection Using Multiplexer Convolutional Neural Network",
@@ -9268,6 +9990,7 @@
     "conference": "iccv",
     "id": "97e2fdec",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Parallel Tracking and Verifying: A Framework for Real-Time and High Accuracy Visual Tracking",
@@ -9284,6 +10007,7 @@
     "conference": "iccv",
     "id": "2fd9c9a1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Non-Rigid Object Tracking via Deformable Patches Using Shape-Preserved KCF and Level Sets",
@@ -9299,6 +10023,7 @@
     "conference": "iccv",
     "id": "1276067f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Discriminative View of MRF Pre-Processing Algorithms",
@@ -9314,6 +10039,7 @@
     "conference": "iccv",
     "id": "e346f091",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Offline Handwritten Signature Modeling and Verification Based on Archetypal Analysis",
@@ -9331,7 +10057,10 @@
     "conference": "iccv",
     "id": "ffadc8f4",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Long Short-Term Memory Kalman Filters: Recurrent Neural Estimators for Pose Regularization",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Coskun_Long_Short-Term_Memory_ICCV_2017_paper.pdf",
@@ -9346,6 +10075,7 @@
     "conference": "iccv",
     "id": "e5e1de26",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Spatio-Temporal Representation With Pseudo-3D Residual Networks",
@@ -9362,6 +10092,7 @@
     "conference": "iccv",
     "id": "e2ef0388",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deeper, Broader and Artier Domain Generalization",
@@ -9379,7 +10110,10 @@
     "conference": "iccv",
     "id": "f2461f07",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Deep Spatial-Semantic Attention for Fine-Grained Sketch-Based Image Retrieval",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Song_Deep_Spatial-Semantic_Attention_ICCV_2017_paper.pdf",
@@ -9395,6 +10129,7 @@
     "conference": "iccv",
     "id": "b68c5e26",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Soft-NMS -- Improving Object Detection With One Line of Code",
@@ -9409,6 +10144,7 @@
     "conference": "iccv",
     "id": "49c79354",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantic Jitter: Dense Supervision for Visual Comparisons via Synthetic Images",
@@ -9433,6 +10169,7 @@
     "conference": "iccv",
     "id": "d24d05ee",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Video Scene Parsing With Predictive Feature Learning",
@@ -9448,6 +10185,7 @@
     "conference": "iccv",
     "id": "7083a285",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Understanding and Mapping Natural Beauty",
@@ -9466,6 +10204,7 @@
     "conference": "iccv",
     "id": "47cb737d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Human Pose Estimation Using Global and Local Normalization",
@@ -9482,6 +10221,7 @@
     "conference": "iccv",
     "id": "f77a0398",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "HashNet: Deep Learning to Hash by Continuation",
@@ -9497,6 +10237,7 @@
     "conference": "iccv",
     "id": "059ca6bd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scaling the Scattering Transform: Deep Hybrid Networks",
@@ -9510,6 +10251,7 @@
     "conference": "iccv",
     "id": "aa78654a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Flip-Invariant Motion Representation",
@@ -9525,6 +10267,7 @@
     "conference": "iccv",
     "id": "db884806",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scene Categorization With Spectral Features",
@@ -9540,6 +10283,7 @@
     "conference": "iccv",
     "id": "cffca326",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Image2song: Song Retrieval via Bridging Image Content and Lyric Words",
@@ -9557,7 +10301,10 @@
     "conference": "iccv",
     "id": "ddbe22a7",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Deep Functional Maps: Structured Prediction for Dense Shape Correspondence",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Litany_Deep_Functional_Maps_ICCV_2017_paper.pdf",
@@ -9572,7 +10319,10 @@
     "conference": "iccv",
     "id": "e82d3367",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Training Deep Networks to Be Spatially Sensitive",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Kolkin_Training_Deep_Networks_ICCV_2017_paper.pdf",
@@ -9591,7 +10341,10 @@
     "conference": "iccv",
     "id": "abbcae61",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "3DCNN-DQN-RNN: A Deep Reinforcement Learning Framework for Semantic Parsing of Large-Scale 3D Point Clouds",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_3DCNN-DQN-RNN_A_Deep_ICCV_2017_paper.pdf",
@@ -9606,6 +10359,7 @@
     "conference": "iccv",
     "id": "184a7b3e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": " Semi Supervised Semantic Segmentation Using Generative Adversarial Network",
@@ -9621,6 +10375,7 @@
     "conference": "iccv",
     "id": "6bc420db",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Low Rank Tensor Ring Completion",
@@ -9637,6 +10392,7 @@
     "conference": "iccv",
     "id": "f68086aa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantic Image Synthesis via Adversarial Learning",
@@ -9653,6 +10409,7 @@
     "conference": "iccv",
     "id": "c9dc6fff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unified Deep Supervised Domain Adaptation and Generalization",
@@ -9669,7 +10426,10 @@
     "conference": "iccv",
     "id": "72a0eee5",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Interpretable Transformations With Encoder-Decoder Networks",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Worrall_Interpretable_Transformations_With_ICCV_2017_paper.pdf",
@@ -9686,6 +10446,7 @@
     "conference": "iccv",
     "id": "ffa51e7d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Clustering via Joint Convolutional Autoencoder Embedding and Relative Entropy Minimization",
@@ -9701,6 +10462,7 @@
     "conference": "iccv",
     "id": "0fe240d5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Scene Image Classification With the MFAFVNet",
@@ -9715,6 +10477,7 @@
     "conference": "iccv",
     "id": "b0e11be3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Bag-Of-Features Pooling for Deep Convolutional Neural Networks",
@@ -9729,6 +10492,7 @@
     "conference": "iccv",
     "id": "c5b9f383",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adversarial Examples Detection in Deep Networks With Convolutional Filter Statistics",
@@ -9744,7 +10508,10 @@
     "conference": "iccv",
     "id": "1ff5aae1",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Joint Prediction of Activity Labels and Starting Times in Untrimmed Videos",
     "pdf_link": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Mahmud_Joint_Prediction_of_ICCV_2017_paper.pdf",
@@ -9759,6 +10526,7 @@
     "conference": "iccv",
     "id": "cff8907e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "R-C3D: Region Convolutional 3D Network for Temporal Activity Detection",
@@ -9776,6 +10544,7 @@
     "conference": "iccv",
     "id": "5eac63af",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Context Network for Activity Localization in Videos",
@@ -9794,6 +10563,7 @@
     "conference": "iccv",
     "id": "e2cfd9c4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Localizing Moments in Video With Natural Language",
@@ -9809,6 +10579,7 @@
     "conference": "iccv",
     "id": "1265b4ee",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal",
@@ -9824,6 +10595,7 @@
     "conference": "iccv",
     "id": "ee851a59",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos",
@@ -9838,6 +10610,7 @@
     "conference": "iccv",
     "id": "69472922",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Action Recognition Model From Depth and Skeleton Videos",
@@ -9864,6 +10637,7 @@
     "conference": "iccv",
     "id": "484644e5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The \"Something Something\" Video Database for Learning and Evaluating Visual Common Sense",
@@ -9879,6 +10653,7 @@
     "conference": "iccv",
     "id": "d9116047",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "GPLAC: Generalizing Vision-Based Robotic Skills Using Weakly Labeled Images",
@@ -9896,6 +10671,7 @@
     "conference": "iccv",
     "id": "97d48c48",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semi-Global Weighted Least Squares in Image Filtering",
@@ -9912,6 +10688,7 @@
     "conference": "iccv",
     "id": "36299163",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scale Recovery for Monocular Visual Odometry Using Depth Estimated With Deep Convolutional Neural Fields",
@@ -9929,6 +10706,7 @@
     "conference": "iccv",
     "id": "2877141c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Adaptive Image Clustering",
@@ -9946,6 +10724,7 @@
     "conference": "iccv",
     "id": "a327a484",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "One Network to Solve Them All -- Solving Linear Inverse Problems Using Deep Projection Models",
@@ -9961,6 +10740,7 @@
     "conference": "iccv",
     "id": "a2193523",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Representation Learning by Learning to Count",
@@ -9980,6 +10760,7 @@
     "conference": "iccv",
     "id": "60a3d753",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "StackGAN: Text to Photo-Realistic Image Synthesis With Stacked Generative Adversarial Networks",
@@ -9995,6 +10776,7 @@
     "conference": "iccv",
     "id": "ac94dc6f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Learning of Object Landmarks by Factorized Spatial Embeddings",

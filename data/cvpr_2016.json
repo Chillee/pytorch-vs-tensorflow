@@ -11,6 +11,7 @@
     "conference": "cvpr",
     "id": "3a28469b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Compositional Captioning: Describing Novel Object Categories Without Paired Training Data",
@@ -29,7 +30,10 @@
     "conference": "cvpr",
     "id": "6509d227",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Generation and Comprehension of Unambiguous Object Descriptions",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf",
@@ -46,6 +50,7 @@
     "conference": "cvpr",
     "id": "d0cb8b30",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stacked Attention Networks for Image Question Answering",
@@ -61,7 +66,10 @@
     "conference": "cvpr",
     "id": "59f45b67",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Image Question Answering Using Convolutional Neural Network With Dynamic Parameter Prediction",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Noh_Image_Question_Answering_CVPR_2016_paper.pdf",
@@ -77,6 +85,7 @@
     "conference": "cvpr",
     "id": "c98bf4dc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Module Networks",
@@ -93,6 +102,7 @@
     "conference": "cvpr",
     "id": "21c895e5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Deep Representations of Fine-Grained Visual Descriptions",
@@ -109,6 +119,7 @@
     "conference": "cvpr",
     "id": "8e2f2b00",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Cue Zero-Shot Learning With Strong Supervision",
@@ -127,6 +138,7 @@
     "conference": "cvpr",
     "id": "d0ec47d1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Latent Embeddings for Zero-Shot Classification",
@@ -142,6 +154,7 @@
     "conference": "cvpr",
     "id": "efe917c8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "One-Shot Learning of Scene Locations via Feature Trajectory Transfer",
@@ -157,6 +170,7 @@
     "conference": "cvpr",
     "id": "9790806c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Attributes Equals Multi-Source Domain Generalization",
@@ -172,6 +186,7 @@
     "conference": "cvpr",
     "id": "5a7e872c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Anticipating Visual Representations From Unlabeled Video",
@@ -188,6 +203,7 @@
     "conference": "cvpr",
     "id": "feac96f6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Assign Orientations to Feature Points",
@@ -205,6 +221,7 @@
     "conference": "cvpr",
     "id": "93358508",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Dense Correspondence via 3D-Guided Cycle Consistency",
@@ -222,6 +239,7 @@
     "conference": "cvpr",
     "id": "1100b368",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Global Patch Collider",
@@ -240,6 +258,7 @@
     "conference": "cvpr",
     "id": "a581a419",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Probabilistic Matching Using m-Best Solutions",
@@ -257,6 +276,7 @@
     "conference": "cvpr",
     "id": "cbf6a01b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Face Alignment Across Large Poses: A 3D Solution",
@@ -273,6 +293,7 @@
     "conference": "cvpr",
     "id": "f370cc37",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Interactive Segmentation on RGBD Images via Cue Selection",
@@ -288,6 +309,7 @@
     "conference": "cvpr",
     "id": "04e3e9e6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Layered Scene Decomposition via the Occlusion-CRF",
@@ -303,6 +325,7 @@
     "conference": "cvpr",
     "id": "4b8e8951",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Affinity CNN: Learning Pixel-Centric Pairwise Relations for Figure/Ground Embedding",
@@ -320,6 +343,7 @@
     "conference": "cvpr",
     "id": "aacd9c4f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Weakly Supervised Object Boundaries",
@@ -337,6 +361,7 @@
     "conference": "cvpr",
     "id": "affde0a4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Object Contour Detection With a Fully Convolutional Encoder-Decoder Network",
@@ -354,6 +379,7 @@
     "conference": "cvpr",
     "id": "1a81696a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "What Value Do Explicit High Level Concepts Have in Vision to Language Problems?",
@@ -370,6 +396,7 @@
     "conference": "cvpr",
     "id": "022d128c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Detection of Curved Edges at Low SNR",
@@ -388,6 +415,7 @@
     "conference": "cvpr",
     "id": "bb5cd0b7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Object Skeleton Extraction in Natural Images by Fusing Scale-Associated Deep Side Outputs",
@@ -402,6 +430,7 @@
     "conference": "cvpr",
     "id": "77679468",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Relaxed Deep Supervision for Better Edge Detection",
@@ -418,6 +447,7 @@
     "conference": "cvpr",
     "id": "3265246a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Occlusion Boundary Detection via Deep Exploration of Context",
@@ -434,6 +464,7 @@
     "conference": "cvpr",
     "id": "1e9a7c94",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SemiContour: A Semi-Supervised Learning Approach for Contour Detection",
@@ -449,6 +480,7 @@
     "conference": "cvpr",
     "id": "3a52d26a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Localize Little Landmarks",
@@ -466,6 +498,7 @@
     "conference": "cvpr",
     "id": "1d41d5eb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "InterActive: Inter-Layer Activeness Propagation",
@@ -484,6 +517,7 @@
     "conference": "cvpr",
     "id": "cab5f7f7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exploit Bounding Box Annotations for Multi-Label Object Recognition",
@@ -500,6 +534,7 @@
     "conference": "cvpr",
     "id": "2cebf906",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "TI-Pooling: Transformation-Invariant Pooling for Feature Learning in Convolutional Neural Networks",
@@ -514,6 +549,7 @@
     "conference": "cvpr",
     "id": "eb6fb24a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fashion Style in 128 Floats: Joint Ranking and Classification Using Weak Data for Feature Extraction",
@@ -529,6 +565,7 @@
     "conference": "cvpr",
     "id": "e27330da",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Equiangular Kernel Dictionary Learning With Applications to Dynamic Texture Analysis",
@@ -545,6 +582,7 @@
     "conference": "cvpr",
     "id": "4f427e72",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Compact Bilinear Pooling",
@@ -560,6 +598,7 @@
     "conference": "cvpr",
     "id": "bc6108b7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Accumulated Stability Voting: A Robust Descriptor From Descriptors of Multiple Scales",
@@ -574,6 +613,7 @@
     "conference": "cvpr",
     "id": "1c32a105",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CoMaL: Good Features to Match on Object Boundaries",
@@ -588,7 +628,10 @@
     "conference": "cvpr",
     "id": "b577860d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Progressive Feature Matching With Alternate Descriptor Selection and Correspondence Enrichment",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Hu_Progressive_Feature_Matching_CVPR_2016_paper.pdf",
@@ -603,6 +646,7 @@
     "conference": "cvpr",
     "id": "9bc97bf3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A New Finsler Minimal Path Model With Curvature Penalization for Image Segmentation and Closed Contour Detection",
@@ -619,6 +663,7 @@
     "conference": "cvpr",
     "id": "03305514",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scale-Aware Alignment of Hierarchical Image Segmentation",
@@ -636,6 +681,7 @@
     "conference": "cvpr",
     "id": "940c0097",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Interactive Object Selection",
@@ -652,6 +698,7 @@
     "conference": "cvpr",
     "id": "597c5bb5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pull the Plug? Predicting If Computers or Humans Should Segment Images",
@@ -667,6 +714,7 @@
     "conference": "cvpr",
     "id": "386610ed",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "In the Shadows, Shape Priors Shine: Using Occlusion to Improve Multi-Region Segmentation",
@@ -684,6 +732,7 @@
     "conference": "cvpr",
     "id": "a0a0f21c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convexity Shape Constraints for Image Segmentation",
@@ -700,6 +749,7 @@
     "conference": "cvpr",
     "id": "75be3606",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MCMC Shape Sampling for Image Segmentation With Nonparametric Shape Priors",
@@ -715,6 +765,7 @@
     "conference": "cvpr",
     "id": "eb945a64",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From Noise Modeling to Blind Image Denoising",
@@ -731,6 +782,7 @@
     "conference": "cvpr",
     "id": "8df0a3f5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient and Robust Color Consistency for Community Photo Collections",
@@ -745,6 +797,7 @@
     "conference": "cvpr",
     "id": "ad2eee34",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Needle-Match: Reliable Patch Matching Under High Uncertainty",
@@ -762,6 +815,7 @@
     "conference": "cvpr",
     "id": "c97a3f1e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ReconNet: Non-Iterative Reconstruction of Images From Compressively Sensed Measurements",
@@ -779,6 +833,7 @@
     "conference": "cvpr",
     "id": "98d4cff3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Soft-Segmentation Guided Object Motion Deblurring",
@@ -796,6 +851,7 @@
     "conference": "cvpr",
     "id": "f6ba0a24",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Two Illuminant Estimation and User Correction Preference",
@@ -810,6 +866,7 @@
     "conference": "cvpr",
     "id": "4e3ef7b8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Contrast Learning for Salient Object Detection",
@@ -825,6 +882,7 @@
     "conference": "cvpr",
     "id": "ce43cc0c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multiview Image Completion With Space Structure Propagation",
@@ -840,6 +898,7 @@
     "conference": "cvpr",
     "id": "994d617d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Composition-Preserving Deep Photo Aesthetics Assessment",
@@ -856,6 +915,7 @@
     "conference": "cvpr",
     "id": "343dff81",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Automatic Image Cropping : A Computational Complexity Study",
@@ -871,6 +931,7 @@
     "conference": "cvpr",
     "id": "3fa551c7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Deeper Look at Saliency: Feature Contrast, Semantics, and Beyond",
@@ -885,7 +946,10 @@
     "conference": "cvpr",
     "id": "3c3aa37a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Spatially Binned ROC: A Comprehensive Saliency Metric",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Wloka_Spatially_Binned_ROC_CVPR_2016_paper.pdf",
@@ -900,6 +964,7 @@
     "conference": "cvpr",
     "id": "66c7488b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "GraB: Visual Saliency via Novel Graph Model and Background Priors",
@@ -915,6 +980,7 @@
     "conference": "cvpr",
     "id": "7c475c32",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Predicting When Saliency Maps Are Accurate and Eye Fixations Consistent",
@@ -931,6 +997,7 @@
     "conference": "cvpr",
     "id": "99ffd007",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Split and Match: Example-Based Adaptive Patch Sampling for Unsupervised Style Transfer",
@@ -947,6 +1014,7 @@
     "conference": "cvpr",
     "id": "9db6c846",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Detection and Accurate Localization of Circular Fiducials Under Highly Challenging Conditions",
@@ -962,6 +1030,7 @@
     "conference": "cvpr",
     "id": "2a2ddf45",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scene Recognition With CNNs: Objects, Scales and Dataset Bias",
@@ -976,6 +1045,7 @@
     "conference": "cvpr",
     "id": "51008762",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Action Maps of Large Environments via First-Person Vision",
@@ -993,6 +1063,7 @@
     "conference": "cvpr",
     "id": "a886c267",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Single-Image Crowd Counting via Multi-Column Convolutional Neural Network",
@@ -1010,6 +1081,7 @@
     "conference": "cvpr",
     "id": "702937e5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Shallow and Deep Convolutional Networks for Saliency Prediction",
@@ -1026,6 +1098,7 @@
     "conference": "cvpr",
     "id": "e4b6ed8c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sample and Filter: Nonparametric Scene Parsing via Efficient Filtering",
@@ -1042,6 +1115,7 @@
     "conference": "cvpr",
     "id": "bf53e898",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeLay: Robust Spatial Layout Estimation for Cluttered Indoor Scenes",
@@ -1056,6 +1130,7 @@
     "conference": "cvpr",
     "id": "f2c5edfe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Text Detection System for Natural Scenes With Convolutional Feature Learning and Cascaded Classification",
@@ -1075,6 +1150,7 @@
     "conference": "cvpr",
     "id": "f789826b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Reversible Recursive Instance-Level Object Segmentation",
@@ -1091,6 +1167,7 @@
     "conference": "cvpr",
     "id": "c29ce7da",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Coherent Parametric Contours for Interactive Video Object Segmentation",
@@ -1107,6 +1184,7 @@
     "conference": "cvpr",
     "id": "452e7093",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Manifold SLIC: A Fast Method to Compute Content-Sensitive Superpixels",
@@ -1122,6 +1200,7 @@
     "conference": "cvpr",
     "id": "0e689660",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Saliency With Encoded Low Level Distance Map and High Level Features",
@@ -1137,6 +1216,7 @@
     "conference": "cvpr",
     "id": "fe2554b6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Instance-Level Segmentation for Autonomous Driving With Deep Densely Connected MRFs",
@@ -1151,6 +1231,7 @@
     "conference": "cvpr",
     "id": "9448a124",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection",
@@ -1167,6 +1248,7 @@
     "conference": "cvpr",
     "id": "32fd8adc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Object Co-Segmentation via Graph Optimized-Flexible Manifold Ranking",
@@ -1182,6 +1264,7 @@
     "conference": "cvpr",
     "id": "03038f5d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Primary Object Segmentation in Videos via Alternate Convex Optimization of Foreground and Background Distributions",
@@ -1197,6 +1280,7 @@
     "conference": "cvpr",
     "id": "6b48da91",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Automatic Fence Segmentation in Videos of Dynamic Scenes",
@@ -1213,7 +1297,10 @@
     "conference": "cvpr",
     "id": "aef4a47e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Discovering the Physical Parts of an Articulated Object Class From Multiple Videos",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Del_Pero_Discovering_the_Physical_CVPR_2016_paper.pdf",
@@ -1231,6 +1318,7 @@
     "conference": "cvpr",
     "id": "81d85d00",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation",
@@ -1248,6 +1336,7 @@
     "conference": "cvpr",
     "id": "1426c769",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Temporal Regularity in Video Sequences",
@@ -1264,6 +1353,7 @@
     "conference": "cvpr",
     "id": "1a9043ec",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bilateral Space Video Segmentation",
@@ -1281,6 +1371,7 @@
     "conference": "cvpr",
     "id": "e4bd2940",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ReD-SFA: Relation Discovery Based Slow Feature Analysis for Trajectory Clustering",
@@ -1296,7 +1387,10 @@
     "conference": "cvpr",
     "id": "7956d5e1",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Training Region-Based Object Detectors With Online Hard Example Mining",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf",
@@ -1312,6 +1406,7 @@
     "conference": "cvpr",
     "id": "2f3c363e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Residual Learning for Image Recognition",
@@ -1328,6 +1423,7 @@
     "conference": "cvpr",
     "id": "1e4436ab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "You Only Look Once: Unified, Real-Time Object Detection",
@@ -1342,6 +1438,7 @@
     "conference": "cvpr",
     "id": "c1f6e946",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "LocNet: Improving Localization Accuracy for Object Detection",
@@ -1360,6 +1457,7 @@
     "conference": "cvpr",
     "id": "1c46f47c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sketch Me That Shoe",
@@ -1374,6 +1472,7 @@
     "conference": "cvpr",
     "id": "85288ffd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images",
@@ -1390,6 +1489,7 @@
     "conference": "cvpr",
     "id": "667c780a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Object Detection From Video Tubelets With Convolutional Neural Networks",
@@ -1405,6 +1505,7 @@
     "conference": "cvpr",
     "id": "f7cb9df7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning With Side Information Through Modality Hallucination",
@@ -1421,6 +1522,7 @@
     "conference": "cvpr",
     "id": "aa3a6720",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Object-Proposal Evaluation Protocol is 'Gameable'",
@@ -1437,6 +1539,7 @@
     "conference": "cvpr",
     "id": "ac918aaf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection",
@@ -1453,6 +1556,7 @@
     "conference": "cvpr",
     "id": "0fe9ef1f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "We Don't Need No Bounding-Boxes: Training Object Class Detectors Using Only Human Verification",
@@ -1469,6 +1573,7 @@
     "conference": "cvpr",
     "id": "3ed8efb3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Factors in Finetuning Deep Model for Object Detection With Long-Tail Distribution",
@@ -1484,6 +1589,7 @@
     "conference": "cvpr",
     "id": "b7fcec6b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Information-Driven Adaptive Structured-Light Scanners",
@@ -1499,6 +1605,7 @@
     "conference": "cvpr",
     "id": "a1ad69c3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Simultaneous Optical Flow and Intensity Estimation From an Event Camera",
@@ -1514,6 +1621,7 @@
     "conference": "cvpr",
     "id": "b7daf7ab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Macroscopic Interferometry: Rethinking Depth Estimation With Frequency-Domain Time-Of-Flight",
@@ -1533,6 +1641,7 @@
     "conference": "cvpr",
     "id": "3a3fb2e4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ASP Vision: Optically Computing the First Layer of Convolutional Neural Networks Using Angle Sensitive Pixels",
@@ -1551,6 +1660,7 @@
     "conference": "cvpr",
     "id": "35ff8324",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Computational Imaging for VLBI Image Reconstruction",
@@ -1568,6 +1678,7 @@
     "conference": "cvpr",
     "id": "fba0a64e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "You Lead, We Exceed: Labor-Free Video Concept Learning by Jointly Exploiting Web Videos and Images",
@@ -1582,6 +1693,7 @@
     "conference": "cvpr",
     "id": "a9265d67",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Track and Segment: An Iterative Unsupervised Approach for Video Object Proposals",
@@ -1597,6 +1709,7 @@
     "conference": "cvpr",
     "id": "15048d4c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Beyond Local Search: Tracking Objects Everywhere With Instance-Specific Proposals",
@@ -1617,6 +1730,7 @@
     "conference": "cvpr",
     "id": "5ac57dbd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Groupwise Tracking of Crowded Similar-Appearance Targets From Low-Continuity Image Sequences",
@@ -1635,6 +1749,7 @@
     "conference": "cvpr",
     "id": "291c9c86",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Social LSTM: Human Trajectory Prediction in Crowded Spaces",
@@ -1650,6 +1765,7 @@
     "conference": "cvpr",
     "id": "60ba8e36",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "What Players Do With the Ball: A Physically Constrained Interaction Modeling",
@@ -1665,6 +1781,7 @@
     "conference": "cvpr",
     "id": "19094b5e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Highlight Detection With Pairwise Deep Ranking for First-Person Video Summarization",
@@ -1681,6 +1798,7 @@
     "conference": "cvpr",
     "id": "e3fc0560",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Direct Prediction of 3D Body Poses From Motion Compensated Sequences",
@@ -1696,6 +1814,7 @@
     "conference": "cvpr",
     "id": "66a9024a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Video2GIF: Automatic Generation of Animated GIFs From Video",
@@ -1712,6 +1831,7 @@
     "conference": "cvpr",
     "id": "c19d7c38",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis",
@@ -1727,6 +1847,7 @@
     "conference": "cvpr",
     "id": "f47c2019",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Progressively Parsing Interactional Objects for Fine Grained Action Detection",
@@ -1744,6 +1865,7 @@
     "conference": "cvpr",
     "id": "40dc1d52",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hierarchical Recurrent Neural Encoder for Video Representation With Application to Captioning",
@@ -1760,6 +1882,7 @@
     "conference": "cvpr",
     "id": "02c4b4bc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From Keyframes to Key Objects: Video Summarization by Representative Object Proposal Selection",
@@ -1775,6 +1898,7 @@
     "conference": "cvpr",
     "id": "8df7270f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Action Localization in Untrimmed Videos via Multi-Stage CNNs",
@@ -1791,6 +1915,7 @@
     "conference": "cvpr",
     "id": "b2676f93",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Summary Transfer: Exemplar-Based Subset Selection for Video Summarization",
@@ -1806,6 +1931,7 @@
     "conference": "cvpr",
     "id": "813ea3b6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "POD: Discovering Primary Objects in Videos Based on Evolutionary Refinement of Object Recurrence, Background, and Primary Object Models",
@@ -1820,6 +1946,7 @@
     "conference": "cvpr",
     "id": "80d8a524",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "What If We Do Not Have Multiple Videos of the Same Action? -- Video Action Localization Using Web Images",
@@ -1834,6 +1961,7 @@
     "conference": "cvpr",
     "id": "dc7bf863",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Beyond F-Formations: Determining Social Involvement in Free Standing Conversing Groups From Static Images",
@@ -1851,7 +1979,10 @@
     "conference": "cvpr",
     "id": "ac9ee12b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "DeepFashion: Powering Robust Clothes Recognition and Retrieval With Rich Annotations",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf",
@@ -1869,6 +2000,7 @@
     "conference": "cvpr",
     "id": "b9507ee0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SketchNet: Sketch Classification With Web Images",
@@ -1885,6 +2017,7 @@
     "conference": "cvpr",
     "id": "abd08375",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Embedding Label Structures for Fine-Grained Feature Representation",
@@ -1899,6 +2032,7 @@
     "conference": "cvpr",
     "id": "41d66200",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fine-Grained Image Classification by Exploring Bipartite-Graph Labels",
@@ -1916,6 +2050,7 @@
     "conference": "cvpr",
     "id": "0e1c21bb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Picking Deep Filter Responses for Fine-Grained Image Recognition",
@@ -1935,6 +2070,7 @@
     "conference": "cvpr",
     "id": "fdba52ce",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SPDA-CNN: Unifying Semantic Part Detection and Abstraction for Fine-Grained Recognition",
@@ -1951,6 +2087,7 @@
     "conference": "cvpr",
     "id": "2a4ea337",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fine-Grained Categorization and Dataset Bootstrapping Using Deep Metric Learning With Humans in the Loop",
@@ -1967,6 +2104,7 @@
     "conference": "cvpr",
     "id": "3ce21737",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mining Discriminative Triplets of Patches for Fine-Grained Classification",
@@ -1983,6 +2121,7 @@
     "conference": "cvpr",
     "id": "6bb550d0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Part-Stacked CNN for Fine-Grained Visual Categorization",
@@ -1999,6 +2138,7 @@
     "conference": "cvpr",
     "id": "3166278c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Compact Binary Descriptors With Unsupervised Deep Neural Networks",
@@ -2015,7 +2155,10 @@
     "conference": "cvpr",
     "id": "bed7b36b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Solving Small-Piece Jigsaw Puzzles by Growing Consensus",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Son_Solving_Small-Piece_Jigsaw_CVPR_2016_paper.pdf",
@@ -2033,6 +2176,7 @@
     "conference": "cvpr",
     "id": "40f31dea",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pairwise Matching Through Max-Weight Bipartite Belief Propagation",
@@ -2046,6 +2190,7 @@
     "conference": "cvpr",
     "id": "e28b9317",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structured Feature Similarity With Explicit Feature Map",
@@ -2060,6 +2205,7 @@
     "conference": "cvpr",
     "id": "12d68a9f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Epipolar Regions",
@@ -2075,6 +2221,7 @@
     "conference": "cvpr",
     "id": "33aba197",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Attention Models for Depth-Based Person Identification",
@@ -2090,6 +2237,7 @@
     "conference": "cvpr",
     "id": "ce1cf4fc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning a Discriminative Null Space for Person Re-Identification",
@@ -2106,6 +2254,7 @@
     "conference": "cvpr",
     "id": "f133b07d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Deep Feature Representations With Domain Guided Dropout for Person Re-Identification",
@@ -2123,6 +2272,7 @@
     "conference": "cvpr",
     "id": "5e6bb268",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "How Far Are We From Solving Pedestrian Detection?",
@@ -2139,6 +2289,7 @@
     "conference": "cvpr",
     "id": "c4793d2f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Similarity Learning With Spatial Constraints for Person Re-Identification",
@@ -2156,6 +2307,7 @@
     "conference": "cvpr",
     "id": "42fa6404",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sample-Specific SVM Learning for Person Re-Identification",
@@ -2173,6 +2325,7 @@
     "conference": "cvpr",
     "id": "d5099f52",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Learning of Single-Image and Cross-Image Representations for Person Re-Identification",
@@ -2190,6 +2343,7 @@
     "conference": "cvpr",
     "id": "7d392df0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Multi-Level Contextual Model For Person Recognition in Photo Albums",
@@ -2209,6 +2363,7 @@
     "conference": "cvpr",
     "id": "42c2f523",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Cross-Dataset Transfer Learning for Person Re-Identification",
@@ -2224,6 +2379,7 @@
     "conference": "cvpr",
     "id": "01fec2db",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pedestrian Detection Inspired by Appearance Constancy and Shape Symmetry",
@@ -2239,6 +2395,7 @@
     "conference": "cvpr",
     "id": "8d16b0e8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Convolutional Network for Video-Based Person Re-Identification",
@@ -2256,6 +2413,7 @@
     "conference": "cvpr",
     "id": "ac34bda2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Person Re-Identification by Multi-Channel Parts-Based CNN With Improved Triplet Loss Function",
@@ -2272,6 +2430,7 @@
     "conference": "cvpr",
     "id": "c5f89325",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Top-Push Video-Based Person Re-Identification",
@@ -2286,6 +2445,7 @@
     "conference": "cvpr",
     "id": "48c9d51d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Improving Person Re-Identification via Pose-Aware Multi-Shot Matching",
@@ -2302,6 +2462,7 @@
     "conference": "cvpr",
     "id": "56650c5e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hierarchical Gaussian Descriptor for Person Re-Identification",
@@ -2318,6 +2479,7 @@
     "conference": "cvpr",
     "id": "7018749a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "STCT: Sequentially Training Convolutional Networks for Visual Tracking",
@@ -2334,6 +2496,7 @@
     "conference": "cvpr",
     "id": "22eb71d8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Determining Occlusions From Space and Time Image Reconstructions",
@@ -2350,6 +2513,7 @@
     "conference": "cvpr",
     "id": "97c30fc0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Multi-Object Tracking via Structural Constraint Event Aggregation",
@@ -2367,6 +2531,7 @@
     "conference": "cvpr",
     "id": "9e8f6b4c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Staple: Complementary Learners for Real-Time Tracking",
@@ -2383,6 +2548,7 @@
     "conference": "cvpr",
     "id": "c0739705",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Optical Flow Estimation of Double-Layer Images Under Transparency or Reflection",
@@ -2398,6 +2564,7 @@
     "conference": "cvpr",
     "id": "f8969581",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Siamese Instance Search for Tracking",
@@ -2414,6 +2581,7 @@
     "conference": "cvpr",
     "id": "0c6a0682",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive Decontamination of the Training Set: A Unified Formulation for Discriminative Visual Tracking",
@@ -2429,6 +2597,7 @@
     "conference": "cvpr",
     "id": "d9806ccd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "3D Part-Based Sparse Tracker With Automatic Synchronization and Registration",
@@ -2445,6 +2614,7 @@
     "conference": "cvpr",
     "id": "807e5f69",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrently Target-Attending Tracking",
@@ -2459,6 +2629,7 @@
     "conference": "cvpr",
     "id": "9eeecc04",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structured Regression Gradient Boosting",
@@ -2474,6 +2645,7 @@
     "conference": "cvpr",
     "id": "d2ea2309",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Loss Functions for Top-k Error: Analysis and Insights",
@@ -2489,6 +2661,7 @@
     "conference": "cvpr",
     "id": "3a141714",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Metric Learning as Convex Combinations of Local Models With Generalization Guarantees",
@@ -2504,6 +2677,7 @@
     "conference": "cvpr",
     "id": "0b2dd81b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Training of Very Deep Neural Networks for Supervised Hashing",
@@ -2520,6 +2694,7 @@
     "conference": "cvpr",
     "id": "e49a8fe6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Information Bottleneck Learning Using Privileged Information for Visual Recognition",
@@ -2534,6 +2709,7 @@
     "conference": "cvpr",
     "id": "b1efe560",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "3D Action Recognition From Novel Viewpoints",
@@ -2549,6 +2725,7 @@
     "conference": "cvpr",
     "id": "be054127",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "3D Shape Attributes",
@@ -2563,6 +2740,7 @@
     "conference": "cvpr",
     "id": "651ef007",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Three-Dimensional Object Detection and Layout Prediction Using Clouds of Oriented Gradients",
@@ -2582,6 +2760,7 @@
     "conference": "cvpr",
     "id": "62e3a191",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "3D Semantic Parsing of Large-Scale Indoor Spaces",
@@ -2599,6 +2778,7 @@
     "conference": "cvpr",
     "id": "4d831e02",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dense Human Body Correspondences Using Convolutional Networks",
@@ -2614,6 +2794,7 @@
     "conference": "cvpr",
     "id": "3ecf91d9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Geometry-Informed Material Recognition",
@@ -2628,6 +2809,7 @@
     "conference": "cvpr",
     "id": "bf99c736",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Open Set Deep Networks",
@@ -2646,6 +2828,7 @@
     "conference": "cvpr",
     "id": "9d8d2445",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "What's Wrong With That Object? Identifying Images of Unusual Objects by Modelling the Detection Score Distribution",
@@ -2662,6 +2845,7 @@
     "conference": "cvpr",
     "id": "07ff9334",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Large-Scale Location Recognition and the Geometric Burstiness Problem",
@@ -2677,6 +2861,7 @@
     "conference": "cvpr",
     "id": "e6fd1b16",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Regularity-Driven Facade Matching Between Aerial and Street Views",
@@ -2691,6 +2876,7 @@
     "conference": "cvpr",
     "id": "4c2aa7c8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Do Computational Models Differ Systematically From Human Object Perception?",
@@ -2706,6 +2892,7 @@
     "conference": "cvpr",
     "id": "6c7d6c56",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Contour Detection in Unstructured 3D Point Clouds",
@@ -2722,6 +2909,7 @@
     "conference": "cvpr",
     "id": "68f45985",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Learning of Edges",
@@ -2738,6 +2926,7 @@
     "conference": "cvpr",
     "id": "76345d9f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Blind Image Deblurring Using Dark Channel Prior",
@@ -2753,6 +2942,7 @@
     "conference": "cvpr",
     "id": "d00a9a36",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deeply-Recursive Convolutional Network for Image Super-Resolution",
@@ -2768,6 +2958,7 @@
     "conference": "cvpr",
     "id": "28718793",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Accurate Image Super-Resolution Using Very Deep Convolutional Networks",
@@ -2782,6 +2973,7 @@
     "conference": "cvpr",
     "id": "2cbb49b9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "RAW Image Reconstruction Using a Self-Contained sRGB-JPEG Image With Only 64 KB Overhead",
@@ -2801,7 +2993,10 @@
     "conference": "cvpr",
     "id": "2b8d16ab",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Group MAD Competition - A New Methodology to Compare Objective Image Quality Models",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Ma_Group_MAD_Competition_CVPR_2016_paper.pdf",
@@ -2816,6 +3011,7 @@
     "conference": "cvpr",
     "id": "922dd703",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Non-Local Image Dehazing",
@@ -2832,6 +3028,7 @@
     "conference": "cvpr",
     "id": "08d7c605",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Holistic Approach to Cross-Channel Image Noise Modeling and Its Application to Image Denoising",
@@ -2851,6 +3048,7 @@
     "conference": "cvpr",
     "id": "04e3acce",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multispectral Images Denoising by Intrinsic Tensor Sparsity Regularization",
@@ -2868,6 +3066,7 @@
     "conference": "cvpr",
     "id": "3a510ac5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Comparative Study for Single Image Blind Deblurring",
@@ -2883,6 +3082,7 @@
     "conference": "cvpr",
     "id": "9ccd6547",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Spatiotemporal Bundle Adjustment for Dynamic 3D Reconstruction",
@@ -2899,6 +3099,7 @@
     "conference": "cvpr",
     "id": "bf7e010c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inextensible Non-Rigid Shape-From-Motion by Second-Order Cone Programming",
@@ -2915,6 +3116,7 @@
     "conference": "cvpr",
     "id": "cbe41f38",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Optimal Relative Pose With Unknown Correspondences",
@@ -2930,6 +3132,7 @@
     "conference": "cvpr",
     "id": "7ebc2854",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Homography Estimation From the Common Self-Polar Triangle of Separate Ellipses",
@@ -2945,6 +3148,7 @@
     "conference": "cvpr",
     "id": "2f4fecff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Heterogeneous Light Fields",
@@ -2961,6 +3165,7 @@
     "conference": "cvpr",
     "id": "a9aaac05",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Consensus-Based Framework for Distributed Bundle Adjustment",
@@ -2977,6 +3182,7 @@
     "conference": "cvpr",
     "id": "d5168166",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Globally Optimal Manhattan Frame Estimation in Real-Time",
@@ -2993,6 +3199,7 @@
     "conference": "cvpr",
     "id": "b453156d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mirror Surface Reconstruction Under an Uncalibrated Camera",
@@ -3009,6 +3216,7 @@
     "conference": "cvpr",
     "id": "175c6309",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Hole Filling Approach Based on Background Reconstruction for View Synthesis in 3D Video",
@@ -3023,6 +3231,7 @@
     "conference": "cvpr",
     "id": "af860ab9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Direct Least-Squares Solution to the PnP Problem With Unknown Focal Length",
@@ -3038,6 +3247,7 @@
     "conference": "cvpr",
     "id": "5d28dd32",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Intersection of Three Quadrics and Applications in Computer Vision",
@@ -3053,6 +3263,7 @@
     "conference": "cvpr",
     "id": "e75d20ec",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Using Spatial Order to Boost the Elimination of Incorrect Feature Matches",
@@ -3069,6 +3280,7 @@
     "conference": "cvpr",
     "id": "e4d93483",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Probabilistic Framework for Color-Based Point Set Registration",
@@ -3086,6 +3298,7 @@
     "conference": "cvpr",
     "id": "7fb8eb35",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Blind Image Deconvolution by Automatic Gradient Activation",
@@ -3102,6 +3315,7 @@
     "conference": "cvpr",
     "id": "b9554436",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "PSyCo: Manifold Span Reduction for Super Resolution",
@@ -3117,6 +3331,7 @@
     "conference": "cvpr",
     "id": "ef71eb4e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Parametric Object Motion From Blur",
@@ -3133,6 +3348,7 @@
     "conference": "cvpr",
     "id": "b1ca58f7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Image Deblurring Using Smartphone Inertial Sensors",
@@ -3148,6 +3364,7 @@
     "conference": "cvpr",
     "id": "cd89de20",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Seven Ways to Improve Example-Based Single Image Super Resolution",
@@ -3168,6 +3385,7 @@
     "conference": "cvpr",
     "id": "ea416ed9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network",
@@ -3184,6 +3402,7 @@
     "conference": "cvpr",
     "id": "cdd48a91",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "They Are Not Equally Reliable: Semantic Event Search Using Differentiated Concept Classifiers",
@@ -3199,6 +3418,7 @@
     "conference": "cvpr",
     "id": "b0f36c66",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Going Deeper into First-Person Activity Recognition",
@@ -3216,6 +3436,7 @@
     "conference": "cvpr",
     "id": "de78f746",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cascaded Interactional Targeting Network for Egocentric Video Analysis",
@@ -3231,6 +3452,7 @@
     "conference": "cvpr",
     "id": "fdeccca3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Temporal Activity Proposals for Efficient Detection of Human Actions in Untrimmed Videos",
@@ -3247,6 +3469,7 @@
     "conference": "cvpr",
     "id": "c69f1491",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Discriminative Hierarchical Rank Pooling for Activity Recognition",
@@ -3262,6 +3485,7 @@
     "conference": "cvpr",
     "id": "9acb4bfc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convolutional Two-Stream Network Fusion for Video Action Recognition",
@@ -3277,6 +3501,7 @@
     "conference": "cvpr",
     "id": "75568a69",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Activity Progression in LSTMs for Activity Detection and Early Detection",
@@ -3293,6 +3518,7 @@
     "conference": "cvpr",
     "id": "ab546c6c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "VLAD3: Encoding Dynamics of Deep Features for Action Recognition",
@@ -3310,6 +3536,7 @@
     "conference": "cvpr",
     "id": "b9e283ee",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Multi-Stream Bi-Directional Recurrent Neural Network for Fine-Grained Action Detection",
@@ -3327,6 +3554,7 @@
     "conference": "cvpr",
     "id": "92e7c376",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Hierarchical Deep Temporal Model for Group Activity Recognition",
@@ -3342,6 +3570,7 @@
     "conference": "cvpr",
     "id": "215b4c94",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Hierarchical Pose-Based Approach to Complex Action Understanding Using Dictionaries of Actionlets and Motion Poselets",
@@ -3359,6 +3588,7 @@
     "conference": "cvpr",
     "id": "0e48e668",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Key Volume Mining Deep Framework for Action Recognition",
@@ -3373,6 +3603,7 @@
     "conference": "cvpr",
     "id": "7a8a14ab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Improved Hamming Distance Search Using Variable Length Substrings",
@@ -3390,6 +3621,7 @@
     "conference": "cvpr",
     "id": "1437dc4e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Shortlist Selection With Residual-Aware Distance Estimator for K-Nearest Neighbor Search",
@@ -3407,6 +3639,7 @@
     "conference": "cvpr",
     "id": "7342e6e0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Supervised Quantization for Similarity Search ",
@@ -3423,6 +3656,7 @@
     "conference": "cvpr",
     "id": "5278d8a2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Large-Scale Approximate Nearest Neighbor Search on the GPU",
@@ -3437,6 +3671,7 @@
     "conference": "cvpr",
     "id": "91ca656d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Collaborative Quantization for Cross-Modal Similarity Search",
@@ -3452,6 +3687,7 @@
     "conference": "cvpr",
     "id": "dd6a16b3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Aggregating Image and Text Quantized Correlated Components",
@@ -3466,6 +3702,7 @@
     "conference": "cvpr",
     "id": "c5c7339f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Indexing of Billion-Scale Datasets of Deep Descriptors",
@@ -3482,6 +3719,7 @@
     "conference": "cvpr",
     "id": "28c0d8b2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Supervised Hashing for Fast Image Retrieval",
@@ -3497,6 +3735,7 @@
     "conference": "cvpr",
     "id": "de7d8d4a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Large-Scale Similarity Search Using Matrix Factorization",
@@ -3512,6 +3751,7 @@
     "conference": "cvpr",
     "id": "f15b1ea5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Incremental Object Discovery in Time-Varying Image Collections",
@@ -3529,7 +3769,10 @@
     "conference": "cvpr",
     "id": "17c9dde2",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Detecting Migrating Birds at Night",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Huang_Detecting_Migrating_Birds_CVPR_2016_paper.pdf",
@@ -3544,6 +3787,7 @@
     "conference": "cvpr",
     "id": "4f9efbad",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "When Naive Bayes Nearest Neighbors Meet Convolutional Neural Networks",
@@ -3562,6 +3806,7 @@
     "conference": "cvpr",
     "id": "84a5ba94",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Traffic-Sign Detection and Classification in the Wild",
@@ -3580,6 +3825,7 @@
     "conference": "cvpr",
     "id": "36a689be",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Large Scale Semi-Supervised Object Detection Using Visual and Semantic Knowledge Transfer",
@@ -3595,6 +3841,7 @@
     "conference": "cvpr",
     "id": "ace8b56e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exploit All the Layers: Fast and Accurate CNN Object Detector With Scale Dependent Pooling and Cascaded Rejection Classifiers",
@@ -3612,6 +3859,7 @@
     "conference": "cvpr",
     "id": "0bd37da1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dictionary Pair Classifier Driven Convolutional Neural Networks for Object Detection",
@@ -3630,6 +3878,7 @@
     "conference": "cvpr",
     "id": "02115680",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Monocular 3D Object Detection for Autonomous Driving",
@@ -3648,6 +3897,7 @@
     "conference": "cvpr",
     "id": "7a1ebd22",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "How Hard Can It Be? Estimating the Difficulty of Visual Search in an Image",
@@ -3665,6 +3915,7 @@
     "conference": "cvpr",
     "id": "9280a21b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles",
@@ -3684,6 +3935,7 @@
     "conference": "cvpr",
     "id": "8e505f04",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Eye Tracking for Everyone",
@@ -3701,6 +3953,7 @@
     "conference": "cvpr",
     "id": "2e539d4c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Globally Optimal 2D-To-3D Deformable Shape Matching",
@@ -3717,6 +3970,7 @@
     "conference": "cvpr",
     "id": "77d9d049",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ambiguity Helps: Classification With Disagreements in Crowdsourced Annotations",
@@ -3732,6 +3986,7 @@
     "conference": "cvpr",
     "id": "65cc2208",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Task-Oriented Approach for Cost-Sensitive Recognition",
@@ -3749,6 +4004,7 @@
     "conference": "cvpr",
     "id": "0f7fc71a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Refining Architectures of Deep Convolutional Neural Networks",
@@ -3764,6 +4020,7 @@
     "conference": "cvpr",
     "id": "cb928e54",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "iLab-20M: A Large-Scale Controlled Object Dataset to Investigate Deep Learning",
@@ -3778,6 +4035,7 @@
     "conference": "cvpr",
     "id": "25d8a8fc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recursive Recurrent Nets With Attention Modeling for OCR in the Wild",
@@ -3795,6 +4053,7 @@
     "conference": "cvpr",
     "id": "02ea1e92",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Decision Network for Multi-Class Image Classification",
@@ -3811,6 +4070,7 @@
     "conference": "cvpr",
     "id": "d2b90c76",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Less Is More: Zero-Shot Learning From Online Textual Documents With Noise Suppression",
@@ -3828,6 +4088,7 @@
     "conference": "cvpr",
     "id": "340123d8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Algorithms for Linear and Kernel SVM+",
@@ -3841,6 +4102,7 @@
     "conference": "cvpr",
     "id": "337d5a13",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hierarchically Gated Deep Networks for Semantic Segmentation",
@@ -3859,6 +4121,7 @@
     "conference": "cvpr",
     "id": "38a3511d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Structured Scene Parsing by Learning With Image Descriptions",
@@ -3877,6 +4140,7 @@
     "conference": "cvpr",
     "id": "2061cf98",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CNN-RNN: A Unified Framework for Multi-Label Image Classification",
@@ -3892,6 +4156,7 @@
     "conference": "cvpr",
     "id": "7e8788d5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Walk and Learn: Facial Attribute Representation Learning From Egocentric Video and Contextual Data",
@@ -3906,6 +4171,7 @@
     "conference": "cvpr",
     "id": "61972a80",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CNN-N-Gram for Handwriting Word Recognition",
@@ -3921,6 +4187,7 @@
     "conference": "cvpr",
     "id": "77e34f34",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Synthetic Data for Text Localisation in Natural Images",
@@ -3936,6 +4203,7 @@
     "conference": "cvpr",
     "id": "4da96cb8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "End-To-End People Detection in Crowded Scenes",
@@ -3952,6 +4220,7 @@
     "conference": "cvpr",
     "id": "785d32d0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Real-Time Salient Object Detection With a Minimum Spanning Tree",
@@ -3968,6 +4237,7 @@
     "conference": "cvpr",
     "id": "5005a6fb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Local Background Enclosure for RGB-D Salient Object Detection",
@@ -3983,6 +4253,7 @@
     "conference": "cvpr",
     "id": "e3955c75",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive Object Detection Using Adjacency and Zoom Prediction",
@@ -3997,6 +4268,7 @@
     "conference": "cvpr",
     "id": "5d984a2b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantic Channels for Fast Pedestrian Detection",
@@ -4012,6 +4284,7 @@
     "conference": "cvpr",
     "id": "188e67c8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "G-CNN: An Iterative Grid Based Object Detector",
@@ -4031,6 +4304,7 @@
     "conference": "cvpr",
     "id": "bee88f75",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Face Aging",
@@ -4048,6 +4322,7 @@
     "conference": "cvpr",
     "id": "c3ff38ed",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Face2Face: Real-Time Face Capture and Reenactment of RGB Videos",
@@ -4066,6 +4341,7 @@
     "conference": "cvpr",
     "id": "666bdf2e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Self-Adaptive Matrix Completion for Heart Rate Estimation From Face Videos Under Realistic Conditions",
@@ -4084,6 +4360,7 @@
     "conference": "cvpr",
     "id": "63a1836d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visually Indicated Sounds",
@@ -4099,6 +4376,7 @@
     "conference": "cvpr",
     "id": "ecffb11f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Image Style Transfer Using Convolutional Neural Networks",
@@ -4117,6 +4395,7 @@
     "conference": "cvpr",
     "id": "afcdcd8a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Patch-Based Convolutional Neural Network for Whole Slide Tissue Image Classification",
@@ -4133,6 +4412,7 @@
     "conference": "cvpr",
     "id": "7b9233ae",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hedgehog Shape Priors for Multi-Object Segmentation",
@@ -4149,6 +4429,7 @@
     "conference": "cvpr",
     "id": "d4105013",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Latent Variable Graphical Model Selection Using Harmonic Analysis: Applications to the Human Connectome Project (HCP)",
@@ -4164,6 +4445,7 @@
     "conference": "cvpr",
     "id": "79b7c64f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Simultaneous Estimation of Near IR BRDF and Fine-Scale Surface Geometry",
@@ -4180,6 +4462,7 @@
     "conference": "cvpr",
     "id": "e807cde4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Do It Yourself Hyperspectral Imaging With Everyday Digital Cameras",
@@ -4197,6 +4480,7 @@
     "conference": "cvpr",
     "id": "717d0496",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Automatic Content-Aware Color and Tone Stylization",
@@ -4211,6 +4495,7 @@
     "conference": "cvpr",
     "id": "b5915cbd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis",
@@ -4227,6 +4512,7 @@
     "conference": "cvpr",
     "id": "ff00d136",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation",
@@ -4245,6 +4531,7 @@
     "conference": "cvpr",
     "id": "1f5295a9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Read Chest X-Rays: Recurrent Neural Cascade Model for Automated Image Annotation",
@@ -4260,6 +4547,7 @@
     "conference": "cvpr",
     "id": "88e65cb6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Conformal Surface Alignment With Optimal Mobius Search",
@@ -4279,6 +4567,7 @@
     "conference": "cvpr",
     "id": "779b5e42",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Coupled Harmonic Bases for Longitudinal Characterization of Brain Networks",
@@ -4296,6 +4585,7 @@
     "conference": "cvpr",
     "id": "c8829833",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Automating Carotid Intima-Media Thickness Video Interpretation With Convolutional Neural Networks",
@@ -4313,6 +4603,7 @@
     "conference": "cvpr",
     "id": "fca339d3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Context Encoders: Feature Learning by Inpainting",
@@ -4330,7 +4621,10 @@
     "conference": "cvpr",
     "id": "03d7c70b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Comparative Deep Learning of Hybrid Representations for Image Recommendations",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Lei_Comparative_Deep_Learning_CVPR_2016_paper.pdf",
@@ -4344,6 +4638,7 @@
     "conference": "cvpr",
     "id": "91a0fa7b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast ConvNets Using Group-Wise Brain Damage",
@@ -4359,6 +4654,7 @@
     "conference": "cvpr",
     "id": "1a670704",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Co-Generate Object Proposals With a Deep Structured Network",
@@ -4374,6 +4670,7 @@
     "conference": "cvpr",
     "id": "6d83776a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks",
@@ -4390,7 +4687,10 @@
     "conference": "cvpr",
     "id": "41f8f57a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Blockout: Dynamic Model Selection for Hierarchical Deep Networks",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Murdock_Blockout_Dynamic_Model_CVPR_2016_paper.pdf",
@@ -4406,7 +4706,10 @@
     "conference": "cvpr",
     "id": "0667321a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "FireCaffe: Near-Linear Acceleration of Deep Neural Network Training on Compute Clusters",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Iandola_FireCaffe_Near-Linear_Acceleration_CVPR_2016_paper.pdf",
@@ -4422,6 +4725,7 @@
     "conference": "cvpr",
     "id": "10cd74d4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MDL-CW: A Multimodal Deep Learning Framework With Cross Weights",
@@ -4438,6 +4742,7 @@
     "conference": "cvpr",
     "id": "5be8b66f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structured Receptive Fields in CNNs",
@@ -4453,7 +4758,10 @@
     "conference": "cvpr",
     "id": "05efbd77",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "First Person Action Recognition Using Deep Learned Descriptors",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Singh_First_Person_Action_CVPR_2016_paper.pdf",
@@ -4468,6 +4776,7 @@
     "conference": "cvpr",
     "id": "8fbe7b72",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recognizing Micro-Actions and Reactions From Paired Egocentric Videos",
@@ -4483,6 +4792,7 @@
     "conference": "cvpr",
     "id": "9f4b9eb7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mining 3D Key-Pose-Motifs for Action Recognition",
@@ -4498,6 +4808,7 @@
     "conference": "cvpr",
     "id": "a8e7c869",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Predicting the Where and What of Actors and Actions Through Online Action Localization",
@@ -4513,6 +4824,7 @@
     "conference": "cvpr",
     "id": "bdca4b98",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Actions ~ Transformations",
@@ -4531,6 +4843,7 @@
     "conference": "cvpr",
     "id": "004b8679",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visual Path Prediction in Complex Scenes With Crowded Moving Objects",
@@ -4547,6 +4860,7 @@
     "conference": "cvpr",
     "id": "a1769255",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "End-To-End Learning of Action Detection From Frame Glimpses in Videos",
@@ -4562,6 +4876,7 @@
     "conference": "cvpr",
     "id": "b466daca",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Action Recognition in Video Using Sparse Coding and Relative Features",
@@ -4576,6 +4891,7 @@
     "conference": "cvpr",
     "id": "1ecf22ca",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Improving Human Action Recognition by Non-Action Classification",
@@ -4592,6 +4908,7 @@
     "conference": "cvpr",
     "id": "f8ce59c6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Actionness Estimation Using Hybrid Fully Convolutional Networks",
@@ -4609,6 +4926,7 @@
     "conference": "cvpr",
     "id": "55b694fa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Real-Time Action Recognition With Enhanced Motion Vector CNNs",
@@ -4624,6 +4942,7 @@
     "conference": "cvpr",
     "id": "cf03d2ee",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Laplacian Patch-Based Image Synthesis",
@@ -4641,6 +4960,7 @@
     "conference": "cvpr",
     "id": "a72fb4a3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rain Streak Removal Using Layer Priors",
@@ -4656,6 +4976,7 @@
     "conference": "cvpr",
     "id": "0238ee6e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gradient-Domain Image Reconstruction Framework With Intensity-Range and Base-Structure Constraints",
@@ -4672,6 +4993,7 @@
     "conference": "cvpr",
     "id": "4e94d204",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Removing Clouds and Recovering Ground Observations in Satellite Image Sequences via Temporally Contiguous Robust Matrix Completion",
@@ -4690,6 +5012,7 @@
     "conference": "cvpr",
     "id": "e7c929ca",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "D3: Deep Dual-Domain Based Fast Restoration of JPEG-Compressed Images",
@@ -4705,6 +5028,7 @@
     "conference": "cvpr",
     "id": "052d2243",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From Bows to Arrows: Rolling Shutter Rectification of Urban Scenes",
@@ -4722,6 +5046,7 @@
     "conference": "cvpr",
     "id": "6edc56a3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Weighted Variational Model for Simultaneous Reflectance and Illumination Estimation",
@@ -4736,6 +5061,7 @@
     "conference": "cvpr",
     "id": "9f6e8614",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visualizing and Understanding Deep Texture Representations",
@@ -4752,6 +5078,7 @@
     "conference": "cvpr",
     "id": "5ed4baac",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Kernel Estimation With Outliers Handling for Image Deblurring",
@@ -4770,6 +5097,7 @@
     "conference": "cvpr",
     "id": "538366f7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Collaborative Learning for Open-Vocabulary Visual Classifiers",
@@ -4787,7 +5115,11 @@
     "conference": "cvpr",
     "id": "aeba4dd4",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Rethinking the Inception Architecture for Computer Vision",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf",
@@ -4802,6 +5134,7 @@
     "conference": "cvpr",
     "id": "6e1d7d9a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cross Modal Distillation for Supervision Transfer",
@@ -4818,6 +5151,7 @@
     "conference": "cvpr",
     "id": "931ffd1d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Point Process Inference for Large-Scale Object Detection",
@@ -4832,6 +5166,7 @@
     "conference": "cvpr",
     "id": "7bd99ef5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Weakly Supervised Deep Detection Networks",
@@ -4847,6 +5182,7 @@
     "conference": "cvpr",
     "id": "7e42a731",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "BORDER: An Oriented Rectangles Approach to Texture-Less Object Recognition",
@@ -4861,6 +5197,7 @@
     "conference": "cvpr",
     "id": "0c6499a5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Active Image Segmentation Propagation",
@@ -4877,7 +5214,10 @@
     "conference": "cvpr",
     "id": "a2adb195",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Inside-Outside Net: Detecting Objects in Context With Skip Pooling and Recurrent Neural Networks",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Bell_Inside-Outside_Net_Detecting_CVPR_2016_paper.pdf",
@@ -4892,6 +5232,7 @@
     "conference": "cvpr",
     "id": "60c629cb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "RIFD-CNN: Rotation-Invariant and Fisher Discriminative Convolutional Neural Networks for Object Detection",
@@ -4907,6 +5248,7 @@
     "conference": "cvpr",
     "id": "4f7815b6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Reinforcement Learning for Visual Object Detection",
@@ -4921,6 +5263,7 @@
     "conference": "cvpr",
     "id": "9351f66f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Detecting Repeating Objects Using Patch Correlation Analysis",
@@ -4938,6 +5281,7 @@
     "conference": "cvpr",
     "id": "591dfa5e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Analyzing Classifiers: Fisher Vectors and Deep Neural Networks",
@@ -4955,6 +5299,7 @@
     "conference": "cvpr",
     "id": "b99bf5f5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Deep Features for Discriminative Localization",
@@ -4971,6 +5316,7 @@
     "conference": "cvpr",
     "id": "088e3829",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Seeing Through the Human Reporting Bias: Visual Classifiers From Noisy Human-Centric Labels",
@@ -4988,6 +5334,7 @@
     "conference": "cvpr",
     "id": "0a9282da",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Aligned Cross-Modal Representations From Weakly Aligned Data",
@@ -5004,6 +5351,7 @@
     "conference": "cvpr",
     "id": "5b961d28",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Probabilistic Collaborative Representation Based Approach for Pattern Classification",
@@ -5021,6 +5369,7 @@
     "conference": "cvpr",
     "id": "9e9c4f21",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Structured Inference Neural Networks With Label Relations",
@@ -5036,6 +5385,7 @@
     "conference": "cvpr",
     "id": "07848261",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Discriminative Multi-Modal Feature Fusion for RGBD Indoor Scene Recognition",
@@ -5052,6 +5402,7 @@
     "conference": "cvpr",
     "id": "c85f6616",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Conditional Graphical Lasso for Multi-Label Image Classification",
@@ -5066,6 +5417,7 @@
     "conference": "cvpr",
     "id": "2f39c2ae",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Region Ranking SVM for Image Classification",
@@ -5082,6 +5434,7 @@
     "conference": "cvpr",
     "id": "26b9962c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Predicting Motivations of Actions by Leveraging Text",
@@ -5097,6 +5450,7 @@
     "conference": "cvpr",
     "id": "caafcd70",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "BoxCars: 3D Boxes as CNN Input for Improved Fine-Grained Vehicle Recognition",
@@ -5113,6 +5467,7 @@
     "conference": "cvpr",
     "id": "ad1fa506",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Highway Vehicle Counting in Compressed Domain",
@@ -5130,6 +5485,7 @@
     "conference": "cvpr",
     "id": "0df5131d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Camera Calibration From Periodic Motion of a Pedestrian",
@@ -5147,6 +5503,7 @@
     "conference": "cvpr",
     "id": "24745bf0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dynamic Image Networks for Action Recognition",
@@ -5165,7 +5522,10 @@
     "conference": "cvpr",
     "id": "8a8139db",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Detecting Events and Key Actors in Multi-Person Videos",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Ramanathan_Detecting_Events_and_CVPR_2016_paper.pdf",
@@ -5179,6 +5539,7 @@
     "conference": "cvpr",
     "id": "0918d496",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Regularizing Long Short Term Memory With 3D Human-Skeleton Sequences for Action Recognition",
@@ -5196,6 +5557,7 @@
     "conference": "cvpr",
     "id": "f0940a64",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Personalizing Human Video Pose Estimation",
@@ -5212,6 +5574,7 @@
     "conference": "cvpr",
     "id": "c4e0a36d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "End-To-End Learning of Deformable Mixture of Parts and Deep Convolutional Neural Networks for Human Pose Estimation",
@@ -5226,6 +5589,7 @@
     "conference": "cvpr",
     "id": "32bde516",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Actor-Action Semantic Segmentation With Grouping Process Models",
@@ -5242,6 +5606,7 @@
     "conference": "cvpr",
     "id": "50b0d009",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Action Localization With Pyramid of Score Distribution Features",
@@ -5258,6 +5623,7 @@
     "conference": "cvpr",
     "id": "811b4a45",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recognizing Activities of Daily Living With a Wrist-Mounted Camera",
@@ -5274,6 +5640,7 @@
     "conference": "cvpr",
     "id": "5f429a10",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Harnessing Object and Scene Semantics for Large-Scale Video Understanding",
@@ -5289,6 +5656,7 @@
     "conference": "cvpr",
     "id": "800e5c5c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Video-Story Composition via Plot Analysis",
@@ -5303,6 +5671,7 @@
     "conference": "cvpr",
     "id": "e80bcb2e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Action Detection Using a Statistical Language Model",
@@ -5320,6 +5689,7 @@
     "conference": "cvpr",
     "id": "5d23a364",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Scale Patch Aggregation (MPA) for Simultaneous Detection and Segmentation",
@@ -5335,6 +5705,7 @@
     "conference": "cvpr",
     "id": "f179ed29",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Instance-Aware Semantic Segmentation via Multi-Task Network Cascades",
@@ -5352,6 +5723,7 @@
     "conference": "cvpr",
     "id": "0aef009e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation",
@@ -5367,6 +5739,7 @@
     "conference": "cvpr",
     "id": "2c361011",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Feature Space Optimization for Semantic Video Segmentation",
@@ -5385,6 +5758,7 @@
     "conference": "cvpr",
     "id": "58d25e66",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Large-Scale Semantic 3D Reconstruction: An Adaptive Multi-Resolution Model for Multi-Class Volumetric Labeling",
@@ -5403,6 +5777,7 @@
     "conference": "cvpr",
     "id": "41654729",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantic Object Parsing With Local-Global Long Short-Term Memory",
@@ -5419,6 +5794,7 @@
     "conference": "cvpr",
     "id": "1f7d21c3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation",
@@ -5435,6 +5811,7 @@
     "conference": "cvpr",
     "id": "446a2bc0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Transferrable Knowledge for Semantic Segmentation With Deep Convolutional Neural Network",
@@ -5456,6 +5833,7 @@
     "conference": "cvpr",
     "id": "beed97b5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Cityscapes Dataset for Semantic Urban Scene Understanding",
@@ -5472,6 +5850,7 @@
     "conference": "cvpr",
     "id": "26e2541e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gaussian Conditional Random Field Network for Semantic Segmentation",
@@ -5489,6 +5868,7 @@
     "conference": "cvpr",
     "id": "ea3d66ad",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes",
@@ -5504,6 +5884,7 @@
     "conference": "cvpr",
     "id": "1fdbae6a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Progressive Prioritized Multi-View Stereo",
@@ -5519,6 +5900,7 @@
     "conference": "cvpr",
     "id": "e41bb132",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "WarpNet: Weakly Supervised Matching for Single-View Reconstruction",
@@ -5534,6 +5916,7 @@
     "conference": "cvpr",
     "id": "a199a0c0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "What Sparse Light Field Coding Reveals About Scene Structure",
@@ -5549,6 +5932,7 @@
     "conference": "cvpr",
     "id": "54be928a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Reconstruction of Indoor Scenes From RGB-D Streams",
@@ -5564,6 +5948,7 @@
     "conference": "cvpr",
     "id": "ada500a8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Patches, Planes and Probabilities: A Non-Local Prior for Volumetric 3D Reconstruction",
@@ -5578,6 +5963,7 @@
     "conference": "cvpr",
     "id": "670cbc65",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Single Image Camera Calibration With Lenticular Arrays for Augmented Reality",
@@ -5592,6 +5978,7 @@
     "conference": "cvpr",
     "id": "fe95f40c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Augmented Blendshapes for Real-Time Simultaneous 3D Head Modeling and Facial Motion Capture",
@@ -5607,6 +5994,7 @@
     "conference": "cvpr",
     "id": "0c2f9bb4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learned Binary Spectral Shape Descriptor for 3D Shape Correspondence",
@@ -5621,6 +6009,7 @@
     "conference": "cvpr",
     "id": "fbb0f0f1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multiple Model Fitting as a Set Coverage Problem",
@@ -5635,6 +6024,7 @@
     "conference": "cvpr",
     "id": "7e207298",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Piecewise-Planar 3D Approximation From Wide-Baseline Stereo",
@@ -5650,6 +6040,7 @@
     "conference": "cvpr",
     "id": "1b7dcd5b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparse to Dense 3D Reconstruction From Rolling Shutter Images",
@@ -5665,6 +6056,7 @@
     "conference": "cvpr",
     "id": "e01e65d3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Consistency of Silhouettes and Their Duals",
@@ -5680,6 +6072,7 @@
     "conference": "cvpr",
     "id": "a52d1430",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rolling Shutter Absolute Pose Problem With Known Vertical Direction",
@@ -5698,6 +6091,7 @@
     "conference": "cvpr",
     "id": "207bc276",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Uncertainty-Driven 6D Pose Estimation of Objects and Scenes From a Single RGB Image",
@@ -5713,6 +6107,7 @@
     "conference": "cvpr",
     "id": "fec3c51c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multicamera Calibration From Visible and Mirrored Epipoles",
@@ -5729,6 +6124,7 @@
     "conference": "cvpr",
     "id": "9b219b16",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Unsupervised Deformable Spatio-Temporal Alignment of Sequences",
@@ -5744,6 +6140,7 @@
     "conference": "cvpr",
     "id": "50a2dac6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Region and Multi-Label Learning for Facial Action Unit Detection",
@@ -5758,6 +6155,7 @@
     "conference": "cvpr",
     "id": "f34a47c6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Constrained Joint Cascade Regression Framework for Simultaneous Facial Action Unit Recognition and Facial Landmark Detection",
@@ -5774,6 +6172,7 @@
     "conference": "cvpr",
     "id": "1b242b7a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unconstrained Face Alignment via Cascaded Compositional Learning",
@@ -5788,6 +6187,7 @@
     "conference": "cvpr",
     "id": "3e37d4ef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Automated 3D Face Reconstruction From Multiple Images Using Quality Measures",
@@ -5804,6 +6204,7 @@
     "conference": "cvpr",
     "id": "4f73463c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Occlusion-Free Face Alignment: Deep Regression Networks Coupled With De-Corrupt AutoEncoders",
@@ -5829,6 +6230,7 @@
     "conference": "cvpr",
     "id": "930b6952",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multimodal Spontaneous Emotion Corpus for Human Behavior Analysis",
@@ -5844,6 +6246,7 @@
     "conference": "cvpr",
     "id": "bd00cfbf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Reconstruction-Based Remote Gaze Estimation",
@@ -5860,6 +6263,7 @@
     "conference": "cvpr",
     "id": "eab1932d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Training of Cascaded CNN for Face Detection",
@@ -5876,6 +6280,7 @@
     "conference": "cvpr",
     "id": "d500b64b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Facial Expression Intensity Estimation Using Ordinal Information",
@@ -5892,6 +6297,7 @@
     "conference": "cvpr",
     "id": "d7bb9d20",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Proposal Flow",
@@ -5909,7 +6315,10 @@
     "conference": "cvpr",
     "id": "cb77d699",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "ProNet: Learning to Propose Object-Specific Boxes for Cascaded Neural Networks",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Sun_ProNet_Learning_to_CVPR_2016_paper.pdf",
@@ -5923,6 +6332,7 @@
     "conference": "cvpr",
     "id": "d8580d17",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Seeing Behind the Camera: Identifying the Authorship of a Photograph",
@@ -5942,6 +6352,7 @@
     "conference": "cvpr",
     "id": "f8ba1fd4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Material Classification Using Raw Time-Of-Flight Measurements",
@@ -5959,7 +6370,10 @@
     "conference": "cvpr",
     "id": "0b26d3d2",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Weakly Supervised Object Localization With Progressive Domain Adaptation",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Li_Weakly_Supervised_Object_CVPR_2016_paper.pdf",
@@ -5975,6 +6389,7 @@
     "conference": "cvpr",
     "id": "0f41fbe1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Newtonian Scene Understanding: Unfolding the Dynamics of Objects in Static Images",
@@ -5990,6 +6405,7 @@
     "conference": "cvpr",
     "id": "a3e73cf2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Identifying Good Training Data for Self-Supervised Free Space Estimation",
@@ -6007,6 +6423,7 @@
     "conference": "cvpr",
     "id": "b4821e88",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Match Aerial Images With Deep Attentive Architectures",
@@ -6022,6 +6439,7 @@
     "conference": "cvpr",
     "id": "dc541ff7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection",
@@ -6038,6 +6456,7 @@
     "conference": "cvpr",
     "id": "22661e60",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepCAMP: Deep Convolutional Action &amp; Attribute Mid-Level Patterns",
@@ -6053,6 +6472,7 @@
     "conference": "cvpr",
     "id": "d8fe7a96",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Canny Text Detector: Fast and Robust Scene Text Localization Algorithm",
@@ -6068,6 +6488,7 @@
     "conference": "cvpr",
     "id": "21af6482",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Multimodal Learning in Audiovisual Speech Recognition",
@@ -6084,6 +6505,7 @@
     "conference": "cvpr",
     "id": "88ea8e78",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recovering 6D Object Pose and Predicting Next-Best-View in the Crowd",
@@ -6100,6 +6522,7 @@
     "conference": "cvpr",
     "id": "12843a21",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs",
@@ -6115,6 +6538,7 @@
     "conference": "cvpr",
     "id": "3bac109e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantic Segmentation With Boundary Neural Fields",
@@ -6131,6 +6555,7 @@
     "conference": "cvpr",
     "id": "ae82a240",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "HD Maps: Fine-Grained Road Segmentation by Parsing Ground and Aerial Images",
@@ -6147,6 +6572,7 @@
     "conference": "cvpr",
     "id": "6d215941",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DAG-Recurrent Neural Networks For Scene Labeling",
@@ -6161,6 +6587,7 @@
     "conference": "cvpr",
     "id": "b49b0469",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Saliency Guided Dictionary Learning for Weakly-Supervised Image Parsing",
@@ -6178,6 +6605,7 @@
     "conference": "cvpr",
     "id": "d2eb2268",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Attention to Scale: Scale-Aware Semantic Image Segmentation",
@@ -6192,6 +6620,7 @@
     "conference": "cvpr",
     "id": "adf2dd36",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scene Labeling Using Sparse Precision Matrix",
@@ -6207,7 +6636,10 @@
     "conference": "cvpr",
     "id": "7ba0bdb0",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Iterative Instance Segmentation",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Li_Iterative_Instance_Segmentation_CVPR_2016_paper.pdf",
@@ -6222,6 +6654,7 @@
     "conference": "cvpr",
     "id": "b2b4a5fe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Attentional Networks for Saliency Detection",
@@ -6238,6 +6671,7 @@
     "conference": "cvpr",
     "id": "c01ddd4a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Instance-Level Video Segmentation From Object Tracks",
@@ -6254,6 +6688,7 @@
     "conference": "cvpr",
     "id": "ba2765f5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantic Instance Annotation of Street Scenes by 3D to 2D Label Transfer",
@@ -6270,6 +6705,7 @@
     "conference": "cvpr",
     "id": "527e8f24",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Amplitude Modulated Video Camera - Light Separation in Dynamic Scenes",
@@ -6288,7 +6724,10 @@
     "conference": "cvpr",
     "id": "45ee47cb",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "A Benchmark Dataset and Evaluation for Non-Lambertian and Uncalibrated Photometric Stereo",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Shi_A_Benchmark_Dataset_CVPR_2016_paper.pdf",
@@ -6303,6 +6742,7 @@
     "conference": "cvpr",
     "id": "20a61dc0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Depth From Semi-Calibrated Stereo and Defocus",
@@ -6319,6 +6759,7 @@
     "conference": "cvpr",
     "id": "731c2802",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exploiting Spectral-Spatial Correlation for Coded Hyperspectral Image Restoration",
@@ -6335,6 +6776,7 @@
     "conference": "cvpr",
     "id": "cea527a4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Variable Aperture Light Field Photography: Overcoming the Diffraction-Limited Spatio-Angular Resolution Tradeoff",
@@ -6349,6 +6791,7 @@
     "conference": "cvpr",
     "id": "11b94912",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convolutional Networks for Shape From Light Field",
@@ -6364,7 +6807,10 @@
     "conference": "cvpr",
     "id": "99ea4389",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Panoramic Stereo Videos With a Single Camera",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Aggarwal_Panoramic_Stereo_Videos_CVPR_2016_paper.pdf",
@@ -6378,6 +6824,7 @@
     "conference": "cvpr",
     "id": "9c261f66",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Next Best Underwater View",
@@ -6396,6 +6843,7 @@
     "conference": "cvpr",
     "id": "8667f62d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Reconstructing Shapes and Appearances of Thin Film Objects Using RGB Images",
@@ -6411,6 +6859,7 @@
     "conference": "cvpr",
     "id": "69a03f5e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Noisy Label Recovery for Shadow Detection in Unfamiliar Domains",
@@ -6426,6 +6875,7 @@
     "conference": "cvpr",
     "id": "ebcdaed6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Hand: How to Train a CNN on 1 Million Hand Images When Your Data Is Continuous and Weakly Labelled",
@@ -6442,6 +6892,7 @@
     "conference": "cvpr",
     "id": "3bddc7c2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recognizing Car Fluents From Video",
@@ -6457,6 +6908,7 @@
     "conference": "cvpr",
     "id": "5d33a2ae",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pairwise Decomposition of Image Sequences for Active Multi-View Recognition",
@@ -6474,6 +6926,7 @@
     "conference": "cvpr",
     "id": "20ec2486",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inferring Forces and Learning Human Utilities From Videos",
@@ -6489,6 +6942,7 @@
     "conference": "cvpr",
     "id": "489a25de",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Force From Motion: Decoding Physical Sensation in a First Person Video",
@@ -6505,6 +6959,7 @@
     "conference": "cvpr",
     "id": "cbecff6a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Multi-Body Feature Tracker: A Segmentation-Free Approach",
@@ -6519,7 +6974,10 @@
     "conference": "cvpr",
     "id": "c04c90d7",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Slow and Steady Feature Analysis: Higher Order Temporal Coherence in Video",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Jayaraman_Slow_and_Steady_CVPR_2016_paper.pdf",
@@ -6537,6 +6995,7 @@
     "conference": "cvpr",
     "id": "3ae2ca65",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Volumetric 3D Tracking by Detection",
@@ -6553,7 +7012,10 @@
     "conference": "cvpr",
     "id": "d82e7a52",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "The Solution Path Algorithm for Identity-Aware Multi-Object Tracking",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Yu_The_Solution_Path_CVPR_2016_paper.pdf",
@@ -6568,6 +7030,7 @@
     "conference": "cvpr",
     "id": "67d6b712",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "In Defense of Sparse Tracking: Circulant Sparse Tracker",
@@ -6584,6 +7047,7 @@
     "conference": "cvpr",
     "id": "c9548e16",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Optical Flow With Semantic Segmentation and Localized Layers",
@@ -6599,7 +7063,10 @@
     "conference": "cvpr",
     "id": "6384f512",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Video Segmentation via Object Flow",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Tsai_Video_Segmentation_via_CVPR_2016_paper.pdf",
@@ -6615,6 +7082,7 @@
     "conference": "cvpr",
     "id": "3c67c779",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Closed-Form Training of Mahalanobis Distance for Supervised Clustering",
@@ -6630,6 +7098,7 @@
     "conference": "cvpr",
     "id": "f669677c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scalable Sparse Subspace Clustering by Orthogonal Matching Pursuit",
@@ -6646,6 +7115,7 @@
     "conference": "cvpr",
     "id": "ba2bed6e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Oracle Based Active Set Algorithm for Scalable Elastic Net Subspace Clustering",
@@ -6664,6 +7134,7 @@
     "conference": "cvpr",
     "id": "13c211f5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparse Coding and Dictionary Learning With Linear Dynamical Systems",
@@ -6681,6 +7152,7 @@
     "conference": "cvpr",
     "id": "ab6da251",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sublabel-Accurate Relaxation of Nonconvex Energies",
@@ -6695,6 +7167,7 @@
     "conference": "cvpr",
     "id": "f0304419",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Multiverse Loss for Robust Transfer Learning",
@@ -6709,6 +7182,7 @@
     "conference": "cvpr",
     "id": "ffb52a9e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning From the Mistakes of Others: Matching Errors in Cross-Dataset Learning",
@@ -6724,6 +7198,7 @@
     "conference": "cvpr",
     "id": "e548e6df",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Efficient Exact-PGA Algorithm for Constant Curvature Manifolds",
@@ -6738,6 +7213,7 @@
     "conference": "cvpr",
     "id": "db26952b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Learning With Bayesian Classification Trees",
@@ -6754,6 +7230,7 @@
     "conference": "cvpr",
     "id": "18dcc225",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cross-Stitch Networks for Multi-Task Learning",
@@ -6770,7 +7247,10 @@
     "conference": "cvpr",
     "id": "71cbc92b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Deep Metric Learning via Lifted Structured Feature Embedding",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf",
@@ -6784,6 +7264,7 @@
     "conference": "cvpr",
     "id": "562276e8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Algorithms for Convolutional Neural Networks",
@@ -6800,6 +7281,7 @@
     "conference": "cvpr",
     "id": "df69ad40",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Coordinating Multiple Disparity Proposals for Stereo Computation",
@@ -6817,6 +7299,7 @@
     "conference": "cvpr",
     "id": "9d02601a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Multiview Segmentation and Localization of RGB-D Images Using Depth-Induced Silhouette Consistency",
@@ -6836,7 +7319,10 @@
     "conference": "cvpr",
     "id": "a989e04b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Mayer_A_Large_Dataset_CVPR_2016_paper.pdf",
@@ -6852,6 +7338,7 @@
     "conference": "cvpr",
     "id": "74ed2f2e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "6D Dynamic Camera Relocalization From Single Reference Image",
@@ -6868,6 +7355,7 @@
     "conference": "cvpr",
     "id": "c38bc045",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dense Monocular Depth Estimation in Complex Dynamic Scenes",
@@ -6884,6 +7372,7 @@
     "conference": "cvpr",
     "id": "b7484b9f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Using Self-Contradiction to Learn Confidence Measures in Stereo Vision",
@@ -6901,6 +7390,7 @@
     "conference": "cvpr",
     "id": "77b1fae3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Understanding Real World Indoor Scenes With Synthetic Data",
@@ -6918,6 +7408,7 @@
     "conference": "cvpr",
     "id": "c906188a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stereo Matching With Color and Monochrome Cameras in Low-Light Conditions",
@@ -6934,6 +7425,7 @@
     "conference": "cvpr",
     "id": "b7cd370c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Camera Calibration From Dynamic Silhouettes Using Motion Barcodes",
@@ -6948,6 +7440,7 @@
     "conference": "cvpr",
     "id": "d1362fa5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structure-From-Motion Revisited",
@@ -6962,6 +7455,7 @@
     "conference": "cvpr",
     "id": "1c24c255",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Constructing Canonical Regions for Fast and Effective View Selection",
@@ -6976,6 +7470,7 @@
     "conference": "cvpr",
     "id": "b0c5c01f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Prior-Less Compressible Structure From Motion",
@@ -6991,6 +7486,7 @@
     "conference": "cvpr",
     "id": "08c3c9b4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rolling Shutter Camera Relative Pose: Generalized Epipolar Geometry",
@@ -7006,6 +7502,7 @@
     "conference": "cvpr",
     "id": "ee985001",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structure From Motion With Objects",
@@ -7021,6 +7518,7 @@
     "conference": "cvpr",
     "id": "5503d9c3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepHand: Robust Hand Pose Estimation by Completing a Matrix Imputed With Deep Features",
@@ -7039,6 +7537,7 @@
     "conference": "cvpr",
     "id": "377ed029",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Oriented Text Detection With Fully Convolutional Networks",
@@ -7056,6 +7555,7 @@
     "conference": "cvpr",
     "id": "1dccd862",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Scene Text Recognition With Automatic Rectification",
@@ -7073,6 +7573,7 @@
     "conference": "cvpr",
     "id": "9e00b8cc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mnemonic Descent Method: A Recurrent Process Applied for End-To-End Face Alignment",
@@ -7087,6 +7588,7 @@
     "conference": "cvpr",
     "id": "98f775a4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Large-Pose Face Alignment via CNN-Based Dense 3D Model Fitting",
@@ -7102,6 +7604,7 @@
     "conference": "cvpr",
     "id": "4464df02",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptive 3D Face Reconstruction From Unconstrained Photo Collections",
@@ -7120,6 +7623,7 @@
     "conference": "cvpr",
     "id": "f0b9d96f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Detection and Classification of Dynamic Hand Gestures With Recurrent 3D Convolutional Neural Network",
@@ -7137,6 +7641,7 @@
     "conference": "cvpr",
     "id": "ee1b2024",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Kinematic Structure Correspondences via Hypergraph Matching",
@@ -7152,6 +7657,7 @@
     "conference": "cvpr",
     "id": "e37d9cfa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CP-mtML: Coupled Projection Multi-Task Metric Learning for Large Scale Face Retrieval",
@@ -7166,6 +7672,7 @@
     "conference": "cvpr",
     "id": "7559d29d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "PatchBatch: A Batch Augmented Loss for Optical Flow",
@@ -7181,6 +7688,7 @@
     "conference": "cvpr",
     "id": "bfcfabc2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Recovery of Dense Correspondence and Cosegmentation in Two Images",
@@ -7197,6 +7705,7 @@
     "conference": "cvpr",
     "id": "030c063b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-View People Tracking via Hierarchical Trajectory Composition",
@@ -7214,6 +7723,7 @@
     "conference": "cvpr",
     "id": "77189864",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Object Tracking via Dual Linear Structured SVM and Explicit Feature Map",
@@ -7227,6 +7737,7 @@
     "conference": "cvpr",
     "id": "46f14ec6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust, Real-Time 3D Tracking of Multiple Objects With Similar Appearances",
@@ -7241,6 +7752,7 @@
     "conference": "cvpr",
     "id": "15d85259",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Egocentric Look at Video Photographer Identity",
@@ -7255,6 +7767,7 @@
     "conference": "cvpr",
     "id": "ae561ce1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Multi-Domain Convolutional Neural Networks for Visual Tracking",
@@ -7274,6 +7787,7 @@
     "conference": "cvpr",
     "id": "32ef05e6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hedged Deep Tracking",
@@ -7290,6 +7804,7 @@
     "conference": "cvpr",
     "id": "30dbb2a7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structural Correlation Filter for Robust Visual Tracking",
@@ -7307,7 +7822,10 @@
     "conference": "cvpr",
     "id": "cb71f2c3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Visual Tracking Using Attention-Modulated Disintegration and Integration",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Choi_Visual_Tracking_Using_CVPR_2016_paper.pdf",
@@ -7323,6 +7841,7 @@
     "conference": "cvpr",
     "id": "9ec3f71c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Continuous Occlusion Model for Road Scene Understanding",
@@ -7339,6 +7858,7 @@
     "conference": "cvpr",
     "id": "113af307",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Virtual Worlds as Proxy for Multi-Object Tracking Analysis",
@@ -7354,6 +7874,7 @@
     "conference": "cvpr",
     "id": "e104cbcf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Uncalibrated Photometric Stereo by Stepwise Optimization Using Principal Components of Isotropic BRDFs",
@@ -7369,6 +7890,7 @@
     "conference": "cvpr",
     "id": "6b8fba92",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unbiased Photometric Stereo for Colored Surfaces: A Variational Approach",
@@ -7384,6 +7906,7 @@
     "conference": "cvpr",
     "id": "b48c4795",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "3D Reconstruction of Transparent Objects With Position-Normal Consistency",
@@ -7402,6 +7925,7 @@
     "conference": "cvpr",
     "id": "a3e3e32c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Real-Time Depth Refinement for Specular Objects",
@@ -7419,6 +7943,7 @@
     "conference": "cvpr",
     "id": "ffe27633",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recovering Transparent Shape From Time-Of-Flight Distortion",
@@ -7433,6 +7958,7 @@
     "conference": "cvpr",
     "id": "9ba90204",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Light Field Depth Estimation for Noisy Scene With Occlusion",
@@ -7450,6 +7976,7 @@
     "conference": "cvpr",
     "id": "3301ec89",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rotational Crossed-Slit Light Field",
@@ -7466,6 +7993,7 @@
     "conference": "cvpr",
     "id": "190fa8a4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Single Image Object Modeling Based on BRDF and R-Surfaces Learning",
@@ -7484,6 +8012,7 @@
     "conference": "cvpr",
     "id": "b72430da",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Nonlinear Regression Technique for Manifold Valued Data With Applications to Medical Image Analysis",
@@ -7500,6 +8029,7 @@
     "conference": "cvpr",
     "id": "06ae3a86",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "RAID-G: Robust Estimation of Approximate Infinite Dimensional Gaussian With Application to Material Recognition",
@@ -7515,6 +8045,7 @@
     "conference": "cvpr",
     "id": "b1da44bc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Empirical Evaluation of Current Convolutional Architectures' Ability to Manage Nuisance Location and Scale Variability",
@@ -7530,7 +8061,10 @@
     "conference": "cvpr",
     "id": "77db1263",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Learning Sparse High Dimensional Filters: Image Filtering, Dense CRFs and Bilateral Neural Networks",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Jampani_Learning_Sparse_High_CVPR_2016_paper.pdf",
@@ -7548,6 +8082,7 @@
     "conference": "cvpr",
     "id": "0273e550",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mixture of Bilateral-Projection Two-Dimensional Probabilistic Principal Component Analysis",
@@ -7562,6 +8097,7 @@
     "conference": "cvpr",
     "id": "9ca91705",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rolling Rotations for Recognizing Human Actions From 3D Skeletal Data",
@@ -7578,7 +8114,10 @@
     "conference": "cvpr",
     "id": "9b55d30b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Improving the Robustness of Deep Neural Networks via Stability Training",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Zheng_Improving_the_Robustness_CVPR_2016_paper.pdf",
@@ -7593,6 +8132,7 @@
     "conference": "cvpr",
     "id": "59ba7904",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Logistic Boosting Regression for Label Distribution Learning",
@@ -7610,6 +8150,7 @@
     "conference": "cvpr",
     "id": "18d88d8c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Temporal Sequence Comparison and Classification Using Gram Matrix Embeddings on a Riemannian Manifold",
@@ -7627,6 +8168,7 @@
     "conference": "cvpr",
     "id": "ab04a1d6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Reflectance Maps",
@@ -7640,6 +8182,7 @@
     "conference": "cvpr",
     "id": "0cc4d114",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantic Filtering",
@@ -7655,6 +8198,7 @@
     "conference": "cvpr",
     "id": "a1889906",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "UAV Sensor Fusion With Latent-Dynamic Conditional Random Fields in Coronal Plane Estimation",
@@ -7673,6 +8217,7 @@
     "conference": "cvpr",
     "id": "716038af",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Visual Place Recognition With Graph Kernels",
@@ -7690,7 +8235,10 @@
     "conference": "cvpr",
     "id": "04ccbb92",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Semantic Image Segmentation With Task-Specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf",
@@ -7708,6 +8256,7 @@
     "conference": "cvpr",
     "id": "0368f625",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Natural Language Object Retrieval",
@@ -7723,6 +8272,7 @@
     "conference": "cvpr",
     "id": "c89ce702",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DenseCap: Fully Convolutional Localization Networks for Dense Captioning",
@@ -7741,6 +8291,7 @@
     "conference": "cvpr",
     "id": "a7861b76",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Learning From Narrated Instruction Videos",
@@ -7758,7 +8309,10 @@
     "conference": "cvpr",
     "id": "1f46081c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.pdf",
@@ -7775,6 +8329,7 @@
     "conference": "cvpr",
     "id": "bfe73c1f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Jointly Modeling Embedding and Translation to Bridge Video and Language",
@@ -7794,7 +8349,10 @@
     "conference": "cvpr",
     "id": "4f60f34b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "We Are Humor Beings: Understanding and Predicting Visual Humor",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Chandrasekaran_We_Are_Humor_CVPR_2016_paper.pdf",
@@ -7809,6 +8367,7 @@
     "conference": "cvpr",
     "id": "529f3346",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Where to Look: Focus Regions for Visual Question Answering",
@@ -7826,6 +8385,7 @@
     "conference": "cvpr",
     "id": "e67b73f8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ask Me Anything: Free-Form Visual Question Answering Based on Knowledge From External Sources",
@@ -7844,6 +8404,7 @@
     "conference": "cvpr",
     "id": "96645d2e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MovieQA: Understanding Stories in Movies Through Question-Answering",
@@ -7863,6 +8424,7 @@
     "conference": "cvpr",
     "id": "d51e1b29",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "TGIF: A New Dataset and Benchmark on Animated GIF Description",
@@ -7880,6 +8442,7 @@
     "conference": "cvpr",
     "id": "306aedff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Image Captioning With Semantic Attention",
@@ -7896,6 +8459,7 @@
     "conference": "cvpr",
     "id": "df0e2c70",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporally Coherent 4D Reconstruction of Complex Dynamic Scenes",
@@ -7911,6 +8475,7 @@
     "conference": "cvpr",
     "id": "9b3b0dfa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Consensus of Non-Rigid Reconstructions",
@@ -7926,6 +8491,7 @@
     "conference": "cvpr",
     "id": "49906862",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Isometric Non-Rigid Shape-From-Motion in Linear Time",
@@ -7943,6 +8509,7 @@
     "conference": "cvpr",
     "id": "af499075",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Online Smooth Predictors for Realtime Camera Planning Using Recurrent Decision Trees",
@@ -7959,6 +8526,7 @@
     "conference": "cvpr",
     "id": "15f3b969",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Egocentric Future Localization",
@@ -7973,6 +8541,7 @@
     "conference": "cvpr",
     "id": "11b9e14b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Full Flow: Optical Flow Estimation By Global Optimization Over Regular Grids",
@@ -7989,6 +8558,7 @@
     "conference": "cvpr",
     "id": "9f5e5de9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structured Feature Learning for Pose Estimation",
@@ -8005,6 +8575,7 @@
     "conference": "cvpr",
     "id": "760f6cb5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Convolutional Pose Machines",
@@ -8021,6 +8592,7 @@
     "conference": "cvpr",
     "id": "6f3cf521",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Human Pose Estimation With Iterative Error Feedback",
@@ -8036,6 +8608,7 @@
     "conference": "cvpr",
     "id": "adf6e26f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "WELDON: Weakly Supervised Learning of Deep Convolutional Neural Networks",
@@ -8053,6 +8626,7 @@
     "conference": "cvpr",
     "id": "bba008cb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DisturbLabel: Regularizing CNN on the Loss Layer",
@@ -8068,6 +8642,7 @@
     "conference": "cvpr",
     "id": "1df7f6cf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Gradual DropIn of Layers to Train Very Deep Neural Networks",
@@ -8084,6 +8659,7 @@
     "conference": "cvpr",
     "id": "833bb405",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structure Inference Machines: Recurrent Neural Networks for Analyzing Relations in Group Activity Recognition",
@@ -8099,6 +8675,7 @@
     "conference": "cvpr",
     "id": "9186f919",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep SimNets",
@@ -8116,6 +8693,7 @@
     "conference": "cvpr",
     "id": "d46426bd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Studying Very Low Resolution Recognition Using Deep Networks",
@@ -8131,6 +8709,7 @@
     "conference": "cvpr",
     "id": "413355c5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Gaussian Conditional Random Field Network: A Model-Based Deep Network for Discriminative Denoising",
@@ -8149,6 +8728,7 @@
     "conference": "cvpr",
     "id": "d16a8087",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Event-Specific Image Importance",
@@ -8166,6 +8746,7 @@
     "conference": "cvpr",
     "id": "0729ee2b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Quantized Convolutional Neural Networks for Mobile Devices",
@@ -8180,6 +8761,7 @@
     "conference": "cvpr",
     "id": "2140f2fa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inverting Visual Representations With Convolutional Networks",
@@ -8196,6 +8778,7 @@
     "conference": "cvpr",
     "id": "dbd0957c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pose-Aware Face Recognition in the Wild",
@@ -8211,6 +8794,7 @@
     "conference": "cvpr",
     "id": "383cd1e3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-View Deep Network for Cross-View Classification",
@@ -8226,6 +8810,7 @@
     "conference": "cvpr",
     "id": "55c374de",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparsifying Neural Network Connections for Face Recognition",
@@ -8241,6 +8826,7 @@
     "conference": "cvpr",
     "id": "12496043",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Pairwise Linear Regression Classification for Image Set Retrieval",
@@ -8257,6 +8843,7 @@
     "conference": "cvpr",
     "id": "54615a94",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The MegaFace Benchmark: 1 Million Faces for Recognition at Scale ",
@@ -8270,6 +8857,7 @@
     "conference": "cvpr",
     "id": "be35f185",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learnt Quasi-Transitive Similarity for Retrieval From Large Collections of Faces",
@@ -8285,6 +8873,7 @@
     "conference": "cvpr",
     "id": "001bb759",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Latent Factor Guided Convolutional Neural Networks for Age-Invariant Face Recognition",
@@ -8301,6 +8890,7 @@
     "conference": "cvpr",
     "id": "375dc0f5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Copula Ordinal Regression for Joint Estimation of Facial Action Unit Intensity",
@@ -8315,6 +8905,7 @@
     "conference": "cvpr",
     "id": "a218bcc6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Robust Multilinear Model Learning Framework for 3D Faces",
@@ -8332,6 +8923,7 @@
     "conference": "cvpr",
     "id": "46eeb867",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ordinal Regression With Multiple Output CNN for Age Estimation",
@@ -8351,6 +8943,7 @@
     "conference": "cvpr",
     "id": "e9dc968e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation",
@@ -8366,6 +8959,7 @@
     "conference": "cvpr",
     "id": "13db6e3e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Thin-Slicing for Pose: Learning to Understand Pose Without Explicit Pose Estimation",
@@ -8383,6 +8977,7 @@
     "conference": "cvpr",
     "id": "284367e4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Dual-Source Approach for 3D Pose Estimation From a Single Image",
@@ -8399,6 +8994,7 @@
     "conference": "cvpr",
     "id": "bcfcdf34",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficiently Creating 3D Training Data for Fine Hand Pose Estimation",
@@ -8416,6 +9012,7 @@
     "conference": "cvpr",
     "id": "f34e3a53",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparseness Meets Deepness: 3D Human Pose Estimation From Monocular Video",
@@ -8430,6 +9027,7 @@
     "conference": "cvpr",
     "id": "245c2f88",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Answer-Type Prediction for Visual Question Answering",
@@ -8446,7 +9044,10 @@
     "conference": "cvpr",
     "id": "794f8d5d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Kottur_Visual_Word2Vec_vis-w2v_CVPR_2016_paper.pdf",
@@ -8462,6 +9063,7 @@
     "conference": "cvpr",
     "id": "e663efdd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visual7W: Grounded Question Answering in Images",
@@ -8477,6 +9079,7 @@
     "conference": "cvpr",
     "id": "d6d99b39",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Deep Structure-Preserving Image-Text Embeddings",
@@ -8494,6 +9097,7 @@
     "conference": "cvpr",
     "id": "2f29fe4f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Yin and Yang: Balancing and Answering Binary Visual Questions",
@@ -8511,6 +9115,7 @@
     "conference": "cvpr",
     "id": "df03ef54",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "GIFT: A Real-Time and Scalable 3D Shape Search Engine",
@@ -8528,6 +9133,7 @@
     "conference": "cvpr",
     "id": "60055137",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Functional Faces: Groupwise Dense Correspondence Using Functional Maps",
@@ -8543,6 +9149,7 @@
     "conference": "cvpr",
     "id": "9d1e06a6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Similarity Metric For Curved Shapes In Euclidean Space",
@@ -8558,6 +9165,7 @@
     "conference": "cvpr",
     "id": "b03157d1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Shape Analysis With Hyperbolic Wasserstein Distance",
@@ -8575,6 +9183,7 @@
     "conference": "cvpr",
     "id": "c46192cb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Tensor Power Iteration for Multi-Graph Matching",
@@ -8589,6 +9198,7 @@
     "conference": "cvpr",
     "id": "afcf2542",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multivariate Regression on the Grassmannian for Predicting Novel Domains",
@@ -8604,6 +9214,7 @@
     "conference": "cvpr",
     "id": "c877ddf3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Cross-Domain Landmarks for Heterogeneous Domain Adaptation",
@@ -8619,6 +9230,7 @@
     "conference": "cvpr",
     "id": "800fe2c6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Geospatial Correspondences for Multimodal Registration",
@@ -8633,6 +9245,7 @@
     "conference": "cvpr",
     "id": "8cf3c0c2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Constrained Deep Transfer Feature Learning and Its Applications",
@@ -8649,6 +9262,7 @@
     "conference": "cvpr",
     "id": "c75dbe90",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Canonical Time Warping",
@@ -8667,6 +9281,7 @@
     "conference": "cvpr",
     "id": "79b687de",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multilinear Hyperplane Hashing",
@@ -8681,6 +9296,7 @@
     "conference": "cvpr",
     "id": "bc002ad9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Large Scale Hard Sample Mining With Monte Carlo Tree Search",
@@ -8695,6 +9311,7 @@
     "conference": "cvpr",
     "id": "8bfab374",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Label Ranking From Positive and Unlabeled Data",
@@ -8710,6 +9327,7 @@
     "conference": "cvpr",
     "id": "68e603c8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Unsupervised Learning of Deep Representations and Image Clusters",
@@ -8727,6 +9345,7 @@
     "conference": "cvpr",
     "id": "d4eda342",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Kernel Sparse Subspace Clustering on Symmetric Positive Definite Manifolds",
@@ -8741,6 +9360,7 @@
     "conference": "cvpr",
     "id": "37eebfd6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Symmetry reCAPTCHA",
@@ -8756,6 +9376,7 @@
     "conference": "cvpr",
     "id": "f9f0bfdd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unsupervised Learning of Discriminative Attributes and Visual Representations",
@@ -8771,6 +9392,7 @@
     "conference": "cvpr",
     "id": "aa32c6da",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "When VLAD Met Hilbert",
@@ -8787,6 +9409,7 @@
     "conference": "cvpr",
     "id": "886f1e1e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Approximate Log-Hilbert-Schmidt Distances Between Covariance Operators for Image Classification",
@@ -8803,6 +9426,7 @@
     "conference": "cvpr",
     "id": "b9a832d3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Subspace Clustering With Priors via Sparse Quadratically Constrained Quadratic Programming",
@@ -8821,6 +9445,7 @@
     "conference": "cvpr",
     "id": "2df008a2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Robust Tensor Factorization With Unknown Noise",
@@ -8835,6 +9460,7 @@
     "conference": "cvpr",
     "id": "18d2e108",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Kernel Approximation via Empirical Orthogonal Decomposition for Unsupervised Feature Learning",
@@ -8851,6 +9477,7 @@
     "conference": "cvpr",
     "id": "44d3ca8c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Active Learning for Delineation of Curvilinear Structures",
@@ -8867,6 +9494,7 @@
     "conference": "cvpr",
     "id": "661cd1af",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recognizing Emotions From Abstract Paintings Using Non-Linear Matrix Completion",
@@ -8885,6 +9513,7 @@
     "conference": "cvpr",
     "id": "5a1c4ef3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization",
@@ -8900,6 +9529,7 @@
     "conference": "cvpr",
     "id": "f6921f24",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sliced Wasserstein Kernels for Probability Distributions",
@@ -8915,6 +9545,7 @@
     "conference": "cvpr",
     "id": "dd9987c5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Trace Quotient Meets Sparsity: A Method for Learning Low Dimensional Image Representations",
@@ -8930,6 +9561,7 @@
     "conference": "cvpr",
     "id": "9f5c4e7d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Backtracking ScSPM Image Classifier for Weakly Supervised Top-Down Saliency",
@@ -8946,6 +9578,7 @@
     "conference": "cvpr",
     "id": "ef80ca6d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MSR-VTT: A Large Video Description Dataset for Bridging Video and Language",
@@ -8963,6 +9596,7 @@
     "conference": "cvpr",
     "id": "36415893",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "NetVLAD: CNN Architecture for Weakly Supervised Place Recognition",
@@ -8979,6 +9613,7 @@
     "conference": "cvpr",
     "id": "1df7c747",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structural-RNN: Deep Learning on Spatio-Temporal Graphs",
@@ -8995,6 +9630,7 @@
     "conference": "cvpr",
     "id": "361e6696",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Select Pre-Trained Deep Representations With Bayesian Evidence Framework",
@@ -9011,6 +9647,7 @@
     "conference": "cvpr",
     "id": "169b06ea",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Synthesized Classifiers for Zero-Shot Learning",
@@ -9025,6 +9662,7 @@
     "conference": "cvpr",
     "id": "9f8657ab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semi-Supervised Vocabulary-Informed Learning",
@@ -9041,6 +9679,7 @@
     "conference": "cvpr",
     "id": "7cb48251",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Simultaneous Clustering and Model Selection for Tensor Affinities",
@@ -9056,6 +9695,7 @@
     "conference": "cvpr",
     "id": "2b5c01ce",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Discriminatively Embedded K-Means for Multi-View Clustering",
@@ -9071,6 +9711,7 @@
     "conference": "cvpr",
     "id": "cdcf7f87",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Min Norm Point Algorithm for Higher Order MRF-MAP Inference",
@@ -9087,6 +9728,7 @@
     "conference": "cvpr",
     "id": "1a96df22",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Deep Representation for Imbalanced Classification",
@@ -9102,6 +9744,7 @@
     "conference": "cvpr",
     "id": "7686123d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Local Image Descriptors With Deep Siamese and Triplet Convolutional Networks by Minimising Global Loss Functions",
@@ -9116,6 +9759,7 @@
     "conference": "cvpr",
     "id": "231d6268",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparse Coding for Third-Order Super-Symmetric Tensor Descriptors With Application to Texture Recognition",
@@ -9131,6 +9775,7 @@
     "conference": "cvpr",
     "id": "df0f2c8a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Random Features for Sparse Signal Classification",
@@ -9148,6 +9793,7 @@
     "conference": "cvpr",
     "id": "cd5df2bb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "High-Quality Depth From Uncalibrated Small Motion Clip",
@@ -9162,6 +9808,7 @@
     "conference": "cvpr",
     "id": "f85afe7e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient 3D Room Shape Recovery From a Single Panorama",
@@ -9178,6 +9825,7 @@
     "conference": "cvpr",
     "id": "f0359013",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structured Prediction of Unobserved Voxels From a Single Depth Image",
@@ -9197,6 +9845,7 @@
     "conference": "cvpr",
     "id": "b05c2d2b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "HyperDepth: Learning Depth From Structured Light Without Matching",
@@ -9213,6 +9862,7 @@
     "conference": "cvpr",
     "id": "0de1f4ae",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SVBRDF-Invariant Shape and Reflectance Estimation From Light-Field Cameras",
@@ -9229,6 +9879,7 @@
     "conference": "cvpr",
     "id": "f52e78ac",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semantic 3D Reconstruction With Continuous Regularization and Ray Potentials Using a Visibility Consistency Constraint",
@@ -9243,6 +9894,7 @@
     "conference": "cvpr",
     "id": "61ed564c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Theory and Practice of Structure-From-Motion Using Affine Correspondences",
@@ -9257,6 +9909,7 @@
     "conference": "cvpr",
     "id": "44b3169d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Just Look at the Image: Viewpoint-Specific Surface Normal Prediction for Improved Multi-View Reconstruction",
@@ -9275,6 +9928,7 @@
     "conference": "cvpr",
     "id": "969c3a31",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From Dusk Till Dawn: Modeling in the Dark",
@@ -9292,6 +9946,7 @@
     "conference": "cvpr",
     "id": "a98bb3fe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Accelerated Generative Models for 3D Point Cloud Data",
@@ -9306,6 +9961,7 @@
     "conference": "cvpr",
     "id": "cb429ba1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Monocular Depth Estimation Using Neural Regression Forest",
@@ -9322,7 +9978,10 @@
     "conference": "cvpr",
     "id": "cd266427",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "DeepStereo: Learning to Predict New Views From the World's Imagery",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Flynn_DeepStereo_Learning_to_CVPR_2016_paper.pdf",
@@ -9338,6 +9997,7 @@
     "conference": "cvpr",
     "id": "4054d2d8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "WIDER FACE: A Face Detection Benchmark",
@@ -9353,6 +10013,7 @@
     "conference": "cvpr",
     "id": "64c786ed",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Situation Recognition: Visual Semantic Role Labeling for Image Understanding ",
@@ -9370,6 +10031,7 @@
     "conference": "cvpr",
     "id": "22ed5b15",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A 3D Morphable Model Learnt From 10,000 Faces",
@@ -9385,6 +10047,7 @@
     "conference": "cvpr",
     "id": "71ea633b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Some Like It Hot - Visual Guidance for Preference Prediction",
@@ -9400,6 +10063,7 @@
     "conference": "cvpr",
     "id": "4bd8e142",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "EmotioNet: An Accurate, Real-Time Algorithm for the Automatic Annotation of a Million Facial Expressions in the Wild",
@@ -9416,6 +10080,7 @@
     "conference": "cvpr",
     "id": "920148a0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ForgetMeNot: Memory-Aware Forensic Facial Sketch Matching",
@@ -9431,6 +10096,7 @@
     "conference": "cvpr",
     "id": "05999d8b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "LOMo: Latent Ordinal Model for Facial Analysis in Videos",
@@ -9446,6 +10112,7 @@
     "conference": "cvpr",
     "id": "db774716",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Discriminative Invariant Kernel Features: A Bells-and-Whistles-Free Approach to Unsupervised Face Recognition and Pose Estimation",
@@ -9460,6 +10127,7 @@
     "conference": "cvpr",
     "id": "75ff08d6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bottom-Up and Top-Down Reasoning With Hierarchical Rectified Gaussians",
@@ -9480,6 +10148,7 @@
     "conference": "cvpr",
     "id": "db1b2c3c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fits Like a Glove: Rapid and Reliable Hand Shape Personalization",
@@ -9496,6 +10165,7 @@
     "conference": "cvpr",
     "id": "44708152",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Slicing Convolutional Neural Network for Crowd Video Understanding",
@@ -9513,6 +10183,7 @@
     "conference": "cvpr",
     "id": "d1bf1aab",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Linear Shape Deformation Models With Local Support Using Graph-Based Structured Matrix Factorisation",
@@ -9529,6 +10200,7 @@
     "conference": "cvpr",
     "id": "26fd9d1f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Motion From Structure (MfS): Searching for 3D Objects in Cluttered Point Trajectories",
@@ -9547,6 +10219,7 @@
     "conference": "cvpr",
     "id": "a8929388",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Volumetric and Multi-View CNNs for Object Classification on 3D Data",
@@ -9562,6 +10235,7 @@
     "conference": "cvpr",
     "id": "6fb3996d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Detecting Vanishing Points Using Global Image Context in a Non-Manhattan World",
@@ -9580,6 +10254,7 @@
     "conference": "cvpr",
     "id": "fc97f9cd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Weight Uncertainty With Stochastic Gradient MCMC for Shape Classification",
@@ -9597,6 +10272,7 @@
     "conference": "cvpr",
     "id": "1546ff84",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Field Model for Repairing 3D Shapes",
@@ -9611,6 +10287,7 @@
     "conference": "cvpr",
     "id": "e07e6eb4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "GOGMA: Globally-Optimal Gaussian Mixture Alignment",
@@ -9626,6 +10303,7 @@
     "conference": "cvpr",
     "id": "58e29bd6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Deep Learning for Stereo Matching",
@@ -9641,6 +10319,7 @@
     "conference": "cvpr",
     "id": "4bb5e471",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Coarse-To-Fine PatchMatch for Large Displacement Optical Flow",
@@ -9655,6 +10334,7 @@
     "conference": "cvpr",
     "id": "2ba55b10",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "FANNG: Fast Approximate Nearest Neighbour Graphs",
@@ -9670,6 +10350,7 @@
     "conference": "cvpr",
     "id": "e5268622",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exemplar-Driven Top-Down Saliency Detection via Deep Association",
@@ -9688,6 +10369,7 @@
     "conference": "cvpr",
     "id": "53b5e4c1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unconstrained Salient Object Detection via Proposal Subset Optimization",
@@ -9704,6 +10386,7 @@
     "conference": "cvpr",
     "id": "4c8486ad",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recombinator Networks: Learning Coarse-To-Fine Feature Aggregation",
@@ -9719,6 +10402,7 @@
     "conference": "cvpr",
     "id": "59f9cebb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "End-To-End Saliency Mapping via Probability Distribution Prediction",
@@ -9736,6 +10420,7 @@
     "conference": "cvpr",
     "id": "ab44c684",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Paradigm for Building Generalized Models of Human Image Perception Through Data Fusion",
@@ -9752,6 +10437,7 @@
     "conference": "cvpr",
     "id": "f0900efe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Longitudinal Face Modeling via Temporal Deep Restricted Boltzmann Machines",
@@ -9768,6 +10454,7 @@
     "conference": "cvpr",
     "id": "16e775da",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Saliency Unified: A Deep Architecture for Simultaneous Eye Fixation Prediction and Salient Object Segmentation",
@@ -9785,6 +10472,7 @@
     "conference": "cvpr",
     "id": "2dde058a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Estimating Correspondences of Deformable Objects \"In-The-Wild\"",
@@ -9800,7 +10488,10 @@
     "conference": "cvpr",
     "id": "95cb641a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Gravitational Approach for Point Set Registration",
     "pdf_link": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Golyanik_Gravitational_Approach_for_CVPR_2016_paper.pdf",
@@ -9817,6 +10508,7 @@
     "conference": "cvpr",
     "id": "44353db0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Context-Aware Gaussian Fields for Non-Rigid Point Set Registration",
@@ -9832,6 +10524,7 @@
     "conference": "cvpr",
     "id": "5a8cf080",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Trust No One: Low Rank Matrix Factorization Using Hierarchical RANSAC",
@@ -9846,6 +10539,7 @@
     "conference": "cvpr",
     "id": "ab5e209a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Relaxation-Based Preprocessing Techniques for Markov Random Field Inference",
@@ -9863,6 +10557,7 @@
     "conference": "cvpr",
     "id": "7889ff0a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparse Coding for Classification via Discrimination Ensemble",
@@ -9879,6 +10574,7 @@
     "conference": "cvpr",
     "id": "4a764948",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Principled Parallel Mean-Field Inference for Discrete Random Fields",
@@ -9895,6 +10591,7 @@
     "conference": "cvpr",
     "id": "dee7fefe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Guaranteed Outlier Removal With Mixed Integer Linear Programs",
@@ -9910,6 +10607,7 @@
     "conference": "cvpr",
     "id": "64b77a8a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Memory Efficient Max Flow for Multi-Label Submodular MRFs",
@@ -9928,6 +10626,7 @@
     "conference": "cvpr",
     "id": "112c8816",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Proximal Riemannian Pursuit for Large-Scale Trace-Norm Minimization",
@@ -9944,6 +10643,7 @@
     "conference": "cvpr",
     "id": "c8013ee4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Minimizing the Maximal Rank",
@@ -9960,6 +10660,7 @@
     "conference": "cvpr",
     "id": "efbd0dd0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Solving Temporal Puzzles",
@@ -9975,6 +10676,7 @@
     "conference": "cvpr",
     "id": "6aa8f01d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Estimating Sparse Signals With Smooth Support via Convex Programming and Block Sparsity",
@@ -9991,6 +10693,7 @@
     "conference": "cvpr",
     "id": "20905104",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "TenSR: Multi-Dimensional Tensor Sparse Representation",
@@ -10008,6 +10711,7 @@
     "conference": "cvpr",
     "id": "ba590f43",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Moral Lineage Tracing",
@@ -10023,6 +10727,7 @@
     "conference": "cvpr",
     "id": "86c6b040",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Globally Optimal Rigid Intensity Based Registration: A Fast Fourier Domain Approach",
@@ -10040,6 +10745,7 @@
     "conference": "cvpr",
     "id": "c56ba2cb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On Benefits of Selection Diversity via Bilevel Exclusive Sparsity",
@@ -10056,6 +10762,7 @@
     "conference": "cvpr",
     "id": "01984f11",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Training of Triplet-Based Deep Binary Embedding Networks",
@@ -10071,6 +10778,7 @@
     "conference": "cvpr",
     "id": "a68eda3a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Marr Revisited: 2D-3D Alignment via Surface Normal Prediction",
@@ -10086,6 +10794,7 @@
     "conference": "cvpr",
     "id": "77594845",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recovering the Missing Link: Predicting Class-Attribute Associations for Unsupervised Zero-Shot Learning",
@@ -10101,6 +10810,7 @@
     "conference": "cvpr",
     "id": "20448a80",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Zero-Shot Image Tagging",
@@ -10117,6 +10827,7 @@
     "conference": "cvpr",
     "id": "ad4f841c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Modality and Component Aware Feature Fusion For RGB-D Scene Classification",
@@ -10134,6 +10845,7 @@
     "conference": "cvpr",
     "id": "be189c62",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "PPP: Joint Pointwise and Pairwise Image Label Prediction",
@@ -10151,6 +10863,7 @@
     "conference": "cvpr",
     "id": "f22180a6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cataloging Public Objects Using Aerial and Street-Level Images - Urban Trees",
@@ -10166,6 +10879,7 @@
     "conference": "cvpr",
     "id": "1069f61b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Exemplar 2D-3D Detection by Adapting From Real to Rendered Views",
@@ -10180,6 +10894,7 @@
     "conference": "cvpr",
     "id": "273d0131",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Zero-Shot Learning via Joint Latent Similarity Embedding",
@@ -10196,6 +10911,7 @@
     "conference": "cvpr",
     "id": "b0fd0ab4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CRAFT Objects From Images",

@@ -5,6 +5,8 @@ import json
 import time
 import uuid
 import argparse
+from urllib.parse import urlsplit, urlunsplit, quote
+from posixpath import basename, dirname, join
 
 parser = argparse.ArgumentParser(
     description='Adds metadata to a json file')
@@ -166,7 +168,8 @@ def get_acl_anthology(conference, year):
             data['year'] = year
             title = paper.find_element_by_css_selector('strong > a')
             data['name'] = title.get_attribute('text')
-            data['pdf_link'] = title.get_attribute('href')
+            pdf_link = getSubLink(paper.find_element_by_tag_name('span'))
+            data['pdf_link'] = pdf_link
             authors = paper.find_elements_by_css_selector('p > a')
             for author in authors:
                 data['authors'].append(author.get_attribute('text'))
@@ -174,6 +177,7 @@ def get_acl_anthology(conference, year):
     return conf_data
 
 
+# Supports COLT, ICML, AISTATS for >=2017
 def get_mlr(conference, year):
     driver = webdriver.Chrome()
     driver.implicitly_wait(10)
@@ -190,9 +194,18 @@ def get_mlr(conference, year):
         if len(conf_data) % 100 == 0:
             print(len(conf_data))
         data = initData()
-        data['pdf_link'] = getSubLink(paper)
+
+        # We're given .../<identifier>.html, but the pdf lives at .../<identifier>/<identifier>.pdf
+        pdf_link = list(urlsplit(getSubLink(paper)))
+        link_base = basename(pdf_link[2])
+        link_dir = dirname(pdf_link[2])
+        link_base = link_base.split('.')
+        link_base = f"{link_base[0]}/{link_base[0]}.pdf"
+        pdf_link[2] = join(link_dir, link_base)
+
+        data['pdf_link'] = urlunsplit(pdf_link)
         data['name'] = paper.find_element_by_class_name(
-            'title').get_attribute('innerHTML')
+            'title').get_attribute('textContent')
         data['conference'] = conference
         data['year'] = year
         authors = paper.find_element_by_class_name(
@@ -214,6 +227,8 @@ elif conference in ['acl', 'emnlp', 'naacl']:
 elif conference in ['colt', 'aistats', 'icml']:
     res = get_mlr(conference, year)
 
+for paper in data:
+    paper['pdf_link'] = quote(paper['pdf_link'])
 
 json.dump(res, open(f'data/{conference}_{year}.json', 'w'),
           sort_keys=True, indent=2)

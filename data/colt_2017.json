@@ -5,12 +5,13 @@
       "Ohad Shamir"
     ],
     "conference": "colt",
-    "id": "7d667afa",
+    "id": "33304c60",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Preface: Conference on Learning Theory (COLT), 2017",
-    "pdf_link": "http://proceedings.mlr.press/v65/kale17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/kale17a/kale17a.pdf",
     "year": 2017
   },
   {
@@ -22,12 +23,13 @@
       "Schapire Robert E."
     ],
     "conference": "colt",
-    "id": "158b59d6",
+    "id": "b6af8438",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Open Problem: First-Order Regret Bounds for Contextual Bandits",
-    "pdf_link": "http://proceedings.mlr.press/v65/agarwal17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/agarwal17a/agarwal17a.pdf",
     "year": 2017
   },
   {
@@ -36,12 +38,13 @@
       "Lev Reyzin"
     ],
     "conference": "colt",
-    "id": "bd20e063",
+    "id": "653fa714",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Open Problem: Meeting Times for Learning Random Automata",
-    "pdf_link": "http://proceedings.mlr.press/v65/fish17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/fish17a/fish17a.pdf",
     "year": 2017
   },
   {
@@ -52,12 +55,13 @@
       "Robert E. Schapire"
     ],
     "conference": "colt",
-    "id": "83415774",
+    "id": "d26b9408",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Corralling a Band of Bandit Algorithms",
-    "pdf_link": "http://proceedings.mlr.press/v65/agarwal17b.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/agarwal17b/agarwal17b.pdf",
     "year": 2017
   },
   {
@@ -68,12 +72,13 @@
       "Sanjeev Khanna"
     ],
     "conference": "colt",
-    "id": "0f59e9b7",
+    "id": "2e4a83ef",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning with Limited Rounds of Adaptivity: Coin Tossing, Multi-Armed Bandits, and Ranking from Pairwise Comparisons",
-    "pdf_link": "http://proceedings.mlr.press/v65/agarwal17c.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/agarwal17c/agarwal17c.pdf",
     "year": 2017
   },
   {
@@ -84,12 +89,13 @@
       "Assaf Zeevi"
     ],
     "conference": "colt",
-    "id": "1d684864",
+    "id": "54c034c2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Thompson Sampling for the MNL-Bandit",
-    "pdf_link": "http://proceedings.mlr.press/v65/agrawal17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/agrawal17a/agrawal17a.pdf",
     "year": 2017
   },
   {
@@ -100,12 +106,13 @@
       "Hossein Mobahi"
     ],
     "conference": "colt",
-    "id": "887c8239",
+    "id": "3334ba75",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Homotopy Analysis for Tensor PCA",
-    "pdf_link": "http://proceedings.mlr.press/v65/anandkumar17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/anandkumar17a/anandkumar17a.pdf",
     "year": 2017
   },
   {
@@ -116,12 +123,13 @@
       "Xiaorui Sun"
     ],
     "conference": "colt",
-    "id": "70ecd6e3",
+    "id": "1f99a5ae",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Correspondence retrieval",
-    "pdf_link": "http://proceedings.mlr.press/v65/andoni17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/andoni17a/andoni17a.pdf",
     "year": 2017
   },
   {
@@ -132,12 +140,13 @@
       "Yishay Mansour"
     ],
     "conference": "colt",
-    "id": "53b3a983",
+    "id": "711b6067",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient PAC Learning from the Crowd",
-    "pdf_link": "http://proceedings.mlr.press/v65/awasthi17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/awasthi17a/awasthi17a.pdf",
     "year": 2017
   },
   {
@@ -146,12 +155,13 @@
       "Jonathan Ullman"
     ],
     "conference": "colt",
-    "id": "783afb1a",
+    "id": "06e904ee",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Price of Selection in Differential Privacy",
-    "pdf_link": "http://proceedings.mlr.press/v65/bafna17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/bafna17a/bafna17a.pdf",
     "year": 2017
   },
   {
@@ -162,12 +172,13 @@
       "Aarti Singh"
     ],
     "conference": "colt",
-    "id": "51ac9195",
+    "id": "cfb35199",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Computationally Efficient Robust Sparse Estimation in High Dimensions",
-    "pdf_link": "http://proceedings.mlr.press/v65/balakrishnan17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/balakrishnan17a/balakrishnan17a.pdf",
     "year": 2017
   },
   {
@@ -178,12 +189,13 @@
       "Colin White"
     ],
     "conference": "colt",
-    "id": "79c9c97d",
+    "id": "b4ac25f1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning-Theoretic Foundations of Algorithm Configuration for Combinatorial Partitioning Problems",
-    "pdf_link": "http://proceedings.mlr.press/v65/balcan17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/balcan17a/balcan17a.pdf",
     "year": 2017
   },
   {
@@ -192,12 +204,13 @@
       "Yaron Singer"
     ],
     "conference": "colt",
-    "id": "edd76b74",
+    "id": "410bb708",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Sample Complexity of Optimizing a Convex Function",
-    "pdf_link": "http://proceedings.mlr.press/v65/balkanski17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/balkanski17a/balkanski17a.pdf",
     "year": 2017
   },
   {
@@ -206,12 +219,13 @@
       "Yishay Mansour"
     ],
     "conference": "colt",
-    "id": "03f917ad",
+    "id": "69a1b399",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Co-Training of Linear Separators under Weak Dependence",
-    "pdf_link": "http://proceedings.mlr.press/v65/blum17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/blum17a/blum17a.pdf",
     "year": 2017
   },
   {
@@ -222,12 +236,13 @@
       "Marcelo Pereyra"
     ],
     "conference": "colt",
-    "id": "c6116367",
+    "id": "95588453",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sampling from a log-concave distribution with compact support with proximal Langevin Monte Carlo",
-    "pdf_link": "http://proceedings.mlr.press/v65/brosse17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/brosse17a/brosse17a.pdf",
     "year": 2017
   },
   {
@@ -238,12 +253,13 @@
       "John Urschel"
     ],
     "conference": "colt",
-    "id": "81a7b21c",
+    "id": "45a3dea9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rates of estimation for determinantal point processes",
-    "pdf_link": "http://proceedings.mlr.press/v65/brunel17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/brunel17a/brunel17a.pdf",
     "year": 2017
   },
   {
@@ -254,12 +270,13 @@
       "Eran Yahav"
     ],
     "conference": "colt",
-    "id": "3db3a497",
+    "id": "315c6def",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Disjunctions of Predicates",
-    "pdf_link": "http://proceedings.mlr.press/v65/bshouty17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/bshouty17a/bshouty17a.pdf",
     "year": 2017
   },
   {
@@ -270,12 +287,13 @@
       "Alistair Stewart"
     ],
     "conference": "colt",
-    "id": "db29bc44",
+    "id": "79903d0f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Testing Bayesian Networks",
-    "pdf_link": "http://proceedings.mlr.press/v65/canonne17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/canonne17a/canonne17a.pdf",
     "year": 2017
   },
   {
@@ -286,12 +304,13 @@
       "Bo Waggoner"
     ],
     "conference": "colt",
-    "id": "37c21261",
+    "id": "f8db1a16",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Observation Elicitation",
-    "pdf_link": "http://proceedings.mlr.press/v65/casalaina-martin17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/casalaina-martin17a/casalaina-martin17a.pdf",
     "year": 2017
   },
   {
@@ -302,12 +321,13 @@
       "S\u00e9bastien Gerchinovitz"
     ],
     "conference": "colt",
-    "id": "e347701b",
+    "id": "be76d338",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Algorithmic Chaining and the Role of Partial Feedback in Online Nonparametric Learning",
-    "pdf_link": "http://proceedings.mlr.press/v65/cesa-bianchi17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/cesa-bianchi17a/cesa-bianchi17a.pdf",
     "year": 2017
   },
   {
@@ -319,12 +339,13 @@
       "Ruosong Wang"
     ],
     "conference": "colt",
-    "id": "278dbaf3",
+    "id": "14d4cfec",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Nearly Optimal Sampling Algorithms for Combinatorial Pure Exploration",
-    "pdf_link": "http://proceedings.mlr.press/v65/chen17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/chen17a/chen17a.pdf",
     "year": 2017
   },
   {
@@ -334,12 +355,13 @@
       "Mingda Qiao"
     ],
     "conference": "colt",
-    "id": "03e30952",
+    "id": "c10da229",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Instance Optimal Bounds for Best Arm Identification",
-    "pdf_link": "http://proceedings.mlr.press/v65/chen17b.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/chen17b/chen17b.pdf",
     "year": 2017
   },
   {
@@ -349,12 +371,13 @@
       "Praneeth Netrapalli"
     ],
     "conference": "colt",
-    "id": "6043fa4c",
+    "id": "2ecc2d82",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Thresholding Based Outlier Robust PCA",
-    "pdf_link": "http://proceedings.mlr.press/v65/cherapanamjeri17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/cherapanamjeri17a/cherapanamjeri17a.pdf",
     "year": 2017
   },
   {
@@ -364,12 +387,15 @@
       "Tomer Koren"
     ],
     "conference": "colt",
-    "id": "a4859219",
+    "id": "619f40f2",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Tight Bounds for Bandit Combinatorial Optimization",
-    "pdf_link": "http://proceedings.mlr.press/v65/cohen17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/cohen17a/cohen17a.pdf",
     "year": 2017
   },
   {
@@ -378,12 +404,13 @@
       "Kwabena Boahen"
     ],
     "conference": "colt",
-    "id": "700629f2",
+    "id": "decf1412",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Online Learning Without Prior Information",
-    "pdf_link": "http://proceedings.mlr.press/v65/cutkosky17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/cutkosky17a/cutkosky17a.pdf",
     "year": 2017
   },
   {
@@ -391,12 +418,13 @@
       "Arnak Dalalyan"
     ],
     "conference": "colt",
-    "id": "b5ccae1a",
+    "id": "4d1207d6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Further and stronger analogy between sampling and optimization: Langevin Monte Carlo and gradient descent",
-    "pdf_link": "http://proceedings.mlr.press/v65/dalalyan17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/dalalyan17a/dalalyan17a.pdf",
     "year": 2017
   },
   {
@@ -404,12 +432,15 @@
       "Amit Daniely"
     ],
     "conference": "colt",
-    "id": "99e2f2a0",
+    "id": "3eddb4a9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain"
+      ]
     },
     "name": "Depth Separation for Neural Networks",
-    "pdf_link": "http://proceedings.mlr.press/v65/daniely17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/daniely17a/daniely17a.pdf",
     "year": 2017
   },
   {
@@ -418,12 +449,13 @@
       "Qinxuan Pan"
     ],
     "conference": "colt",
-    "id": "bb7a31af",
+    "id": "900e8583",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Square Hellinger Subadditivity for Bayesian Networks and its Applications to Identity Testing",
-    "pdf_link": "http://proceedings.mlr.press/v65/daskalakis17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/daskalakis17a/daskalakis17a.pdf",
     "year": 2017
   },
   {
@@ -433,12 +465,13 @@
       "Manolis Zampetakis"
     ],
     "conference": "colt",
-    "id": "b6caca0f",
+    "id": "6ba91d20",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ten Steps of EM Suffice for Mixtures of Two Gaussians",
-    "pdf_link": "http://proceedings.mlr.press/v65/daskalakis17b.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/daskalakis17b/daskalakis17b.pdf",
     "year": 2017
   },
   {
@@ -448,12 +481,13 @@
       "Alistair Stewart"
     ],
     "conference": "colt",
-    "id": "e91783b7",
+    "id": "35bc12c0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Multivariate Log-concave Distributions",
-    "pdf_link": "http://proceedings.mlr.press/v65/diakonikolas17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/diakonikolas17a/diakonikolas17a.pdf",
     "year": 2017
   },
   {
@@ -462,12 +496,13 @@
       "Thomas Steinke"
     ],
     "conference": "colt",
-    "id": "2c188ad8",
+    "id": "c7dd99e0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Generalization for Adaptively-chosen Estimators via Stable Median",
-    "pdf_link": "http://proceedings.mlr.press/v65/feldman17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/feldman17a/feldman17a.pdf",
     "year": 2017
   },
   {
@@ -477,12 +512,13 @@
       "Amin Karbasi"
     ],
     "conference": "colt",
-    "id": "357d9840",
+    "id": "581867cd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Greed Is Good: Near-Optimal Submodular Maximization via Greedy Optimization",
-    "pdf_link": "http://proceedings.mlr.press/v65/feldman17b.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/feldman17b/feldman17b.pdf",
     "year": 2017
   },
   {
@@ -490,12 +526,13 @@
       "Vitaly Feldman"
     ],
     "conference": "colt",
-    "id": "0c3cbc61",
+    "id": "d6527632",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A General Characterization of the Statistical Query Complexity",
-    "pdf_link": "http://proceedings.mlr.press/v65/feldman17c.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/feldman17c/feldman17c.pdf",
     "year": 2017
   },
   {
@@ -504,12 +541,13 @@
       "Francis Bach"
     ],
     "conference": "colt",
-    "id": "8447d170",
+    "id": "0c7a9c20",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
-    "name": "Stochastic Composite Least-Squares Regression with Convergence Rate <span class=\"MathJax_Preview\" style=\"color: inherit; display: none;\"></span><span class=\"MathJax\" id=\"MathJax-Element-1-Frame\" tabindex=\"0\" data-mathml=\"<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>O</mi><mo stretchy=&quot;false&quot;>(</mo><mn>1</mn><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>/</mo></mrow><mi>n</mi><mo stretchy=&quot;false&quot;>)</mo></math>\" role=\"presentation\" style=\"position: relative;\"><nobr aria-hidden=\"true\"><span class=\"math\" id=\"MathJax-Span-1\" style=\"width: 3.867em; display: inline-block;\"><span style=\"display: inline-block; position: relative; width: 3.165em; height: 0px; font-size: 122%;\"><span style=\"position: absolute; clip: rect(1.232em, 1003.05em, 2.579em, -999.997em); top: -2.163em; left: 0em;\"><span class=\"mrow\" id=\"MathJax-Span-2\"><span class=\"mi\" id=\"MathJax-Span-3\" style=\"font-family: MathJax_Math-italic;\">O</span><span class=\"mo\" id=\"MathJax-Span-4\" style=\"font-family: MathJax_Main;\">(</span><span class=\"mn\" id=\"MathJax-Span-5\" style=\"font-family: MathJax_Main;\">1</span><span class=\"texatom\" id=\"MathJax-Span-6\"><span class=\"mrow\" id=\"MathJax-Span-7\"><span class=\"mo\" id=\"MathJax-Span-8\" style=\"font-family: MathJax_Main;\">/</span></span></span><span class=\"mi\" id=\"MathJax-Span-9\" style=\"font-family: MathJax_Math-italic;\">n</span><span class=\"mo\" id=\"MathJax-Span-10\" style=\"font-family: MathJax_Main;\">)</span></span><span style=\"display: inline-block; width: 0px; height: 2.169em;\"></span></span></span><span style=\"display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;\"></span></span></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mo stretchy=\"false\">(</mo><mn>1</mn><mrow class=\"MJX-TeXAtom-ORD\"><mo>/</mo></mrow><mi>n</mi><mo stretchy=\"false\">)</mo></math></span></span><script type=\"math/tex\" id=\"MathJax-Element-1\">O(1/n)</script>",
-    "pdf_link": "http://proceedings.mlr.press/v65/flammarion17a.html",
+    "name": "Stochastic Composite Least-Squares Regression with Convergence Rate O(1/n)O(1/n)O(1/n)",
+    "pdf_link": "http://proceedings.mlr.press/v65/flammarion17a/flammarion17a.pdf",
     "year": 2017
   },
   {
@@ -519,12 +557,13 @@
       "Karthik Sridharan"
     ],
     "conference": "colt",
-    "id": "577398bd",
+    "id": "bf2f9ed2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ZigZag: A New Approach to Adaptive Online Learning",
-    "pdf_link": "http://proceedings.mlr.press/v65/foster17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/foster17a/foster17a.pdf",
     "year": 2017
   },
   {
@@ -533,12 +572,13 @@
       "Andrew Nobel"
     ],
     "conference": "colt",
-    "id": "e3328428",
+    "id": "691f8c59",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Memoryless Sequences for Differentiable Losses",
-    "pdf_link": "http://proceedings.mlr.press/v65/frongillo17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/frongillo17a/frongillo17a.pdf",
     "year": 2017
   },
   {
@@ -548,12 +588,13 @@
       "Hongyi Zhang"
     ],
     "conference": "colt",
-    "id": "0c6128d5",
+    "id": "934d9e0a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
-    "name": "Matrix Completion from <span class=\"MathJax_Preview\" style=\"color: inherit; display: none;\"></span><span class=\"MathJax\" id=\"MathJax-Element-2-Frame\" tabindex=\"0\" data-mathml=\"<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>O</mi><mo stretchy=&quot;false&quot;>(</mo><mi>n</mi><mo stretchy=&quot;false&quot;>)</mo></math>\" role=\"presentation\" style=\"position: relative;\"><nobr aria-hidden=\"true\"><span class=\"math\" id=\"MathJax-Span-11\" style=\"width: 2.638em; display: inline-block;\"><span style=\"display: inline-block; position: relative; width: 2.169em; height: 0px; font-size: 122%;\"><span style=\"position: absolute; clip: rect(1.232em, 1002.05em, 2.579em, -999.997em); top: -2.163em; left: 0em;\"><span class=\"mrow\" id=\"MathJax-Span-12\"><span class=\"mi\" id=\"MathJax-Span-13\" style=\"font-family: MathJax_Math-italic;\">O</span><span class=\"mo\" id=\"MathJax-Span-14\" style=\"font-family: MathJax_Main;\">(</span><span class=\"mi\" id=\"MathJax-Span-15\" style=\"font-family: MathJax_Math-italic;\">n</span><span class=\"mo\" id=\"MathJax-Span-16\" style=\"font-family: MathJax_Main;\">)</span></span><span style=\"display: inline-block; width: 0px; height: 2.169em;\"></span></span></span><span style=\"display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;\"></span></span></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mo stretchy=\"false\">(</mo><mi>n</mi><mo stretchy=\"false\">)</mo></math></span></span><script type=\"math/tex\" id=\"MathJax-Element-2\">O(n)</script> Samples in Linear Time",
-    "pdf_link": "http://proceedings.mlr.press/v65/gamarnik17a.html",
+    "name": "Matrix Completion from O(n)O(n)O(n) Samples in Linear Time",
+    "pdf_link": "http://proceedings.mlr.press/v65/gamarnik17a/gamarnik17a.pdf",
     "year": 2017
   },
   {
@@ -562,12 +603,13 @@
       "Zadik Ilias"
     ],
     "conference": "colt",
-    "id": "14b81fca",
+    "id": "e392dec3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "High Dimensional Regression with Binary Coefficients. Estimating Squared Error and a Phase Transtition",
-    "pdf_link": "http://proceedings.mlr.press/v65/david17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/david17a/david17a.pdf",
     "year": 2017
   },
   {
@@ -578,12 +620,13 @@
       "Ulrike von Luxburg"
     ],
     "conference": "colt",
-    "id": "e20b8a5d",
+    "id": "f0e52016",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Two-Sample Tests for Large Random Graphs Using Network Statistics",
-    "pdf_link": "http://proceedings.mlr.press/v65/ghoshdastidar17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/ghoshdastidar17a/ghoshdastidar17a.pdf",
     "year": 2017
   },
   {
@@ -593,12 +636,13 @@
       "Shai Shalev-Shwartz"
     ],
     "conference": "colt",
-    "id": "0e77b221",
+    "id": "9c12e9e9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Effective Semisupervised Learning on Manifolds",
-    "pdf_link": "http://proceedings.mlr.press/v65/globerson17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/globerson17a/globerson17a.pdf",
     "year": 2017
   },
   {
@@ -609,12 +653,13 @@
       "Justin Thaler"
     ],
     "conference": "colt",
-    "id": "a7fab2db",
+    "id": "bd784e46",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Reliably Learning the ReLU in Polynomial Time",
-    "pdf_link": "http://proceedings.mlr.press/v65/goel17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/goel17a/goel17a.pdf",
     "year": 2017
   },
   {
@@ -623,12 +668,13 @@
       "Shai Shalev-Shwartz"
     ],
     "conference": "colt",
-    "id": "357b00d8",
+    "id": "216de92a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast Rates for Empirical Risk Minimization of Strict Saddle Problems",
-    "pdf_link": "http://proceedings.mlr.press/v65/gonen17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/gonen17a/gonen17a.pdf",
     "year": 2017
   },
   {
@@ -638,12 +684,13 @@
       "Abbas Mehrabian"
     ],
     "conference": "colt",
-    "id": "4ca3ab34",
+    "id": "fcea8914",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Nearly-tight VC-dimension bounds for piecewise linear neural networks",
-    "pdf_link": "http://proceedings.mlr.press/v65/harvey17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/harvey17a/harvey17a.pdf",
     "year": 2017
   },
   {
@@ -652,12 +699,13 @@
       "Yaron Singer"
     ],
     "conference": "colt",
-    "id": "c08b1881",
+    "id": "d9bfcb7f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Submodular Optimization under Noise",
-    "pdf_link": "http://proceedings.mlr.press/v65/hassidim17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/hassidim17a/hassidim17a.pdf",
     "year": 2017
   },
   {
@@ -666,12 +714,15 @@
       "Philip M. Long"
     ],
     "conference": "colt",
-    "id": "967afc77",
+    "id": "508b6bb9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Surprising properties of dropout in deep networks",
-    "pdf_link": "http://proceedings.mlr.press/v65/helmbold17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/helmbold17a/helmbold17a.pdf",
     "year": 2017
   },
   {
@@ -682,12 +733,13 @@
       "Liwei Wang"
     ],
     "conference": "colt",
-    "id": "76a80e5e",
+    "id": "f65133a7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Quadratic Upper Bound for Recursive Teaching Dimension of Finite VC Classes",
-    "pdf_link": "http://proceedings.mlr.press/v65/hu17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/hu17a/hu17a.pdf",
     "year": 2017
   },
   {
@@ -697,12 +749,13 @@
       "Anders Rantzer"
     ],
     "conference": "colt",
-    "id": "2af542de",
+    "id": "2a4a57da",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Unified Analysis of Stochastic Optimization Methods Using Jump System Theory and Quadratic Constraints",
-    "pdf_link": "http://proceedings.mlr.press/v65/hu17b.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/hu17b/hu17b.pdf",
     "year": 2017
   },
   {
@@ -711,12 +764,13 @@
       "Santosh Vempala"
     ],
     "conference": "colt",
-    "id": "dea6def6",
+    "id": "045e9fc8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Hidden Hubs Problem",
-    "pdf_link": "http://proceedings.mlr.press/v65/kannan17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/kannan17a/kannan17a.pdf",
     "year": 2017
   },
   {
@@ -725,12 +779,13 @@
       "Zhiwei Steven Wu"
     ],
     "conference": "colt",
-    "id": "8e42af50",
+    "id": "68385c6d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Predicting with Distributions",
-    "pdf_link": "http://proceedings.mlr.press/v65/kearns17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/kearns17a/kearns17a.pdf",
     "year": 2017
   },
   {
@@ -740,12 +795,15 @@
       "Yishay Mansour"
     ],
     "conference": "colt",
-    "id": "c4c96e60",
+    "id": "55182b90",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Bandits with Movement Costs and Adaptive Pricing",
-    "pdf_link": "http://proceedings.mlr.press/v65/koren17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/koren17a/koren17a.pdf",
     "year": 2017
   },
   {
@@ -755,12 +813,13 @@
       "Claire Vernade"
     ],
     "conference": "colt",
-    "id": "c529983a",
+    "id": "5fe953cc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparse Stochastic Bandits",
-    "pdf_link": "http://proceedings.mlr.press/v65/kwon17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/kwon17a/kwon17a.pdf",
     "year": 2017
   },
   {
@@ -772,12 +831,13 @@
       "Sanjeev Arora"
     ],
     "conference": "colt",
-    "id": "f5898f0c",
+    "id": "dbafc359",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On the Ability of Neural Nets to Express Distributions",
-    "pdf_link": "http://proceedings.mlr.press/v65/lee17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/lee17a/lee17a.pdf",
     "year": 2017
   },
   {
@@ -786,12 +846,13 @@
       "L\u00e9o Miolane"
     ],
     "conference": "colt",
-    "id": "1cbf4f69",
+    "id": "40142468",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fundamental limits of symmetric low-rank matrix estimation",
-    "pdf_link": "http://proceedings.mlr.press/v65/lelarge17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/lelarge17a/lelarge17a.pdf",
     "year": 2017
   },
   {
@@ -800,12 +861,15 @@
       "Ludwig Schmidt"
     ],
     "conference": "colt",
-    "id": "d1ed637e",
+    "id": "6d7f2c75",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Robust and Proper Learning for Mixtures of Gaussians via Systems of Polynomial Inequalities",
-    "pdf_link": "http://proceedings.mlr.press/v65/li17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/li17a/li17a.pdf",
     "year": 2017
   },
   {
@@ -814,12 +878,13 @@
       "Kpotufe Samory"
     ],
     "conference": "colt",
-    "id": "271ae912",
+    "id": "e4f5f819",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adaptivity to Noise Parameters in Nonparametric Active Learning",
-    "pdf_link": "http://proceedings.mlr.press/v65/locatelli-andrea17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/locatelli-andrea17a/locatelli-andrea17a.pdf",
     "year": 2017
   },
   {
@@ -828,12 +893,13 @@
       "Jiapeng Zhang"
     ],
     "conference": "colt",
-    "id": "c08b8647",
+    "id": "e9df49ed",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Noisy Population Recovery from Unknown Noise",
-    "pdf_link": "http://proceedings.mlr.press/v65/lovett17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/lovett17a/lovett17a.pdf",
     "year": 2017
   },
   {
@@ -842,12 +908,13 @@
       "Aviad Rubinstein"
     ],
     "conference": "colt",
-    "id": "515fd0e8",
+    "id": "147c2698",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inapproximability of VC Dimension and Littlestone\u2019s Dimension",
-    "pdf_link": "http://proceedings.mlr.press/v65/manurangsi17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/manurangsi17a/manurangsi17a.pdf",
     "year": 2017
   },
   {
@@ -855,12 +922,13 @@
       "Andreas Maurer"
     ],
     "conference": "colt",
-    "id": "9a0fa3b7",
+    "id": "347264c9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Second-order Look at Stability and Generalization",
-    "pdf_link": "http://proceedings.mlr.press/v65/maurer17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/maurer17a/maurer17a.pdf",
     "year": 2017
   },
   {
@@ -871,12 +939,13 @@
       "Roberto Imbuzeiro Oliveira"
     ],
     "conference": "colt",
-    "id": "2b22dfee",
+    "id": "17d9e3fd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Solving SDPs for synchronization and MaxCut problems via the Grothendieck inequality",
-    "pdf_link": "http://proceedings.mlr.press/v65/mei17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/mei17a/mei17a.pdf",
     "year": 2017
   },
   {
@@ -885,12 +954,13 @@
       "Michal Moshkovitz"
     ],
     "conference": "colt",
-    "id": "67c4e1d2",
+    "id": "c1cf941f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mixing Implies Lower Bounds for Space Bounded Learning",
-    "pdf_link": "http://proceedings.mlr.press/v65/moshkovitz17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/moshkovitz17a/moshkovitz17a.pdf",
     "year": 2017
   },
   {
@@ -899,12 +969,13 @@
       "Vicen\u00e7 G\u00f3mez"
     ],
     "conference": "colt",
-    "id": "f4999356",
+    "id": "2da6cf9b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast rates for online learning in Linearly Solvable Markov Decision Processes",
-    "pdf_link": "http://proceedings.mlr.press/v65/neu17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/neu17a/neu17a.pdf",
     "year": 2017
   },
   {
@@ -914,12 +985,15 @@
       "Yihong Wu"
     ],
     "conference": "colt",
-    "id": "4095620d",
+    "id": "6efb8a07",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Sample complexity of population recovery",
-    "pdf_link": "http://proceedings.mlr.press/v65/polyanskiy17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/polyanskiy17a/polyanskiy17a.pdf",
     "year": 2017
   },
   {
@@ -928,12 +1002,13 @@
       "David Steurer"
     ],
     "conference": "colt",
-    "id": "f9fcebdd",
+    "id": "8186aaf7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exact tensor completion with sum-of-squares",
-    "pdf_link": "http://proceedings.mlr.press/v65/potechin17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/potechin17a/potechin17a.pdf",
     "year": 2017
   },
   {
@@ -943,12 +1018,13 @@
       "Matus Telgarsky"
     ],
     "conference": "colt",
-    "id": "1c4eacc3",
+    "id": "e1acbfae",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Non-convex learning via Stochastic Gradient Langevin Dynamics: a nonasymptotic analysis",
-    "pdf_link": "http://proceedings.mlr.press/v65/raginsky17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/raginsky17a/raginsky17a.pdf",
     "year": 2017
   },
   {
@@ -957,12 +1033,13 @@
       "Karthik Sridharan"
     ],
     "conference": "colt",
-    "id": "96483ed8",
+    "id": "e03d1909",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On Equivalence of Martingale Tail Bounds and Deterministic Regret Inequalities",
-    "pdf_link": "http://proceedings.mlr.press/v65/rakhlin17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/rakhlin17a/rakhlin17a.pdf",
     "year": 2017
   },
   {
@@ -972,12 +1049,13 @@
       "Volkan Cevher"
     ],
     "conference": "colt",
-    "id": "dc2ebf48",
+    "id": "bc0b6555",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Lower Bounds on Regret for Noisy Gaussian Process Bandit Optimization",
-    "pdf_link": "http://proceedings.mlr.press/v65/scarlett17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/scarlett17a/scarlett17a.pdf",
     "year": 2017
   },
   {
@@ -986,12 +1064,15 @@
       "G\u00e1bor Lugosi"
     ],
     "conference": "colt",
-    "id": "16db58dc",
+    "id": "6a9e4da0",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "An Improved Parametrization and Analysis of the EXP3++ Algorithm for Stochastic and Adversarial Bandits",
-    "pdf_link": "http://proceedings.mlr.press/v65/seldin17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/seldin17a/seldin17a.pdf",
     "year": 2017
   },
   {
@@ -1000,12 +1081,13 @@
       "David Steurer"
     ],
     "conference": "colt",
-    "id": "69c212d0",
+    "id": "2da21443",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast and robust tensor decomposition with applications to dictionary learning",
-    "pdf_link": "http://proceedings.mlr.press/v65/schramm17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/schramm17a/schramm17a.pdf",
     "year": 2017
   },
   {
@@ -1015,12 +1097,13 @@
       "Benjamin Recht"
     ],
     "conference": "colt",
-    "id": "f810d6de",
+    "id": "dbc79101",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Simulator: Understanding Adaptive Sampling in the Moderate-Confidence Regime",
-    "pdf_link": "http://proceedings.mlr.press/v65/simchowitz17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/simchowitz17a/simchowitz17a.pdf",
     "year": 2017
   },
   {
@@ -1028,12 +1111,13 @@
       "Salil Vadhan"
     ],
     "conference": "colt",
-    "id": "52bf5486",
+    "id": "cff850d1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "On Learning vs. Refutation",
-    "pdf_link": "http://proceedings.mlr.press/v65/vadhan17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/vadhan17a/vadhan17a.pdf",
     "year": 2017
   },
   {
@@ -1043,12 +1127,13 @@
       "Huan Xu"
     ],
     "conference": "colt",
-    "id": "f1ae1ccd",
+    "id": "59bd8ba2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ignoring Is a Bliss:  Learning with Large Noise Through Reweighting-Minimization",
-    "pdf_link": "http://proceedings.mlr.press/v65/vainsencher17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/vainsencher17a/vainsencher17a.pdf",
     "year": 2017
   },
   {
@@ -1058,12 +1143,13 @@
       "Nathan Srebro"
     ],
     "conference": "colt",
-    "id": "6961a881",
+    "id": "477615b3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Memory and Communication Efficient Distributed Stochastic Optimization with Minibatch Prox",
-    "pdf_link": "http://proceedings.mlr.press/v65/wang17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/wang17a/wang17a.pdf",
     "year": 2017
   },
   {
@@ -1074,12 +1160,13 @@
       "Nathan Srebro"
     ],
     "conference": "colt",
-    "id": "5967ca4b",
+    "id": "e02b418c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Non-Discriminatory Predictors",
-    "pdf_link": "http://proceedings.mlr.press/v65/woodworth17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/woodworth17a/woodworth17a.pdf",
     "year": 2017
   },
   {
@@ -1089,12 +1176,13 @@
       "Rong Jin"
     ],
     "conference": "colt",
-    "id": "153ce6e0",
+    "id": "7f862a66",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
-    "name": "Empirical Risk Minimization for Stochastic Convex Optimization: <span class=\"MathJax_Preview\" style=\"color: inherit; display: none;\"></span><span class=\"MathJax\" id=\"MathJax-Element-3-Frame\" tabindex=\"0\" data-mathml=\"<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>O</mi><mo stretchy=&quot;false&quot;>(</mo><mn>1</mn><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>/</mo></mrow><mi>n</mi><mo stretchy=&quot;false&quot;>)</mo></math>\" role=\"presentation\" style=\"position: relative;\"><nobr aria-hidden=\"true\"><span class=\"math\" id=\"MathJax-Span-17\" style=\"width: 3.867em; display: inline-block;\"><span style=\"display: inline-block; position: relative; width: 3.165em; height: 0px; font-size: 122%;\"><span style=\"position: absolute; clip: rect(1.232em, 1003.05em, 2.579em, -999.997em); top: -2.163em; left: 0em;\"><span class=\"mrow\" id=\"MathJax-Span-18\"><span class=\"mi\" id=\"MathJax-Span-19\" style=\"font-family: MathJax_Math-italic;\">O</span><span class=\"mo\" id=\"MathJax-Span-20\" style=\"font-family: MathJax_Main;\">(</span><span class=\"mn\" id=\"MathJax-Span-21\" style=\"font-family: MathJax_Main;\">1</span><span class=\"texatom\" id=\"MathJax-Span-22\"><span class=\"mrow\" id=\"MathJax-Span-23\"><span class=\"mo\" id=\"MathJax-Span-24\" style=\"font-family: MathJax_Main;\">/</span></span></span><span class=\"mi\" id=\"MathJax-Span-25\" style=\"font-family: MathJax_Math-italic;\">n</span><span class=\"mo\" id=\"MathJax-Span-26\" style=\"font-family: MathJax_Main;\">)</span></span><span style=\"display: inline-block; width: 0px; height: 2.169em;\"></span></span></span><span style=\"display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;\"></span></span></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mo stretchy=\"false\">(</mo><mn>1</mn><mrow class=\"MJX-TeXAtom-ORD\"><mo>/</mo></mrow><mi>n</mi><mo stretchy=\"false\">)</mo></math></span></span><script type=\"math/tex\" id=\"MathJax-Element-3\">O(1/n)</script>- and <span class=\"MathJax_Preview\" style=\"color: inherit; display: none;\"></span><span class=\"MathJax\" id=\"MathJax-Element-4-Frame\" tabindex=\"0\" data-mathml=\"<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>O</mi><mo stretchy=&quot;false&quot;>(</mo><mn>1</mn><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mo>/</mo></mrow><msup><mi>n</mi><mn>2</mn></msup><mo stretchy=&quot;false&quot;>)</mo></math>\" role=\"presentation\" style=\"position: relative;\"><nobr aria-hidden=\"true\"><span class=\"math\" id=\"MathJax-Span-27\" style=\"width: 4.394em; display: inline-block;\"><span style=\"display: inline-block; position: relative; width: 3.574em; height: 0px; font-size: 122%;\"><span style=\"position: absolute; clip: rect(1.174em, 1003.46em, 2.579em, -999.997em); top: -2.163em; left: 0em;\"><span class=\"mrow\" id=\"MathJax-Span-28\"><span class=\"mi\" id=\"MathJax-Span-29\" style=\"font-family: MathJax_Math-italic;\">O</span><span class=\"mo\" id=\"MathJax-Span-30\" style=\"font-family: MathJax_Main;\">(</span><span class=\"mn\" id=\"MathJax-Span-31\" style=\"font-family: MathJax_Main;\">1</span><span class=\"texatom\" id=\"MathJax-Span-32\"><span class=\"mrow\" id=\"MathJax-Span-33\"><span class=\"mo\" id=\"MathJax-Span-34\" style=\"font-family: MathJax_Main;\">/</span></span></span><span class=\"msubsup\" id=\"MathJax-Span-35\"><span style=\"display: inline-block; position: relative; width: 1.057em; height: 0px;\"><span style=\"position: absolute; clip: rect(3.34em, 1000.59em, 4.16em, -999.997em); top: -3.978em; left: 0em;\"><span class=\"mi\" id=\"MathJax-Span-36\" style=\"font-family: MathJax_Math-italic;\">n</span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span><span style=\"position: absolute; top: -4.33em; left: 0.588em;\"><span class=\"mn\" id=\"MathJax-Span-37\" style=\"font-size: 70.7%; font-family: MathJax_Main;\">2</span><span style=\"display: inline-block; width: 0px; height: 3.984em;\"></span></span></span></span><span class=\"mo\" id=\"MathJax-Span-38\" style=\"font-family: MathJax_Main;\">)</span></span><span style=\"display: inline-block; width: 0px; height: 2.169em;\"></span></span></span><span style=\"display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.504em;\"></span></span></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi><mo stretchy=\"false\">(</mo><mn>1</mn><mrow class=\"MJX-TeXAtom-ORD\"><mo>/</mo></mrow><msup><mi>n</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo></math></span></span><script type=\"math/tex\" id=\"MathJax-Element-4\">O(1/n^2)</script>-type of Risk Bounds",
-    "pdf_link": "http://proceedings.mlr.press/v65/zhang17a.html",
+    "name": "Empirical Risk Minimization for Stochastic Convex Optimization: O(1/n)O(1/n)O(1/n)- and O(1/n2)O(1/n2)O(1/n^2)-type of Risk Bounds",
+    "pdf_link": "http://proceedings.mlr.press/v65/zhang17a/zhang17a.pdf",
     "year": 2017
   },
   {
@@ -1104,12 +1192,13 @@
       "Moses Charikar"
     ],
     "conference": "colt",
-    "id": "1a4832e8",
+    "id": "c84cbe4f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Hitting Time Analysis of Stochastic Gradient Langevin Dynamics",
-    "pdf_link": "http://proceedings.mlr.press/v65/zhang17b.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/zhang17b/zhang17b.pdf",
     "year": 2017
   },
   {
@@ -1117,12 +1206,13 @@
       "Zhivotovskiy Nikita"
     ],
     "conference": "colt",
-    "id": "e74ff68c",
+    "id": "0454c3f5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Optimal learning via local entropies and sample compression",
-    "pdf_link": "http://proceedings.mlr.press/v65/nikita17a.html",
+    "pdf_link": "http://proceedings.mlr.press/v65/nikita17a/nikita17a.pdf",
     "year": 2017
   }
 ]

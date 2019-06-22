@@ -5,12 +5,13 @@
       "Junichi Tsujii"
     ],
     "conference": "emnlp",
-    "id": "47028fc7",
+    "id": "bc66240d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Monolingual Phrase Alignment on Parse Forests",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1001/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1001",
     "year": 2017
   },
   {
@@ -20,12 +21,13 @@
       "Lillian Lee"
     ],
     "conference": "emnlp",
-    "id": "c7d9c518",
+    "id": "2fb1a42e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fast(er) Exact Decoding and Global Training for Transition-Based Dependency Parsing via a Minimal Feature Set",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1002/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1002",
     "year": 2017
   },
   {
@@ -36,12 +38,13 @@
       "Xiaojun Wan"
     ],
     "conference": "emnlp",
-    "id": "3da701e8",
+    "id": "9c4c5787",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Quasi-Second-Order Parsing for 1-Endpoint-Crossing, Pagenumber-2 Graphs",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1003/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1003",
     "year": 2017
   },
   {
@@ -53,12 +56,13 @@
       "Christopher D. Manning"
     ],
     "conference": "emnlp",
-    "id": "3d4fa102",
+    "id": "de7cc3d1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Position-aware Attention and Supervised Data Improve Slot Filling",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1004/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1004",
     "year": 2017
   },
   {
@@ -72,12 +76,13 @@
       "Jiawei Han"
     ],
     "conference": "emnlp",
-    "id": "caf03a70",
+    "id": "4d3fbd36",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1005/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1005",
     "year": 2017
   },
   {
@@ -87,12 +92,15 @@
       "Ching-Yun Chang"
     ],
     "conference": "emnlp",
-    "id": "ce1703b2",
+    "id": "374b98d9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Integrating Order Information and Event Relation for Script Event Prediction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1006/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1006",
     "year": 2017
   },
   {
@@ -104,12 +112,13 @@
       "Ming Zhou"
     ],
     "conference": "emnlp",
-    "id": "88c8e3b7",
+    "id": "76b6eb23",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Entity Linking for Queries by Searching Wikipedia Sentences",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1007/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1007",
     "year": 2017
   },
   {
@@ -118,12 +127,13 @@
       "Roberto Navigli"
     ],
     "conference": "emnlp",
-    "id": "68af6385",
+    "id": "f0921896",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Train-O-Matic: Large-Scale Supervised Word Sense Disambiguation in Multiple Languages without Manual Training Data",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1008/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1008",
     "year": 2017
   },
   {
@@ -135,12 +145,15 @@
       "Mirella Lapata"
     ],
     "conference": "emnlp",
-    "id": "ca4a1369",
+    "id": "8d9e53dd",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Universal Semantic Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1009/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1009",
     "year": 2017
   },
   {
@@ -150,12 +163,13 @@
       "Jacob Eisenstein"
     ],
     "conference": "emnlp",
-    "id": "9eb64319",
+    "id": "322da381",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mimicking Word Embeddings using Subword RNNs",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1010/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1010",
     "year": 2017
   },
   {
@@ -164,12 +178,13 @@
       "Hinrich Sch\u00fctze"
     ],
     "conference": "emnlp",
-    "id": "29e8f3c9",
+    "id": "7c93979a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Past, Present, Future: A Computational Investigation of the Typology of Tense in 1000 Languages",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1011/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1011",
     "year": 2017
   },
   {
@@ -178,12 +193,15 @@
       "Yoshimasa Tsuruoka"
     ],
     "conference": "emnlp",
-    "id": "86c27367",
+    "id": "e9bf692a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Neural Machine Translation with Source-Side Latent Graph Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1012/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1012",
     "year": 2017
   },
   {
@@ -195,12 +213,13 @@
       "Jiajun Chen"
     ],
     "conference": "emnlp",
-    "id": "917657bd",
+    "id": "40d8c54c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Machine Translation with Word Predictions",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1013/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1013",
     "year": 2017
   },
   {
@@ -210,12 +229,13 @@
       "Trevor Cohn"
     ],
     "conference": "emnlp",
-    "id": "e6237ac8",
+    "id": "6100960e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Decoding as Continuous Optimisation in Neural Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1014/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1014",
     "year": 2017
   },
   {
@@ -224,12 +244,13 @@
       "Dan Klein"
     ],
     "conference": "emnlp",
-    "id": "345714c4",
+    "id": "1ec869c9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Where is Misty? Interpreting Spatial Descriptors by Modeling Regions in Space",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1015/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1015",
     "year": 2017
   },
   {
@@ -239,12 +260,13 @@
       "Trevor Cohn"
     ],
     "conference": "emnlp",
-    "id": "d0a36e98",
+    "id": "c4a05384",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Continuous Representation of Location for Geolocation and Lexical Dialectology using Mixture Density Networks",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1016/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1016",
     "year": 2017
   },
   {
@@ -253,12 +275,13 @@
       "Vicente Ordonez"
     ],
     "conference": "emnlp",
-    "id": "53dfef8a",
+    "id": "12d223a9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Obj2Text: Generating Visually Descriptive Language from Object Layouts",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1017/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1017",
     "year": 2017
   },
   {
@@ -269,12 +292,16 @@
       "Luke Zettlemoyer"
     ],
     "conference": "emnlp",
-    "id": "18753aaa",
+    "id": "f6e4cedf",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "fb.com"
+      ]
     },
     "name": "End-to-end Neural Coreference Resolution",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1018/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1018",
     "year": 2017
   },
   {
@@ -283,12 +310,13 @@
       "Dan Jurafsky"
     ],
     "conference": "emnlp",
-    "id": "45547c3c",
+    "id": "78726b2a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Net Models of Open-domain Discourse Coherence",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1019/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1019",
     "year": 2017
   },
   {
@@ -299,12 +327,13 @@
       "Baobao Chang"
     ],
     "conference": "emnlp",
-    "id": "f790e8b4",
+    "id": "aeb67b84",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Affinity-Preserving Random Walk for Multi-Document Summarization",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1020/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1020",
     "year": 2017
   },
   {
@@ -315,12 +344,15 @@
       "Anette Frank"
     ],
     "conference": "emnlp",
-    "id": "4c4e4d78",
+    "id": "668e7c0d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "A Mention-Ranking Model for Abstract Anaphora Resolution",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1021/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1021",
     "year": 2017
   },
   {
@@ -331,12 +363,13 @@
       "Ngoc Thang Vu"
     ],
     "conference": "emnlp",
-    "id": "2b20eff7",
+    "id": "1b2f1bf4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hierarchical Embeddings for Hypernymy Detection and Directionality",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1022/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1022",
     "year": 2017
   },
   {
@@ -348,12 +381,13 @@
       "Xiaoyong Du"
     ],
     "conference": "emnlp",
-    "id": "7fbb5a3f",
+    "id": "84f33844",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ngram2vec: Learning Improved Word Representations from Ngram Co-occurrence Statistics",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1023/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1023",
     "year": 2017
   },
   {
@@ -363,12 +397,13 @@
       "Amaury Habrard"
     ],
     "conference": "emnlp",
-    "id": "810113f5",
+    "id": "51bf04ed",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dict2vec : Learning Word Embeddings using Lexical Dictionaries",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1024/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1024",
     "year": 2017
   },
   {
@@ -377,12 +412,13 @@
       "Hung-Yi Lee"
     ],
     "conference": "emnlp",
-    "id": "6ccccbdc",
+    "id": "e2eb5af4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Chinese Word Representations From Glyphs Of Characters",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1025/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1025",
     "year": 2017
   },
   {
@@ -392,12 +428,13 @@
       "Kevin Gimpel"
     ],
     "conference": "emnlp",
-    "id": "522be637",
+    "id": "09707905",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Paraphrastic Sentence Embeddings from Back-Translated Bitext",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1026/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1026",
     "year": 2017
   },
   {
@@ -408,12 +445,15 @@
       "Yangqiu Song"
     ],
     "conference": "emnlp",
-    "id": "17941887",
+    "id": "8e1fb3a8",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1027/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1027",
     "year": 2017
   },
   {
@@ -426,12 +466,13 @@
       "Manish Shrivastava"
     ],
     "conference": "emnlp",
-    "id": "d7a4e498",
+    "id": "10efd47f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exploiting Morphological Regularities in Distributional Word Representations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1028/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1028",
     "year": 2017
   },
   {
@@ -441,12 +482,13 @@
       "Chengqing Zong"
     ],
     "conference": "emnlp",
-    "id": "58e9c9d4",
+    "id": "ac83c108",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exploiting Word Internal Structures for Generic Chinese Sentence Representation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1029/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1029",
     "year": 2017
   },
   {
@@ -455,12 +497,13 @@
       "Marco Baroni"
     ],
     "conference": "emnlp",
-    "id": "fd468e78",
+    "id": "f68341e9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "High-risk learning: acquiring new word vectors from tiny data",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1030/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1030",
     "year": 2017
   },
   {
@@ -471,12 +514,13 @@
       "Quan Liu"
     ],
     "conference": "emnlp",
-    "id": "23060238",
+    "id": "5e3f52d3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Word Embeddings based on Fixed-Size Ordinally Forgetting Encoding",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1031/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1031",
     "year": 2017
   },
   {
@@ -486,12 +530,13 @@
       "Doug Downey"
     ],
     "conference": "emnlp",
-    "id": "f53218bb",
+    "id": "91f447d2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "VecShare: A Framework for Sharing Word Representation Vectors",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1032/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1032",
     "year": 2017
   },
   {
@@ -500,12 +545,13 @@
       "Edward Curry"
     ],
     "conference": "emnlp",
-    "id": "9f7b8bb8",
+    "id": "4444161e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Word Re-Embedding via Manifold Dimensionality Retention",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1033/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1033",
     "year": 2017
   },
   {
@@ -514,12 +560,13 @@
       "Yun-Nung Chen"
     ],
     "conference": "emnlp",
-    "id": "acf0fa26",
+    "id": "056e22f1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MUSE: Modularizing Unsupervised Sense Embeddings",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1034/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1034",
     "year": 2017
   },
   {
@@ -528,12 +575,15 @@
       "Iryna Gurevych"
     ],
     "conference": "emnlp",
-    "id": "52d4f8ad",
+    "id": "c50dd107",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1035/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1035",
     "year": 2017
   },
   {
@@ -542,12 +592,13 @@
       "Julia Kreutzer"
     ],
     "conference": "emnlp",
-    "id": "bd79e8c5",
+    "id": "cb2ca16d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning What\u2019s Easy: Fully Differentiable Neural Easy-First Taggers",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1036/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1036",
     "year": 2017
   },
   {
@@ -556,12 +607,15 @@
       "Hayato Kobayashi"
     ],
     "conference": "emnlp",
-    "id": "6ddb5120",
+    "id": "82b1eab8",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Incremental Skip-gram Model with Negative Sampling",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1037/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1037",
     "year": 2017
   },
   {
@@ -570,12 +624,13 @@
       "Barbara Plank"
     ],
     "conference": "emnlp",
-    "id": "249a4e4d",
+    "id": "4500166d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to select data for transfer learning with Bayesian Optimization",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1038/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1038",
     "year": 2017
   },
   {
@@ -585,12 +640,16 @@
       "Quoc Le"
     ],
     "conference": "emnlp",
-    "id": "7ba6ece4",
+    "id": "44e378c1",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "google.com"
+      ]
     },
     "name": "Unsupervised Pretraining for Sequence to Sequence Learning",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1039/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1039",
     "year": 2017
   },
   {
@@ -600,12 +659,17 @@
       "Minh-Thang Luong"
     ],
     "conference": "emnlp",
-    "id": "66869f03",
+    "id": "c8134204",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Efficient Attention using a Fixed-Size Memory Representation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1040/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1040",
     "year": 2017
   },
   {
@@ -615,12 +679,13 @@
       "Alice Oh"
     ],
     "conference": "emnlp",
-    "id": "35dd53d3",
+    "id": "29dd8636",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Rotated Word Vector Representations and their Interpretability",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1041/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1041",
     "year": 2017
   },
   {
@@ -629,12 +694,15 @@
       "Tommi Jaakkola"
     ],
     "conference": "emnlp",
-    "id": "47c508f8",
+    "id": "112d593f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "opennmt"
+      ]
     },
     "name": "A causal framework for explaining the predictions of black-box sequence-to-sequence models",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1042/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1042",
     "year": 2017
   },
   {
@@ -645,12 +713,13 @@
       "Aaron Courville"
     ],
     "conference": "emnlp",
-    "id": "d976be09",
+    "id": "4ca9a4c1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Piecewise Latent Variables for Neural Variational Text Processing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1043/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1043",
     "year": 2017
   },
   {
@@ -659,12 +728,13 @@
       "Fran\u00e7ois Yvon"
     ],
     "conference": "emnlp",
-    "id": "d4281219",
+    "id": "0dc4ac81",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning the Structure of Variable-Order CRFs: a finite-state perspective",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1044/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1044",
     "year": 2017
   },
   {
@@ -673,12 +743,13 @@
       "Kenneth Heafield"
     ],
     "conference": "emnlp",
-    "id": "6cab4541",
+    "id": "c2565ee3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparse Communication for Distributed Gradient Descent",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1045/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1045",
     "year": 2017
   },
   {
@@ -688,12 +759,15 @@
       "Jordan Boyd-Graber"
     ],
     "conference": "emnlp",
-    "id": "ed9c69a3",
+    "id": "358fd962",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Why ADAGRAD Fails for Online Topic Modeling",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1046/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1046",
     "year": 2017
   },
   {
@@ -704,12 +778,13 @@
       "Wei Yang"
     ],
     "conference": "emnlp",
-    "id": "8d6007bf",
+    "id": "7a5888c9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Recurrent Attention Network on Memory for Aspect Sentiment Analysis",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1047/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1047",
     "year": 2017
   },
   {
@@ -721,12 +796,13 @@
       "Chu-Ren Huang"
     ],
     "conference": "emnlp",
-    "id": "a14c3ca7",
+    "id": "860b001c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Cognition Based Attention Model for Sentiment Analysis",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1048/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1048",
     "year": 2017
   },
   {
@@ -736,12 +812,15 @@
       "Mong Li Lee"
     ],
     "conference": "emnlp",
-    "id": "567f754c",
+    "id": "674512ea",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Author-aware Aspect Topic Sentiment Model to Retrieve Supporting Opinions from Reviews",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1049/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1049",
     "year": 2017
   },
   {
@@ -750,12 +829,13 @@
       "Tony Veale"
     ],
     "conference": "emnlp",
-    "id": "128f055d",
+    "id": "232ed359",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Magnets for Sarcasm: Making Sarcasm Detection Timely, Contextual and Very Personal",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1050/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1050",
     "year": 2017
   },
   {
@@ -764,12 +844,13 @@
       "Chengxiang Zhai"
     ],
     "conference": "emnlp",
-    "id": "334d99e9",
+    "id": "3794e411",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Identifying Humor in Reviews using Background Text Sources",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1051/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1051",
     "year": 2017
   },
   {
@@ -778,12 +859,13 @@
       "Rui Xia"
     ],
     "conference": "emnlp",
-    "id": "c329bf25",
+    "id": "e69fc45e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sentiment Lexicon Construction with Representation Learning Based on Hierarchical Sentiment Supervision",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1052/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1052",
     "year": 2017
   },
   {
@@ -792,12 +874,13 @@
       "Xiaojun Wan"
     ],
     "conference": "emnlp",
-    "id": "1d5ca7df",
+    "id": "f5dd1cfd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards a Universal Sentiment Classifier in Multiple languages",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1053/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1053",
     "year": 2017
   },
   {
@@ -805,12 +888,13 @@
       "Zi-Yi Dou"
     ],
     "conference": "emnlp",
-    "id": "1db30566",
+    "id": "4a40c0e1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Capturing User and Product Information for Document Level Sentiment Analysis with Deep Memory Network",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1054/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1054",
     "year": 2017
   },
   {
@@ -823,12 +907,15 @@
       "Xiaojun Chen"
     ],
     "conference": "emnlp",
-    "id": "cac337fe",
+    "id": "bef7901c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Identifying and Tracking Sentiments and Topics from Social Media Texts during Natural Disasters",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1055/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1055",
     "year": 2017
   },
   {
@@ -839,12 +926,16 @@
       "Xuejie Zhang"
     ],
     "conference": "emnlp",
-    "id": "bb267f11",
+    "id": "1311580c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Refining Word Embeddings for Sentiment Analysis",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1056/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1056",
     "year": 2017
   },
   {
@@ -856,12 +947,13 @@
       "Pushpak Bhattacharyya"
     ],
     "conference": "emnlp",
-    "id": "3ca21288",
+    "id": "8532f240",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Multilayer Perceptron based Ensemble Technique for Fine-grained Financial Sentiment Analysis",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1057/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1057",
     "year": 2017
   },
   {
@@ -872,12 +964,15 @@
       "Pushpak Bhattacharyya"
     ],
     "conference": "emnlp",
-    "id": "5416b73d",
+    "id": "9cf2a329",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Sentiment Intensity Ranking among Adjectives Using Sentiment Bearing Word Embeddings",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1058/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1058",
     "year": 2017
   },
   {
@@ -887,12 +982,13 @@
       "Bing Liu"
     ],
     "conference": "emnlp",
-    "id": "b7a772db",
+    "id": "128feacb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sentiment Lexicon Expansion Based on Neural PU Learning, Double Dictionary Lookup, and Polarity Association",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1059/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1059",
     "year": 2017
   },
   {
@@ -902,12 +998,13 @@
       "William Yang Wang"
     ],
     "conference": "emnlp",
-    "id": "0c5c083c",
+    "id": "3112303e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1060/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1060",
     "year": 2017
   },
   {
@@ -916,12 +1013,15 @@
       "Kyunghyun Cho"
     ],
     "conference": "emnlp",
-    "id": "127c98aa",
+    "id": "5627ef53",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Task-Oriented Query Reformulation with Reinforcement Learning",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1061/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1061",
     "year": 2017
   },
   {
@@ -930,12 +1030,13 @@
       "Mirella Lapata"
     ],
     "conference": "emnlp",
-    "id": "8592e77e",
+    "id": "28620f30",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sentence Simplification with Deep Reinforcement Learning",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1062/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1062",
     "year": 2017
   },
   {
@@ -945,12 +1046,13 @@
       "Trevor Cohn"
     ],
     "conference": "emnlp",
-    "id": "2c5b8e93",
+    "id": "3af34e70",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning how to Active Learn: A Deep Reinforcement Learning Approach",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1063/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1063",
     "year": 2017
   },
   {
@@ -961,12 +1063,13 @@
       "Anastasia Shimorina"
     ],
     "conference": "emnlp",
-    "id": "c26d7279",
+    "id": "2d1925e1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Split and Rephrase",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1064/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1064",
     "year": 2017
   },
   {
@@ -980,12 +1083,13 @@
       "Chao Qi"
     ],
     "conference": "emnlp",
-    "id": "bea4b6df",
+    "id": "2a2daa2c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Response Generation via GAN with an Approximate Embedding Layer",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1065/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1065",
     "year": 2017
   },
   {
@@ -995,12 +1099,15 @@
       "Erhardt Barth"
     ],
     "conference": "emnlp",
-    "id": "f6a97738",
+    "id": "d9325151",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "A Hybrid Convolutional Variational Autoencoder for Text Generation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1066/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1066",
     "year": 2017
   },
   {
@@ -1012,12 +1119,13 @@
       "Henry Kautz"
     ],
     "conference": "emnlp",
-    "id": "3877887f",
+    "id": "c110c6e8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Filling the Blanks (hint: plural noun) for Mad Libs Humor",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1067/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1067",
     "year": 2017
   },
   {
@@ -1028,12 +1136,13 @@
       "Philippe Blache"
     ],
     "conference": "emnlp",
-    "id": "7197d63d",
+    "id": "02d63dff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Measuring Thematic Fit with Distributional Feature Overlap",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1068/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1068",
     "year": 2017
   },
   {
@@ -1044,12 +1153,13 @@
       "Harish Karnick"
     ],
     "conference": "emnlp",
-    "id": "21e73879",
+    "id": "37570200",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "SCDV : Sparse Composite Document Vectors using soft clustering over distributional representations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1069/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1069",
     "year": 2017
   },
   {
@@ -1061,12 +1171,15 @@
       "Antoine Bordes"
     ],
     "conference": "emnlp",
-    "id": "624fda4a",
+    "id": "883ed278",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1070/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1070",
     "year": 2017
   },
   {
@@ -1077,12 +1190,13 @@
       "Daisuke Bekki"
     ],
     "conference": "emnlp",
-    "id": "9a01d1e7",
+    "id": "95ac0aec",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Determining Semantic Textual Similarity using Natural Deduction Proofs",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1071/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1071",
     "year": 2017
   },
   {
@@ -1093,12 +1207,13 @@
       "Xinzhou Jiang"
     ],
     "conference": "emnlp",
-    "id": "56c0d892",
+    "id": "2f3b2d05",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-Grained Chinese Word Segmentation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1072/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1072",
     "year": 2017
   },
   {
@@ -1107,12 +1222,15 @@
       "Nizar Habash"
     ],
     "conference": "emnlp",
-    "id": "822e28cc",
+    "id": "4dfb0b75",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Don\u2019t Throw Those Morphological Analyzers Away Just Yet: Neural Morphological Disambiguation for Arabic",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1073/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1073",
     "year": 2017
   },
   {
@@ -1124,12 +1242,13 @@
       "David Yarowsky"
     ],
     "conference": "emnlp",
-    "id": "8cbc91fd",
+    "id": "94cf5256",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Paradigm Completion for Derivational Morphology",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1074/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1074",
     "year": 2017
   },
   {
@@ -1137,12 +1256,13 @@
       "Karl Stratos"
     ],
     "conference": "emnlp",
-    "id": "f401b6de",
+    "id": "ad2510a6",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Sub-Character Architecture for Korean Language Processing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1075/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1075",
     "year": 2017
   },
   {
@@ -1151,12 +1271,13 @@
       "Torsten Zesch"
     ],
     "conference": "emnlp",
-    "id": "cb147622",
+    "id": "6058df44",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Do LSTMs really work so well for PoS tagging? \u2013 A replication study",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1076/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1076",
     "year": 2017
   },
   {
@@ -1166,12 +1287,13 @@
       "David Bamman"
     ],
     "conference": "emnlp",
-    "id": "89135ce0",
+    "id": "b32898b0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Labeled Segmentation of Printed Books",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1077/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1077",
     "year": 2017
   },
   {
@@ -1180,12 +1302,13 @@
       "Georg Heigold"
     ],
     "conference": "emnlp",
-    "id": "0402c34a",
+    "id": "dc01e87c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cross-lingual Character-Level Neural Morphological Tagging",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1078/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1078",
     "year": 2017
   },
   {
@@ -1198,12 +1321,13 @@
       "Jiajun Chen"
     ],
     "conference": "emnlp",
-    "id": "c92a7ba1",
+    "id": "59f9c435",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Word-Context Character Embeddings for Chinese Word Segmentation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1079/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1079",
     "year": 2017
   },
   {
@@ -1211,12 +1335,13 @@
       "Takamasa Oshikiri"
     ],
     "conference": "emnlp",
-    "id": "c02f36ff",
+    "id": "82a55c27",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Segmentation-Free Word Embedding for Unsegmented Languages",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1080/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1080",
     "year": 2017
   },
   {
@@ -1226,12 +1351,13 @@
       "Eric Xing"
     ],
     "conference": "emnlp",
-    "id": "1fae0bc4",
+    "id": "fff3b914",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "From Textbooks to Knowledge: A Case Study in Harvesting Axiomatic Knowledge from Textbooks to Solve Geometry Problems",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1081/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1081",
     "year": 2017
   },
   {
@@ -1243,12 +1369,13 @@
       "Eduard Hovy"
     ],
     "conference": "emnlp",
-    "id": "f63203b3",
+    "id": "3c863450",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "RACE: Large-scale ReAding Comprehension Dataset From Examinations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1082/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1082",
     "year": 2017
   },
   {
@@ -1261,12 +1388,13 @@
       "Vidur Joshi"
     ],
     "conference": "emnlp",
-    "id": "c9220bec",
+    "id": "b852c668",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Beyond Sentential Semantic Parsing: Tackling the Math SAT with a Cascade of Tree Transducers",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1083/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1083",
     "year": 2017
   },
   {
@@ -1277,12 +1405,13 @@
       "Jian Yin"
     ],
     "conference": "emnlp",
-    "id": "d67bb2f7",
+    "id": "6783437d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Fine-Grained Expressions to Solve Math Word Problems",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1084/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1084",
     "year": 2017
   },
   {
@@ -1294,12 +1423,13 @@
       "Eric Nyberg"
     ],
     "conference": "emnlp",
-    "id": "b41f72e1",
+    "id": "7a3d7729",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Structural Embedding of Syntactic Trees for Machine Comprehension",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1085/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1085",
     "year": 2017
   },
   {
@@ -1311,12 +1441,13 @@
       "Doina Precup"
     ],
     "conference": "emnlp",
-    "id": "3dda3501",
+    "id": "acd2d3c0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1086/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1086",
     "year": 2017
   },
   {
@@ -1327,12 +1458,13 @@
       "Li Deng"
     ],
     "conference": "emnlp",
-    "id": "22488f95",
+    "id": "69113034",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Two-Stage Synthesis Networks for Transfer Learning in Machine Comprehension",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1087/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1087",
     "year": 2017
   },
   {
@@ -1342,12 +1474,13 @@
       "Shuming Shi"
     ],
     "conference": "emnlp",
-    "id": "c8bb74c3",
+    "id": "f86ea7c1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Neural Solver for Math Word Problems",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1088/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1088",
     "year": 2017
   },
   {
@@ -1357,12 +1490,13 @@
       "Shirish Shevade"
     ],
     "conference": "emnlp",
-    "id": "85d54a18",
+    "id": "ec495680",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Latent Space Embedding for Retrieval in Question-Answer Archives",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1089/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1089",
     "year": 2017
   },
   {
@@ -1373,12 +1507,15 @@
       "Ming Zhou"
     ],
     "conference": "emnlp",
-    "id": "eaae8810",
+    "id": "229fb1c6",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Question Generation for Question Answering",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1090/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1090",
     "year": 2017
   },
   {
@@ -1389,12 +1526,13 @@
       "Mirella Lapata"
     ],
     "conference": "emnlp",
-    "id": "b638cff6",
+    "id": "caea2458",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Paraphrase for Question Answering",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1091/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1091",
     "year": 2017
   },
   {
@@ -1404,12 +1542,13 @@
       "Alexey Romanov"
     ],
     "conference": "emnlp",
-    "id": "bfcbacc1",
+    "id": "ff6b3dd9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal Information Extraction for Question Answering Using Syntactic Dependencies in an LSTM-based Architecture",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1092/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1092",
     "year": 2017
   },
   {
@@ -1419,12 +1558,13 @@
       "Alessandro Moschitti"
     ],
     "conference": "emnlp",
-    "id": "fd9593b8",
+    "id": "0ba7ea58",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Ranking Kernels for Structures and Embeddings: A Hybrid Preference and Classification Model",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1093/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1093",
     "year": 2017
   },
   {
@@ -1435,12 +1575,15 @@
       "Xifeng Yan"
     ],
     "conference": "emnlp",
-    "id": "8a4bf019",
+    "id": "a83ae10a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Recovering Question Answering Errors via Query Revision",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1094/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1094",
     "year": 2017
   },
   {
@@ -1449,12 +1592,13 @@
       "St\u00e9phane Dupont"
     ],
     "conference": "emnlp",
-    "id": "e4e6cb8a",
+    "id": "c2e0d8a3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An empirical study on the effectiveness of images in Multimodal Neural Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1095/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1095",
     "year": 2017
   },
   {
@@ -1464,12 +1608,13 @@
       "Devi Parikh"
     ],
     "conference": "emnlp",
-    "id": "13bde9c1",
+    "id": "9cfcd144",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sound-Word2Vec: Learning Word Representations Grounded in Sounds",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1096/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1096",
     "year": 2017
   },
   {
@@ -1481,12 +1626,13 @@
       "Stefan Lee"
     ],
     "conference": "emnlp",
-    "id": "9daaee25",
+    "id": "2e6a35ce",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Promise of Premise: Harnessing Question Premises in Visual Question Answering",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1097/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1097",
     "year": 2017
   },
   {
@@ -1497,12 +1643,13 @@
       "Stephen Gould"
     ],
     "conference": "emnlp",
-    "id": "7399d3af",
+    "id": "658497e9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Guided Open Vocabulary Image Captioning with Constrained Beam Search",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1098/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1098",
     "year": 2017
   },
   {
@@ -1511,12 +1658,15 @@
       "Yejin Choi"
     ],
     "conference": "emnlp",
-    "id": "b46b090c",
+    "id": "d8babc7b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Zero-Shot Activity Recognition with Verb Attribute Induction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1099/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1099",
     "year": 2017
   },
   {
@@ -1525,12 +1675,13 @@
       "David Schlangen"
     ],
     "conference": "emnlp",
-    "id": "4e62ff10",
+    "id": "e45bafb9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deriving continous grounded meaning representations from referentially structured multimodal contexts",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1100/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1100",
     "year": 2017
   },
   {
@@ -1540,12 +1691,13 @@
       "Tamara Berg"
     ],
     "conference": "emnlp",
-    "id": "1be0efd8",
+    "id": "83cbe4b4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Hierarchically-Attentive RNN for Album Summarization and Storytelling",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1101/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1101",
     "year": 2017
   },
   {
@@ -1556,12 +1708,15 @@
       "Alexander Berg"
     ],
     "conference": "emnlp",
-    "id": "582fd968",
+    "id": "beca64b5",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Video Highlight Prediction Using Audience Chat Reactions",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1102/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1102",
     "year": 2017
   },
   {
@@ -1570,12 +1725,13 @@
       "Mohit Bansal"
     ],
     "conference": "emnlp",
-    "id": "21fb32bf",
+    "id": "3c1b8683",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Reinforced Video Captioning with Entailment Rewards",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1103/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1103",
     "year": 2017
   },
   {
@@ -1585,12 +1741,13 @@
       "Timothy O\u2019Donnell"
     ],
     "conference": "emnlp",
-    "id": "900b917a",
+    "id": "3ee43c6c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Evaluating Hierarchies of Verb Argument Structure with Hierarchical Clustering",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1104/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1104",
     "year": 2017
   },
   {
@@ -1599,12 +1756,13 @@
       "Qun Liu"
     ],
     "conference": "emnlp",
-    "id": "55fe90ff",
+    "id": "07aa8b57",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Incorporating Global Visual Features into Attention-based Neural Machine Translation.",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1105/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1105",
     "year": 2017
   },
   {
@@ -1614,12 +1772,13 @@
       "Yoav Artzi"
     ],
     "conference": "emnlp",
-    "id": "e5e1ee0f",
+    "id": "b9fefedf",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Mapping Instructions and Visual Observations to Actions with Reinforcement Learning",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1106/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1106",
     "year": 2017
   },
   {
@@ -1630,12 +1789,13 @@
       "Arto Nordlund"
     ],
     "conference": "emnlp",
-    "id": "a6e75780",
+    "id": "4b1acc01",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An analysis of eye-movements during reading for the detection of mild cognitive impairment",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1107/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1107",
     "year": 2017
   },
   {
@@ -1645,12 +1805,13 @@
       "Dan Roth"
     ],
     "conference": "emnlp",
-    "id": "14fafe85",
+    "id": "533af1ca",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Structured Learning Approach to Temporal Relation Extraction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1108/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1108",
     "year": 2017
   },
   {
@@ -1661,12 +1822,13 @@
       "Christopher D. Manning"
     ],
     "conference": "emnlp",
-    "id": "3252c46d",
+    "id": "14402e84",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Importance sampling for unbiased on-demand evaluation of knowledge base population",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1109/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1109",
     "year": 2017
   },
   {
@@ -1677,12 +1839,16 @@
       "Gerard de Melo"
     ],
     "conference": "emnlp",
-    "id": "0b5f0f2f",
+    "id": "3528808f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "PACRR: A Position-Aware Neural IR Model for Relevance Matching",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1110/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1110",
     "year": 2017
   },
   {
@@ -1691,12 +1857,15 @@
       "John Miller"
     ],
     "conference": "emnlp",
-    "id": "7b1fd39e",
+    "id": "9234e2f3",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Globally Normalized Reader",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1111/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1111",
     "year": 2017
   },
   {
@@ -1705,12 +1874,13 @@
       "Cory Shain"
     ],
     "conference": "emnlp",
-    "id": "1f0ece34",
+    "id": "34830968",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Speech segmentation with a neural encoder model of working memory",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1112/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1112",
     "year": 2017
   },
   {
@@ -1720,12 +1890,13 @@
       "Ekaterina Shutova"
     ],
     "conference": "emnlp",
-    "id": "d70d00fc",
+    "id": "8ed9f20d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Speaking, Seeing, Understanding: Correlating semantic models with conceptual representation in the brain",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1113/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1113",
     "year": 2017
   },
   {
@@ -1737,12 +1908,15 @@
       "Chengqing Zong"
     ],
     "conference": "emnlp",
-    "id": "eadc6af9",
+    "id": "16fae19c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Multi-modal Summarization for Asynchronous Collection of Text, Image, Audio and Video",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1114/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1114",
     "year": 2017
   },
   {
@@ -1754,12 +1928,13 @@
       "Louis-Philippe Morency"
     ],
     "conference": "emnlp",
-    "id": "3ed57678",
+    "id": "4259f7b3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Tensor Fusion Network for Multimodal Sentiment Analysis",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1115/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1115",
     "year": 2017
   },
   {
@@ -1771,12 +1946,13 @@
       "Oren Tsur"
     ],
     "conference": "emnlp",
-    "id": "1b2e5280",
+    "id": "ff1a38b3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "ConStance: Modeling Annotation Contexts to Improve Stance Classification",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1116/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1116",
     "year": 2017
   },
   {
@@ -1786,12 +1962,15 @@
       "Ion Androutsopoulos"
     ],
     "conference": "emnlp",
-    "id": "12363a66",
+    "id": "6d5b72d7",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Deeper Attention to Abusive User Content Moderation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1117/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1117",
     "year": 2017
   },
   {
@@ -1801,12 +1980,13 @@
       "Eitan Grossman"
     ],
     "conference": "emnlp",
-    "id": "e70cabe6",
+    "id": "a4dc64fe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Outta Control: Laws of Semantic Change and Inherent Biases in Word Representation Models",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1118/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1118",
     "year": 2017
   },
   {
@@ -1818,12 +1998,13 @@
       "H. Andrew Schwartz"
     ],
     "conference": "emnlp",
-    "id": "a60d5b48",
+    "id": "20a2a39f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Human Centered NLP with User-Factor Adaptation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1119/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1119",
     "year": 2017
   },
   {
@@ -1833,12 +2014,13 @@
       "Roberto Navigli"
     ],
     "conference": "emnlp",
-    "id": "ba28d957",
+    "id": "bfb7a269",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Sequence Learning Models for Word Sense Disambiguation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1120/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1120",
     "year": 2017
   },
   {
@@ -1848,12 +2030,13 @@
       "Kira Radinsky"
     ],
     "conference": "emnlp",
-    "id": "d8f45176",
+    "id": "69503bfc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Word Relatedness over Time",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1121/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1121",
     "year": 2017
   },
   {
@@ -1863,12 +2046,13 @@
       "Zhi-Hong Deng"
     ],
     "conference": "emnlp",
-    "id": "11895e07",
+    "id": "bc75021a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inter-Weighted Alignment Network for Sentence Pair Modeling",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1122/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1122",
     "year": 2017
   },
   {
@@ -1878,12 +2062,13 @@
       "Aoying Zhou"
     ],
     "conference": "emnlp",
-    "id": "f939aa53",
+    "id": "174d8e4e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Short Survey on Taxonomy Learning from Text Corpora: Issues, Resources and Recent Advances",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1123/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1123",
     "year": 2017
   },
   {
@@ -1894,12 +2079,13 @@
       "Xuanjing Huang"
     ],
     "conference": "emnlp",
-    "id": "19f0241e",
+    "id": "608dbf42",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Idiom-Aware Compositional Distributed Semantics",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1124/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1124",
     "year": 2017
   },
   {
@@ -1909,12 +2095,13 @@
       "Percy Liang"
     ],
     "conference": "emnlp",
-    "id": "c4331391",
+    "id": "b3b21f17",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Macro Grammars and Holistic Triggering for Efficient Semantic Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1125/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1125",
     "year": 2017
   },
   {
@@ -1925,12 +2112,13 @@
       "Wei Xu"
     ],
     "conference": "emnlp",
-    "id": "7f154b4d",
+    "id": "9d81aab7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Continuously Growing Dataset of Sentential Paraphrases",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1126/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1126",
     "year": 2017
   },
   {
@@ -1939,12 +2127,16 @@
       "Xifeng Yan"
     ],
     "conference": "emnlp",
-    "id": "e29f8194",
+    "id": "052483f2",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Cross-domain Semantic Parsing via Paraphrasing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1127/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1127",
     "year": 2017
   },
   {
@@ -1953,12 +2145,13 @@
       "Tom Mitchell"
     ],
     "conference": "emnlp",
-    "id": "b237b96f",
+    "id": "0f606a69",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Joint Sequential and Relational Model for Frame-Semantic Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1128/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1128",
     "year": 2017
   },
   {
@@ -1967,12 +2160,13 @@
       "Nianwen Xue"
     ],
     "conference": "emnlp",
-    "id": "8eb57224",
+    "id": "3b174759",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Getting the Most out of AMR Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1129/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1129",
     "year": 2017
   },
   {
@@ -1981,12 +2175,13 @@
       "Yaser Al-Onaizan"
     ],
     "conference": "emnlp",
-    "id": "2362f21a",
+    "id": "1a7b75f3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "AMR Parsing using Stack-LSTMs",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1130/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1130",
     "year": 2017
   },
   {
@@ -1997,12 +2192,15 @@
       "Huan Sun"
     ],
     "conference": "emnlp",
-    "id": "c13190dd",
+    "id": "2a3ac15b",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "An End-to-End Deep Framework for Answer Triggering with a Novel Group-Level Objective",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1131/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1131",
     "year": 2017
   },
   {
@@ -2011,12 +2209,15 @@
       "Xiaojuan Ma"
     ],
     "conference": "emnlp",
-    "id": "5a6e5c88",
+    "id": "62c5d0fe",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Predicting Word Association Strengths",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1132/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1132",
     "year": 2017
   },
   {
@@ -2025,12 +2226,13 @@
       "Mirella Lapata"
     ],
     "conference": "emnlp",
-    "id": "2d2922d1",
+    "id": "8d36ae26",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Contextually Informed Representations for Linear-Time Discourse Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1133/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1133",
     "year": 2017
   },
   {
@@ -2042,12 +2244,15 @@
       "Haifeng Wang"
     ],
     "conference": "emnlp",
-    "id": "ded5c309",
+    "id": "7a0cb356",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Multi-task Attention-based Neural Networks for Implicit Discourse Relationship Representation and Identification",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1134/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1134",
     "year": 2017
   },
   {
@@ -2058,12 +2263,13 @@
       "Ting Liu"
     ],
     "conference": "emnlp",
-    "id": "40761d06",
+    "id": "630a8a74",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Chinese Zero Pronoun Resolution with Deep Memory Network",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1135/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1135",
     "year": 2017
   },
   {
@@ -2073,12 +2279,13 @@
       "Nicholas Asher"
     ],
     "conference": "emnlp",
-    "id": "2f9bfddf",
+    "id": "d87956d0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "How much progress have we made on RST discourse parsing? A replication study of recent results on the RST-DT",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1136/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1136",
     "year": 2017
   },
   {
@@ -2088,12 +2295,15 @@
       "Christian Hardmeier"
     ],
     "conference": "emnlp",
-    "id": "d58d991c",
+    "id": "3f625213",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "What is it? Disambiguating the different readings of the pronoun \u2018it\u2019",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1137/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1137",
     "year": 2017
   },
   {
@@ -2103,12 +2313,13 @@
       "Michael Strube"
     ],
     "conference": "emnlp",
-    "id": "e6e8c572",
+    "id": "7884cb4e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Revisiting Selectional Preferences for Coreference Resolution",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1138/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1138",
     "year": 2017
   },
   {
@@ -2119,12 +2330,15 @@
       "Houfeng Wang"
     ],
     "conference": "emnlp",
-    "id": "32c7c078",
+    "id": "6af8f8da",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning to Rank Semantic Coherence for Topic Segmentation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1139/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1139",
     "year": 2017
   },
   {
@@ -2135,12 +2349,13 @@
       "Noam Slonim"
     ],
     "conference": "emnlp",
-    "id": "2b161761",
+    "id": "93d1b230",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "GRASP: Rich Patterns for Argumentation Mining",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1140/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1140",
     "year": 2017
   },
   {
@@ -2151,12 +2366,13 @@
       "Benno Stein"
     ],
     "conference": "emnlp",
-    "id": "1d009f3d",
+    "id": "1f654b89",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Patterns of Argumentation Strategies across Topics",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1141/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1141",
     "year": 2017
   },
   {
@@ -2170,12 +2386,13 @@
       "Hao Wang"
     ],
     "conference": "emnlp",
-    "id": "c7ccc393",
+    "id": "4f417385",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Using Argument-based Features to Predict and Analyse Review Helpfulness",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1142/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1142",
     "year": 2017
   },
   {
@@ -2185,12 +2402,15 @@
       "Anna Rumshisky"
     ],
     "conference": "emnlp",
-    "id": "80510a09",
+    "id": "0e50cc00",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Here\u2019s My Point: Joint Pointer Architecture for Argument Mining",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1143/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1143",
     "year": 2017
   },
   {
@@ -2199,12 +2419,13 @@
       "Francesca Toni"
     ],
     "conference": "emnlp",
-    "id": "68d7b7f1",
+    "id": "db8ceb76",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Identifying attack and support argumentative relations using deep learning",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1144/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1144",
     "year": 2017
   },
   {
@@ -2215,12 +2436,13 @@
       "Alex Waibel"
     ],
     "conference": "emnlp",
-    "id": "264b0b00",
+    "id": "8b020278",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Lattice-to-Sequence Models for Uncertain Inputs",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1145/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1145",
     "year": 2017
   },
   {
@@ -2232,12 +2454,15 @@
       "Andrew Abel"
     ],
     "conference": "emnlp",
-    "id": "799b5778",
+    "id": "5da35558",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Memory-augmented Neural Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1146/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1146",
     "year": 2017
   },
   {
@@ -2247,12 +2472,13 @@
       "Christof Monz"
     ],
     "conference": "emnlp",
-    "id": "3fcc973a",
+    "id": "1c67f867",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dynamic Data Selection for Neural Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1147/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1147",
     "year": 2017
   },
   {
@@ -2263,12 +2489,15 @@
       "Shahram Khadivi"
     ],
     "conference": "emnlp",
-    "id": "c90cc608",
+    "id": "86bf0838",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Neural Machine Translation Leveraging Phrase-based Models in a Hybrid Search",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1148/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1148",
     "year": 2017
   },
   {
@@ -2279,12 +2508,13 @@
       "Min Zhang"
     ],
     "conference": "emnlp",
-    "id": "78b78812",
+    "id": "94efcace",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Translating Phrases in Neural Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1149/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1149",
     "year": 2017
   },
   {
@@ -2296,12 +2526,13 @@
       "Jingbo Zhu"
     ],
     "conference": "emnlp",
-    "id": "44c39a72",
+    "id": "75f6feec",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Bidirectional Hierarchical Representations for Attention-based Neural Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1150/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1150",
     "year": 2017
   },
   {
@@ -2312,12 +2543,18 @@
       "Quoc Le"
     ],
     "conference": "emnlp",
-    "id": "69af99e1",
+    "id": "2be3a888",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com",
+        "opennmt"
+      ]
     },
     "name": "Massive Exploration of Neural Machine Translation Architectures",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1151/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1151",
     "year": 2017
   },
   {
@@ -2331,12 +2568,13 @@
       "Chris Callison-Burch"
     ],
     "conference": "emnlp",
-    "id": "3e584d3d",
+    "id": "ad0bb6bc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Translations via Matrix Completion",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1152/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1152",
     "year": 2017
   },
   {
@@ -2346,12 +2584,15 @@
       "Jordan Boyd-Graber"
     ],
     "conference": "emnlp",
-    "id": "47414e76",
+    "id": "48a35d26",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1153/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1153",
     "year": 2017
   },
   {
@@ -2363,12 +2604,16 @@
       "Bo Xu"
     ],
     "conference": "emnlp",
-    "id": "a5cd563d",
+    "id": "c95a37f0",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Towards Compact and Fast Neural Machine Translation Using a Combined Method",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1154/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1154",
     "year": 2017
   },
   {
@@ -2380,12 +2625,13 @@
       "Eiichiro Sumita"
     ],
     "conference": "emnlp",
-    "id": "c8597d8e",
+    "id": "c4572c97",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Instance Weighting for Neural Machine Translation Domain Adaptation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1155/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1155",
     "year": 2017
   },
   {
@@ -2396,12 +2642,13 @@
       "Rico Sennrich"
     ],
     "conference": "emnlp",
-    "id": "a4a57a26",
+    "id": "e6aae514",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Regularization techniques for fine-tuning in neural machine translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1156/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1156",
     "year": 2017
   },
   {
@@ -2410,12 +2657,15 @@
       "Michael Collins"
     ],
     "conference": "emnlp",
-    "id": "2ebacf5d",
+    "id": "526707a0",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Source-Side Left-to-Right or Target-Side Left-to-Right? An Empirical Comparison of Two Phrase-Based Decoding Algorithms",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1157/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1157",
     "year": 2017
   },
   {
@@ -2424,12 +2674,13 @@
       "Felix Hieber"
     ],
     "conference": "emnlp",
-    "id": "6684ce53",
+    "id": "12ca4cfa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Using Target-side Monolingual Data for Neural Machine Translation through Multi-task Learning",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1158/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1158",
     "year": 2017
   },
   {
@@ -2438,12 +2689,13 @@
       "Ivan Titov"
     ],
     "conference": "emnlp",
-    "id": "03ae1d71",
+    "id": "516bb456",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1159/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1159",
     "year": 2017
   },
   {
@@ -2453,12 +2705,13 @@
       "Matt Gardner"
     ],
     "conference": "emnlp",
-    "id": "cc02bdfd",
+    "id": "2a2b0284",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Semantic Parsing with Type Constraints for Semi-Structured Tables",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1160/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1160",
     "year": 2017
   },
   {
@@ -2468,12 +2721,13 @@
       "Tom Mitchell"
     ],
     "conference": "emnlp",
-    "id": "3a29be16",
+    "id": "d0944ca0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Concept Learning and Semantic Parsing from Natural Language Explanations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1161/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1161",
     "year": 2017
   },
   {
@@ -2484,12 +2738,15 @@
       "Ekaterina Shutova"
     ],
     "conference": "emnlp",
-    "id": "405d9b1b",
+    "id": "fc1909fe",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "fb.com"
+      ]
     },
     "name": "Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1162/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1162",
     "year": 2017
   },
   {
@@ -2502,12 +2759,15 @@
       "Brendan O\u2019Connor"
     ],
     "conference": "emnlp",
-    "id": "c96879ad",
+    "id": "9849852a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Identifying civilians killed by police with distantly supervised entity-event extraction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1163/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1163",
     "year": 2017
   },
   {
@@ -2517,12 +2777,13 @@
       "Cristian Danescu-Niculescu-Mizil"
     ],
     "conference": "emnlp",
-    "id": "d76abcc4",
+    "id": "f77aea13",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Asking too much? The rhetorical role of questions in political discourse",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1164/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1164",
     "year": 2017
   },
   {
@@ -2531,12 +2792,13 @@
       "Yulan He"
     ],
     "conference": "emnlp",
-    "id": "bdf74baa",
+    "id": "89dbb062",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Detecting Perspectives in Political Debates",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1165/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1165",
     "year": 2017
   },
   {
@@ -2546,12 +2808,13 @@
       "Marie-Catherine de Marneffe"
     ],
     "conference": "emnlp",
-    "id": "8722dadf",
+    "id": "91e91872",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "\u201ci have a feeling trump will win..................\u201d: Forecasting Winners and Losers from User Predictions on Twitter",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1166/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1166",
     "year": 2017
   },
   {
@@ -2564,12 +2827,13 @@
       "Jiachen Du"
     ],
     "conference": "emnlp",
-    "id": "3fed685e",
+    "id": "59da4e93",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Question Answering Approach for Emotion Cause Extraction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1167/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1167",
     "year": 2017
   },
   {
@@ -2579,12 +2843,13 @@
       "Dan Roth"
     ],
     "conference": "emnlp",
-    "id": "6535cfb0",
+    "id": "e9f78dd4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Story Comprehension for Predicting What Happens Next",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1168/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1168",
     "year": 2017
   },
   {
@@ -2596,12 +2861,13 @@
       "Sune Lehmann"
     ],
     "conference": "emnlp",
-    "id": "78a6dd02",
+    "id": "8862a0de",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1169/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1169",
     "year": 2017
   },
   {
@@ -2610,12 +2876,15 @@
       "Yue Zhang"
     ],
     "conference": "emnlp",
-    "id": "56f0e022",
+    "id": "21a8ce6a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Opinion Recommendation Using A Neural Model",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1170/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1170",
     "year": 2017
   },
   {
@@ -2625,12 +2894,13 @@
       "Kewei Tu"
     ],
     "conference": "emnlp",
-    "id": "bff7b0aa",
+    "id": "10eac4c8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CRF Autoencoder for Unsupervised Dependency Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1171/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1171",
     "year": 2017
   },
   {
@@ -2640,12 +2910,13 @@
       "Mathieu Lacroix"
     ],
     "conference": "emnlp",
-    "id": "92e3fe33",
+    "id": "b151537d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Efficient Discontinuous Phrase-Structure Parsing via the Generalized Maximum Spanning Arborescence",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1172/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1172",
     "year": 2017
   },
   {
@@ -2653,12 +2924,15 @@
       "Xiaoqing Zheng"
     ],
     "conference": "emnlp",
-    "id": "fb94787c",
+    "id": "d20116f8",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Incremental Graph-based Neural Dependency Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1173/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1173",
     "year": 2017
   },
   {
@@ -2667,12 +2941,13 @@
       "Raquel G. Alhama"
     ],
     "conference": "emnlp",
-    "id": "4402c2e7",
+    "id": "b1c96e18",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Discontinuous Constituency Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1174/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1174",
     "year": 2017
   },
   {
@@ -2684,12 +2959,13 @@
       "Enhong Chen"
     ],
     "conference": "emnlp",
-    "id": "ab71f9ec",
+    "id": "08e5d774",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Stack-based Multi-layer Attention for Transition-based Dependency Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1175/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1175",
     "year": 2017
   },
   {
@@ -2699,12 +2975,13 @@
       "Kewei Tu"
     ],
     "conference": "emnlp",
-    "id": "9a12084e",
+    "id": "f71eadb3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dependency Grammar Induction with Neural Lexicalization and Big Training Data",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1176/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1176",
     "year": 2017
   },
   {
@@ -2714,12 +2991,13 @@
       "Kewei Tu"
     ],
     "conference": "emnlp",
-    "id": "dec1958a",
+    "id": "9c8b5ce0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Combining Generative and Discriminative Approaches to Unsupervised Dependency Parsing via Dual Decomposition",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1177/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1177",
     "year": 2017
   },
   {
@@ -2729,12 +3007,13 @@
       "Dan Klein"
     ],
     "conference": "emnlp",
-    "id": "357fe6be",
+    "id": "acbfb3b9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Effective Inference for Generative Neural Parsing",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1178/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1178",
     "year": 2017
   },
   {
@@ -2746,12 +3025,13 @@
       "Dan Goldwasser"
     ],
     "conference": "emnlp",
-    "id": "8c9a5c4c",
+    "id": "7ef0dd6f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Semi-supervised Structured Prediction with Neural CRF Autoencoder",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1179/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1179",
     "year": 2017
   },
   {
@@ -2763,12 +3043,15 @@
       "Alexis Nasr"
     ],
     "conference": "emnlp",
-    "id": "b1032fde",
+    "id": "beec4323",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "TAG Parsing with Neural Networks and Vector Representations of Supertags",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1180/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1180",
     "year": 2017
   },
   {
@@ -2777,12 +3060,13 @@
       "Hinrich Sch\u00fctze"
     ],
     "conference": "emnlp",
-    "id": "e568cca0",
+    "id": "388101ff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Global Normalization of Convolutional Neural Networks for Joint Entity and Relation Classification",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1181/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1181",
     "year": 2017
   },
   {
@@ -2792,12 +3076,13 @@
       "Guohong Fu"
     ],
     "conference": "emnlp",
-    "id": "cf4e6e0b",
+    "id": "996df2e1",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "End-to-End Neural Relation Extraction with Global Optimization",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1182/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1182",
     "year": 2017
   },
   {
@@ -2806,12 +3091,13 @@
       "Partha Talukdar"
     ],
     "conference": "emnlp",
-    "id": "95ba230d",
+    "id": "75f71fcc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "KGEval: Accuracy Estimation of Automatically Constructed Knowledge Graphs",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1183/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1183",
     "year": 2017
   },
   {
@@ -2821,12 +3107,13 @@
       "Lise Getoor"
     ],
     "conference": "emnlp",
-    "id": "a4de3551",
+    "id": "83854205",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sparsity and Noise: Where Knowledge Graph Embeddings Fall Short",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1184/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1184",
     "year": 2017
   },
   {
@@ -2835,12 +3122,13 @@
       "Simone Paolo Ponzetto"
     ],
     "conference": "emnlp",
-    "id": "ec1fd7c7",
+    "id": "926538c4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dual Tensor Model for Detecting Asymmetric Lexico-Semantic Relations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1185/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1185",
     "year": 2017
   },
   {
@@ -2851,12 +3139,15 @@
       "Maosong Sun"
     ],
     "conference": "emnlp",
-    "id": "0a278293",
+    "id": "1184e27d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Incorporating Relation Paths in Neural Relation Extraction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1186/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1186",
     "year": 2017
   },
   {
@@ -2866,12 +3157,15 @@
       "Stuart Russell"
     ],
     "conference": "emnlp",
-    "id": "8404b64d",
+    "id": "a6f8683e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Adversarial Training for Relation Extraction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1187/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1187",
     "year": 2017
   },
   {
@@ -2880,12 +3174,13 @@
       "Iryna Gurevych"
     ],
     "conference": "emnlp",
-    "id": "e780348a",
+    "id": "0f5b451c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Context-Aware Representations for Knowledge Base Relation Extraction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1188/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1188",
     "year": 2017
   },
   {
@@ -2896,12 +3191,13 @@
       "Zhifang Sui"
     ],
     "conference": "emnlp",
-    "id": "5958ac1c",
+    "id": "7f26ed57",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1189/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1189",
     "year": 2017
   },
   {
@@ -2910,12 +3206,13 @@
       "Ruihong Huang"
     ],
     "conference": "emnlp",
-    "id": "1b88e07f",
+    "id": "e19fc086",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Sequential Model for Classifying Temporal Relations between Intra-Sentence Events",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1190/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1190",
     "year": 2017
   },
   {
@@ -2924,12 +3221,15 @@
       "William Yang Wang"
     ],
     "conference": "emnlp",
-    "id": "fec3866a",
+    "id": "b659a2c5",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Deep Residual Learning for Weakly-Supervised Relation Extraction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1191/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1191",
     "year": 2017
   },
   {
@@ -2938,12 +3238,13 @@
       "Houfeng Wang"
     ],
     "conference": "emnlp",
-    "id": "5bb753ee",
+    "id": "17eae6b9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Noise-Clustered Distant Supervision for Relation Extraction: A Nonparametric Bayesian Perspective",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1192/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1192",
     "year": 2017
   },
   {
@@ -2955,12 +3256,13 @@
       "Thierry Charnois"
     ],
     "conference": "emnlp",
-    "id": "0765051b",
+    "id": "bc432e55",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exploring Vector Spaces for Semantic Relations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1193/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1193",
     "year": 2017
   },
   {
@@ -2970,12 +3272,13 @@
       "Lilja \u00d8vrelid"
     ],
     "conference": "emnlp",
-    "id": "0a750d28",
+    "id": "8531d988",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Temporal dynamics of semantic relations in word embeddings: an application to predicting armed conflict participants",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1194/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1194",
     "year": 2017
   },
   {
@@ -2987,12 +3290,13 @@
       "Noah A. Smith"
     ],
     "conference": "emnlp",
-    "id": "8cd1e3b9",
+    "id": "8526a731",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dynamic Entity Representations in Neural Language Models",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1195/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1195",
     "year": 2017
   },
   {
@@ -3001,12 +3305,13 @@
       "Fabio Tamburini"
     ],
     "conference": "emnlp",
-    "id": "3322a760",
+    "id": "5459b293",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Quantum Language Models",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1196/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1196",
     "year": 2017
   },
   {
@@ -3017,12 +3322,15 @@
       "Wang Ling"
     ],
     "conference": "emnlp",
-    "id": "b7889362",
+    "id": "839abc39",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Reference-Aware Language Models",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1197/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1197",
     "year": 2017
   },
   {
@@ -3032,12 +3340,13 @@
       "Jacob Goldberger"
     ],
     "conference": "emnlp",
-    "id": "6c36ed99",
+    "id": "1ca1e808",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Simple Language Model based on PMI Matrix Approximations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1198/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1198",
     "year": 2017
   },
   {
@@ -3048,12 +3357,15 @@
       "Jonathan N. Washington"
     ],
     "conference": "emnlp",
-    "id": "45916f94",
+    "id": "c3d458ed",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Syllable-aware Neural Language Models: A Failure to Beat Character-aware Ones",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1199/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1199",
     "year": 2017
   },
   {
@@ -3062,12 +3374,13 @@
       "Gy\u00f6rgy Szarvas"
     ],
     "conference": "emnlp",
-    "id": "a7265d22",
+    "id": "c075bc31",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Inducing Semantic Micro-Clusters from Deep Multi-View Representations of Novels",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1200/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1200",
     "year": 2017
   },
   {
@@ -3079,12 +3392,15 @@
       "Xiaoyong Du"
     ],
     "conference": "emnlp",
-    "id": "9b742a50",
+    "id": "79209133",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Initializing Convolutional Filters with Semantic Features for Text Classification",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1201/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1201",
     "year": 2017
   },
   {
@@ -3096,12 +3412,13 @@
       "Michalis Vazirgiannis"
     ],
     "conference": "emnlp",
-    "id": "5b8b6351",
+    "id": "e963a868",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Shortest-Path Graph Kernels for Document Similarity",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1202/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1202",
     "year": 2017
   },
   {
@@ -3111,12 +3428,13 @@
       "Philip Resnik"
     ],
     "conference": "emnlp",
-    "id": "ee863cee",
+    "id": "ded0adad",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adapting Topic Models using Lexical Associations with Tree Priors",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1203/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1203",
     "year": 2017
   },
   {
@@ -3125,12 +3443,13 @@
       "Rodney Nielsen"
     ],
     "conference": "emnlp",
-    "id": "e45a1364",
+    "id": "a396d132",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Finding Patterns in Noisy Crowds: Regression-based Annotation Aggregation for Crowdsourced Data",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1204/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1204",
     "year": 2017
   },
   {
@@ -3143,12 +3462,13 @@
       "Anbang Xu"
     ],
     "conference": "emnlp",
-    "id": "f57ea264",
+    "id": "819dbaea",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "CROWD-IN-THE-LOOP: A Hybrid Approach for Annotating Semantic Roles",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1205/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1205",
     "year": 2017
   },
   {
@@ -3159,12 +3479,13 @@
       "Richard Socher"
     ],
     "conference": "emnlp",
-    "id": "ec6bd783",
+    "id": "995fa16c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1206/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1206",
     "year": 2017
   },
   {
@@ -3175,12 +3496,15 @@
       "Maosong Sun"
     ],
     "conference": "emnlp",
-    "id": "e03a9945",
+    "id": "0db50d27",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Earth Mover\u2019s Distance Minimization for Unsupervised Bilingual Lexicon Induction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1207/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1207",
     "year": 2017
   },
   {
@@ -3189,12 +3513,13 @@
       "Bill Byrne"
     ],
     "conference": "emnlp",
-    "id": "d3230fba",
+    "id": "127cc35b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Unfolding and Shrinking Neural Machine Translation Ensembles",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1208/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1208",
     "year": 2017
   },
   {
@@ -3206,12 +3531,15 @@
       "Khalil Sima\u2019an"
     ],
     "conference": "emnlp",
-    "id": "5855ea2a",
+    "id": "4888c97a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Graph Convolutional Encoders for Syntax-aware Neural Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1209/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1209",
     "year": 2017
   },
   {
@@ -3221,12 +3549,13 @@
       "Victor O.K. Li"
     ],
     "conference": "emnlp",
-    "id": "fd62db8d",
+    "id": "a72fb8b8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Trainable Greedy Decoding for Neural Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1210/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1210",
     "year": 2017
   },
   {
@@ -3236,12 +3565,13 @@
       "Eduard Dragut"
     ],
     "conference": "emnlp",
-    "id": "d8a09648",
+    "id": "392b23c2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Satirical News Detection and Analysis using Attention Mechanism and Linguistic Features",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1211/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1211",
     "year": 2017
   },
   {
@@ -3251,12 +3581,13 @@
       "Avishek Anand"
     ],
     "conference": "emnlp",
-    "id": "42785a84",
+    "id": "76efb334",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Fine Grained Citation Span for References in Wikipedia",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1212/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1212",
     "year": 2017
   },
   {
@@ -3267,12 +3598,13 @@
       "Eduard Hovy"
     ],
     "conference": "emnlp",
-    "id": "b624ab19",
+    "id": "7930d82f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Identifying Semantic Edit Intentions from Revisions in Wikipedia",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1213/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1213",
     "year": 2017
   },
   {
@@ -3283,12 +3615,16 @@
       "Izzeddin Gur"
     ],
     "conference": "emnlp",
-    "id": "682adfa8",
+    "id": "3c66966d",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Accurate Supervised and Semi-Supervised Machine Reading for Long Documents",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1214/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1214",
     "year": 2017
   },
   {
@@ -3297,12 +3633,13 @@
       "Percy Liang"
     ],
     "conference": "emnlp",
-    "id": "b7358e52",
+    "id": "ef99dc75",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adversarial Examples for Evaluating Reading Comprehension Systems",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1215/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1215",
     "year": 2017
   },
   {
@@ -3312,12 +3649,13 @@
       "Xianpei Han"
     ],
     "conference": "emnlp",
-    "id": "2bcf08d8",
+    "id": "87d24507",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Reasoning with Heterogeneous Knowledge for Commonsense Machine Comprehension",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1216/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1216",
     "year": 2017
   },
   {
@@ -3327,12 +3665,13 @@
       "Ming Zhang"
     ],
     "conference": "emnlp",
-    "id": "947f4e37",
+    "id": "9ee0c8ce",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1217/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1217",
     "year": 2017
   },
   {
@@ -3344,12 +3683,13 @@
       "Iryna Gurevych"
     ],
     "conference": "emnlp",
-    "id": "a226723b",
+    "id": "ad5e6b5c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "What is the Essence of a Claim? Cross-Domain Claim Identification",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1218/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1218",
     "year": 2017
   },
   {
@@ -3358,12 +3698,13 @@
       "Claire Cardie"
     ],
     "conference": "emnlp",
-    "id": "4fb617af",
+    "id": "792a235f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Identifying Where to Focus in Reading Comprehension for Neural Question Generation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1219/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1219",
     "year": 2017
   },
   {
@@ -3375,12 +3716,15 @@
       "Chris Develder"
     ],
     "conference": "emnlp",
-    "id": "e08b7acc",
+    "id": "cf686ce2",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "opennmt"
+      ]
     },
     "name": "Break it Down for Me: A Study in Automated Lyric Annotation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1220/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1220",
     "year": 2017
   },
   {
@@ -3392,12 +3736,13 @@
       "Hang Li"
     ],
     "conference": "emnlp",
-    "id": "39f760a4",
+    "id": "574dd8fa",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cascaded Attention based Unsupervised Information Distillation for Compressive Summarization",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1221/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1221",
     "year": 2017
   },
   {
@@ -3408,12 +3753,13 @@
       "Zihao Wang"
     ],
     "conference": "emnlp",
-    "id": "7fe01c75",
+    "id": "c0cf2959",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Recurrent Generative Decoder for Abstractive Text Summarization",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1222/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1222",
     "year": 2017
   },
   {
@@ -3425,12 +3771,13 @@
       "Ichiro Sakata"
     ],
     "conference": "emnlp",
-    "id": "740b7e10",
+    "id": "69300fff",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Extractive Summarization Using Multi-Task Learning with Document Classification",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1223/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1223",
     "year": 2017
   },
   {
@@ -3439,12 +3786,13 @@
       "Xiaojun Wan"
     ],
     "conference": "emnlp",
-    "id": "1aba4111",
+    "id": "7fce7426",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Automatic Construction of News Overview Articles by News Synthesis",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1224/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1224",
     "year": 2017
   },
   {
@@ -3453,12 +3801,13 @@
       "Liang Huang"
     ],
     "conference": "emnlp",
-    "id": "19211664",
+    "id": "74f2236d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Joint Syntacto-Discourse Parsing and the Syntacto-Discourse Treebank",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1225/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1225",
     "year": 2017
   },
   {
@@ -3467,12 +3816,13 @@
       "Ruihong Huang"
     ],
     "conference": "emnlp",
-    "id": "de612546",
+    "id": "f2af536b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Event Coreference Resolution by Iteratively Unfolding Inter-dependencies among Events",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1226/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1226",
     "year": 2017
   },
   {
@@ -3482,12 +3832,16 @@
       "Mingbo Ma"
     ],
     "conference": "emnlp",
-    "id": "88c4543b",
+    "id": "0cd3ebb9",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "opennmt"
+      ]
     },
     "name": "When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1227/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1227",
     "year": 2017
   },
   {
@@ -3498,12 +3852,13 @@
       "Eric Nyberg"
     ],
     "conference": "emnlp",
-    "id": "78392a08",
+    "id": "e6abb6a0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Steering Output Style and Topic in Neural Response Generation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1228/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1228",
     "year": 2017
   },
   {
@@ -3513,12 +3868,13 @@
       "Gholamreza Haffari"
     ],
     "conference": "emnlp",
-    "id": "7ac6b15b",
+    "id": "f4d60eb9",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Preserving Distributional Information in Dialogue Act Classification",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1229/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1229",
     "year": 2017
   },
   {
@@ -3531,12 +3887,13 @@
       "Dan Jurafsky"
     ],
     "conference": "emnlp",
-    "id": "9799c7f9",
+    "id": "a8ec4d00",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Adversarial Learning for Neural Dialogue Generation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1230/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1230",
     "year": 2017
   },
   {
@@ -3547,12 +3904,13 @@
       "Yun Lei"
     ],
     "conference": "emnlp",
-    "id": "d9dc4012",
+    "id": "1f243430",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Using Context Information for Dialog Act Classification in DNN Framework",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1231/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1231",
     "year": 2017
   },
   {
@@ -3563,12 +3921,13 @@
       "Carolyn Ros\u00e9"
     ],
     "conference": "emnlp",
-    "id": "e827d042",
+    "id": "38973a27",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Modeling Dialogue Acts with Content Word Filtering and Speaker Preferences",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1232/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1232",
     "year": 2017
   },
   {
@@ -3580,12 +3939,13 @@
       "Rui Yan"
     ],
     "conference": "emnlp",
-    "id": "989c1811",
+    "id": "efbe190c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Towards Implicit Content-Introducing for Generative Short-Text Conversation Systems",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1233/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1233",
     "year": 2017
   },
   {
@@ -3597,12 +3957,13 @@
       "Kai Yu"
     ],
     "conference": "emnlp",
-    "id": "98c986e8",
+    "id": "9ea5e325",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Affordable On-line Dialogue Policy Learning",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1234/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1234",
     "year": 2017
   },
   {
@@ -3615,12 +3976,17 @@
       "Ray Kurzweil"
     ],
     "conference": "emnlp",
-    "id": "1e00ffc5",
+    "id": "8274afc8",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google brain",
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1235/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1235",
     "year": 2017
   },
   {
@@ -3630,12 +3996,16 @@
       "Oliver Lemon"
     ],
     "conference": "emnlp",
-    "id": "43890701",
+    "id": "10c1f83e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow",
+        "google.com"
+      ]
     },
     "name": "Bootstrapping incremental dialogue systems from minimal data: the generalisation power of dialogue grammars",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1236/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1236",
     "year": 2017
   },
   {
@@ -3649,12 +4019,13 @@
       "Kam-Fai Wong"
     ],
     "conference": "emnlp",
-    "id": "477e2437",
+    "id": "6e728618",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1237/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1237",
     "year": 2017
   },
   {
@@ -3665,12 +4036,13 @@
       "Verena Rieser"
     ],
     "conference": "emnlp",
-    "id": "47dee89e",
+    "id": "50386391",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Why We Need New Evaluation Metrics for NLG",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1238/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1238",
     "year": 2017
   },
   {
@@ -3680,12 +4052,15 @@
       "Alexander Rush"
     ],
     "conference": "emnlp",
-    "id": "030a8f10",
+    "id": "d34494ca",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "opennmt"
+      ]
     },
     "name": "Challenges in Data-to-Document Generation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1239/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1239",
     "year": 2017
   },
   {
@@ -3699,12 +4074,13 @@
       "Animesh Mukherjee"
     ],
     "conference": "emnlp",
-    "id": "53b644aa",
+    "id": "dd349318",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "All that is English may be Hindi: Enhancing language identification through automatic ranking of the likeliness of word borrowing in social media",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1240/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1240",
     "year": 2017
   },
   {
@@ -3714,12 +4090,13 @@
       "Shimei Pan"
     ],
     "conference": "emnlp",
-    "id": "0453e1f4",
+    "id": "ae9b47e4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Multi-View Unsupervised User Feature Embedding for Social Media-based Substance Use Prediction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1241/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1241",
     "year": 2017
   },
   {
@@ -3729,12 +4106,13 @@
       "Rada Mihalcea"
     ],
     "conference": "emnlp",
-    "id": "ab942ac7",
+    "id": "5573b63f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Demographic-aware word associations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1242/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1242",
     "year": 2017
   },
   {
@@ -3744,12 +4122,13 @@
       "Mari Ostendorf"
     ],
     "conference": "emnlp",
-    "id": "a21ab03c",
+    "id": "81086692",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Factored Neural Network Model for Characterizing Online Discussions in Vector Space",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1243/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1243",
     "year": 2017
   },
   {
@@ -3758,12 +4137,13 @@
       "Eduardo Blanco"
     ],
     "conference": "emnlp",
-    "id": "efa1a6a0",
+    "id": "f360921d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Dimensions of Interpersonal Relationships: Corpus and Experiments",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1244/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1244",
     "year": 2017
   },
   {
@@ -3773,12 +4153,13 @@
       "Serena Villata"
     ],
     "conference": "emnlp",
-    "id": "6d0b9c9a",
+    "id": "c0a2afe3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Argument Mining on Twitter: Arguments, Facts and Sources",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1245/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1245",
     "year": 2017
   },
   {
@@ -3789,12 +4170,15 @@
       "Manabu Okumura"
     ],
     "conference": "emnlp",
-    "id": "e8d289c8",
+    "id": "1cc40733",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Distinguishing Japanese Non-standard Usages from Standard Ones",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1246/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1246",
     "year": 2017
   },
   {
@@ -3806,12 +4190,15 @@
       "Yejin Choi"
     ],
     "conference": "emnlp",
-    "id": "4b8f4ca3",
+    "id": "a4858680",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Connotation Frames of Power and Agency in Modern Films",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1247/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1247",
     "year": 2017
   },
   {
@@ -3821,12 +4208,13 @@
       "Lyle Ungar"
     ],
     "conference": "emnlp",
-    "id": "31453cfe",
+    "id": "c0cfa5d2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Controlling Human Perception of Basic User Traits",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1248/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1248",
     "year": 2017
   },
   {
@@ -3837,12 +4225,13 @@
       "Alexandre Termier"
     ],
     "conference": "emnlp",
-    "id": "10427d44",
+    "id": "081c9ee4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Topic Signatures in Political Campaign Speeches",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1249/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1249",
     "year": 2017
   },
   {
@@ -3855,12 +4244,13 @@
       "Lyle Ungar"
     ],
     "conference": "emnlp",
-    "id": "a4db7253",
+    "id": "9a0a6d62",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Assessing Objective Recommendation Quality through Political Forecasting",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1250/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1250",
     "year": 2017
   },
   {
@@ -3870,12 +4260,13 @@
       "Takuya Maekawa"
     ],
     "conference": "emnlp",
-    "id": "1857d2fc",
+    "id": "572e2847",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Never Abandon Minorities: Exhaustive Extraction of Bursty Phrases on Microblogs Using Set Cover Problem",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1251/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1251",
     "year": 2017
   },
   {
@@ -3885,12 +4276,15 @@
       "Wen-tau Yih"
     ],
     "conference": "emnlp",
-    "id": "22cd7865",
+    "id": "6eb9ba3e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Maximum Margin Reward Networks for Learning from Explicit and Implicit Supervision",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1252/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1252",
     "year": 2017
   },
   {
@@ -3901,12 +4295,13 @@
       "Benno Stein"
     ],
     "conference": "emnlp",
-    "id": "1711e907",
+    "id": "807d6e90",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The Impact of Modeling Overall Argumentation with Tree Kernels",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1253/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1253",
     "year": 2017
   },
   {
@@ -3919,12 +4314,13 @@
       "Lawrence Carin"
     ],
     "conference": "emnlp",
-    "id": "2f817c95",
+    "id": "0103872a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Generic Sentence Representations Using Convolutional Neural Networks",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1254/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1254",
     "year": 2017
   },
   {
@@ -3934,12 +4330,13 @@
       "Guergana Savova"
     ],
     "conference": "emnlp",
-    "id": "2401772a",
+    "id": "9401e560",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Repeat before Forgetting: Spaced Repetition for Efficient and Effective Training of Neural Networks",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1255/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1255",
     "year": 2017
   },
   {
@@ -3951,12 +4348,13 @@
       "Xuanjing Huang"
     ],
     "conference": "emnlp",
-    "id": "a7dfe600",
+    "id": "7993eb76",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Part-of-Speech Tagging for Twitter with Adversarial Neural Networks",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1256/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1256",
     "year": 2017
   },
   {
@@ -3970,12 +4368,15 @@
       "Xiaoyong Du"
     ],
     "conference": "emnlp",
-    "id": "46688083",
+    "id": "e3adca00",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Investigating Different Syntactic Context Types and Context Representations for Learning Word Embeddings",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1257/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1257",
     "year": 2017
   },
   {
@@ -3985,12 +4386,13 @@
       "Anders S\u00f8gaard"
     ],
     "conference": "emnlp",
-    "id": "76a57197",
+    "id": "f8c7077a",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Does syntax help discourse segmentation? Not so much",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1258/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1258",
     "year": 2017
   },
   {
@@ -4002,12 +4404,16 @@
       "Dhruv Batra"
     ],
     "conference": "emnlp",
-    "id": "39f27fb6",
+    "id": "c399b32e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "pytorch",
+        "fb.com"
+      ]
     },
     "name": "Deal or No Deal? End-to-End Learning of Negotiation Dialogues",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1259/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1259",
     "year": 2017
   },
   {
@@ -4019,12 +4425,13 @@
       "Kai Yu"
     ],
     "conference": "emnlp",
-    "id": "e0cf4adb",
+    "id": "b55fde4b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Agent-Aware Dropout DQN for Safe and Efficient On-line Dialogue Policy Learning",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1260/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1260",
     "year": 2017
   },
   {
@@ -4033,12 +4440,15 @@
       "Anna Rumshisky"
     ],
     "conference": "emnlp",
-    "id": "6815e373",
+    "id": "55a56d72",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Towards Debate Automation: a Recurrent Model for Predicting Debate Winners",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1261/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1261",
     "year": 2017
   },
   {
@@ -4049,12 +4459,13 @@
       "Qun Liu"
     ],
     "conference": "emnlp",
-    "id": "1712504b",
+    "id": "d528f4bd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Further Investigation into Reference Bias in Monolingual Evaluation of Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1262/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1262",
     "year": 2017
   },
   {
@@ -4064,12 +4475,15 @@
       "George Foster"
     ],
     "conference": "emnlp",
-    "id": "6ee45791",
+    "id": "66147c3e",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "A Challenge Set Approach to Evaluating Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1263/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1263",
     "year": 2017
   },
   {
@@ -4078,12 +4492,13 @@
       "Raphael Flauger"
     ],
     "conference": "emnlp",
-    "id": "0d704690",
+    "id": "1f38f5fc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Knowledge Distillation for Bilingual Dictionary Induction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1264/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1264",
     "year": 2017
   },
   {
@@ -4091,12 +4506,13 @@
       "Rachel Bawden"
     ],
     "conference": "emnlp",
-    "id": "70fdca8b",
+    "id": "c2af157f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Machine Translation, it\u2019s a question of style, innit? The case of English tag questions",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1265/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1265",
     "year": 2017
   },
   {
@@ -4105,12 +4521,13 @@
       "Kevin Knight"
     ],
     "conference": "emnlp",
-    "id": "542d7280",
+    "id": "322a883f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deciphering Related Languages",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1266/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1266",
     "year": 2017
   },
   {
@@ -4120,12 +4537,15 @@
       "Grzegorz Kondrak"
     ],
     "conference": "emnlp",
-    "id": "04e33428",
+    "id": "ae1c1e4f",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Identifying Cognate Sets Across Dictionaries of Related Languages",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1267/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1267",
     "year": 2017
   },
   {
@@ -4135,12 +4555,13 @@
       "Patrick Littell"
     ],
     "conference": "emnlp",
-    "id": "aa0ee6a8",
+    "id": "7dc8420d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Language Representations for Typology Prediction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1268/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1268",
     "year": 2017
   },
   {
@@ -4150,12 +4571,13 @@
       "Dan Roth"
     ],
     "conference": "emnlp",
-    "id": "292183c9",
+    "id": "41164209",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cheap Translation for Cross-Lingual Named Entity Recognition",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1269/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1269",
     "year": 2017
   },
   {
@@ -4165,12 +4587,15 @@
       "Anna Korhonen"
     ],
     "conference": "emnlp",
-    "id": "38858a21",
+    "id": "9c07ae07",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Cross-Lingual Induction and Transfer of Verb Classes Based on Word Vector Space Specialisation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1270/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1270",
     "year": 2017
   },
   {
@@ -4179,12 +4604,13 @@
       "Damyana Gateva"
     ],
     "conference": "emnlp",
-    "id": "26d32ff4",
+    "id": "71790c7e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Classification of telicity using cross-linguistic annotation projection",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1271/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1271",
     "year": 2017
   },
   {
@@ -4194,12 +4620,13 @@
       "Stefan Riezler"
     ],
     "conference": "emnlp",
-    "id": "f6c2c2a1",
+    "id": "d765d38f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Counterfactual Learning from Bandit Feedback under Deterministic Logging : A Case Study in Statistical Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1272/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1272",
     "year": 2017
   },
   {
@@ -4210,12 +4637,13 @@
       "Aoying Zhou"
     ],
     "conference": "emnlp",
-    "id": "7bb9d057",
+    "id": "af85bb29",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning Fine-grained Relations from Chinese User Generated Categories",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1273/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1273",
     "year": 2017
   },
   {
@@ -4226,12 +4654,13 @@
       "Radu Florian"
     ],
     "conference": "emnlp",
-    "id": "d470b306",
+    "id": "57df4946",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Improving Slot Filling Performance with Attentive Neural Networks on Dependency Structures",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1274/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1274",
     "year": 2017
   },
   {
@@ -4246,12 +4675,13 @@
       "Vern Paxson"
     ],
     "conference": "emnlp",
-    "id": "af293f77",
+    "id": "d1a395c4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Identifying Products in Online Cybercrime Marketplaces: A Dataset for Fine-grained Domain Adaptation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1275/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1275",
     "year": 2017
   },
   {
@@ -4260,12 +4690,13 @@
       "Wei Lu"
     ],
     "conference": "emnlp",
-    "id": "508cd0c0",
+    "id": "2139d76b",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Labeling Gaps Between Words: Recognizing Overlapping Mentions with Mention Separators",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1276/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1276",
     "year": 2017
   },
   {
@@ -4274,12 +4705,13 @@
       "Thomas Hofmann"
     ],
     "conference": "emnlp",
-    "id": "565d45b0",
+    "id": "66501cc2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Joint Entity Disambiguation with Local Neural Attention",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1277/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1277",
     "year": 2017
   },
   {
@@ -4289,12 +4721,13 @@
       "Luciano del Corro"
     ],
     "conference": "emnlp",
-    "id": "1e4efb78",
+    "id": "85879e56",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "MinIE: Minimizing Facts in Open Information Extraction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1278/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1278",
     "year": 2017
   },
   {
@@ -4304,12 +4737,13 @@
       "Hannaneh Hajishirzi"
     ],
     "conference": "emnlp",
-    "id": "ab4b2300",
+    "id": "54cee693",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Scientific Information Extraction with Semi-supervised Neural Tagging",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1279/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1279",
     "year": 2017
   },
   {
@@ -4321,12 +4755,13 @@
       "Yueting Zhuang"
     ],
     "conference": "emnlp",
-    "id": "708cd4a6",
+    "id": "af4e018e",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "NITE: A Neural Inductive Teaching Framework for Domain Specific NER",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1280/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1280",
     "year": 2017
   },
   {
@@ -4336,12 +4771,15 @@
       "Partha Talukdar"
     ],
     "conference": "emnlp",
-    "id": "23e34e66",
+    "id": "200d218c",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Speeding up Reinforcement Learning-based Information Extraction Training using Asynchronous Methods",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1281/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1281",
     "year": 2017
   },
   {
@@ -4353,12 +4791,13 @@
       "Wei-Yun Ma"
     ],
     "conference": "emnlp",
-    "id": "8e9ec220",
+    "id": "fcff0837",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1282/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1282",
     "year": 2017
   },
   {
@@ -4369,12 +4808,15 @@
       "Andrew McCallum"
     ],
     "conference": "emnlp",
-    "id": "efdee658",
+    "id": "dad15255",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Fast and Accurate Entity Recognition with Iterated Dilated Convolutions",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1283/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1283",
     "year": 2017
   },
   {
@@ -4384,12 +4826,13 @@
       "Dan Roth"
     ],
     "conference": "emnlp",
-    "id": "e95f14e6",
+    "id": "a5bebf83",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Entity Linking via Joint Encoding of Types, Descriptions, and Context",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1284/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1284",
     "year": 2017
   },
   {
@@ -4402,12 +4845,13 @@
       "Jimmy Lin"
     ],
     "conference": "emnlp",
-    "id": "62a6cd04",
+    "id": "f7ada37f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Insight Extraction System on BioMedical Literature with Deep Neural Networks",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1285/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1285",
     "year": 2017
   },
   {
@@ -4416,12 +4860,13 @@
       "Carlo Strapparava"
     ],
     "conference": "emnlp",
-    "id": "485cc862",
+    "id": "dfd2dcbe",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Word Etymology as Native Language Interference",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1286/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1286",
     "year": 2017
   },
   {
@@ -4430,12 +4875,13 @@
       "Mark Finlayson"
     ],
     "conference": "emnlp",
-    "id": "01b40d5d",
+    "id": "34a76b55",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Simpler and More Generalizable Story Detector using Verb and Character Features",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1287/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1287",
     "year": 2017
   },
   {
@@ -4444,12 +4890,15 @@
       "Jonas Kuhn"
     ],
     "conference": "emnlp",
-    "id": "15c3ed40",
+    "id": "997d2755",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Multi-modular domain-tailored OCR post-correction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1288/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1288",
     "year": 2017
   },
   {
@@ -4461,12 +4910,13 @@
       "Dongyan Zhao"
     ],
     "conference": "emnlp",
-    "id": "120021d5",
+    "id": "3e1013bc",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning to Predict Charges for Criminal Cases with Legal Basis",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1289/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1289",
     "year": 2017
   },
   {
@@ -4476,12 +4926,13 @@
       "David Mimno"
     ],
     "conference": "emnlp",
-    "id": "047213b8",
+    "id": "e55f17f8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Quantifying the Effects of Text Duplication on Semantic Models",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1290/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1290",
     "year": 2017
   },
   {
@@ -4493,12 +4944,13 @@
       "Jiawei Han"
     ],
     "conference": "emnlp",
-    "id": "2c8379b3",
+    "id": "4df677dd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Identifying Semantically Deviating Outlier Documents",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1291/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1291",
     "year": 2017
   },
   {
@@ -4510,12 +4962,15 @@
       "Eduard Hovy"
     ],
     "conference": "emnlp",
-    "id": "0c6aef7a",
+    "id": "a140cdc4",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Detecting and Explaining Causes From Text For a Time Series Event",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1292/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1292",
     "year": 2017
   },
   {
@@ -4527,12 +4982,13 @@
       "Xiaoming Li"
     ],
     "conference": "emnlp",
-    "id": "9464ec13",
+    "id": "56beffd8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Novel Cascade Model for Learning Latent Similarity from Heterogeneous Sequential Data of MOOC",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1293/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1293",
     "year": 2017
   },
   {
@@ -4544,12 +5000,13 @@
       "Norman Sadeh"
     ],
     "conference": "emnlp",
-    "id": "674f826c",
+    "id": "baa229d2",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Identifying the Provision of Choices in Privacy Policy Text",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1294/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1294",
     "year": 2017
   },
   {
@@ -4560,12 +5017,13 @@
       "Jeenu Grover"
     ],
     "conference": "emnlp",
-    "id": "6d18f130",
+    "id": "922b7e04",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "An Empirical Analysis of Edit Importance between Document Versions",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1295/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1295",
     "year": 2017
   },
   {
@@ -4577,12 +5035,15 @@
       "Ting Liu"
     ],
     "conference": "emnlp",
-    "id": "97c95600",
+    "id": "532c95c1",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Transition-Based Disfluency Detection using LSTMs",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1296/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1296",
     "year": 2017
   },
   {
@@ -4593,12 +5054,13 @@
       "Zheng Yuan"
     ],
     "conference": "emnlp",
-    "id": "49292af4",
+    "id": "aeb84db3",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Sequence-Labelling Models for Grammatical Error Correction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1297/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1297",
     "year": 2017
   },
   {
@@ -4609,12 +5071,15 @@
       "Stuart Shieber"
     ],
     "conference": "emnlp",
-    "id": "10db6bf1",
+    "id": "2fd4a0d0",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "opennmt"
+      ]
     },
     "name": "Adapting Sequence Models for Sentence Correction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1298/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1298",
     "year": 2017
   },
   {
@@ -4624,12 +5089,13 @@
       "Marine Carpuat"
     ],
     "conference": "emnlp",
-    "id": "67fd56d2",
+    "id": "c75d10a4",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Study of Style in Machine Translation: Controlling the Formality of Machine Translation Output",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1299/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1299",
     "year": 2017
   },
   {
@@ -4637,12 +5103,13 @@
       "Jacob Devlin"
     ],
     "conference": "emnlp",
-    "id": "545c2384",
+    "id": "9d91e9a7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sharp Models on Dull Hardware: Fast and Accurate Neural Machine Translation Decoding on the CPU",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1300/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1300",
     "year": 2017
   },
   {
@@ -4653,12 +5120,13 @@
       "Qun Liu"
     ],
     "conference": "emnlp",
-    "id": "196bad74",
+    "id": "b42b469f",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Exploiting Cross-Sentence Context for Neural Machine Translation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1301/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1301",
     "year": 2017
   },
   {
@@ -4669,12 +5137,13 @@
       "Eric Fosler-Lussier"
     ],
     "conference": "emnlp",
-    "id": "00686dfc",
+    "id": "b36d9ed7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Cross-Lingual Transfer Learning for POS Tagging without Cross-Lingual Resources",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1302/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1302",
     "year": 2017
   },
   {
@@ -4685,12 +5154,13 @@
       "Mirella Lapata"
     ],
     "conference": "emnlp",
-    "id": "deef9259",
+    "id": "370706b5",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Image Pivoting for Learning Multilingual Multimodal Representations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1303/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1303",
     "year": 2017
   },
   {
@@ -4704,12 +5174,13 @@
       "Tiejun Zhao"
     ],
     "conference": "emnlp",
-    "id": "3312a5e0",
+    "id": "111c2bfb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Neural Machine Translation with Source Dependency Representation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1304/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1304",
     "year": 2017
   },
   {
@@ -4719,12 +5190,13 @@
       "Koji Mineshima"
     ],
     "conference": "emnlp",
-    "id": "837b7bef",
+    "id": "b37e616d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Visual Denotations for Recognizing Textual Entailment",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1305/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1305",
     "year": 2017
   },
   {
@@ -4734,12 +5206,13 @@
       "Trevor Cohn"
     ],
     "conference": "emnlp",
-    "id": "a90a2028",
+    "id": "bdb6e7cd",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Sequence Effects in Crowdsourced Annotations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1306/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1306",
     "year": 2017
   },
   {
@@ -4748,12 +5221,13 @@
       "Oliver Jojic"
     ],
     "conference": "emnlp",
-    "id": "7adebb0a",
+    "id": "082ed5e8",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "No Need to Pay Attention: Simple Recurrent Neural Networks Work!",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1307/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1307",
     "year": 2017
   },
   {
@@ -4762,12 +5236,13 @@
       "Laure Thompson"
     ],
     "conference": "emnlp",
-    "id": "928a8728",
+    "id": "80bf1ddb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "The strange geometry of skip-gram with negative sampling",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1308/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1308",
     "year": 2017
   },
   {
@@ -4782,12 +5257,15 @@
       "Slav Petrov"
     ],
     "conference": "emnlp",
-    "id": "36f3ca88",
+    "id": "22c84906",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Natural Language Processing with Small Feed-Forward Networks",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1309/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1309",
     "year": 2017
   },
   {
@@ -4796,12 +5274,13 @@
       "Wai Lam"
     ],
     "conference": "emnlp",
-    "id": "00ee2c93",
+    "id": "066731c0",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Deep Multi-Task Learning for Aspect Term Extraction with Memory Interaction",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1310/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1310",
     "year": 2017
   },
   {
@@ -4810,12 +5289,13 @@
       "Dan Klein"
     ],
     "conference": "emnlp",
-    "id": "b4a83848",
+    "id": "e822b716",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Analogs of Linguistic Structure in Deep Representations",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1311/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1311",
     "year": 2017
   },
   {
@@ -4825,12 +5305,13 @@
       "Vincent Zheng"
     ],
     "conference": "emnlp",
-    "id": "2384b7d8",
+    "id": "ab992f91",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "A Simple Regularization-based Algorithm for Learning Cross-Domain Word Embeddings",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1312/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1312",
     "year": 2017
   },
   {
@@ -4841,12 +5322,13 @@
       "Mihai Surdeanu"
     ],
     "conference": "emnlp",
-    "id": "50a403a0",
+    "id": "19a82e60",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Learning what to read: Focused machine reading",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1313/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1313",
     "year": 2017
   },
   {
@@ -4856,12 +5338,15 @@
       "Bing Liu"
     ],
     "conference": "emnlp",
-    "id": "02ba8ee9",
+    "id": "6087540a",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "DOC: Deep Open Classification of Text Documents",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1314/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1314",
     "year": 2017
   },
   {
@@ -4873,12 +5358,13 @@
       "Eric Nyberg"
     ],
     "conference": "emnlp",
-    "id": "7f9fb574",
+    "id": "4233b384",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Charmanteau: Character Embedding Models For Portmanteau Creation",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1315/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1315",
     "year": 2017
   },
   {
@@ -4889,12 +5375,15 @@
       "Philip Corlett"
     ],
     "conference": "emnlp",
-    "id": "214fdeb8",
+    "id": "c32ec855",
     "metadata": {
-      "words": []
+      "affiliation": [],
+      "words": [
+        "google.com"
+      ]
     },
     "name": "Using Automated Metaphor Identification to Aid in Detection and Prediction of First-Episode Schizophrenia",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1316/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1316",
     "year": 2017
   },
   {
@@ -4906,12 +5395,13 @@
       "Yejin Choi"
     ],
     "conference": "emnlp",
-    "id": "bd1e6470",
+    "id": "0358ecda",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1317/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1317",
     "year": 2017
   },
   {
@@ -4922,12 +5412,13 @@
       "Sara Tonelli"
     ],
     "conference": "emnlp",
-    "id": "e92c11f3",
+    "id": "5b51175c",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Topic-Based Agreement and Disagreement in US Electoral Manifestos",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1318/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1318",
     "year": 2017
   },
   {
@@ -4936,12 +5427,13 @@
       "Philipp Koehn"
     ],
     "conference": "emnlp",
-    "id": "82593f63",
+    "id": "460e28b7",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Zipporah: a Fast and Scalable Data Cleaning System for Noisy Web-Crawled Parallel Corpora",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1319/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1319",
     "year": 2017
   },
   {
@@ -4950,12 +5442,13 @@
       "Iryna Gurevych"
     ],
     "conference": "emnlp",
-    "id": "ef245e09",
+    "id": "c9ddf451",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Bringing Structure into Summaries: Crowdsourcing a Benchmark Corpus of Concept Maps",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1320/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1320",
     "year": 2017
   },
   {
@@ -4966,12 +5459,13 @@
       "Dhruv Batra"
     ],
     "conference": "emnlp",
-    "id": "b139ae46",
+    "id": "053cf1cb",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Natural Language Does Not Emerge \u2018Naturally\u2019 in Multi-Agent Dialog",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1321/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1321",
     "year": 2017
   },
   {
@@ -4981,12 +5475,13 @@
       "Nazli Goharian"
     ],
     "conference": "emnlp",
-    "id": "3868025c",
+    "id": "09565a7d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Depression and Self-Harm Risk Assessment in Online Forums",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1322/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1322",
     "year": 2017
   },
   {
@@ -4998,12 +5493,13 @@
       "Kai-Wei Chang"
     ],
     "conference": "emnlp",
-    "id": "3577d593",
+    "id": "bee57b7d",
     "metadata": {
+      "affiliation": [],
       "words": []
     },
     "name": "Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints",
-    "pdf_link": "https://aclweb.org/anthology/papers/D/D17/D17-1323/",
+    "pdf_link": "https://www.aclweb.org/anthology/D17-1323",
     "year": 2017
   }
 ]
