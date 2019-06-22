@@ -21,6 +21,7 @@
     "conference": "iclr",
     "id": "bc59f7",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -45,6 +46,7 @@
     "conference": "iclr",
     "id": "2aadb0",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -65,6 +67,7 @@
     "conference": "iclr",
     "id": "c8bbff",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -87,6 +90,9 @@
     "conference": "iclr",
     "id": "1446dd",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -109,6 +115,9 @@
     "conference": "iclr",
     "id": "58acc1",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -145,6 +154,9 @@
     "conference": "iclr",
     "id": "7fd470",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -183,6 +195,10 @@
     "conference": "iclr",
     "id": "d82183",
     "metadata": {
+      "affiliation": [
+        "google",
+        "facebook"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -209,6 +225,7 @@
     "conference": "iclr",
     "id": "fa38f9",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -225,6 +242,7 @@
     "conference": "iclr",
     "id": "31950d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -249,6 +267,7 @@
     "conference": "iclr",
     "id": "ea697f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -277,6 +296,7 @@
     "conference": "iclr",
     "id": "2ba7f4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -301,10 +321,11 @@
     "conference": "iclr",
     "id": "a8b1da",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation",
@@ -332,6 +353,7 @@
     "conference": "iclr",
     "id": "75ecb3",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -366,6 +388,7 @@
     "conference": "iclr",
     "id": "611c56",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -390,6 +413,9 @@
     "conference": "iclr",
     "id": "7d09c8",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -440,6 +466,9 @@
     "conference": "iclr",
     "id": "1b954c",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -474,6 +503,7 @@
     "conference": "iclr",
     "id": "8618dd",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -512,6 +542,7 @@
     "conference": "iclr",
     "id": "49e876",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -544,10 +575,11 @@
     "conference": "iclr",
     "id": "0ce26c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Big-Little Net: An Efficient Multi-Scale Feature Representation for Visual and Speech Recognition",
@@ -587,6 +619,9 @@
     "conference": "iclr",
     "id": "3abb45",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -617,6 +652,7 @@
     "conference": "iclr",
     "id": "e5aa45",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -643,6 +679,7 @@
     "conference": "iclr",
     "id": "93b778",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -671,6 +708,7 @@
     "conference": "iclr",
     "id": "eece37",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -701,6 +739,9 @@
     "conference": "iclr",
     "id": "26fba2",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -731,6 +772,7 @@
     "conference": "iclr",
     "id": "7549d0",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -757,6 +799,7 @@
     "conference": "iclr",
     "id": "4f7bf1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -793,6 +836,7 @@
     "conference": "iclr",
     "id": "cbe7d2",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -833,6 +877,9 @@
     "conference": "iclr",
     "id": "6e0422",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -865,6 +912,9 @@
     "conference": "iclr",
     "id": "58edf3",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -893,6 +943,7 @@
     "conference": "iclr",
     "id": "4d011d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -927,6 +978,7 @@
     "conference": "iclr",
     "id": "419fc8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -951,6 +1003,7 @@
     "conference": "iclr",
     "id": "3f516e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -985,6 +1038,7 @@
     "conference": "iclr",
     "id": "be88ac",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1037,6 +1091,7 @@
     "conference": "iclr",
     "id": "bdc3f5",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -1071,6 +1126,9 @@
     "conference": "iclr",
     "id": "3fbc4f",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -1095,6 +1153,9 @@
     "conference": "iclr",
     "id": "876beb",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -1121,6 +1182,7 @@
     "conference": "iclr",
     "id": "97ce97",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -1171,6 +1233,7 @@
     "conference": "iclr",
     "id": "e880a1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -1201,6 +1264,7 @@
     "conference": "iclr",
     "id": "4f5e03",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -1227,6 +1291,7 @@
     "conference": "iclr",
     "id": "df7192",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1251,6 +1316,7 @@
     "conference": "iclr",
     "id": "ed9f8b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1275,6 +1341,7 @@
     "conference": "iclr",
     "id": "b6f8bb",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1311,6 +1378,7 @@
     "conference": "iclr",
     "id": "bd8069",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -1337,6 +1405,7 @@
     "conference": "iclr",
     "id": "3fbc78",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1361,6 +1430,9 @@
     "conference": "iclr",
     "id": "6b86fd",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -1391,6 +1463,7 @@
     "conference": "iclr",
     "id": "40fc14",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1423,6 +1496,7 @@
     "conference": "iclr",
     "id": "039a02",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1447,6 +1521,7 @@
     "conference": "iclr",
     "id": "1c8b2b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1467,6 +1542,7 @@
     "conference": "iclr",
     "id": "537416",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -1493,6 +1569,7 @@
     "conference": "iclr",
     "id": "85a816",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -1543,6 +1620,9 @@
     "conference": "iclr",
     "id": "b5885a",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -1583,10 +1663,13 @@
     "conference": "iclr",
     "id": "f0d04c",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Neural network gradient-based learning of black-box function interfaces",
@@ -1606,6 +1689,7 @@
     "conference": "iclr",
     "id": "25b8b0",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -1636,6 +1720,9 @@
     "conference": "iclr",
     "id": "0350d4",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -1670,6 +1757,7 @@
     "conference": "iclr",
     "id": "1a4ae4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -1708,6 +1796,9 @@
     "conference": "iclr",
     "id": "a1b1e4",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -1750,6 +1841,7 @@
     "conference": "iclr",
     "id": "5d4bb1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1778,10 +1870,11 @@
     "conference": "iclr",
     "id": "5fc932",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "ProbGAN: Towards Probabilistic GAN with Theoretical Guarantees",
@@ -1817,6 +1910,7 @@
     "conference": "iclr",
     "id": "9bf597",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1841,6 +1935,9 @@
     "conference": "iclr",
     "id": "9c0410",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -1865,6 +1962,7 @@
     "conference": "iclr",
     "id": "ffb4cf",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -1891,6 +1989,7 @@
     "conference": "iclr",
     "id": "3ceaa6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1923,6 +2022,7 @@
     "conference": "iclr",
     "id": "647251",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -1963,6 +2063,9 @@
     "conference": "iclr",
     "id": "f1822d",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -1991,6 +2094,9 @@
     "conference": "iclr",
     "id": "0b79f1",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -2011,6 +2117,7 @@
     "conference": "iclr",
     "id": "5f110b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2043,6 +2150,7 @@
     "conference": "iclr",
     "id": "7628c7",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -2077,6 +2185,7 @@
     "conference": "iclr",
     "id": "a6a485",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -2111,6 +2220,7 @@
     "conference": "iclr",
     "id": "ea48b1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2139,6 +2249,7 @@
     "conference": "iclr",
     "id": "d042ef",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -2173,6 +2284,7 @@
     "conference": "iclr",
     "id": "d05472",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2209,6 +2321,9 @@
     "conference": "iclr",
     "id": "d6b56f",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -2249,6 +2364,7 @@
     "conference": "iclr",
     "id": "2c03e5",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2277,6 +2393,7 @@
     "conference": "iclr",
     "id": "54c21f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2305,6 +2422,7 @@
     "conference": "iclr",
     "id": "9d4ee7",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2333,6 +2451,9 @@
     "conference": "iclr",
     "id": "eaee71",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -2361,6 +2482,7 @@
     "conference": "iclr",
     "id": "4a713f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2389,6 +2511,7 @@
     "conference": "iclr",
     "id": "e571ae",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -2415,6 +2538,7 @@
     "conference": "iclr",
     "id": "5a0fa2",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2447,6 +2571,7 @@
     "conference": "iclr",
     "id": "cbaefc",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2471,6 +2596,7 @@
     "conference": "iclr",
     "id": "20adaf",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2503,6 +2629,7 @@
     "conference": "iclr",
     "id": "483817",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2547,6 +2674,9 @@
     "conference": "iclr",
     "id": "79d14a",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -2575,6 +2705,7 @@
     "conference": "iclr",
     "id": "896f96",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -2601,6 +2732,7 @@
     "conference": "iclr",
     "id": "6e4d2a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -2627,6 +2759,7 @@
     "conference": "iclr",
     "id": "610e82",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -2661,6 +2794,7 @@
     "conference": "iclr",
     "id": "c1a427",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -2683,6 +2817,7 @@
     "conference": "iclr",
     "id": "e014a8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2715,6 +2850,9 @@
     "conference": "iclr",
     "id": "88e013",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -2739,6 +2877,7 @@
     "conference": "iclr",
     "id": "bb4a54",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -2769,6 +2908,7 @@
     "conference": "iclr",
     "id": "7db9ac",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -2795,6 +2935,7 @@
     "conference": "iclr",
     "id": "ee9922",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2823,6 +2964,7 @@
     "conference": "iclr",
     "id": "442276",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2847,6 +2989,9 @@
     "conference": "iclr",
     "id": "f8ab01",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -2871,6 +3016,7 @@
     "conference": "iclr",
     "id": "75328c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2895,6 +3041,7 @@
     "conference": "iclr",
     "id": "c0dae5",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2935,6 +3082,7 @@
     "conference": "iclr",
     "id": "234467",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -2967,6 +3115,7 @@
     "conference": "iclr",
     "id": "65d4e4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -2997,6 +3146,9 @@
     "conference": "iclr",
     "id": "99e525",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -3027,6 +3179,7 @@
     "conference": "iclr",
     "id": "6ca470",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3059,6 +3212,7 @@
     "conference": "iclr",
     "id": "4980d9",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -3089,6 +3243,7 @@
     "conference": "iclr",
     "id": "c107aa",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3113,6 +3268,7 @@
     "conference": "iclr",
     "id": "8f3d75",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3141,6 +3297,7 @@
     "conference": "iclr",
     "id": "e4e013",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3173,6 +3330,7 @@
     "conference": "iclr",
     "id": "f2380b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3197,6 +3355,7 @@
     "conference": "iclr",
     "id": "39cff7",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -3219,6 +3378,7 @@
     "conference": "iclr",
     "id": "188c0b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3247,6 +3407,7 @@
     "conference": "iclr",
     "id": "51096a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3271,6 +3432,7 @@
     "conference": "iclr",
     "id": "e9f7f8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3307,6 +3469,7 @@
     "conference": "iclr",
     "id": "d38b2a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3331,6 +3494,7 @@
     "conference": "iclr",
     "id": "3b68b8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3355,6 +3519,7 @@
     "conference": "iclr",
     "id": "af85ac",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3383,6 +3548,9 @@
     "conference": "iclr",
     "id": "a8e00e",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -3415,6 +3583,7 @@
     "conference": "iclr",
     "id": "22847f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -3465,6 +3634,9 @@
     "conference": "iclr",
     "id": "2b494c",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -3485,6 +3657,7 @@
     "conference": "iclr",
     "id": "1d6b7e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3509,6 +3682,7 @@
     "conference": "iclr",
     "id": "eb0a41",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -3547,6 +3721,7 @@
     "conference": "iclr",
     "id": "b0d245",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3575,6 +3750,9 @@
     "conference": "iclr",
     "id": "ec8560",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -3599,6 +3777,7 @@
     "conference": "iclr",
     "id": "1c88e9",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3627,6 +3806,9 @@
     "conference": "iclr",
     "id": "7d7ae7",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -3659,6 +3841,7 @@
     "conference": "iclr",
     "id": "0061eb",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -3681,6 +3864,7 @@
     "conference": "iclr",
     "id": "263ee4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3705,6 +3889,9 @@
     "conference": "iclr",
     "id": "36d3d7",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -3737,10 +3924,11 @@
     "conference": "iclr",
     "id": "311f51",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "On the Sensitivity of Adversarial Robustness to Input Data Distributions",
@@ -3760,6 +3948,7 @@
     "conference": "iclr",
     "id": "e22a45",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -3790,10 +3979,11 @@
     "conference": "iclr",
     "id": "a5863e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "GO Gradient for Expectation-Based Objectives",
@@ -3825,6 +4015,9 @@
     "conference": "iclr",
     "id": "cab082",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -3845,6 +4038,7 @@
     "conference": "iclr",
     "id": "4807a1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3869,6 +4063,7 @@
     "conference": "iclr",
     "id": "431600",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3893,6 +4088,7 @@
     "conference": "iclr",
     "id": "3c880c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -3923,6 +4119,7 @@
     "conference": "iclr",
     "id": "d0f22a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3951,6 +4148,7 @@
     "conference": "iclr",
     "id": "2d1564",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -3977,6 +4175,7 @@
     "conference": "iclr",
     "id": "b0cfbf",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -3997,6 +4196,7 @@
     "conference": "iclr",
     "id": "c4e9ef",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4021,6 +4221,7 @@
     "conference": "iclr",
     "id": "234aec",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -4047,6 +4248,7 @@
     "conference": "iclr",
     "id": "1f3212",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -4073,6 +4275,7 @@
     "conference": "iclr",
     "id": "db2d85",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -4095,6 +4298,7 @@
     "conference": "iclr",
     "id": "bd1fff",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4111,6 +4315,7 @@
     "conference": "iclr",
     "id": "02ae78",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -4145,6 +4350,7 @@
     "conference": "iclr",
     "id": "9d0773",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4165,6 +4371,7 @@
     "conference": "iclr",
     "id": "7c90ce",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4193,6 +4400,7 @@
     "conference": "iclr",
     "id": "11cac3",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4241,6 +4449,7 @@
     "conference": "iclr",
     "id": "cc4335",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4265,6 +4474,9 @@
     "conference": "iclr",
     "id": "afacf3",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -4295,6 +4507,7 @@
     "conference": "iclr",
     "id": "898102",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -4325,10 +4538,11 @@
     "conference": "iclr",
     "id": "f41756",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Excessive Invariance Causes Adversarial Vulnerability",
@@ -4364,10 +4578,11 @@
     "conference": "iclr",
     "id": "7ca081",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "On Computation and Generalization of Generative Adversarial Networks under Spectrum Control",
@@ -4407,6 +4622,7 @@
     "conference": "iclr",
     "id": "647020",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -4437,6 +4653,7 @@
     "conference": "iclr",
     "id": "fea9f8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -4467,6 +4684,7 @@
     "conference": "iclr",
     "id": "4565ec",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4487,10 +4705,11 @@
     "conference": "iclr",
     "id": "e6c9ef",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "A Direct Approach to Robust Deep Learning Using Adversarial Networks",
@@ -4526,6 +4745,10 @@
     "conference": "iclr",
     "id": "c9c9ea",
     "metadata": {
+      "affiliation": [
+        "google",
+        "facebook"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -4576,6 +4799,9 @@
     "conference": "iclr",
     "id": "865678",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -4600,6 +4826,7 @@
     "conference": "iclr",
     "id": "389265",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4628,10 +4855,11 @@
     "conference": "iclr",
     "id": "ea85d6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Stochastic Optimization of Sorting Networks via Continuous Relaxations",
@@ -4663,6 +4891,7 @@
     "conference": "iclr",
     "id": "e55603",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -4693,6 +4922,9 @@
     "conference": "iclr",
     "id": "6317bd",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -4771,6 +5003,9 @@
     "conference": "iclr",
     "id": "511987",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -4807,6 +5042,7 @@
     "conference": "iclr",
     "id": "c79588",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -4837,6 +5073,7 @@
     "conference": "iclr",
     "id": "0dc8e9",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -4867,6 +5104,7 @@
     "conference": "iclr",
     "id": "abefa4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4883,6 +5121,7 @@
     "conference": "iclr",
     "id": "4bb6d4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4907,6 +5146,7 @@
     "conference": "iclr",
     "id": "c45e94",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -4937,6 +5177,7 @@
     "conference": "iclr",
     "id": "ddfdd8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4957,6 +5198,7 @@
     "conference": "iclr",
     "id": "e0e82c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -4993,6 +5235,7 @@
     "conference": "iclr",
     "id": "27090c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5017,6 +5260,7 @@
     "conference": "iclr",
     "id": "b284c6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5045,6 +5289,9 @@
     "conference": "iclr",
     "id": "629706",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -5067,6 +5314,7 @@
     "conference": "iclr",
     "id": "60b3a8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5091,6 +5339,7 @@
     "conference": "iclr",
     "id": "bd8100",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -5121,6 +5370,7 @@
     "conference": "iclr",
     "id": "3f5d57",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5153,6 +5403,7 @@
     "conference": "iclr",
     "id": "fffd3c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5185,6 +5436,7 @@
     "conference": "iclr",
     "id": "85a515",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5213,6 +5465,7 @@
     "conference": "iclr",
     "id": "da6596",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5237,6 +5490,7 @@
     "conference": "iclr",
     "id": "6235bd",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -5275,6 +5529,9 @@
     "conference": "iclr",
     "id": "7dd95d",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -5309,6 +5566,7 @@
     "conference": "iclr",
     "id": "2ce935",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -5339,6 +5597,7 @@
     "conference": "iclr",
     "id": "9fcae3",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5363,6 +5622,7 @@
     "conference": "iclr",
     "id": "5daf9d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -5405,6 +5665,9 @@
     "conference": "iclr",
     "id": "d7f873",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -5433,6 +5696,7 @@
     "conference": "iclr",
     "id": "5ecd9c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5461,6 +5725,9 @@
     "conference": "iclr",
     "id": "710c6b",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -5493,6 +5760,9 @@
     "conference": "iclr",
     "id": "21acac",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -5525,6 +5795,7 @@
     "conference": "iclr",
     "id": "e52324",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5561,6 +5832,9 @@
     "conference": "iclr",
     "id": "419f86",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -5581,6 +5855,9 @@
     "conference": "iclr",
     "id": "1aa52a",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -5605,6 +5882,7 @@
     "conference": "iclr",
     "id": "6d8678",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5633,6 +5911,7 @@
     "conference": "iclr",
     "id": "771271",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5669,6 +5948,10 @@
     "conference": "iclr",
     "id": "7ac1a5",
     "metadata": {
+      "affiliation": [
+        "google",
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -5709,6 +5992,9 @@
     "conference": "iclr",
     "id": "44b9b5",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -5737,6 +6023,9 @@
     "conference": "iclr",
     "id": "b6464f",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -5761,6 +6050,9 @@
     "conference": "iclr",
     "id": "ed0378",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -5807,6 +6099,9 @@
     "conference": "iclr",
     "id": "9e4fa1",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -5831,6 +6126,7 @@
     "conference": "iclr",
     "id": "0f58f6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -5857,6 +6153,7 @@
     "conference": "iclr",
     "id": "b98b99",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -5905,6 +6202,9 @@
     "conference": "iclr",
     "id": "66237c",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -5943,6 +6243,7 @@
     "conference": "iclr",
     "id": "89aa26",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -5981,6 +6282,9 @@
     "conference": "iclr",
     "id": "e2b5ac",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -6009,6 +6313,7 @@
     "conference": "iclr",
     "id": "e27ec8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6029,6 +6334,7 @@
     "conference": "iclr",
     "id": "9d615f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -6083,6 +6389,9 @@
     "conference": "iclr",
     "id": "a33506",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -6123,6 +6432,9 @@
     "conference": "iclr",
     "id": "86a84a",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -6163,6 +6475,9 @@
     "conference": "iclr",
     "id": "84df19",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -6189,6 +6504,7 @@
     "conference": "iclr",
     "id": "ee907b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6217,6 +6533,9 @@
     "conference": "iclr",
     "id": "d0ec35",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -6245,6 +6564,7 @@
     "conference": "iclr",
     "id": "f24f28",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -6315,6 +6635,9 @@
     "conference": "iclr",
     "id": "202b71",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -6335,6 +6658,7 @@
     "conference": "iclr",
     "id": "6eccba",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6371,6 +6695,7 @@
     "conference": "iclr",
     "id": "06808a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -6401,6 +6726,7 @@
     "conference": "iclr",
     "id": "b28238",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6425,6 +6751,7 @@
     "conference": "iclr",
     "id": "bdef8d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -6451,6 +6778,7 @@
     "conference": "iclr",
     "id": "92a4a9",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -6477,6 +6805,7 @@
     "conference": "iclr",
     "id": "b708aa",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6501,6 +6830,7 @@
     "conference": "iclr",
     "id": "a28afd",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6525,6 +6855,7 @@
     "conference": "iclr",
     "id": "0c541d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6557,6 +6888,7 @@
     "conference": "iclr",
     "id": "f56f90",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6585,6 +6917,9 @@
     "conference": "iclr",
     "id": "b1dfb6",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -6609,6 +6944,7 @@
     "conference": "iclr",
     "id": "d7cf16",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6649,6 +6985,7 @@
     "conference": "iclr",
     "id": "2fe985",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6681,6 +7018,9 @@
     "conference": "iclr",
     "id": "176745",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -6709,6 +7049,7 @@
     "conference": "iclr",
     "id": "6a79d6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6753,6 +7094,9 @@
     "conference": "iclr",
     "id": "fdfb64",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -6781,6 +7125,7 @@
     "conference": "iclr",
     "id": "c6df50",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6805,6 +7150,9 @@
     "conference": "iclr",
     "id": "495a1a",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -6833,6 +7181,7 @@
     "conference": "iclr",
     "id": "9e05da",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6865,6 +7214,7 @@
     "conference": "iclr",
     "id": "77b63f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6901,6 +7251,7 @@
     "conference": "iclr",
     "id": "836095",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6945,6 +7296,9 @@
     "conference": "iclr",
     "id": "66823e",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -6969,6 +7323,7 @@
     "conference": "iclr",
     "id": "8de94f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -6989,6 +7344,9 @@
     "conference": "iclr",
     "id": "296e94",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -7013,6 +7371,9 @@
     "conference": "iclr",
     "id": "60d178",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -7043,6 +7404,7 @@
     "conference": "iclr",
     "id": "1a77e0",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7075,6 +7437,7 @@
     "conference": "iclr",
     "id": "0be9cb",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7103,6 +7466,9 @@
     "conference": "iclr",
     "id": "3d1b9e",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -7129,6 +7495,7 @@
     "conference": "iclr",
     "id": "37e234",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -7171,6 +7538,7 @@
     "conference": "iclr",
     "id": "14e892",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7211,6 +7579,7 @@
     "conference": "iclr",
     "id": "a9239c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7251,6 +7620,7 @@
     "conference": "iclr",
     "id": "a1d171",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7275,6 +7645,7 @@
     "conference": "iclr",
     "id": "31287d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7311,6 +7682,7 @@
     "conference": "iclr",
     "id": "3f5a9d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7339,6 +7711,9 @@
     "conference": "iclr",
     "id": "08e425",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -7371,6 +7746,7 @@
     "conference": "iclr",
     "id": "e8885a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7407,6 +7783,7 @@
     "conference": "iclr",
     "id": "2cc87e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7431,6 +7808,7 @@
     "conference": "iclr",
     "id": "d7b616",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7459,6 +7837,9 @@
     "conference": "iclr",
     "id": "991d33",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -7499,6 +7880,7 @@
     "conference": "iclr",
     "id": "2c2bd8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7527,6 +7909,7 @@
     "conference": "iclr",
     "id": "7e61fd",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -7569,6 +7952,9 @@
     "conference": "iclr",
     "id": "56f7b5",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -7613,6 +7999,7 @@
     "conference": "iclr",
     "id": "b21605",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -7647,6 +8034,7 @@
     "conference": "iclr",
     "id": "014828",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7667,6 +8055,7 @@
     "conference": "iclr",
     "id": "53b019",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7699,6 +8088,9 @@
     "conference": "iclr",
     "id": "5da110",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -7733,6 +8125,7 @@
     "conference": "iclr",
     "id": "0b528c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -7759,6 +8152,9 @@
     "conference": "iclr",
     "id": "000eed",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -7795,6 +8191,7 @@
     "conference": "iclr",
     "id": "d7c921",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -7829,6 +8226,7 @@
     "conference": "iclr",
     "id": "345ba3",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -7875,6 +8273,7 @@
     "conference": "iclr",
     "id": "5fa1a7",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -7909,6 +8308,9 @@
     "conference": "iclr",
     "id": "561ae0",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -7933,6 +8335,7 @@
     "conference": "iclr",
     "id": "29b70e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -7971,6 +8374,7 @@
     "conference": "iclr",
     "id": "4c3a69",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -7995,6 +8399,7 @@
     "conference": "iclr",
     "id": "503a3c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8015,6 +8420,7 @@
     "conference": "iclr",
     "id": "6382b7",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8039,6 +8445,7 @@
     "conference": "iclr",
     "id": "3937b9",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -8069,6 +8476,7 @@
     "conference": "iclr",
     "id": "7b881d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8097,6 +8505,7 @@
     "conference": "iclr",
     "id": "169cb7",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8129,6 +8538,9 @@
     "conference": "iclr",
     "id": "fee986",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -8159,6 +8571,9 @@
     "conference": "iclr",
     "id": "90a9cc",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -8189,6 +8604,7 @@
     "conference": "iclr",
     "id": "685168",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8209,6 +8625,7 @@
     "conference": "iclr",
     "id": "b93048",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8253,6 +8670,9 @@
     "conference": "iclr",
     "id": "27f41d",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -8277,6 +8697,7 @@
     "conference": "iclr",
     "id": "2200ab",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8293,6 +8714,9 @@
     "conference": "iclr",
     "id": "1625b6",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -8313,6 +8737,7 @@
     "conference": "iclr",
     "id": "54d3e9",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8337,6 +8762,7 @@
     "conference": "iclr",
     "id": "e9eb57",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -8363,6 +8789,7 @@
     "conference": "iclr",
     "id": "f10609",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8387,6 +8814,7 @@
     "conference": "iclr",
     "id": "2d9a73",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8419,6 +8847,7 @@
     "conference": "iclr",
     "id": "87cd65",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8443,6 +8872,7 @@
     "conference": "iclr",
     "id": "5c6562",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8475,6 +8905,7 @@
     "conference": "iclr",
     "id": "0f78e9",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -8505,6 +8936,7 @@
     "conference": "iclr",
     "id": "6c02fb",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -8535,6 +8967,7 @@
     "conference": "iclr",
     "id": "d03031",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -8553,10 +8986,11 @@
     "conference": "iclr",
     "id": "2be597",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Preconditioner on Matrix Lie Group for SGD",
@@ -8584,6 +9018,7 @@
     "conference": "iclr",
     "id": "9cff67",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8612,6 +9047,7 @@
     "conference": "iclr",
     "id": "9e0f98",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8644,6 +9080,7 @@
     "conference": "iclr",
     "id": "55a54d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -8670,6 +9107,7 @@
     "conference": "iclr",
     "id": "da03eb",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8698,6 +9136,7 @@
     "conference": "iclr",
     "id": "1f1c28",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8722,6 +9161,7 @@
     "conference": "iclr",
     "id": "37718a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8746,6 +9186,7 @@
     "conference": "iclr",
     "id": "3b777e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -8776,6 +9217,7 @@
     "conference": "iclr",
     "id": "74491f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8796,6 +9238,7 @@
     "conference": "iclr",
     "id": "4d6823",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8832,10 +9275,11 @@
     "conference": "iclr",
     "id": "8bd66e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Universal  Stagewise Learning for Non-Convex Problems with  Convergence on  Averaged Solutions",
@@ -8855,6 +9299,7 @@
     "conference": "iclr",
     "id": "81cc3b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -8877,6 +9322,7 @@
     "conference": "iclr",
     "id": "aec7dc",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8901,6 +9347,7 @@
     "conference": "iclr",
     "id": "538461",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8929,6 +9376,7 @@
     "conference": "iclr",
     "id": "b339f1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8957,6 +9405,7 @@
     "conference": "iclr",
     "id": "c30f4a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -8989,6 +9438,7 @@
     "conference": "iclr",
     "id": "d63476",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -9011,6 +9461,7 @@
     "conference": "iclr",
     "id": "effa3f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9043,6 +9494,10 @@
     "conference": "iclr",
     "id": "cb33e0",
     "metadata": {
+      "affiliation": [
+        "google",
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -9075,6 +9530,7 @@
     "conference": "iclr",
     "id": "19ac9e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -9113,6 +9569,7 @@
     "conference": "iclr",
     "id": "fe84da",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9141,6 +9598,7 @@
     "conference": "iclr",
     "id": "44eecb",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9177,6 +9635,7 @@
     "conference": "iclr",
     "id": "cd066d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9209,6 +9668,7 @@
     "conference": "iclr",
     "id": "ccb586",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9229,6 +9689,7 @@
     "conference": "iclr",
     "id": "836e38",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9257,6 +9718,7 @@
     "conference": "iclr",
     "id": "617903",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9285,6 +9747,7 @@
     "conference": "iclr",
     "id": "19db6c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -9307,10 +9770,13 @@
     "conference": "iclr",
     "id": "60cf18",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Quasi-hyperbolic momentum and Adam for deep learning",
@@ -9334,6 +9800,7 @@
     "conference": "iclr",
     "id": "f968a5",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -9380,6 +9847,9 @@
     "conference": "iclr",
     "id": "34c832",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -9410,6 +9880,7 @@
     "conference": "iclr",
     "id": "a5c2d1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -9432,6 +9903,7 @@
     "conference": "iclr",
     "id": "fdacad",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9452,6 +9924,7 @@
     "conference": "iclr",
     "id": "d11135",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9480,6 +9953,7 @@
     "conference": "iclr",
     "id": "0e4621",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9504,6 +9978,7 @@
     "conference": "iclr",
     "id": "22208b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -9530,6 +10005,9 @@
     "conference": "iclr",
     "id": "48cfc3",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -9562,6 +10040,7 @@
     "conference": "iclr",
     "id": "3baa06",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9590,6 +10069,7 @@
     "conference": "iclr",
     "id": "29857b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9626,6 +10106,9 @@
     "conference": "iclr",
     "id": "8a5009",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -9650,6 +10133,7 @@
     "conference": "iclr",
     "id": "9e205b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9674,6 +10158,7 @@
     "conference": "iclr",
     "id": "61d943",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9698,6 +10183,7 @@
     "conference": "iclr",
     "id": "97e62c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9714,10 +10200,11 @@
     "conference": "iclr",
     "id": "0476d9",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Local SGD Converges Fast and Communicates Little",
@@ -9733,6 +10220,7 @@
     "conference": "iclr",
     "id": "d6bf77",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9761,10 +10249,11 @@
     "conference": "iclr",
     "id": "0985a4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks",
@@ -9788,6 +10277,7 @@
     "conference": "iclr",
     "id": "2f601e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -9814,6 +10304,7 @@
     "conference": "iclr",
     "id": "1b4b6e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -9842,6 +10333,7 @@
     "conference": "iclr",
     "id": "623d80",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -9868,6 +10360,7 @@
     "conference": "iclr",
     "id": "9fedee",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -9890,10 +10383,11 @@
     "conference": "iclr",
     "id": "f6dc0c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Decoupled Weight Decay Regularization",
@@ -9921,6 +10415,7 @@
     "conference": "iclr",
     "id": "ec1332",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -9959,6 +10454,7 @@
     "conference": "iclr",
     "id": "70095f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -9981,6 +10477,7 @@
     "conference": "iclr",
     "id": "caccde",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10005,6 +10502,7 @@
     "conference": "iclr",
     "id": "463e3f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10029,6 +10527,7 @@
     "conference": "iclr",
     "id": "0971ea",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10065,6 +10564,7 @@
     "conference": "iclr",
     "id": "262f50",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10089,6 +10589,7 @@
     "conference": "iclr",
     "id": "506556",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10113,6 +10614,7 @@
     "conference": "iclr",
     "id": "9468b0",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10137,6 +10639,7 @@
     "conference": "iclr",
     "id": "3693ee",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10165,6 +10668,10 @@
     "conference": "iclr",
     "id": "f8d377",
     "metadata": {
+      "affiliation": [
+        "google",
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -10193,6 +10700,7 @@
     "conference": "iclr",
     "id": "406f95",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10221,6 +10729,7 @@
     "conference": "iclr",
     "id": "863ae6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10245,6 +10754,7 @@
     "conference": "iclr",
     "id": "57088a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10281,6 +10791,7 @@
     "conference": "iclr",
     "id": "061ac6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10297,6 +10808,7 @@
     "conference": "iclr",
     "id": "6162f4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10329,6 +10841,9 @@
     "conference": "iclr",
     "id": "b7f514",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -10361,6 +10876,7 @@
     "conference": "iclr",
     "id": "9851b8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -10387,6 +10903,9 @@
     "conference": "iclr",
     "id": "bd4315",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -10411,6 +10930,7 @@
     "conference": "iclr",
     "id": "710a02",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10439,6 +10959,7 @@
     "conference": "iclr",
     "id": "0686b8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10471,6 +10992,7 @@
     "conference": "iclr",
     "id": "6ad401",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10495,6 +11017,7 @@
     "conference": "iclr",
     "id": "75ee52",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -10517,6 +11040,7 @@
     "conference": "iclr",
     "id": "198a3f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10537,6 +11061,9 @@
     "conference": "iclr",
     "id": "ef5ade",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -10571,6 +11098,7 @@
     "conference": "iclr",
     "id": "ecf48a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10599,6 +11127,7 @@
     "conference": "iclr",
     "id": "635489",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10635,6 +11164,7 @@
     "conference": "iclr",
     "id": "43bd33",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -10673,6 +11203,7 @@
     "conference": "iclr",
     "id": "8e1c1f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10709,6 +11240,9 @@
     "conference": "iclr",
     "id": "983759",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -10737,6 +11271,7 @@
     "conference": "iclr",
     "id": "f8af73",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -10783,6 +11318,9 @@
     "conference": "iclr",
     "id": "dd915e",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -10809,6 +11347,7 @@
     "conference": "iclr",
     "id": "94cfc4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -10843,6 +11382,7 @@
     "conference": "iclr",
     "id": "bcbdeb",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -10877,6 +11417,7 @@
     "conference": "iclr",
     "id": "c879b8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10913,6 +11454,9 @@
     "conference": "iclr",
     "id": "b716d3",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -10933,6 +11477,7 @@
     "conference": "iclr",
     "id": "58b932",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -10963,6 +11508,7 @@
     "conference": "iclr",
     "id": "2b8fbd",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -10995,6 +11541,9 @@
     "conference": "iclr",
     "id": "dc797c",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -11023,6 +11572,7 @@
     "conference": "iclr",
     "id": "9065b6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11047,6 +11597,9 @@
     "conference": "iclr",
     "id": "63ef80",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -11075,6 +11628,7 @@
     "conference": "iclr",
     "id": "4c6af0",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11095,6 +11649,7 @@
     "conference": "iclr",
     "id": "623d86",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11131,6 +11686,7 @@
     "conference": "iclr",
     "id": "7abed7",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11155,6 +11711,9 @@
     "conference": "iclr",
     "id": "1b4315",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -11183,6 +11742,9 @@
     "conference": "iclr",
     "id": "00454e",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -11203,6 +11765,7 @@
     "conference": "iclr",
     "id": "214911",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -11233,6 +11796,7 @@
     "conference": "iclr",
     "id": "5cf860",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11253,6 +11817,7 @@
     "conference": "iclr",
     "id": "29b1b7",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -11287,6 +11852,7 @@
     "conference": "iclr",
     "id": "b4159d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11339,6 +11905,9 @@
     "conference": "iclr",
     "id": "aac6e9",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -11365,6 +11934,7 @@
     "conference": "iclr",
     "id": "7b57db",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -11427,6 +11997,9 @@
     "conference": "iclr",
     "id": "d1b131",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -11455,6 +12028,7 @@
     "conference": "iclr",
     "id": "b09fce",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -11485,6 +12059,7 @@
     "conference": "iclr",
     "id": "b453cf",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -11507,6 +12082,7 @@
     "conference": "iclr",
     "id": "a77daa",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11543,6 +12119,7 @@
     "conference": "iclr",
     "id": "bec616",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11575,6 +12152,7 @@
     "conference": "iclr",
     "id": "8f3e92",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11631,10 +12209,13 @@
     "conference": "iclr",
     "id": "5f59b9",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "What do you learn from context? Probing for sentence structure in contextualized word representations",
@@ -11686,6 +12267,9 @@
     "conference": "iclr",
     "id": "fe89f2",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -11724,6 +12308,7 @@
     "conference": "iclr",
     "id": "76cd21",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11744,6 +12329,7 @@
     "conference": "iclr",
     "id": "366e19",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -11774,6 +12360,7 @@
     "conference": "iclr",
     "id": "3bbd4f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -11804,6 +12391,7 @@
     "conference": "iclr",
     "id": "871fb1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11848,6 +12436,7 @@
     "conference": "iclr",
     "id": "d30bfe",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11888,10 +12477,11 @@
     "conference": "iclr",
     "id": "d63637",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Multi-Agent Dual Learning",
@@ -11915,6 +12505,7 @@
     "conference": "iclr",
     "id": "0832af",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -11947,6 +12538,9 @@
     "conference": "iclr",
     "id": "3a5ccb",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -11973,6 +12567,7 @@
     "conference": "iclr",
     "id": "9cc353",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -11999,6 +12594,7 @@
     "conference": "iclr",
     "id": "f3272f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -12029,6 +12625,9 @@
     "conference": "iclr",
     "id": "26c6c4",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -12057,6 +12656,9 @@
     "conference": "iclr",
     "id": "d3c429",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -12103,6 +12705,7 @@
     "conference": "iclr",
     "id": "7c124b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12135,6 +12738,9 @@
     "conference": "iclr",
     "id": "fdc472",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -12163,6 +12769,7 @@
     "conference": "iclr",
     "id": "cff846",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12183,6 +12790,7 @@
     "conference": "iclr",
     "id": "4e4f43",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -12209,6 +12817,9 @@
     "conference": "iclr",
     "id": "8891a5",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -12243,10 +12854,13 @@
     "conference": "iclr",
     "id": "1e6542",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Pay Less Attention with Lightweight and Dynamic Convolutions",
@@ -12282,6 +12896,9 @@
     "conference": "iclr",
     "id": "0dabb2",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -12322,6 +12939,7 @@
     "conference": "iclr",
     "id": "73d5a1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -12348,6 +12966,7 @@
     "conference": "iclr",
     "id": "d580fc",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12376,6 +12995,7 @@
     "conference": "iclr",
     "id": "219d18",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -12410,6 +13030,7 @@
     "conference": "iclr",
     "id": "c83ab6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12462,6 +13083,7 @@
     "conference": "iclr",
     "id": "f4108e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -12488,6 +13110,7 @@
     "conference": "iclr",
     "id": "771618",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -12510,6 +13133,7 @@
     "conference": "iclr",
     "id": "f21a8f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12530,6 +13154,7 @@
     "conference": "iclr",
     "id": "c00c70",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -12568,6 +13193,7 @@
     "conference": "iclr",
     "id": "c18a7a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12600,6 +13226,9 @@
     "conference": "iclr",
     "id": "7a517c",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -12642,6 +13271,9 @@
     "conference": "iclr",
     "id": "18af6b",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -12682,6 +13314,7 @@
     "conference": "iclr",
     "id": "c49ee5",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12722,6 +13355,7 @@
     "conference": "iclr",
     "id": "2cecc1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12754,10 +13388,13 @@
     "conference": "iclr",
     "id": "6938a6",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Stable Opponent Shaping in Differentiable Games",
@@ -12785,6 +13422,7 @@
     "conference": "iclr",
     "id": "c557f0",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12813,6 +13451,9 @@
     "conference": "iclr",
     "id": "2c6df9",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -12847,6 +13488,9 @@
     "conference": "iclr",
     "id": "94869b",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -12869,6 +13513,7 @@
     "conference": "iclr",
     "id": "dd29e3",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12889,6 +13534,7 @@
     "conference": "iclr",
     "id": "f333c0",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12917,6 +13563,7 @@
     "conference": "iclr",
     "id": "1f38d5",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -12941,6 +13588,7 @@
     "conference": "iclr",
     "id": "400b30",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -12975,6 +13623,9 @@
     "conference": "iclr",
     "id": "d1e03e",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -12999,6 +13650,7 @@
     "conference": "iclr",
     "id": "a3cf2a",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13019,10 +13671,11 @@
     "conference": "iclr",
     "id": "5544ff",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Diagnosing and Enhancing VAE Models",
@@ -13042,6 +13695,7 @@
     "conference": "iclr",
     "id": "3dcd7e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13062,6 +13716,7 @@
     "conference": "iclr",
     "id": "b972ba",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -13092,6 +13747,7 @@
     "conference": "iclr",
     "id": "39bf78",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13112,6 +13768,7 @@
     "conference": "iclr",
     "id": "0e8ffe",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13136,6 +13793,9 @@
     "conference": "iclr",
     "id": "537a7a",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -13164,6 +13824,7 @@
     "conference": "iclr",
     "id": "d320a2",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13196,6 +13857,7 @@
     "conference": "iclr",
     "id": "d3aee8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -13214,6 +13876,7 @@
     "conference": "iclr",
     "id": "ee5de1",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -13244,6 +13907,7 @@
     "conference": "iclr",
     "id": "9c4c13",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13260,6 +13924,7 @@
     "conference": "iclr",
     "id": "99c05e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13292,6 +13957,9 @@
     "conference": "iclr",
     "id": "cc95cd",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -13326,6 +13994,7 @@
     "conference": "iclr",
     "id": "84d235",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13350,6 +14019,7 @@
     "conference": "iclr",
     "id": "584f56",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13394,6 +14064,9 @@
     "conference": "iclr",
     "id": "30b7b1",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -13420,6 +14093,7 @@
     "conference": "iclr",
     "id": "4d3a1d",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13468,6 +14142,7 @@
     "conference": "iclr",
     "id": "a7a5a2",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13492,6 +14167,7 @@
     "conference": "iclr",
     "id": "d4f021",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13520,6 +14196,7 @@
     "conference": "iclr",
     "id": "b534c0",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13544,6 +14221,7 @@
     "conference": "iclr",
     "id": "a5e1c6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13576,6 +14254,9 @@
     "conference": "iclr",
     "id": "8cbfe1",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -13600,6 +14281,7 @@
     "conference": "iclr",
     "id": "dcbe88",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13636,6 +14318,9 @@
     "conference": "iclr",
     "id": "373a11",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -13652,6 +14337,7 @@
     "conference": "iclr",
     "id": "ba65a2",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13680,6 +14366,7 @@
     "conference": "iclr",
     "id": "2a8edc",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13708,10 +14395,11 @@
     "conference": "iclr",
     "id": "24150b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Janossy Pooling: Learning Deep Permutation-Invariant Functions for Variable-Size Inputs",
@@ -13743,6 +14431,7 @@
     "conference": "iclr",
     "id": "72ae6b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13767,10 +14456,13 @@
     "conference": "iclr",
     "id": "d577f1",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "How Important is a Neuron",
@@ -13790,6 +14482,7 @@
     "conference": "iclr",
     "id": "5f99b0",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13810,6 +14503,7 @@
     "conference": "iclr",
     "id": "cb2118",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -13852,6 +14546,7 @@
     "conference": "iclr",
     "id": "10e545",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -13882,6 +14577,7 @@
     "conference": "iclr",
     "id": "3d518e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13906,6 +14602,7 @@
     "conference": "iclr",
     "id": "e92e0e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13926,6 +14623,7 @@
     "conference": "iclr",
     "id": "8f98b6",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -13956,6 +14654,7 @@
     "conference": "iclr",
     "id": "742681",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -13984,6 +14683,7 @@
     "conference": "iclr",
     "id": "2e5c63",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14024,6 +14724,7 @@
     "conference": "iclr",
     "id": "562c7e",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -14058,6 +14759,7 @@
     "conference": "iclr",
     "id": "0984fe",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -14092,6 +14794,7 @@
     "conference": "iclr",
     "id": "5093d5",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14116,6 +14819,7 @@
     "conference": "iclr",
     "id": "c9ec29",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14144,6 +14848,7 @@
     "conference": "iclr",
     "id": "5e0980",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14176,6 +14881,7 @@
     "conference": "iclr",
     "id": "f42e3c",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14208,6 +14914,7 @@
     "conference": "iclr",
     "id": "1f8ed4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -14238,6 +14945,7 @@
     "conference": "iclr",
     "id": "ff54a4",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -14268,6 +14976,7 @@
     "conference": "iclr",
     "id": "790017",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14292,6 +15001,7 @@
     "conference": "iclr",
     "id": "2a1787",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14324,6 +15034,7 @@
     "conference": "iclr",
     "id": "6f4bfd",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14360,6 +15071,9 @@
     "conference": "iclr",
     "id": "c9f4cd",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -14388,6 +15102,10 @@
     "conference": "iclr",
     "id": "f0344b",
     "metadata": {
+      "affiliation": [
+        "google",
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -14408,6 +15126,7 @@
     "conference": "iclr",
     "id": "c2effb",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -14438,6 +15157,7 @@
     "conference": "iclr",
     "id": "df3bee",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -14472,6 +15192,9 @@
     "conference": "iclr",
     "id": "e0c174",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -14498,6 +15221,9 @@
     "conference": "iclr",
     "id": "b625a2",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -14534,6 +15260,9 @@
     "conference": "iclr",
     "id": "c018be",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -14560,6 +15289,9 @@
     "conference": "iclr",
     "id": "4fe234",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -14592,6 +15324,7 @@
     "conference": "iclr",
     "id": "41f095",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -14622,6 +15355,9 @@
     "conference": "iclr",
     "id": "d3f5a9",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -14646,6 +15382,7 @@
     "conference": "iclr",
     "id": "d1b37b",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -14668,6 +15405,7 @@
     "conference": "iclr",
     "id": "e1aa7f",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14696,6 +15434,9 @@
     "conference": "iclr",
     "id": "6e85f9",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
         "tensorflow"
@@ -14722,6 +15463,7 @@
     "conference": "iclr",
     "id": "427543",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14750,6 +15492,7 @@
     "conference": "iclr",
     "id": "41e3bb",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -14788,6 +15531,7 @@
     "conference": "iclr",
     "id": "392cb8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": [
         "pytorch"
@@ -14814,10 +15558,13 @@
     "conference": "iclr",
     "id": "f001f5",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Variational Autoencoder with Arbitrary Conditioning",
@@ -14849,6 +15596,9 @@
     "conference": "iclr",
     "id": "04e814",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Poster",
       "words": []
     },
@@ -14885,6 +15635,7 @@
     "conference": "iclr",
     "id": "5355e2",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14909,6 +15660,7 @@
     "conference": "iclr",
     "id": "dd1557",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14949,6 +15701,7 @@
     "conference": "iclr",
     "id": "231fa8",
     "metadata": {
+      "affiliation": [],
       "type": "Poster",
       "words": []
     },
@@ -14969,6 +15722,9 @@
     "conference": "iclr",
     "id": "35c131",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Oral",
       "words": [
         "tensorflow"
@@ -14991,6 +15747,7 @@
     "conference": "iclr",
     "id": "d67f3f",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": [
         "tensorflow"
@@ -15017,6 +15774,9 @@
     "conference": "iclr",
     "id": "c1e665",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Oral",
       "words": [
         "tensorflow"
@@ -15039,6 +15799,7 @@
     "conference": "iclr",
     "id": "ea1fa5",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": []
     },
@@ -15067,6 +15828,7 @@
     "conference": "iclr",
     "id": "e1ae55",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": []
     },
@@ -15087,6 +15849,7 @@
     "conference": "iclr",
     "id": "9302c7",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": []
     },
@@ -15115,6 +15878,7 @@
     "conference": "iclr",
     "id": "76c9cb",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": [
         "tensorflow"
@@ -15165,6 +15929,9 @@
     "conference": "iclr",
     "id": "44d8dc",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Oral",
       "words": []
     },
@@ -15193,6 +15960,7 @@
     "conference": "iclr",
     "id": "7971d4",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": [
         "tensorflow"
@@ -15215,6 +15983,7 @@
     "conference": "iclr",
     "id": "c21ed4",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": [
         "tensorflow"
@@ -15241,6 +16010,7 @@
     "conference": "iclr",
     "id": "472cba",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": []
     },
@@ -15269,6 +16039,7 @@
     "conference": "iclr",
     "id": "532094",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": []
     },
@@ -15305,6 +16076,7 @@
     "conference": "iclr",
     "id": "fc521b",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": [
         "pytorch"
@@ -15347,6 +16119,7 @@
     "conference": "iclr",
     "id": "d9a8e9",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": []
     },
@@ -15371,6 +16144,7 @@
     "conference": "iclr",
     "id": "45196c",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": [
         "tensorflow"
@@ -15409,6 +16183,7 @@
     "conference": "iclr",
     "id": "0ed7ae",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": [
         "tensorflow"
@@ -15443,6 +16218,7 @@
     "conference": "iclr",
     "id": "e89a4a",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": []
     },
@@ -15475,10 +16251,13 @@
     "conference": "iclr",
     "id": "3d0fab",
     "metadata": {
+      "affiliation": [
+        "facebook"
+      ],
       "type": "Oral",
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Pay Less Attention with Lightweight and Dynamic Convolutions",
@@ -15510,6 +16289,9 @@
     "conference": "iclr",
     "id": "66ba82",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Oral",
       "words": []
     },
@@ -15542,6 +16324,7 @@
     "conference": "iclr",
     "id": "aaba3e",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": []
     },
@@ -15570,6 +16353,7 @@
     "conference": "iclr",
     "id": "103968",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": []
     },
@@ -15598,6 +16382,9 @@
     "conference": "iclr",
     "id": "1b776f",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Oral",
       "words": [
         "tensorflow"
@@ -15632,6 +16419,9 @@
     "conference": "iclr",
     "id": "a9f943",
     "metadata": {
+      "affiliation": [
+        "google"
+      ],
       "type": "Oral",
       "words": []
     },
@@ -15660,6 +16450,7 @@
     "conference": "iclr",
     "id": "611eda",
     "metadata": {
+      "affiliation": [],
       "type": "Oral",
       "words": []
     },

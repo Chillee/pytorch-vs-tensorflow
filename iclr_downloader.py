@@ -4,9 +4,16 @@ from selenium.webdriver.support import expected_conditions
 import json
 import time
 import uuid
+import argparse
 
+parser = argparse.ArgumentParser(
+    description='Adds metadata to a json file')
+parser.add_argument('conference')
+parser.add_argument('year')
+args = parser.parse_args()
 
-year = 2019
+conference = args.conference
+year = int(args.year)
 
 
 def getNewPaperId():
@@ -16,7 +23,6 @@ def getNewPaperId():
 def initData():
     return {
         "name": None,  # string
-        "authors": [],  # list of (name, affiliation) tuples
         "id": getNewPaperId(),  # uuid
         "pdf_link": None,  # URL
         "metadata": {
@@ -33,7 +39,7 @@ def get_link_iclr(paper_elem):
     pdf_link = paper_elem.find_elements_by_class_name(
         "href_PDF")
     if len(pdf_link) == 0:
-        continue
+        return None
     pdf_link = pdf_link[0].get_attribute("href")
     pdf_link = pdf_link.replace("forum", "pdf")
     return pdf_link
@@ -41,7 +47,7 @@ def get_link_iclr(paper_elem):
 # ICLR, NIPS
 
 
-def get_papers(conference, paper_type, start_idx=0):
+def get_papers(conference, paper_type, year, start_idx=0):
     driver = webdriver.Chrome()
     driver.implicitly_wait(10)
     conf_link = None
@@ -60,6 +66,8 @@ def get_papers(conference, paper_type, start_idx=0):
         paper = papers[paper_idx]
         if conference == "iclr":
             data["pdf_link"] = get_link_iclr(paper)
+            if data["pdf_link"] == None:
+                continue
         else:
             pass
         paper_name = paper.find_element_by_class_name(
@@ -91,9 +99,10 @@ def get_papers(conference, paper_type, start_idx=0):
             f"Processed {paper_type} {paper_idx} out of {paper_number} for {conference}")
         paper_data.append(data)
         json.dump(paper_data, open(
-            f"data/{conference}_{year}.json", "w"), sort_keys=True, indent=2)
+            f"data/{conference}_{year}.json", "a"), sort_keys=True, indent=2)
     driver.close()
 
 
-get_papers("iclr", "Poster")
-get_papers("iclr", "Oral")
+if conference == "iclr":
+    # get_papers(conference, "Poster", year)
+    get_papers(conference, "Oral", year)
