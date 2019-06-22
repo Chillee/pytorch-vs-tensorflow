@@ -19,9 +19,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 2,
+    "id": "bc59f7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Random mesh projectors for inverse problems",
     "pdf_link": "https://openreview.net/pdf?id=HyGcghRct7"
@@ -42,9 +43,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 3,
+    "id": "2aadb0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Improving MMD-GAN Training with Repulsive Loss Function",
     "pdf_link": "https://openreview.net/pdf?id=HygjqjR9Km"
@@ -61,9 +63,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 4,
+    "id": "c8bbff",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "STCN: Stochastic Temporal Convolutional Networks",
     "pdf_link": "https://openreview.net/pdf?id=HkzSQhCcK7"
@@ -80,9 +85,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 5,
+    "id": "1446dd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "GENERATING HIGH FIDELITY IMAGES WITH SUBSCALE PIXEL NETWORKS AND MULTIDIMENSIONAL UPSCALING",
     "pdf_link": "https://openreview.net/pdf?id=HylzTiC5Km"
@@ -99,9 +107,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 6,
+    "id": "58acc1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Diversity and Depth in Per-Example Routing Models",
     "pdf_link": "https://openreview.net/pdf?id=BkxWJnC9tX"
@@ -134,9 +143,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 7,
+    "id": "7fd470",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "GANSynth: Adversarial Neural Audio Synthesis",
     "pdf_link": "https://openreview.net/pdf?id=H1xQVn09FX"
@@ -169,9 +181,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 8,
+    "id": "d82183",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Value Propagation Networks",
     "pdf_link": "https://openreview.net/pdf?id=SJG6G2RqtX"
@@ -192,9 +207,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 9,
+    "id": "fa38f9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Visual Reasoning by Progressive Module Networks",
     "pdf_link": "https://openreview.net/pdf?id=B1fpDsAqt7"
@@ -207,9 +223,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 10,
+    "id": "31950d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision",
     "pdf_link": "https://openreview.net/pdf?id=Hkg4W2AcFm"
@@ -230,9 +247,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 11,
+    "id": "ea697f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Minimal Images in Deep Neural Networks: Fragile Object Recognition in Natural Images",
     "pdf_link": "https://openreview.net/pdf?id=S1xNb2A9YX"
@@ -257,9 +275,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 12,
+    "id": "2ba7f4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Time-Agnostic Prediction: Predicting Predictable Video Frames",
     "pdf_link": "https://openreview.net/pdf?id=SyzVb3CcFX"
@@ -280,9 +299,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 13,
+    "id": "a8b1da",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation",
     "pdf_link": "https://openreview.net/pdf?id=HJxyAjRcFX"
@@ -307,9 +330,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 14,
+    "id": "75ecb3",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs",
     "pdf_link": "https://openreview.net/pdf?id=S1xq3oR5tQ"
@@ -338,9 +364,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 15,
+    "id": "611c56",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Human-level Protein Localization with Convolutional Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=ryl5khRcKm"
@@ -361,9 +388,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 16,
+    "id": "7d09c8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic",
     "pdf_link": "https://openreview.net/pdf?id=HygQBn0cYm"
@@ -408,9 +438,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 17,
+    "id": "1b954c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Bayesian Deep Convolutional Networks with Many Channels are Gaussian Processes",
     "pdf_link": "https://openreview.net/pdf?id=B1g30j0qF7"
@@ -439,9 +472,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 18,
+    "id": "8618dd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Differentiable Learning-to-Normalize via Switchable Normalization",
     "pdf_link": "https://openreview.net/pdf?id=ryggIs0cYQ"
@@ -474,9 +510,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 19,
+    "id": "49e876",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning a SAT Solver from Single-Bit Supervision",
     "pdf_link": "https://openreview.net/pdf?id=HJMC_iA5tm"
@@ -505,9 +542,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 20,
+    "id": "0ce26c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Big-Little Net: An Efficient Multi-Scale Feature Representation for Visual and Speech Recognition",
     "pdf_link": "https://openreview.net/pdf?id=HJMHpjC9Ym"
@@ -544,9 +585,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 21,
+    "id": "3abb45",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Unsupervised Discovery of Parts, Structure, and Dynamics",
     "pdf_link": "https://openreview.net/pdf?id=rJe10iC5K7"
@@ -571,9 +615,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 22,
+    "id": "e5aa45",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "ROBUST ESTIMATION VIA GENERATIVE ADVERSARIAL NETWORKS",
     "pdf_link": "https://openreview.net/pdf?id=BJgRDjR9tQ"
@@ -594,9 +641,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 23,
+    "id": "93b778",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Unsupervised Adversarial Image Reconstruction",
     "pdf_link": "https://openreview.net/pdf?id=BJg4Z3RqF7"
@@ -621,9 +669,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 24,
+    "id": "eece37",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Explaining Image Classifiers by Counterfactual Generation",
     "pdf_link": "https://openreview.net/pdf?id=B1MXz20cYQ"
@@ -648,9 +699,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 25,
+    "id": "26fba2",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Equi-normalization of Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=r1gEqiC9FX"
@@ -675,9 +729,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 26,
+    "id": "7549d0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Biologically-Plausible Learning Algorithms Can Scale to Large Datasets",
     "pdf_link": "https://openreview.net/pdf?id=SygvZ209F7"
@@ -698,9 +755,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 27,
+    "id": "4f7bf1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "ADef: an Iterative Algorithm to Construct Adversarial Deformations",
     "pdf_link": "https://openreview.net/pdf?id=Hk4dFjR5K7"
@@ -733,9 +791,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 28,
+    "id": "cbe7d2",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Adversarial Domain Adaptation for Stable Brain-Machine Interfaces",
     "pdf_link": "https://openreview.net/pdf?id=Hyx6Bi0qYm"
@@ -772,9 +831,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 29,
+    "id": "6e0422",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Meta-Learning with Latent Embedding Optimization",
     "pdf_link": "https://openreview.net/pdf?id=BJgklhAcK7"
@@ -803,9 +863,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 30,
+    "id": "58edf3",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Diversity-Sensitive Conditional Generative Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=rJliMh09F7"
@@ -830,9 +891,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 31,
+    "id": "4d011d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "LanczosNet: Multi-Scale Deep Graph Convolutional Networks",
     "pdf_link": "https://openreview.net/pdf?id=BkedznAqKQ"
@@ -861,9 +925,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 32,
+    "id": "419fc8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Convolutional Neural Networks on Non-uniform Geometrical Signals Using Euclidean Spectral Transformation",
     "pdf_link": "https://openreview.net/pdf?id=B1G5ViAqFm"
@@ -884,9 +949,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 33,
+    "id": "3f516e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Generating Multiple Objects at Spatially Distinct Locations",
     "pdf_link": "https://openreview.net/pdf?id=H1edIiA9KQ"
@@ -915,9 +983,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 34,
+    "id": "be88ac",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Disjoint Mapping Network for Cross-modal Matching of Voices and Faces",
     "pdf_link": "https://openreview.net/pdf?id=B1exrnCcF7"
@@ -966,9 +1035,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 35,
+    "id": "bdc3f5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "A rotation-equivariant convolutional neural network model of primary visual cortex",
     "pdf_link": "https://openreview.net/pdf?id=H1fU8iAqKX"
@@ -997,9 +1069,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 36,
+    "id": "3fbc4f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Non-vacuous Generalization Bounds at the ImageNet Scale: a PAC-Bayesian Compression Approach",
     "pdf_link": "https://openreview.net/pdf?id=BJgqqsAct7"
@@ -1020,9 +1093,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 37,
+    "id": "876beb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Large Scale GAN Training for High Fidelity Natural Image Synthesis",
     "pdf_link": "https://openreview.net/pdf?id=B1xsqj09Fm"
@@ -1043,9 +1119,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 38,
+    "id": "97ce97",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Deep Convolutional Networks as shallow Gaussian Processes",
     "pdf_link": "https://openreview.net/pdf?id=Bklfsi0cKm"
@@ -1090,9 +1169,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 39,
+    "id": "e880a1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos",
     "pdf_link": "https://openreview.net/pdf?id=SkloDjAqYm"
@@ -1117,9 +1199,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 40,
+    "id": "4f5e03",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning Protein Structure with a Differentiable Simulator",
     "pdf_link": "https://openreview.net/pdf?id=Byg3y3C9Km"
@@ -1140,9 +1225,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 41,
+    "id": "df7192",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Latent Convolutional Models",
     "pdf_link": "https://openreview.net/pdf?id=HJGciiR5Y7"
@@ -1163,9 +1249,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 42,
+    "id": "ed9f8b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Visual Explanation by Interpretation: Improving Visual Feedback Capabilities of Deep Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=H1ziPjC5Fm"
@@ -1186,9 +1273,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 43,
+    "id": "b6f8bb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Diffusion Scattering Transforms on Graphs",
     "pdf_link": "https://openreview.net/pdf?id=BygqBiRcFQ"
@@ -1221,9 +1309,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 44,
+    "id": "bd8069",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Spherical CNNs on Unstructured Grids",
     "pdf_link": "https://openreview.net/pdf?id=Bkl-43C9FQ"
@@ -1244,9 +1335,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 45,
+    "id": "3fbc78",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning To Simulate",
     "pdf_link": "https://openreview.net/pdf?id=HJgkx2Aqt7"
@@ -1267,9 +1359,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 46,
+    "id": "6b86fd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "The Singular Values of Convolutional Layers",
     "pdf_link": "https://openreview.net/pdf?id=rJevYoA9Fm"
@@ -1294,9 +1389,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 47,
+    "id": "40fc14",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "On the Minimal Supervision for Training Any Binary Classifier from Only Unlabeled Data",
     "pdf_link": "https://openreview.net/pdf?id=B1xWcj0qYm"
@@ -1325,9 +1421,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 48,
+    "id": "039a02",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Generating Multi-Agent Trajectories using Programmatic Weak Supervision",
     "pdf_link": "https://openreview.net/pdf?id=rkxw-hAcFQ"
@@ -1348,9 +1445,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 49,
+    "id": "1c8b2b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Localized Generative Models for 3D Point Clouds via Graph Convolution",
     "pdf_link": "https://openreview.net/pdf?id=SJeXSo09FQ"
@@ -1367,9 +1465,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 50,
+    "id": "537416",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet",
     "pdf_link": "https://openreview.net/pdf?id=SkfMWhAqYQ"
@@ -1390,9 +1491,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 51,
+    "id": "85a816",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Mode Normalization",
     "pdf_link": "https://openreview.net/pdf?id=HyN-M2Rctm"
@@ -1437,9 +1541,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 52,
+    "id": "b5885a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset",
     "pdf_link": "https://openreview.net/pdf?id=r1lYRjC9F7"
@@ -1476,9 +1581,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 53,
+    "id": "f0d04c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Neural network gradient-based learning of black-box function interfaces",
     "pdf_link": "https://openreview.net/pdf?id=r1e13s05YX"
@@ -1495,9 +1604,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 54,
+    "id": "25b8b0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "BA-Net: Dense Bundle Adjustment Networks",
     "pdf_link": "https://openreview.net/pdf?id=B1gabhRcYX"
@@ -1522,9 +1634,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 55,
+    "id": "0350d4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "K for the Price of 1: Parameter-efficient Multi-task and Transfer Learning",
     "pdf_link": "https://openreview.net/pdf?id=BJxvEh0cFQ"
@@ -1553,9 +1668,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 56,
+    "id": "1a4ae4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Residual Non-local Attention Networks for Image Restoration",
     "pdf_link": "https://openreview.net/pdf?id=HkeGhoA5FX"
@@ -1588,9 +1706,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 57,
+    "id": "a1b1e4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Eidetic 3D LSTM: A Model for Video Prediction and Beyond",
     "pdf_link": "https://openreview.net/pdf?id=B1lKS2AqtX"
@@ -1627,9 +1748,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 58,
+    "id": "5d4bb1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Self-Monitoring Navigation Agent via Auxiliary Progress Estimation",
     "pdf_link": "https://openreview.net/pdf?id=r1GAsjC5Fm"
@@ -1654,9 +1776,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 59,
+    "id": "5fc932",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "ProbGAN: Towards Probabilistic GAN with Theoretical Guarantees",
     "pdf_link": "https://openreview.net/pdf?id=H1l7bnR5Ym"
@@ -1689,9 +1815,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 60,
+    "id": "9bf597",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "DELTA: DEEP LEARNING TRANSFER USING FEATURE MAP WITH ATTENTION FOR CONVOLUTIONAL NETWORKS",
     "pdf_link": "https://openreview.net/pdf?id=rkgbwsAcYm"
@@ -1712,9 +1839,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 61,
+    "id": "9c0410",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "A Data-Driven and Distributed Approach to Sparse Signal Representation and Recovery",
     "pdf_link": "https://openreview.net/pdf?id=B1xVTjCqKQ"
@@ -1735,9 +1863,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 62,
+    "id": "ffb4cf",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Context-adaptive Entropy Model for End-to-end Optimized Image Compression",
     "pdf_link": "https://openreview.net/pdf?id=HyxKIiAqYQ"
@@ -1758,9 +1889,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 63,
+    "id": "3ceaa6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "StrokeNet: A Neural Painting Environment",
     "pdf_link": "https://openreview.net/pdf?id=HJxwDiActX"
@@ -1789,9 +1921,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 64,
+    "id": "647251",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Dynamic Channel Pruning: Feature Boosting and Suppression",
     "pdf_link": "https://openreview.net/pdf?id=BJxh2j0qYm"
@@ -1828,9 +1961,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 65,
+    "id": "f1822d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Infer and Execute 3D Shape Programs",
     "pdf_link": "https://openreview.net/pdf?id=rylNH20qFQ"
@@ -1855,9 +1989,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 66,
+    "id": "0b79f1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer",
     "pdf_link": "https://openreview.net/pdf?id=BylE1205Fm"
@@ -1874,9 +2009,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 67,
+    "id": "5f110b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Deep Decoder: Concise Image Representations from Untrained Non-convolutional Networks",
     "pdf_link": "https://openreview.net/pdf?id=rylV-2C9KQ"
@@ -1905,9 +2041,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 68,
+    "id": "7628c7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking",
     "pdf_link": "https://openreview.net/pdf?id=HkgYmhR9KX"
@@ -1936,9 +2075,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 69,
+    "id": "a6a485",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Visual Semantic Navigation using Scene Priors",
     "pdf_link": "https://openreview.net/pdf?id=HJeRkh05Km"
@@ -1967,9 +2109,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 70,
+    "id": "ea48b1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Deep Learning 3D Shapes Using Alt-az Anisotropic 2-Sphere Convolution",
     "pdf_link": "https://openreview.net/pdf?id=rkeSiiA5Fm"
@@ -1994,9 +2137,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 71,
+    "id": "d042ef",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "DPSNet: End-to-end Deep Plane Sweep Stereo",
     "pdf_link": "https://openreview.net/pdf?id=ryeYHi0ctQ"
@@ -2025,9 +2171,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 72,
+    "id": "d05472",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning what you can do before doing anything",
     "pdf_link": "https://openreview.net/pdf?id=SylPMnR9Ym"
@@ -2060,9 +2207,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 73,
+    "id": "d6b56f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Describe Scenes with Programs",
     "pdf_link": "https://openreview.net/pdf?id=SyNPk2R9K7"
@@ -2099,9 +2247,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 74,
+    "id": "2c03e5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "GAN Dissection: Visualizing and Understanding Generative Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=Hyg_X2C5FX"
@@ -2126,9 +2275,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 75,
+    "id": "54c21f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Bounce and Learn: Modeling Scene Dynamics with Real-World Bounces",
     "pdf_link": "https://openreview.net/pdf?id=BJxssoA5KX"
@@ -2153,9 +2303,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 76,
+    "id": "9d4ee7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "RotDCF: Decomposition of Convolutional Filters for Rotation-Equivariant Deep Networks",
     "pdf_link": "https://openreview.net/pdf?id=H1gTEj09FX"
@@ -2180,9 +2331,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 77,
+    "id": "eaee71",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "code2seq: Generating Sequences from Structured Representations of Code",
     "pdf_link": "https://openreview.net/pdf?id=H1gKYo09tX"
@@ -2207,9 +2359,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 78,
+    "id": "4a713f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Augmented Cyclic Adversarial Learning for Low Resource Domain Adaptation",
     "pdf_link": "https://openreview.net/pdf?id=B1G9doA9F7"
@@ -2234,9 +2387,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 79,
+    "id": "e571ae",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Learning Mixed-Curvature Representations in Product Spaces",
     "pdf_link": "https://openreview.net/pdf?id=HJxeWnCcF7"
@@ -2257,9 +2413,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 80,
+    "id": "5a0fa2",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "InstaGAN: Instance-aware Image-to-Image Translation",
     "pdf_link": "https://openreview.net/pdf?id=ryxwJhC9YX"
@@ -2288,9 +2445,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 81,
+    "id": "cbaefc",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Multi-class classification without multi-class labels",
     "pdf_link": "https://openreview.net/pdf?id=SJzR2iRcK7"
@@ -2311,9 +2469,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 82,
+    "id": "20adaf",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Bayesian Prediction of Future Street Scenes using Synthetic Likelihoods",
     "pdf_link": "https://openreview.net/pdf?id=rkgK3oC5Fm"
@@ -2342,9 +2501,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 83,
+    "id": "483817",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Feature Intertwiner for Object Detection",
     "pdf_link": "https://openreview.net/pdf?id=SyxZJn05YX"
@@ -2385,9 +2545,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 84,
+    "id": "79d14a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Recall Traces: Backtracking Models for Efficient Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=HygsfnR9Ym"
@@ -2412,9 +2573,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 85,
+    "id": "896f96",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "SNAS: stochastic neural architecture search",
     "pdf_link": "https://openreview.net/pdf?id=rylqooRqK7"
@@ -2435,9 +2599,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 86,
+    "id": "6e4d2a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Predict then Propagate: Graph Neural Networks meet Personalized PageRank",
     "pdf_link": "https://openreview.net/pdf?id=H1gL-2A9Ym"
@@ -2458,9 +2625,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 87,
+    "id": "610e82",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Improving Generalization and Stability of Generative Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=ByxPYjC5KQ"
@@ -2489,9 +2659,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 88,
+    "id": "c1a427",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer",
     "pdf_link": "https://openreview.net/pdf?id=SJl2niR9KQ"
@@ -2508,9 +2681,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 89,
+    "id": "e014a8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "L2-Nonexpansive Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=ByxGSsR9FQ"
@@ -2539,9 +2713,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 90,
+    "id": "88e013",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "A Variational Inequality Perspective on Generative Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=r1laEnA5Ym"
@@ -2562,9 +2737,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 91,
+    "id": "bb4a54",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees",
     "pdf_link": "https://openreview.net/pdf?id=S1zk9iRqF7"
@@ -2589,9 +2767,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 92,
+    "id": "7db9ac",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Revealing interpretable object representations from human behavior",
     "pdf_link": "https://openreview.net/pdf?id=ryxSrhC9KX"
@@ -2612,9 +2793,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 93,
+    "id": "ee9922",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Robust Conditional Generative Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=Byg0DsCqYQ"
@@ -2639,9 +2821,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 94,
+    "id": "442276",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Robust Representations by Projecting Superficial Statistics Out",
     "pdf_link": "https://openreview.net/pdf?id=rJEjjoR9K7"
@@ -2662,9 +2845,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 95,
+    "id": "f8ab01",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Towards GAN Benchmarks Which Require Generalization",
     "pdf_link": "https://openreview.net/pdf?id=HkxKH2AcFm"
@@ -2685,9 +2869,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 96,
+    "id": "75328c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning To Solve Circuit-SAT: An Unsupervised Differentiable Approach",
     "pdf_link": "https://openreview.net/pdf?id=BJxgz2R9t7"
@@ -2708,9 +2893,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 97,
+    "id": "c0dae5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learnable Embedding Space for Efficient Neural Architecture Compression",
     "pdf_link": "https://openreview.net/pdf?id=S1xLN3C9YX"
@@ -2747,9 +2933,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 98,
+    "id": "234467",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Post Selection Inference with Incomplete Maximum Mean Discrepancy Estimator",
     "pdf_link": "https://openreview.net/pdf?id=BkG5SjR5YQ"
@@ -2778,9 +2965,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 99,
+    "id": "65d4e4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks",
     "pdf_link": "https://openreview.net/pdf?id=Sk4jFoA9K7"
@@ -2805,9 +2995,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 100,
+    "id": "99e525",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "CAMOU: Learning Physical Vehicle Camouflages to Adversarially Attack Detectors in the Wild",
     "pdf_link": "https://openreview.net/pdf?id=SJgEl3A5tm"
@@ -2832,9 +3025,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 101,
+    "id": "6ca470",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "signSGD via Zeroth-Order Oracle",
     "pdf_link": "https://openreview.net/pdf?id=BJe-DsC5Fm"
@@ -2863,9 +3057,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 102,
+    "id": "4980d9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "SOM-VAE: Interpretable Discrete Representation Learning on Time Series",
     "pdf_link": "https://openreview.net/pdf?id=rygjcsR9Y7"
@@ -2890,9 +3087,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 103,
+    "id": "c107aa",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Generative Code Modeling with Graphs",
     "pdf_link": "https://openreview.net/pdf?id=Bke4KsA5FX"
@@ -2913,9 +3111,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 104,
+    "id": "8f3d75",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Evaluating Robustness of Neural Networks with Mixed Integer Programming",
     "pdf_link": "https://openreview.net/pdf?id=HyGIdiRqtm"
@@ -2940,9 +3139,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 105,
+    "id": "e4e013",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "How Powerful are Graph Neural Networks?",
     "pdf_link": "https://openreview.net/pdf?id=ryGs6iA5Km"
@@ -2971,9 +3171,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 106,
+    "id": "f2380b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Graph Wavelet Neural Network",
     "pdf_link": "https://openreview.net/pdf?id=H1ewdiR5tQ"
@@ -2994,9 +3195,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 107,
+    "id": "39cff7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Whitening and Coloring Batch Transform for GANs",
     "pdf_link": "https://openreview.net/pdf?id=S1x2Fj0qKQ"
@@ -3013,9 +3217,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 108,
+    "id": "188c0b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
     "pdf_link": "https://openreview.net/pdf?id=HJz6tiCqYm"
@@ -3040,9 +3245,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 109,
+    "id": "51096a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Boosting Robustness Certification of Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=HJgeEh09KQ"
@@ -3063,9 +3269,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 110,
+    "id": "e9f7f8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Conditional Network Embeddings",
     "pdf_link": "https://openreview.net/pdf?id=ryepUj0qtX"
@@ -3098,9 +3305,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 111,
+    "id": "d38b2a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Multi-Domain Adversarial Learning",
     "pdf_link": "https://openreview.net/pdf?id=Sklv5iRqYX"
@@ -3121,9 +3329,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 112,
+    "id": "3b68b8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Remember More with Less Memorization",
     "pdf_link": "https://openreview.net/pdf?id=r1xlvi0qYm"
@@ -3144,9 +3353,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 113,
+    "id": "af85ac",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "RelGAN: Relational Generative Adversarial Networks for Text Generation",
     "pdf_link": "https://openreview.net/pdf?id=rJedV3R5tm"
@@ -3171,9 +3381,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 114,
+    "id": "a8e00e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "A Statistical Approach to Assessing Neural Network Robustness",
     "pdf_link": "https://openreview.net/pdf?id=S1xcx3C5FX"
@@ -3202,9 +3413,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 115,
+    "id": "22847f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Robustness May Be at Odds with Accuracy",
     "pdf_link": "https://openreview.net/pdf?id=SyxAb30cY7"
@@ -3249,9 +3463,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 116,
+    "id": "2b494c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Verification of Non-Linear Specifications for Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=HyeFAsRctQ"
@@ -3268,9 +3483,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 117,
+    "id": "1d6b7e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Capsule Graph Neural Network",
     "pdf_link": "https://openreview.net/pdf?id=Byl8BnRcYm"
@@ -3291,9 +3507,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 118,
+    "id": "eb0a41",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware",
     "pdf_link": "https://openreview.net/pdf?id=HylVB3AqYm"
@@ -3326,9 +3545,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 119,
+    "id": "b0d245",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "The Unusual Effectiveness of Averaging in GAN Training",
     "pdf_link": "https://openreview.net/pdf?id=SJgw_sRqFQ"
@@ -3353,9 +3573,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 120,
+    "id": "ec8560",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer",
     "pdf_link": "https://openreview.net/pdf?id=S1fQSiCcYm"
@@ -3376,9 +3597,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 121,
+    "id": "1c88e9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Efficient Multi-Objective Neural Architecture Search via Lamarckian Evolution",
     "pdf_link": "https://openreview.net/pdf?id=ByME42AqK7"
@@ -3403,9 +3625,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 122,
+    "id": "7d7ae7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "On Self Modulation for Generative Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=Hkl5aoR5tm"
@@ -3434,9 +3657,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 123,
+    "id": "0061eb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Building Dynamic Knowledge Graphs from Text using Machine Reading Comprehension",
     "pdf_link": "https://openreview.net/pdf?id=S1lhbnRqF7"
@@ -3453,9 +3679,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 124,
+    "id": "263ee4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Large Scale Graph Learning From Smooth Signals",
     "pdf_link": "https://openreview.net/pdf?id=ryGkSo0qYm"
@@ -3476,9 +3703,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 125,
+    "id": "36d3d7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Approximability of Discriminators Implies Diversity in GANs",
     "pdf_link": "https://openreview.net/pdf?id=rJfW5oA5KQ"
@@ -3507,9 +3735,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 126,
+    "id": "311f51",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "On the Sensitivity of Adversarial Robustness to Input Data Distributions",
     "pdf_link": "https://openreview.net/pdf?id=S1xNEhR9KX"
@@ -3526,9 +3758,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 127,
+    "id": "e22a45",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware",
     "pdf_link": "https://openreview.net/pdf?id=rJVorjCcKQ"
@@ -3553,9 +3788,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 128,
+    "id": "a5863e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "GO Gradient for Expectation-Based Objectives",
     "pdf_link": "https://openreview.net/pdf?id=ryf6Fs09YX"
@@ -3584,9 +3823,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 129,
+    "id": "cab082",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Discriminator Rejection Sampling",
     "pdf_link": "https://openreview.net/pdf?id=S1GkToR5tm"
@@ -3603,9 +3843,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 130,
+    "id": "4807a1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Don't let your Discriminator  be fooled",
     "pdf_link": "https://openreview.net/pdf?id=HJE6X305Fm"
@@ -3626,9 +3867,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 131,
+    "id": "431600",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Supervised Community Detection with Line Graph Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=H1g0Z3A9Fm"
@@ -3649,9 +3891,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 132,
+    "id": "3c880c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "MisGAN: Learning from Incomplete Data with Generative Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=S1lDV3RcKm"
@@ -3676,9 +3921,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 133,
+    "id": "d0f22a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability",
     "pdf_link": "https://openreview.net/pdf?id=BJfIVjAcKm"
@@ -3703,9 +3949,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 134,
+    "id": "2d1564",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network",
     "pdf_link": "https://openreview.net/pdf?id=rk4Qso0cKm"
@@ -3726,9 +3975,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 135,
+    "id": "b0cfbf",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Adversarial Imitation via Variational Inverse Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=HJlmHoR5tQ"
@@ -3745,9 +3995,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 136,
+    "id": "c4e9ef",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Adversarial Attacks on Graph Neural Networks via Meta Learning",
     "pdf_link": "https://openreview.net/pdf?id=Bylnx209YX"
@@ -3768,9 +4019,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 137,
+    "id": "234aec",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Prior Convictions: Black-box Adversarial Attacks with Bandits and Priors",
     "pdf_link": "https://openreview.net/pdf?id=BkMiWhR5K7"
@@ -3791,9 +4045,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 138,
+    "id": "1f3212",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Defensive Quantization: When Efficiency Meets Robustness",
     "pdf_link": "https://openreview.net/pdf?id=ryetZ20ctX"
@@ -3814,9 +4071,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 139,
+    "id": "db2d85",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "INVASE: Instance-wise Variable Selection using Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=BJg_roAcK7"
@@ -3833,9 +4093,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 140,
+    "id": "bd1fff",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Scalable Unbalanced Optimal Transport using Generative Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=HyexAiA5Fm"
@@ -3848,9 +4109,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 141,
+    "id": "02ae78",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": " The relativistic discriminator: a key element missing from standard GAN",
     "pdf_link": "https://openreview.net/pdf?id=S1erHoR5t7"
@@ -3879,9 +4143,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 142,
+    "id": "9d0773",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Are adversarial examples inevitable?",
     "pdf_link": "https://openreview.net/pdf?id=r1lWUoA9FQ"
@@ -3898,9 +4163,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 143,
+    "id": "7c90ce",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Cost-Sensitive Robustness against Adversarial Examples",
     "pdf_link": "https://openreview.net/pdf?id=BygANhA9tQ"
@@ -3925,9 +4191,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 144,
+    "id": "11cac3",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space",
     "pdf_link": "https://openreview.net/pdf?id=HkgEQnRqYQ"
@@ -3972,9 +4239,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 145,
+    "id": "cc4335",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Structured Adversarial Attack:  Towards General Implementation and Better Interpretability",
     "pdf_link": "https://openreview.net/pdf?id=BkgzniCqY7"
@@ -3995,9 +4263,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 146,
+    "id": "afacf3",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Adversarial Reprogramming of Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=Syx_Ss05tm"
@@ -4022,9 +4293,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 147,
+    "id": "898102",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Invariant and Equivariant Graph Networks",
     "pdf_link": "https://openreview.net/pdf?id=Syx72jC9tm"
@@ -4049,9 +4323,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 148,
+    "id": "f41756",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Excessive Invariance Causes Adversarial Vulnerability",
     "pdf_link": "https://openreview.net/pdf?id=BkfbpsAcF7"
@@ -4084,9 +4362,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 149,
+    "id": "7ca081",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "On Computation and Generalization of Generative Adversarial Networks under Spectrum Control",
     "pdf_link": "https://openreview.net/pdf?id=rJNH6sAqY7"
@@ -4123,9 +4405,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 150,
+    "id": "647020",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Dynamic Sparse Graph for Efficient Deep Learning",
     "pdf_link": "https://openreview.net/pdf?id=H1goBoR9F7"
@@ -4150,9 +4435,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 151,
+    "id": "fea9f8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "SPIGAN: Privileged Adversarial Learning from Simulation",
     "pdf_link": "https://openreview.net/pdf?id=rkxoNnC5FQ"
@@ -4177,9 +4465,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 152,
+    "id": "4565ec",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Towards the first adversarially robust neural network model on MNIST",
     "pdf_link": "https://openreview.net/pdf?id=S1EHOsC9tX"
@@ -4196,9 +4485,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 153,
+    "id": "e6c9ef",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "A Direct Approach to Robust Deep Learning Using Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=S1lIMn05F7"
@@ -4231,9 +4524,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 154,
+    "id": "c9c9ea",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Deep Graph Infomax",
     "pdf_link": "https://openreview.net/pdf?id=rklz9iAcKQ"
@@ -4278,9 +4574,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 155,
+    "id": "865678",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Rigorous Agent Evaluation: An Adversarial Approach to Uncover Catastrophic Failures",
     "pdf_link": "https://openreview.net/pdf?id=B1xhQhRcK7"
@@ -4301,9 +4598,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 156,
+    "id": "389265",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Graph HyperNetworks for Neural Architecture Search",
     "pdf_link": "https://openreview.net/pdf?id=rkgW0oA9FX"
@@ -4328,9 +4626,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 157,
+    "id": "ea85d6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Stochastic Optimization of Sorting Networks via Continuous Relaxations",
     "pdf_link": "https://openreview.net/pdf?id=H1eSS3CcKX"
@@ -4359,9 +4661,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 158,
+    "id": "e55603",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators",
     "pdf_link": "https://openreview.net/pdf?id=HJxB5sRcFQ"
@@ -4386,9 +4691,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 159,
+    "id": "6317bd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "DyRep: Learning Representations over Dynamic Graphs",
     "pdf_link": "https://openreview.net/pdf?id=HyePrhR5KX"
@@ -4461,9 +4769,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 160,
+    "id": "511987",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Deep reinforcement learning with relational inductive biases",
     "pdf_link": "https://openreview.net/pdf?id=HkxaFoC9KQ"
@@ -4496,9 +4805,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 161,
+    "id": "c79588",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness",
     "pdf_link": "https://openreview.net/pdf?id=Bygh9j09KX"
@@ -4523,9 +4835,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 162,
+    "id": "0dc8e9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data",
     "pdf_link": "https://openreview.net/pdf?id=S1E3Ko09F7"
@@ -4550,9 +4865,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 163,
+    "id": "abefa4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Improving the Generalization of Adversarial Training with Domain Adaptation",
     "pdf_link": "https://openreview.net/pdf?id=SyfIfnC5Ym"
@@ -4565,9 +4881,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 164,
+    "id": "4bb6d4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Sample Efficient Imitation Learning for Continuous Control",
     "pdf_link": "https://openreview.net/pdf?id=BkN5UoAqF7"
@@ -4588,9 +4905,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 165,
+    "id": "c45e94",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Generalizable Adversarial Training via Spectral Normalization",
     "pdf_link": "https://openreview.net/pdf?id=Hyx4knR9Ym"
@@ -4615,9 +4935,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 166,
+    "id": "ddfdd8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Latent Superstructures in Variational Autoencoders for Deep Multidimensional Clustering",
     "pdf_link": "https://openreview.net/pdf?id=SJgNwi09Km"
@@ -4634,9 +4955,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 167,
+    "id": "e0e82c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "DISTRIBUTIONAL CONCAVITY REGULARIZATION FOR GANS",
     "pdf_link": "https://openreview.net/pdf?id=SklEEnC5tQ"
@@ -4669,9 +4991,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 168,
+    "id": "27090c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "The Limitations of Adversarial Training and the Blind-Spot Attack",
     "pdf_link": "https://openreview.net/pdf?id=HylTBhA5tQ"
@@ -4692,9 +5015,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 169,
+    "id": "b284c6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Soft Q-Learning with Mutual-Information Regularization",
     "pdf_link": "https://openreview.net/pdf?id=HyEtjoCqFX"
@@ -4719,9 +5043,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 170,
+    "id": "629706",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Near-Optimal Representation Learning for Hierarchical Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=H1emus0qF7"
@@ -4738,9 +5065,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 171,
+    "id": "60b3a8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Visceral Machines: Risk-Aversion in  Reinforcement Learning with Intrinsic Physiological Rewards",
     "pdf_link": "https://openreview.net/pdf?id=SyNvti09KQ"
@@ -4761,9 +5089,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 172,
+    "id": "bd8100",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Knowledge Flow: Improve Upon Your Teachers",
     "pdf_link": "https://openreview.net/pdf?id=BJeOioA9Y7"
@@ -4788,9 +5119,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 173,
+    "id": "3f5d57",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Meta-learning with differentiable closed-form solvers",
     "pdf_link": "https://openreview.net/pdf?id=HyxnZh0ct7"
@@ -4819,9 +5151,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 174,
+    "id": "fffd3c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Plan Online, Learn Offline: Efficient Learning and Exploration via Model-Based Control",
     "pdf_link": "https://openreview.net/pdf?id=Byey7n05FQ"
@@ -4850,9 +5183,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 175,
+    "id": "85a515",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Probabilistic Planning with Sequential Monte Carlo methods",
     "pdf_link": "https://openreview.net/pdf?id=ByetGn0cYX"
@@ -4877,9 +5211,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 176,
+    "id": "da6596",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Directed-Info GAIL: Learning Hierarchical Policies from Unsegmented Demonstrations using Directed Information",
     "pdf_link": "https://openreview.net/pdf?id=BJeWUs05KQ"
@@ -4900,9 +5235,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 177,
+    "id": "6235bd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Combinatorial Attacks on Binarized Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=S1lTEh09FQ"
@@ -4935,9 +5273,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 178,
+    "id": "7dd95d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Neural Logic Machines",
     "pdf_link": "https://openreview.net/pdf?id=B1xY-hRctX"
@@ -4966,9 +5307,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 179,
+    "id": "2ce935",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow",
     "pdf_link": "https://openreview.net/pdf?id=HyxPx3R9tm"
@@ -4993,9 +5337,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 180,
+    "id": "9fcae3",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Two-Timescale Networks for Nonlinear Value Function Approximation",
     "pdf_link": "https://openreview.net/pdf?id=rJleN20qK7"
@@ -5016,9 +5361,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 181,
+    "id": "5daf9d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=ByeZ5jC5YQ"
@@ -5055,9 +5403,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 182,
+    "id": "d7f873",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Woulda, Coulda, Shoulda: Counterfactually-Guided Policy Search",
     "pdf_link": "https://openreview.net/pdf?id=BJG0voC9YQ"
@@ -5082,9 +5431,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 183,
+    "id": "5ecd9c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Competitive experience replay",
     "pdf_link": "https://openreview.net/pdf?id=Sklsm20ctX"
@@ -5109,9 +5459,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 184,
+    "id": "710c6b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Multi-step Retriever-Reader Interaction for Scalable Open-domain Question Answering",
     "pdf_link": "https://openreview.net/pdf?id=HkfPSh05K7"
@@ -5140,9 +5491,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 185,
+    "id": "21acac",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Neural Program Repair by Jointly Learning to Localize and Repair",
     "pdf_link": "https://openreview.net/pdf?id=ByloJ20qtm"
@@ -5171,9 +5523,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 186,
+    "id": "e52324",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "FFJORD: Free-Form Continuous Dynamics for Scalable Reversible Generative Models",
     "pdf_link": "https://openreview.net/pdf?id=rJxgknCcK7"
@@ -5206,9 +5559,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 187,
+    "id": "419f86",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": " Reasoning About Physical Interactions with Object-Oriented Prediction and Planning",
     "pdf_link": "https://openreview.net/pdf?id=HJx9EhC9tQ"
@@ -5225,9 +5579,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 188,
+    "id": "1aa52a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "M^3RL: Mind-aware Multi-agent Management Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=BkzeUiRcY7"
@@ -5248,9 +5603,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 189,
+    "id": "6d8678",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Actionable Representations with Goal Conditioned Policies",
     "pdf_link": "https://openreview.net/pdf?id=Hye9lnCct7"
@@ -5275,9 +5631,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 190,
+    "id": "771271",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Neural Graph Evolution: Automatic Robot Design",
     "pdf_link": "https://openreview.net/pdf?id=BkgWHnR5tm"
@@ -5310,9 +5667,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 191,
+    "id": "7ac1a5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees",
     "pdf_link": "https://openreview.net/pdf?id=BJe1E2R5KX"
@@ -5349,9 +5707,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 192,
+    "id": "44b9b5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Episodic Curiosity through Reachability",
     "pdf_link": "https://openreview.net/pdf?id=SkeK3s0qKQ"
@@ -5376,9 +5735,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 193,
+    "id": "b6464f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "A new dog learns old tricks:  RL finds classic optimization algorithms",
     "pdf_link": "https://openreview.net/pdf?id=rkluJ2R9KQ"
@@ -5399,9 +5759,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 194,
+    "id": "ed0378",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Optimal Completion Distillation for Sequence Learning",
     "pdf_link": "https://openreview.net/pdf?id=rkMW1hRqKX"
@@ -5442,9 +5805,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 195,
+    "id": "9e4fa1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Hierarchical Visuomotor Control of Humanoids",
     "pdf_link": "https://openreview.net/pdf?id=BJfYvo09Y7"
@@ -5465,9 +5829,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 196,
+    "id": "0f58f6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Meta-Learning For Stochastic Gradient MCMC",
     "pdf_link": "https://openreview.net/pdf?id=HkeoOo09YX"
@@ -5488,9 +5855,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 197,
+    "id": "b98b99",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Environment Probing Interaction Policies",
     "pdf_link": "https://openreview.net/pdf?id=ryl8-3AcFX"
@@ -5535,9 +5903,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 198,
+    "id": "66237c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Relational Forward Models for Multi-Agent Learning",
     "pdf_link": "https://openreview.net/pdf?id=rJlEojAqFm"
@@ -5570,9 +5941,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 199,
+    "id": "89aa26",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Deterministic Variational Inference for Robust Bayesian Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=B1l08oAct7"
@@ -5605,9 +5979,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 200,
+    "id": "e2b5ac",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Emergent Coordination Through Competition",
     "pdf_link": "https://openreview.net/pdf?id=BkG8sjR5Km"
@@ -5632,9 +6007,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 201,
+    "id": "e27ec8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Variance Reduction for Reinforcement Learning in Input-Driven Environments",
     "pdf_link": "https://openreview.net/pdf?id=Hyg1G2AqtQ"
@@ -5651,9 +6027,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 202,
+    "id": "9d615f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "A comprehensive, application-oriented study of catastrophic forgetting in DNNs",
     "pdf_link": "https://openreview.net/pdf?id=BkloRs0qK7"
@@ -5702,9 +6081,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 203,
+    "id": "a33506",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Information asymmetry in KL-regularized RL",
     "pdf_link": "https://openreview.net/pdf?id=S1lqMn05Ym"
@@ -5741,9 +6121,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 204,
+    "id": "86a84a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Modeling the Long Term Future in Model-Based Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=SkgQBn0cF7"
@@ -5780,9 +6161,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 205,
+    "id": "84df19",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Synthetic Datasets for Neural Program Synthesis",
     "pdf_link": "https://openreview.net/pdf?id=ryeOSnAqYm"
@@ -5803,9 +6187,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 206,
+    "id": "ee907b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Unsupervised Learning via Meta-Learning",
     "pdf_link": "https://openreview.net/pdf?id=r1My6sR9tX"
@@ -5830,9 +6215,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 207,
+    "id": "d0ec35",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Navigate the Web",
     "pdf_link": "https://openreview.net/pdf?id=BJemQ209FQ"
@@ -5857,9 +6243,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 208,
+    "id": "f24f28",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Marginal Policy Gradients: A Unified Family of Estimators for Bounded Action Spaces with Applications",
     "pdf_link": "https://openreview.net/pdf?id=HkgqFiAcFm"
@@ -5924,9 +6313,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 209,
+    "id": "202b71",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Sample Efficient Adaptive Text-to-Speech",
     "pdf_link": "https://openreview.net/pdf?id=rkzjUoAcFX"
@@ -5943,9 +6333,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 210,
+    "id": "6eccba",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "CEM-RL: Combining evolutionary and gradient-based methods for policy search",
     "pdf_link": "https://openreview.net/pdf?id=BkeU5j0ctQ"
@@ -5978,9 +6369,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 211,
+    "id": "06808a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "An Empirical Study of Example Forgetting during Deep Neural Network Learning",
     "pdf_link": "https://openreview.net/pdf?id=BJlxm30cKm"
@@ -6005,9 +6399,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 212,
+    "id": "b28238",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Multi-Level Hierarchies with Hindsight",
     "pdf_link": "https://openreview.net/pdf?id=ryzECoAcY7"
@@ -6028,9 +6423,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 213,
+    "id": "bdef8d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Reward Constrained Policy Optimization",
     "pdf_link": "https://openreview.net/pdf?id=SkfrvsA9FX"
@@ -6051,9 +6449,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 214,
+    "id": "92a4a9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks",
     "pdf_link": "https://openreview.net/pdf?id=rye7knCqK7"
@@ -6074,9 +6475,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 215,
+    "id": "b708aa",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Supervised Policy Update for Deep Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=SJxTroR9F7"
@@ -6097,9 +6499,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 216,
+    "id": "a28afd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Towards Metamerism via Foveated Style Transfer",
     "pdf_link": "https://openreview.net/pdf?id=BJzbG20cFQ"
@@ -6120,9 +6523,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 217,
+    "id": "0c541d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Deep Online Learning Via Meta-Learning: Continual Adaptation for Model-Based RL",
     "pdf_link": "https://openreview.net/pdf?id=HyxAfnA5tm"
@@ -6151,9 +6555,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 218,
+    "id": "f56f90",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=rkl6As0cF7"
@@ -6178,9 +6583,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 219,
+    "id": "b1dfb6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Analysing Mathematical Reasoning Abilities of Neural Models",
     "pdf_link": "https://openreview.net/pdf?id=H1gR5iR5FX"
@@ -6201,9 +6607,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 220,
+    "id": "d7cf16",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Execution-Guided Neural Program Synthesis",
     "pdf_link": "https://openreview.net/pdf?id=H1gfOiAqYm"
@@ -6240,9 +6647,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 221,
+    "id": "2fe985",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning deep representations by mutual information estimation and maximization",
     "pdf_link": "https://openreview.net/pdf?id=Bklr3j0cKX"
@@ -6271,9 +6679,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 222,
+    "id": "176745",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Meta-Learning Probabilistic Inference for Prediction",
     "pdf_link": "https://openreview.net/pdf?id=HkxStoC5F7"
@@ -6298,9 +6707,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 223,
+    "id": "6a79d6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Solving the Rubik's Cube with Approximate Policy Iteration",
     "pdf_link": "https://openreview.net/pdf?id=Hyfn2jCcKm"
@@ -6341,9 +6751,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 224,
+    "id": "fdfb64",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Universal Successor Features Approximators",
     "pdf_link": "https://openreview.net/pdf?id=S1VWjiRcKX"
@@ -6368,9 +6779,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 225,
+    "id": "c6df50",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Information-Directed Exploration for Deep Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=Byx83s09Km"
@@ -6391,9 +6803,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 226,
+    "id": "495a1a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Exploration Policies for Navigation",
     "pdf_link": "https://openreview.net/pdf?id=SyMWn05F7"
@@ -6418,9 +6831,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 227,
+    "id": "9e05da",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Hindsight policy gradients",
     "pdf_link": "https://openreview.net/pdf?id=Bkg2viA5FQ"
@@ -6449,9 +6863,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 228,
+    "id": "77b63f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "ProMP: Proximal Meta-Policy Search",
     "pdf_link": "https://openreview.net/pdf?id=SkxXCi0qFX"
@@ -6484,9 +6899,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 229,
+    "id": "836095",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "AutoLoss: Learning Discrete Schedule for Alternate Optimization",
     "pdf_link": "https://openreview.net/pdf?id=BJgK6iA5KX"
@@ -6527,9 +6943,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 230,
+    "id": "66823e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Neural Probabilistic Motor Primitives for Humanoid Control",
     "pdf_link": "https://openreview.net/pdf?id=BJl6TjRcY7"
@@ -6550,9 +6967,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 231,
+    "id": "8de94f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "How to train your MAML",
     "pdf_link": "https://openreview.net/pdf?id=HJGven05Y7"
@@ -6569,9 +6987,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 232,
+    "id": "296e94",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Adaptive Posterior Learning: few-shot learning with a surprise-based memory module",
     "pdf_link": "https://openreview.net/pdf?id=ByeSdsC9Km"
@@ -6592,9 +7011,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 233,
+    "id": "60d178",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "The Laplacian in RL: Learning Representations with Efficient Approximations",
     "pdf_link": "https://openreview.net/pdf?id=HJlNpoA5YQ"
@@ -6619,9 +7041,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 234,
+    "id": "1a77e0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Exploration by random network distillation",
     "pdf_link": "https://openreview.net/pdf?id=H1lJJnR5Ym"
@@ -6650,9 +7073,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 235,
+    "id": "0be9cb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Composing Complex Skills by Learning Transition Policies",
     "pdf_link": "https://openreview.net/pdf?id=rygrBhC5tQ"
@@ -6677,9 +7101,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 236,
+    "id": "3d1b9e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Hierarchical RL Using an Ensemble of Proprioceptive Periodic Policies",
     "pdf_link": "https://openreview.net/pdf?id=SJz1x20cFQ"
@@ -6700,9 +7127,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 237,
+    "id": "37e234",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Measuring and regularizing networks in function space",
     "pdf_link": "https://openreview.net/pdf?id=SkMwpiR9Y7"
@@ -6739,9 +7169,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 238,
+    "id": "14e892",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Schedule Communication in Multi-agent Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=SJxu5iR9KQ"
@@ -6778,9 +7209,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 239,
+    "id": "a9239c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "LEARNING TO PROPAGATE LABELS: TRANSDUCTIVE PROPAGATION NETWORK FOR FEW-SHOT LEARNING",
     "pdf_link": "https://openreview.net/pdf?id=SyVuRiC5K7"
@@ -6817,9 +7249,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 240,
+    "id": "a1d171",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "NADPEx: An on-policy temporally consistent exploration method for deep reinforcement learning",
     "pdf_link": "https://openreview.net/pdf?id=rkxciiC9tm"
@@ -6840,9 +7273,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 241,
+    "id": "31287d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Policy Transfer with Strategy Optimization",
     "pdf_link": "https://openreview.net/pdf?id=H1g6osRcFQ"
@@ -6875,9 +7309,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 242,
+    "id": "3f5a9d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Large-Scale Study of Curiosity-Driven Learning",
     "pdf_link": "https://openreview.net/pdf?id=rJNwDjAqYX"
@@ -6902,9 +7337,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 243,
+    "id": "08e425",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Diversity is All You Need: Learning Skills without a Reward Function",
     "pdf_link": "https://openreview.net/pdf?id=SJx63jRqFm"
@@ -6933,9 +7369,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 244,
+    "id": "e8885a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Preferences Implicit in the State of the World",
     "pdf_link": "https://openreview.net/pdf?id=rkevMnRqYQ"
@@ -6968,9 +7405,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 245,
+    "id": "2cc87e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Learn with Conditional Class Dependencies",
     "pdf_link": "https://openreview.net/pdf?id=BJfOXnActQ"
@@ -6991,9 +7429,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 246,
+    "id": "d7b616",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization",
     "pdf_link": "https://openreview.net/pdf?id=Hyl_vjC5KQ"
@@ -7018,9 +7457,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 247,
+    "id": "991d33",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Efficient Lifelong Learning with A-GEM",
     "pdf_link": "https://openreview.net/pdf?id=Hkf2_sC5FX"
@@ -7057,9 +7497,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 248,
+    "id": "2c2bd8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference",
     "pdf_link": "https://openreview.net/pdf?id=B1gTShAct7"
@@ -7084,9 +7525,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 249,
+    "id": "7e61fd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Automatically Composing Representation Transformations as a Means for Generalization",
     "pdf_link": "https://openreview.net/pdf?id=B1ffQnRcKX"
@@ -7123,9 +7567,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 250,
+    "id": "56f7b5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Contingency-Aware Exploration in Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=HyxGB2AcY7"
@@ -7166,9 +7611,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 251,
+    "id": "b21605",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation",
     "pdf_link": "https://openreview.net/pdf?id=ryGvcoA5YX"
@@ -7197,9 +7645,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 252,
+    "id": "014828",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "A Closer Look at Few-shot Classification",
     "pdf_link": "https://openreview.net/pdf?id=HkxLXnAcFQ"
@@ -7216,9 +7665,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 253,
+    "id": "53b019",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "On Random Deep Weight-Tied Autoencoders: Exact Asymptotic Analysis, Phase Transitions, and Implications to Training",
     "pdf_link": "https://openreview.net/pdf?id=HJx54i05tX"
@@ -7247,9 +7697,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 254,
+    "id": "5da110",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning",
     "pdf_link": "https://openreview.net/pdf?id=Hk4fpoA5Km"
@@ -7278,9 +7731,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 255,
+    "id": "0b528c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Opportunistic Learning: Budgeted Cost-Sensitive Learning from Data Streams",
     "pdf_link": "https://openreview.net/pdf?id=S1eOHo09KX"
@@ -7301,9 +7757,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 256,
+    "id": "000eed",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Selfless Sequential Learning",
     "pdf_link": "https://openreview.net/pdf?id=Bkxbrn0cYX"
@@ -7336,9 +7793,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 257,
+    "id": "d7c921",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods",
     "pdf_link": "https://openreview.net/pdf?id=HkgTkhRcKQ"
@@ -7367,9 +7827,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 258,
+    "id": "345ba3",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Self-Tuning Networks: Bilevel Optimization of Hyperparameters using Structured Best-Response Functions",
     "pdf_link": "https://openreview.net/pdf?id=r1eEG20qKQ"
@@ -7410,9 +7873,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 259,
+    "id": "5fa1a7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "G-SGD: Optimizing ReLU Neural Networks in its Positively Scale-Invariant Space",
     "pdf_link": "https://openreview.net/pdf?id=SyxfEn09Y7"
@@ -7441,9 +7907,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 260,
+    "id": "561ae0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Make Analogies by Contrasting Abstract Relational Structure",
     "pdf_link": "https://openreview.net/pdf?id=SylLYsCcFm"
@@ -7464,9 +7931,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 261,
+    "id": "29b70e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Deep Frank-Wolfe For Neural Network Optimization",
     "pdf_link": "https://openreview.net/pdf?id=SyVU6s05K7"
@@ -7499,9 +7969,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 262,
+    "id": "4c3a69",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Off-Policy Evaluation and Learning from Logged Bandit Feedback: Error Reduction via Surrogate Policy",
     "pdf_link": "https://openreview.net/pdf?id=HklKui0ct7"
@@ -7522,9 +7993,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 263,
+    "id": "503a3c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "A2BCD: Asynchronous Acceleration with Optimal Complexity",
     "pdf_link": "https://openreview.net/pdf?id=rylIAsCqYm"
@@ -7541,9 +8013,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 264,
+    "id": "6382b7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "An analytic theory of generalization dynamics and transfer learning in deep linear networks",
     "pdf_link": "https://openreview.net/pdf?id=ryfMLoCqtQ"
@@ -7564,9 +8037,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 265,
+    "id": "3937b9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters",
     "pdf_link": "https://openreview.net/pdf?id=r1f0YiCctm"
@@ -7591,9 +8067,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 266,
+    "id": "7b881d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "ANYTIME MINIBATCH: EXPLOITING STRAGGLERS IN ONLINE DISTRIBUTED OPTIMIZATION",
     "pdf_link": "https://openreview.net/pdf?id=rkzDIiA5YQ"
@@ -7618,9 +8095,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 267,
+    "id": "169cb7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Towards Understanding Regularization in Batch Normalization",
     "pdf_link": "https://openreview.net/pdf?id=HJlLKjR9FQ"
@@ -7649,9 +8127,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 268,
+    "id": "fee986",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "A Mean Field Theory of Batch Normalization",
     "pdf_link": "https://openreview.net/pdf?id=SyMDXnCcF7"
@@ -7676,9 +8157,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 269,
+    "id": "90a9cc",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Predicting the Generalization Gap in Deep Networks with Margin Distributions",
     "pdf_link": "https://openreview.net/pdf?id=HJlQfnCqKX"
@@ -7703,9 +8187,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 270,
+    "id": "685168",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "An Empirical study of Binary Neural Networks' Optimisation",
     "pdf_link": "https://openreview.net/pdf?id=rJfUCoR5KX"
@@ -7722,9 +8207,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 271,
+    "id": "b93048",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Deterministic PAC-Bayesian generalization bounds for deep networks via generalizing noise-resilience",
     "pdf_link": "https://openreview.net/pdf?id=Hygn2o0qKX"
@@ -7765,9 +8251,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 272,
+    "id": "27f41d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Efficient Training on Very Large Corpora via Gramian Estimation",
     "pdf_link": "https://openreview.net/pdf?id=Hke20iA9Y7"
@@ -7788,9 +8275,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 273,
+    "id": "2200ab",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Small nonlinearities in activation functions create bad local minima in neural networks",
     "pdf_link": "https://openreview.net/pdf?id=rke_YiRct7"
@@ -7803,9 +8291,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 274,
+    "id": "1625b6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Fluctuation-dissipation relations for stochastic gradient descent",
     "pdf_link": "https://openreview.net/pdf?id=SkNksoRctQ"
@@ -7822,9 +8311,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 275,
+    "id": "54d3e9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "The Comparative Power of ReLU Networks and Polynomial Kernels in the Presence of Sparse Latent Structure",
     "pdf_link": "https://openreview.net/pdf?id=rJgTTjA9tX"
@@ -7845,9 +8335,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 276,
+    "id": "e9eb57",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Optimal Control Via Neural Networks: A Convex Approach",
     "pdf_link": "https://openreview.net/pdf?id=H1MW72AcK7"
@@ -7868,9 +8361,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 277,
+    "id": "f10609",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "NOODL: Provable Online Dictionary Learning and Sparse Coding",
     "pdf_link": "https://openreview.net/pdf?id=HJeu43ActQ"
@@ -7891,9 +8385,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 278,
+    "id": "2d9a73",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Energy-Constrained Compression for Deep Neural Networks via Weighted Sparse Projection and Layer Input Masking",
     "pdf_link": "https://openreview.net/pdf?id=BylBr3C9K7"
@@ -7922,9 +8417,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 279,
+    "id": "87cd65",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "SGD Converges to Global Minimum in Deep Learning via Star-convex Path",
     "pdf_link": "https://openreview.net/pdf?id=BylIciRcYQ"
@@ -7945,9 +8441,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 280,
+    "id": "5c6562",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning",
     "pdf_link": "https://openreview.net/pdf?id=BklHpjCqKm"
@@ -7976,9 +8473,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 281,
+    "id": "0f78e9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Relaxed Quantization for Discretized Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=HkxjYoCqKX"
@@ -8003,9 +8503,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 282,
+    "id": "6c02fb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "There Are Many Consistent Explanations of Unlabeled Data: Why You Should Average",
     "pdf_link": "https://openreview.net/pdf?id=rkgKBhA5Y7"
@@ -8030,9 +8533,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 283,
+    "id": "d03031",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "signSGD with Majority Vote is Communication Efficient and Fault Tolerant",
     "pdf_link": "https://openreview.net/pdf?id=BJxhijAcY7"
@@ -8045,9 +8551,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 284,
+    "id": "2be597",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Preconditioner on Matrix Lie Group for SGD",
     "pdf_link": "https://openreview.net/pdf?id=Bye5SiAqKX"
@@ -8072,9 +8582,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 285,
+    "id": "9cff67",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "A Closer Look at Deep Learning Heuristics: Learning rate restarts, Warmup and Distillation",
     "pdf_link": "https://openreview.net/pdf?id=r14EOsCqKX"
@@ -8099,9 +8610,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 286,
+    "id": "9e0f98",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds",
     "pdf_link": "https://openreview.net/pdf?id=BJg9DoR9t7"
@@ -8130,9 +8642,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 287,
+    "id": "55a54d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Rethinking the Value of Network Pruning",
     "pdf_link": "https://openreview.net/pdf?id=rJlnB3C5Ym"
@@ -8153,9 +8668,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 288,
+    "id": "da03eb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Embeddings into Entropic Wasserstein Spaces",
     "pdf_link": "https://openreview.net/pdf?id=rJg4J3CqFm"
@@ -8180,9 +8696,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 289,
+    "id": "1f1c28",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Deep Layers as Stochastic Solvers",
     "pdf_link": "https://openreview.net/pdf?id=ryxxCiRqYX"
@@ -8203,9 +8720,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 290,
+    "id": "37718a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Initialized Equilibrium Propagation for Backprop-Free Training",
     "pdf_link": "https://openreview.net/pdf?id=B1GMDsR5tm"
@@ -8226,9 +8744,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 291,
+    "id": "3b777e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Caveats for information bottleneck in deterministic scenarios",
     "pdf_link": "https://openreview.net/pdf?id=rke4HiAcY7"
@@ -8253,9 +8774,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 292,
+    "id": "74491f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Two-layer Neural Networks with Symmetric Inputs",
     "pdf_link": "https://openreview.net/pdf?id=H1xipsA5K7"
@@ -8272,9 +8794,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 293,
+    "id": "4d6823",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Sparse Dictionary Learning by Dynamical Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=B1gstsCqt7"
@@ -8307,9 +8830,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 294,
+    "id": "8bd66e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Universal  Stagewise Learning for Non-Convex Problems with  Convergence on  Averaged Solutions",
     "pdf_link": "https://openreview.net/pdf?id=Syx5V2CcFm"
@@ -8326,9 +8853,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 295,
+    "id": "81cc3b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Gradient descent aligns the layers of deep linear networks",
     "pdf_link": "https://openreview.net/pdf?id=HJflg30qKX"
@@ -8345,9 +8875,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 296,
+    "id": "aec7dc",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Stochastic Gradient/Mirror Descent: Minimax Optimality and Implicit Regularization",
     "pdf_link": "https://openreview.net/pdf?id=HJf9ZhC9FX"
@@ -8368,9 +8899,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 297,
+    "id": "538461",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Self-Imitating Diverse Policies",
     "pdf_link": "https://openreview.net/pdf?id=HyxzRsR9Y7"
@@ -8395,9 +8927,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 298,
+    "id": "b339f1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "On the Universal Approximability and Complexity Bounds of Quantized ReLU Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=SJe9rh0cFX"
@@ -8422,9 +8955,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 299,
+    "id": "c30f4a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Adaptive Gradient Methods with Dynamic Bound of Learning Rate",
     "pdf_link": "https://openreview.net/pdf?id=Bkg3g2R9FX"
@@ -8453,9 +8987,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 300,
+    "id": "d63476",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Slimmable Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=H1gMCsAqY7"
@@ -8472,9 +9009,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 301,
+    "id": "effa3f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Per-Tensor Fixed-Point Quantization of the Back-Propagation Algorithm",
     "pdf_link": "https://openreview.net/pdf?id=rkxaNjA9Ym"
@@ -8503,9 +9041,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 302,
+    "id": "cb33e0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "The role of over-parametrization in generalization of neural networks",
     "pdf_link": "https://openreview.net/pdf?id=BygfghAcYX"
@@ -8534,9 +9073,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 303,
+    "id": "19ac9e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Data-Dependent Coresets for Compressing Neural Networks with Applications to Generalization Bounds",
     "pdf_link": "https://openreview.net/pdf?id=HJfwJ2A5KX"
@@ -8569,9 +9111,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 304,
+    "id": "fe84da",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Understanding Straight-Through Estimator in Training Activation Quantized Neural Nets",
     "pdf_link": "https://openreview.net/pdf?id=Skh4jRcKQ"
@@ -8596,9 +9139,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 305,
+    "id": "44eecb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning concise representations for regression by evolving networks of trees",
     "pdf_link": "https://openreview.net/pdf?id=Hke-JhA9Y7"
@@ -8631,9 +9175,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 306,
+    "id": "cd066d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Optimistic mirror descent in saddle-point problems: Going the extra (gradient) mile",
     "pdf_link": "https://openreview.net/pdf?id=Bkg8jjC9KQ"
@@ -8662,9 +9207,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 307,
+    "id": "ccb586",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "ACCELERATING NONCONVEX LEARNING VIA REPLICA EXCHANGE LANGEVIN DIFFUSION",
     "pdf_link": "https://openreview.net/pdf?id=SJfPFjA9Fm"
@@ -8681,9 +9227,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 308,
+    "id": "836e38",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=rJl-b3RcF7"
@@ -8708,9 +9255,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 309,
+    "id": "617903",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Three Mechanisms of Weight Decay Regularization",
     "pdf_link": "https://openreview.net/pdf?id=B1lz-3Rct7"
@@ -8735,9 +9283,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 310,
+    "id": "19db6c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Double Viterbi: Weight Encoding for High Compression Ratio and Fast On-Chip Reconstruction for Deep Neural Network",
     "pdf_link": "https://openreview.net/pdf?id=HkfYOoCcYX"
@@ -8754,9 +9305,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 311,
+    "id": "60cf18",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Quasi-hyperbolic momentum and Adam for deep learning",
     "pdf_link": "https://openreview.net/pdf?id=S1fUpoR5FQ"
@@ -8777,9 +9332,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 312,
+    "id": "f968a5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Towards Robust, Locally Linear Deep Networks",
     "pdf_link": "https://openreview.net/pdf?id=SylCrnCcFX"
@@ -8820,9 +9378,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 313,
+    "id": "34c832",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "InfoBot: Transfer and Exploration via the Information Bottleneck",
     "pdf_link": "https://openreview.net/pdf?id=rJg8yhAqKm"
@@ -8847,9 +9408,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 314,
+    "id": "a5c2d1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Aggregated Momentum: Stability Through Passive Damping",
     "pdf_link": "https://openreview.net/pdf?id=Syxt5oC5YQ"
@@ -8866,9 +9430,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 315,
+    "id": "fdacad",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "From Hard to Soft: Understanding Deep Network Nonlinearities via Vector Quantization and Statistical Inference",
     "pdf_link": "https://openreview.net/pdf?id=Syxt2jC5FX"
@@ -8885,9 +9450,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 316,
+    "id": "d11135",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Riemannian Adaptive Optimization Methods",
     "pdf_link": "https://openreview.net/pdf?id=r1eiqi09K7"
@@ -8912,9 +9478,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 317,
+    "id": "0e4621",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Regularized Learning for  Domain Adaptation under Label Shifts",
     "pdf_link": "https://openreview.net/pdf?id=rJl0r3R9KX"
@@ -8935,9 +9502,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 318,
+    "id": "22208b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "DeepOBS: A Deep Learning Optimizer Benchmark Suite",
     "pdf_link": "https://openreview.net/pdf?id=rJg6ssC5Y7"
@@ -8958,9 +9528,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 319,
+    "id": "48cfc3",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Fixup Initialization: Residual Learning Without Normalization",
     "pdf_link": "https://openreview.net/pdf?id=H1gsz30cKX"
@@ -8989,9 +9560,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 320,
+    "id": "3baa06",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning sparse relational transition models",
     "pdf_link": "https://openreview.net/pdf?id=SJxsV2R5FQ"
@@ -9016,9 +9588,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 321,
+    "id": "29857b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Gradient Descent Provably Optimizes Over-parameterized Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=S1eK3i09YQ"
@@ -9051,9 +9624,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 322,
+    "id": "8a5009",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length",
     "pdf_link": "https://openreview.net/pdf?id=SkgEaj05t7"
@@ -9074,9 +9648,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 323,
+    "id": "9e205b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "A Kernel Random Matrix-Based Approach for Sparse PCA",
     "pdf_link": "https://openreview.net/pdf?id=rkgBHoCqYX"
@@ -9097,9 +9672,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 324,
+    "id": "61d943",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "SNIP: SINGLE-SHOT NETWORK PRUNING BASED ON CONNECTION SENSITIVITY",
     "pdf_link": "https://openreview.net/pdf?id=B1VZqjAcYX"
@@ -9120,9 +9696,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 325,
+    "id": "97e62c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Critical Learning Periods in Deep Networks",
     "pdf_link": "https://openreview.net/pdf?id=BkeStsCcKQ"
@@ -9135,9 +9712,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 326,
+    "id": "0476d9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Local SGD Converges Fast and Communicates Little",
     "pdf_link": "https://openreview.net/pdf?id=S1g2JnRcFX"
@@ -9150,9 +9731,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 327,
+    "id": "d6bf77",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Adaptivity of deep ReLU network for learning in Besov and mixed smooth Besov spaces: optimal rate and curse of dimensionality",
     "pdf_link": "https://openreview.net/pdf?id=H1ebTsActm"
@@ -9177,9 +9759,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 328,
+    "id": "0985a4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=SkMQg3C5K7"
@@ -9200,9 +9786,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 329,
+    "id": "2f601e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Analysis of Quantized Models",
     "pdf_link": "https://openreview.net/pdf?id=ryM_IoAqYX"
@@ -9223,9 +9812,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 330,
+    "id": "1b4b6e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Adaptive Estimators Show Information Compression in Deep Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=SkeZisA5t7"
@@ -9250,9 +9840,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 331,
+    "id": "623d80",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "On the Convergence of A Class of Adam-Type Algorithms  for Non-Convex Optimization",
     "pdf_link": "https://openreview.net/pdf?id=H1x-x309tm"
@@ -9273,9 +9866,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 332,
+    "id": "9fedee",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Theoretical Analysis of Auto Rate-Tuning by Batch Normalization",
     "pdf_link": "https://openreview.net/pdf?id=rkxQ-nA9FX"
@@ -9292,9 +9888,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 333,
+    "id": "f6dc0c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Decoupled Weight Decay Regularization",
     "pdf_link": "https://openreview.net/pdf?id=Bkg6RiCqY7"
@@ -9319,9 +9919,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 334,
+    "id": "ec1332",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "ALISTA: Analytic Weights Are As Good As Learned Weights in LISTA",
     "pdf_link": "https://openreview.net/pdf?id=B1lnzn0ctQ"
@@ -9354,9 +9957,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 335,
+    "id": "70095f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach",
     "pdf_link": "https://openreview.net/pdf?id=rJlk6iRqKX"
@@ -9373,9 +9979,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 336,
+    "id": "caccde",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Minimum Divergence vs. Maximum Margin: an Empirical Comparison on Seq2Seq Models",
     "pdf_link": "https://openreview.net/pdf?id=H1xD9sR5Fm"
@@ -9396,9 +10003,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 337,
+    "id": "463e3f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Subgradient Descent Learns Orthogonal Dictionaries",
     "pdf_link": "https://openreview.net/pdf?id=HklSf3CqKm"
@@ -9419,9 +10027,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 338,
+    "id": "0971ea",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "ProxQuant: Quantized Neural Networks via Proximal Operators",
     "pdf_link": "https://openreview.net/pdf?id=HyzMyhCcK7"
@@ -9454,9 +10063,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 339,
+    "id": "262f50",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Systematic Generalization: What Is Required and Can It Be Learned?",
     "pdf_link": "https://openreview.net/pdf?id=HkezXnA9YX"
@@ -9477,9 +10087,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 340,
+    "id": "506556",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Deep Anomaly Detection with Outlier Exposure",
     "pdf_link": "https://openreview.net/pdf?id=HyxCxhRcY7"
@@ -9500,9 +10111,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 341,
+    "id": "9468b0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "CBOW Is Not All You Need: Combining CBOW with the Compositional Matrix Space Model",
     "pdf_link": "https://openreview.net/pdf?id=H1MgjoR9tQ"
@@ -9523,9 +10135,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 342,
+    "id": "3693ee",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Kernel RNN Learning (KeRNL)",
     "pdf_link": "https://openreview.net/pdf?id=ryGfnoC5KQ"
@@ -9550,9 +10163,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 343,
+    "id": "f8d377",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Unsupervised Hyper-alignment for Multilingual Word Embeddings",
     "pdf_link": "https://openreview.net/pdf?id=HJe62s09tX"
@@ -9577,9 +10191,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 344,
+    "id": "406f95",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "textTOvec: DEEP CONTEXTUALIZED NEURAL AUTOREGRESSIVE TOPIC MODELS OF LANGUAGE WITH DISTRIBUTED COMPOSITIONAL PRIOR",
     "pdf_link": "https://openreview.net/pdf?id=rkgoyn09KQ"
@@ -9604,9 +10219,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 345,
+    "id": "863ae6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering",
     "pdf_link": "https://openreview.net/pdf?id=Syl7OsRqY7"
@@ -9627,9 +10243,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 346,
+    "id": "57088a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Generalized Tensor Models for Recurrent Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=r1gNni0qtm"
@@ -9662,9 +10279,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 347,
+    "id": "061ac6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks ",
     "pdf_link": "https://openreview.net/pdf?id=H1zeHnA9KX"
@@ -9677,9 +10295,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 348,
+    "id": "6162f4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Top-Down Neural Model For Formulae",
     "pdf_link": "https://openreview.net/pdf?id=Byg5QhR5FQ"
@@ -9708,9 +10327,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 349,
+    "id": "b7f514",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Variational Smoothing in Recurrent Neural Network Language Models",
     "pdf_link": "https://openreview.net/pdf?id=SygQvs0cFQ"
@@ -9739,9 +10359,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 350,
+    "id": "9851b8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation",
     "pdf_link": "https://openreview.net/pdf?id=rkgT3jRct7"
@@ -9762,9 +10385,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 351,
+    "id": "bd4315",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "DOM-Q-NET:  Grounded RL on Structured Language",
     "pdf_link": "https://openreview.net/pdf?id=HJgd1nAqFX"
@@ -9785,9 +10409,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 352,
+    "id": "710a02",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Poincare Glove: Hyperbolic Word Embeddings",
     "pdf_link": "https://openreview.net/pdf?id=Ske5r3AqK7"
@@ -9812,9 +10437,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 353,
+    "id": "0686b8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=B1l6qiR5F7"
@@ -9843,9 +10469,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 354,
+    "id": "6ad401",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Recurrent Binary/Ternary Weights",
     "pdf_link": "https://openreview.net/pdf?id=HkNGYjR9FX"
@@ -9866,9 +10493,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 355,
+    "id": "75ee52",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "FlowQA: Grasping Flow in History for Conversational Machine Comprehension",
     "pdf_link": "https://openreview.net/pdf?id=ByftGnR9KX"
@@ -9885,9 +10515,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 356,
+    "id": "198a3f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder",
     "pdf_link": "https://openreview.net/pdf?id=BJlgNh0qKQ"
@@ -9904,9 +10535,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 357,
+    "id": "ef5ade",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Adaptive Input Representations for Neural Language Modeling",
     "pdf_link": "https://openreview.net/pdf?id=ByxZX20qFQ"
@@ -9935,9 +10569,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 358,
+    "id": "ecf48a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Neural Speed Reading with Structural-Jump-LSTM",
     "pdf_link": "https://openreview.net/pdf?id=B1xf9jAqFQ"
@@ -9962,9 +10597,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 359,
+    "id": "635489",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Tree-Structured Recurrent Switching Linear Dynamical Systems for Multi-Scale Modeling",
     "pdf_link": "https://openreview.net/pdf?id=HkzRQhR9YX"
@@ -9997,9 +10633,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 360,
+    "id": "43bd33",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Multilingual Neural Machine Translation with Knowledge Distillation",
     "pdf_link": "https://openreview.net/pdf?id=S1gUsoR9YX"
@@ -10032,9 +10671,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 361,
+    "id": "8e1c1f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "h-detach: Modifying the LSTM Gradient Towards Better Optimization",
     "pdf_link": "https://openreview.net/pdf?id=ryf7ioRqFX"
@@ -10067,9 +10707,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 362,
+    "id": "983759",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Multiple-Attribute Text Rewriting",
     "pdf_link": "https://openreview.net/pdf?id=H1g2NhC5KQ"
@@ -10094,9 +10735,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 363,
+    "id": "f8af73",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "RNNs implicitly implement tensor-product representations",
     "pdf_link": "https://openreview.net/pdf?id=BJx0sjC5FX"
@@ -10137,9 +10781,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 364,
+    "id": "dd915e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Complement Objective Training",
     "pdf_link": "https://openreview.net/pdf?id=HyM7AiA5YX"
@@ -10160,9 +10807,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 365,
+    "id": "94cfc4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Adversarial Audio Synthesis",
     "pdf_link": "https://openreview.net/pdf?id=ByMVTsR5KQ"
@@ -10191,9 +10841,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 366,
+    "id": "bcbdeb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "A Generative Model For Electron Paths",
     "pdf_link": "https://openreview.net/pdf?id=r1x4BnCqKX"
@@ -10222,9 +10875,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 367,
+    "id": "c879b8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Smoothing the Geometry of Probabilistic Box Embeddings",
     "pdf_link": "https://openreview.net/pdf?id=H1xSNiRcF7"
@@ -10257,9 +10911,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 368,
+    "id": "b716d3",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Wizard of Wikipedia: Knowledge-Powered Conversational Agents",
     "pdf_link": "https://openreview.net/pdf?id=r1l73iRqKm"
@@ -10276,9 +10931,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 369,
+    "id": "58b932",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Understanding Composition of Word Embeddings via Tensor Decomposition",
     "pdf_link": "https://openreview.net/pdf?id=H1eqjiCctX"
@@ -10303,9 +10961,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 370,
+    "id": "2b8fbd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Multilingual Neural Machine Translation With Soft Decoupled Encoding",
     "pdf_link": "https://openreview.net/pdf?id=Skeke3C5Fm"
@@ -10334,9 +10993,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 371,
+    "id": "dc797c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision",
     "pdf_link": "https://openreview.net/pdf?id=rJgMlhRctm"
@@ -10361,9 +11021,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 372,
+    "id": "9065b6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Characterizing Audio Adversarial Examples Using Temporal Dependency",
     "pdf_link": "https://openreview.net/pdf?id=r1g4E3C9t7"
@@ -10384,9 +11045,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 373,
+    "id": "63ef80",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Harmonic Unpaired Image-to-image Translation",
     "pdf_link": "https://openreview.net/pdf?id=S1M6Z2Cctm"
@@ -10411,9 +11073,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 374,
+    "id": "4c6af0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity",
     "pdf_link": "https://openreview.net/pdf?id=r1lrAiA5Ym"
@@ -10430,9 +11093,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 375,
+    "id": "623d86",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Implicitly Recurrent CNNs Through Parameter Sharing",
     "pdf_link": "https://openreview.net/pdf?id=rJgYxn09Fm"
@@ -10465,9 +11129,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 376,
+    "id": "7abed7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Identifying and Controlling Important Neurons in Neural Machine Translation",
     "pdf_link": "https://openreview.net/pdf?id=H1z-PsR5KX"
@@ -10488,9 +11153,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 377,
+    "id": "1b4315",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Finite State Representations of Recurrent Policy Networks",
     "pdf_link": "https://openreview.net/pdf?id=S1gOpsCctm"
@@ -10515,9 +11181,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 378,
+    "id": "00454e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "AntisymmetricRNN: A Dynamical System View on Recurrent Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=ryxepo0cFX"
@@ -10534,9 +11201,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 379,
+    "id": "214911",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Learning protein sequence embeddings using information from structure",
     "pdf_link": "https://openreview.net/pdf?id=SygLehCqtm"
@@ -10561,9 +11231,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 380,
+    "id": "5cf860",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Unsupervised Speech Recognition via Segmental Empirical Output Distribution Matching",
     "pdf_link": "https://openreview.net/pdf?id=Bylmkh05KX"
@@ -10580,9 +11251,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 381,
+    "id": "29b1b7",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs",
     "pdf_link": "https://openreview.net/pdf?id=rJlDnoA5Y7"
@@ -10611,9 +11285,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 382,
+    "id": "b4159d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Transfer Learning for Sequences via Learning to Collocate",
     "pdf_link": "https://openreview.net/pdf?id=ByldlhAqYQ"
@@ -10662,9 +11337,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 383,
+    "id": "aac6e9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Hyperbolic Attention Networks",
     "pdf_link": "https://openreview.net/pdf?id=rJxHsjRqFQ"
@@ -10685,9 +11363,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 384,
+    "id": "7b57db",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Hierarchical interpretations for neural network predictions",
     "pdf_link": "https://openreview.net/pdf?id=SkEqro0ctQ"
@@ -10744,9 +11425,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 385,
+    "id": "d1b131",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Hierarchical Generative Modeling for Controllable Speech Synthesis",
     "pdf_link": "https://openreview.net/pdf?id=rygkk305YQ"
@@ -10771,9 +11453,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 386,
+    "id": "b09fce",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning what and where to attend",
     "pdf_link": "https://openreview.net/pdf?id=BJgLg3R9KQ"
@@ -10798,9 +11483,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 387,
+    "id": "b453cf",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Discovery of Natural Language Concepts in Individual Units of CNNs",
     "pdf_link": "https://openreview.net/pdf?id=S1EERs09YQ"
@@ -10817,9 +11505,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 388,
+    "id": "a77daa",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Posterior Attention Models for Sequence to Sequence Learning",
     "pdf_link": "https://openreview.net/pdf?id=BkltNhC9FX"
@@ -10852,9 +11541,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 389,
+    "id": "bec616",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Don't Settle for Average, Go for the Max: Fuzzy Sets and Max-Pooled Word Vectors",
     "pdf_link": "https://openreview.net/pdf?id=SkxXg2C5FX"
@@ -10883,9 +11573,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 390,
+    "id": "8f3e92",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Represent Edits",
     "pdf_link": "https://openreview.net/pdf?id=BJl6AjC5F7"
@@ -10938,9 +11629,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 391,
+    "id": "5f59b9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "What do you learn from context? Probing for sentence structure in contextualized word representations",
     "pdf_link": "https://openreview.net/pdf?id=SJzSgnRcKX"
@@ -10989,9 +11684,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 392,
+    "id": "fe89f2",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Music Transformer: Generating Music with Long-Term Structure",
     "pdf_link": "https://openreview.net/pdf?id=rJe4ShAcF7"
@@ -11024,9 +11722,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 393,
+    "id": "76cd21",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Representation Degeneration Problem in Training Natural Language Generation Models",
     "pdf_link": "https://openreview.net/pdf?id=SkEYojRqtm"
@@ -11043,9 +11742,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 394,
+    "id": "366e19",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Detecting Egregious Responses in Neural Sequence-to-sequence Models",
     "pdf_link": "https://openreview.net/pdf?id=HyNA5iRcFQ"
@@ -11070,9 +11772,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 395,
+    "id": "3bbd4f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning to Design RNA",
     "pdf_link": "https://openreview.net/pdf?id=ByfyHh05tQ"
@@ -11097,9 +11802,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 396,
+    "id": "871fb1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration",
     "pdf_link": "https://openreview.net/pdf?id=SJfZKiC5FX"
@@ -11140,9 +11846,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 397,
+    "id": "d30bfe",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Imposing Category Trees Onto Word-Embeddings Using A Geometric Construction",
     "pdf_link": "https://openreview.net/pdf?id=rJlWOj0qF7"
@@ -11179,9 +11886,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 398,
+    "id": "d63637",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Multi-Agent Dual Learning",
     "pdf_link": "https://openreview.net/pdf?id=HyGhN2A5tm"
@@ -11202,9 +11913,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 399,
+    "id": "0832af",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Trellis Networks for Sequence Modeling",
     "pdf_link": "https://openreview.net/pdf?id=HyeVtoRqtQ"
@@ -11233,9 +11945,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 400,
+    "id": "3a5ccb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Universal Transformers",
     "pdf_link": "https://openreview.net/pdf?id=HyzdRiR9Y7"
@@ -11256,9 +11971,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 401,
+    "id": "9cc353",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Structured Neural Summarization",
     "pdf_link": "https://openreview.net/pdf?id=H1ersoRqtm"
@@ -11279,9 +11997,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 402,
+    "id": "f3272f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Global-to-local Memory Pointer Networks for Task-Oriented Dialogue",
     "pdf_link": "https://openreview.net/pdf?id=ryxnHhRqFm"
@@ -11306,9 +12027,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 403,
+    "id": "26c6c4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following",
     "pdf_link": "https://openreview.net/pdf?id=r1lq1hRqYQ"
@@ -11333,9 +12055,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 404,
+    "id": "d3c429",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "A Universal Music Translation Network",
     "pdf_link": "https://openreview.net/pdf?id=HJGkisCcKm"
@@ -11376,9 +12101,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 405,
+    "id": "7c124b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Guiding Policies with Language via Meta-Learning",
     "pdf_link": "https://openreview.net/pdf?id=HkgSEnA5KQ"
@@ -11407,9 +12133,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 406,
+    "id": "fdc472",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Recurrent Experience Replay in Distributed Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=r1lyTjAqYX"
@@ -11434,9 +12161,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 407,
+    "id": "cff846",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Multimodal Graph-to-Graph Translation for Molecule Optimization",
     "pdf_link": "https://openreview.net/pdf?id=B1xJAsA5F7"
@@ -11453,9 +12181,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 408,
+    "id": "4e4f43",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Stable Recurrent Models",
     "pdf_link": "https://openreview.net/pdf?id=Hygxb2CqKm"
@@ -11476,9 +12207,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 409,
+    "id": "8891a5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "DARTS: Differentiable Architecture Search",
     "pdf_link": "https://openreview.net/pdf?id=S1eYHoC5FX"
@@ -11507,9 +12241,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 410,
+    "id": "1e6542",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Pay Less Attention with Lightweight and Dynamic Convolutions",
     "pdf_link": "https://openreview.net/pdf?id=SkVhlh09tX"
@@ -11542,9 +12280,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 411,
+    "id": "0dabb2",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
     "pdf_link": "https://openreview.net/pdf?id=rJ4km2R5t7"
@@ -11581,9 +12320,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 412,
+    "id": "73d5a1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Quaternion Recurrent Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=ByMHvs0cFQ"
@@ -11604,9 +12346,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 413,
+    "id": "d580fc",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Neural TTS Stylization with Adversarial and Collaborative Games",
     "pdf_link": "https://openreview.net/pdf?id=ByzcS3AcYX"
@@ -11631,9 +12374,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 414,
+    "id": "219d18",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder",
     "pdf_link": "https://openreview.net/pdf?id=BkgBvsC9FQ"
@@ -11662,9 +12408,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 415,
+    "id": "c83ab6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency",
     "pdf_link": "https://openreview.net/pdf?id=S1lTg3RqYQ"
@@ -11713,9 +12460,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 416,
+    "id": "f4108e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Improving Sequence-to-Sequence Learning via Optimal Transport",
     "pdf_link": "https://openreview.net/pdf?id=S1xtAjR5tX"
@@ -11736,9 +12486,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 417,
+    "id": "771618",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "A Max-Affine Spline Perspective of Recurrent Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=BJej72AqF7"
@@ -11755,9 +12508,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 418,
+    "id": "f21a8f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "No Training Required: Exploring Random Encoders for Sentence Classification",
     "pdf_link": "https://openreview.net/pdf?id=BkgPajAcY7"
@@ -11774,9 +12528,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 419,
+    "id": "c00c70",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Improving Differentiable Neural Computers Through Memory Masking, De-allocation, and Link Distribution Sharpness Control",
     "pdf_link": "https://openreview.net/pdf?id=HyGEM3C9KQ"
@@ -11809,9 +12566,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 420,
+    "id": "c18a7a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "TimbreTron: A WaveNet(CycleGAN(CQT(Audio))) Pipeline for Musical Timbre Transfer",
     "pdf_link": "https://openreview.net/pdf?id=S1lvm305YQ"
@@ -11840,9 +12598,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 421,
+    "id": "7a517c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Learning to Screen for Fast Softmax  Inference on Large Vocabulary Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=ByeMB3Act7"
@@ -11879,9 +12640,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 422,
+    "id": "18af6b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Understand Goal Specifications by Modelling Reward",
     "pdf_link": "https://openreview.net/pdf?id=H1xsSjC9Ym"
@@ -11918,9 +12680,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 423,
+    "id": "c49ee5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning",
     "pdf_link": "https://openreview.net/pdf?id=rJeXCo0cYX"
@@ -11957,9 +12720,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 424,
+    "id": "2cecc1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning to Adapt in Dynamic, Real-World Environments through Meta-Reinforcement Learning",
     "pdf_link": "https://openreview.net/pdf?id=HyztsoC5Y7"
@@ -11988,9 +12752,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 425,
+    "id": "6938a6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Stable Opponent Shaping in Differentiable Games",
     "pdf_link": "https://openreview.net/pdf?id=SyGjjsC5tQ"
@@ -12015,9 +12783,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 426,
+    "id": "c557f0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Lagging Inference Networks and Posterior Collapse in Variational Autoencoders",
     "pdf_link": "https://openreview.net/pdf?id=rylDfnCqF7"
@@ -12042,9 +12811,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 427,
+    "id": "2c6df9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Preventing Posterior Collapse with delta-VAEs",
     "pdf_link": "https://openreview.net/pdf?id=BJe0Gn0cY7"
@@ -12073,9 +12845,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 428,
+    "id": "94869b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Spectral Inference Networks: Unifying Deep and Spectral Learning",
     "pdf_link": "https://openreview.net/pdf?id=SJzqpj09YQ"
@@ -12092,9 +12867,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 429,
+    "id": "dd29e3",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Programmatically Structured Representations with Perceptor Gradients",
     "pdf_link": "https://openreview.net/pdf?id=SJggZnRcFQ"
@@ -12111,9 +12887,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 430,
+    "id": "f333c0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Variational Bayesian Phylogenetic Inference",
     "pdf_link": "https://openreview.net/pdf?id=SJVmjjR9FX"
@@ -12138,9 +12915,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 431,
+    "id": "1f38d5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Analyzing Inverse Problems with Invertible Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=rJed6j0cKX"
@@ -12161,9 +12939,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 432,
+    "id": "400b30",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Learning Representations of Sets through Optimized Permutations",
     "pdf_link": "https://openreview.net/pdf?id=HJMCcjAcYX"
@@ -12192,9 +12973,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 433,
+    "id": "d1e03e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Stochastic Prediction of Multi-Agent Interactions from Partial Observations",
     "pdf_link": "https://openreview.net/pdf?id=r1xdH3CcKX"
@@ -12215,9 +12997,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 434,
+    "id": "a3cf2a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Distribution-Interpolation Trade off in Generative Models",
     "pdf_link": "https://openreview.net/pdf?id=SyMhLo0qKQ"
@@ -12234,9 +13017,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 435,
+    "id": "5544ff",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Diagnosing and Enhancing VAE Models",
     "pdf_link": "https://openreview.net/pdf?id=B1e0X3C9tQ"
@@ -12253,9 +13040,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 436,
+    "id": "3dcd7e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Generative Question Answering: Learning to Answer the Whole Question",
     "pdf_link": "https://openreview.net/pdf?id=Bkx0RjA9tX"
@@ -12272,9 +13060,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 437,
+    "id": "b972ba",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Interpolation-Prediction Networks for Irregularly Sampled Time Series",
     "pdf_link": "https://openreview.net/pdf?id=r1efr3C9Ym"
@@ -12299,9 +13090,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 438,
+    "id": "39bf78",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "FUNCTIONAL VARIATIONAL BAYESIAN NEURAL NETWORKS",
     "pdf_link": "https://openreview.net/pdf?id=rkxacs0qY7"
@@ -12318,9 +13110,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 439,
+    "id": "0e8ffe",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks",
     "pdf_link": "https://openreview.net/pdf?id=S1lg0jAcYm"
@@ -12341,9 +13134,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 440,
+    "id": "537a7a",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Integer Networks for Data Compression with Latent-Variable Models",
     "pdf_link": "https://openreview.net/pdf?id=S1zz2i0cY7"
@@ -12368,9 +13162,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 441,
+    "id": "d320a2",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Optimal Transport Maps For Distribution Preserving Operations on Latent Spaces of Generative Models",
     "pdf_link": "https://openreview.net/pdf?id=BklCusRct7"
@@ -12399,9 +13194,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 442,
+    "id": "d3aee8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "MARGINALIZED AVERAGE ATTENTIONAL NETWORK FOR WEAKLY-SUPERVISED LEARNING",
     "pdf_link": "https://openreview.net/pdf?id=HkljioCcFQ"
@@ -12414,9 +13212,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 443,
+    "id": "ee5de1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Deep, Skinny Neural Networks are not Universal Approximators",
     "pdf_link": "https://openreview.net/pdf?id=ryGgSsAcFQ"
@@ -12441,9 +13242,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 444,
+    "id": "9c4c13",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Function Space Particle Optimization for Bayesian Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=BkgtDsCcKQ"
@@ -12456,9 +13258,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 445,
+    "id": "99c05e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Measuring Compositionality in Representation Learning",
     "pdf_link": "https://openreview.net/pdf?id=HJz05o0qK7"
@@ -12487,9 +13290,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 446,
+    "id": "cc95cd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Variational Autoencoders with Jointly Optimized Latent Dependency Structure",
     "pdf_link": "https://openreview.net/pdf?id=SJgsCjCqt7"
@@ -12518,9 +13324,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 447,
+    "id": "84d235",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Factorized Multimodal Representations",
     "pdf_link": "https://openreview.net/pdf?id=rygqqsA9KX"
@@ -12541,9 +13348,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 448,
+    "id": "584f56",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "On the loss landscape of a class of deep neural networks with no bad local valleys",
     "pdf_link": "https://openreview.net/pdf?id=HJgXsjA5tQ"
@@ -12584,9 +13392,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 449,
+    "id": "30b7b1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Attentive Neural Processes",
     "pdf_link": "https://openreview.net/pdf?id=SkE6PjC9KX"
@@ -12607,9 +13418,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 450,
+    "id": "4d3a1d",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech",
     "pdf_link": "https://openreview.net/pdf?id=HklY120cYm"
@@ -12654,9 +13466,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 451,
+    "id": "a7a5a2",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Label super-resolution networks",
     "pdf_link": "https://openreview.net/pdf?id=rkxwShA9Ym"
@@ -12677,9 +13490,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 452,
+    "id": "d4f021",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning from Positive and Unlabeled Data with a Selection Bias",
     "pdf_link": "https://openreview.net/pdf?id=rJzLciCqKm"
@@ -12704,9 +13518,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 453,
+    "id": "b534c0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Transferring Knowledge across Learning Processes",
     "pdf_link": "https://openreview.net/pdf?id=HygBZnRctX"
@@ -12727,9 +13542,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 454,
+    "id": "a5e1c6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Deep learning generalizes because the parameter-function map is biased towards simple functions",
     "pdf_link": "https://openreview.net/pdf?id=rye4g3AqFm"
@@ -12758,9 +13574,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 455,
+    "id": "8cbfe1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Temporal Difference Variational Auto-Encoder",
     "pdf_link": "https://openreview.net/pdf?id=S1x4ghC9tQ"
@@ -12781,9 +13598,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 456,
+    "id": "dcbe88",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Practical lossless compression with latent variables using bits back coding",
     "pdf_link": "https://openreview.net/pdf?id=ryE98iR5tm"
@@ -12816,9 +13634,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 457,
+    "id": "373a11",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Unsupervised Control Through Non-Parametric Discriminative Rewards",
     "pdf_link": "https://openreview.net/pdf?id=r1eVMnA9K7"
@@ -12831,9 +13650,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 458,
+    "id": "ba65a2",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Information Theoretic lower bounds on negative log likelihood",
     "pdf_link": "https://openreview.net/pdf?id=rkemqsC9Fm"
@@ -12858,9 +13678,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 459,
+    "id": "2a8edc",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Unsupervised Domain Adaptation for Distance Metric Learning",
     "pdf_link": "https://openreview.net/pdf?id=BklhAj09K7"
@@ -12885,9 +13706,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 460,
+    "id": "24150b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Janossy Pooling: Learning Deep Permutation-Invariant Functions for Variable-Size Inputs",
     "pdf_link": "https://openreview.net/pdf?id=BJluy2RcFm"
@@ -12916,9 +13741,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 461,
+    "id": "72ae6b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Neural PDE Solvers with Convergence Guarantees",
     "pdf_link": "https://openreview.net/pdf?id=rklaWn0qK7"
@@ -12939,9 +13765,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 462,
+    "id": "d577f1",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "How Important is a Neuron",
     "pdf_link": "https://openreview.net/pdf?id=SylKoo0cKm"
@@ -12958,9 +13788,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 463,
+    "id": "5f99b0",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Procedural Abstractions and Evaluating Discrete Latent Temporal Structure",
     "pdf_link": "https://openreview.net/pdf?id=ByleB2CcKm"
@@ -12977,9 +13808,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 464,
+    "id": "cb2118",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Auxiliary Variational MCMC",
     "pdf_link": "https://openreview.net/pdf?id=r1NJqsRctX"
@@ -13016,9 +13850,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 465,
+    "id": "10e545",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Neural Persistence: A Complexity Measure for Deep Neural Networks Using Algebraic Topology",
     "pdf_link": "https://openreview.net/pdf?id=ByxkijC5FQ"
@@ -13043,9 +13880,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 466,
+    "id": "3d518e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning-Based Frequency Estimation Algorithms",
     "pdf_link": "https://openreview.net/pdf?id=r1lohoCqY7"
@@ -13066,9 +13904,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 467,
+    "id": "e92e0e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Generative predecessor models for sample-efficient imitation learning",
     "pdf_link": "https://openreview.net/pdf?id=SkeVsiAcYm"
@@ -13085,9 +13924,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 468,
+    "id": "8f98b6",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Efficient Augmentation via Data Subsampling",
     "pdf_link": "https://openreview.net/pdf?id=Byxpfh0cFm"
@@ -13112,9 +13954,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 469,
+    "id": "742681",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "LEARNING FACTORIZED REPRESENTATIONS FOR OPEN-SET DOMAIN ADAPTATION",
     "pdf_link": "https://openreview.net/pdf?id=SJe3HiC5KX"
@@ -13139,9 +13982,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 470,
+    "id": "2e5c63",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Sliced Wasserstein Auto-Encoders",
     "pdf_link": "https://openreview.net/pdf?id=H1xaJn05FQ"
@@ -13178,9 +14022,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 471,
+    "id": "562c7e",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Maximal Divergence Sequential Autoencoder for Binary Software Vulnerability Detection",
     "pdf_link": "https://openreview.net/pdf?id=ByloIiCqYQ"
@@ -13209,9 +14056,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 472,
+    "id": "0984fe",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "The Deep Weight Prior",
     "pdf_link": "https://openreview.net/pdf?id=ByGuynAct7"
@@ -13240,9 +14090,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 473,
+    "id": "5093d5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Feature-Wise Bias Amplification",
     "pdf_link": "https://openreview.net/pdf?id=S1ecm2C9K7"
@@ -13263,9 +14114,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 474,
+    "id": "c9ec29",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Generating Liquid Simulations with Deformation-aware Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=HyeGBj09Fm"
@@ -13290,9 +14142,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 475,
+    "id": "5e0980",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning Grid Cells as Vector Representation of Self-Position Coupled with Matrix Representation of Self-Motion",
     "pdf_link": "https://openreview.net/pdf?id=Syx0Mh05YQ"
@@ -13321,9 +14174,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 476,
+    "id": "f42e3c",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Toward Understanding the Impact of Staleness in Distributed Machine Learning",
     "pdf_link": "https://openreview.net/pdf?id=BylQV305YQ"
@@ -13352,9 +14206,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 477,
+    "id": "1f8ed4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Dimensionality Reduction for Representing the Knowledge of Probabilistic Models",
     "pdf_link": "https://openreview.net/pdf?id=SygD-hCcF7"
@@ -13379,9 +14236,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 478,
+    "id": "ff54a4",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "GamePad: A Learning Environment for Theorem Proving",
     "pdf_link": "https://openreview.net/pdf?id=r1xwKoR9Y7"
@@ -13406,9 +14266,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 479,
+    "id": "790017",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Active Learning with Partial Feedback",
     "pdf_link": "https://openreview.net/pdf?id=HJfSEnRqKQ"
@@ -13429,9 +14290,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 480,
+    "id": "2a1787",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "On the Turing Completeness of Modern Neural Network Architectures",
     "pdf_link": "https://openreview.net/pdf?id=HyGBdo0qFm"
@@ -13460,9 +14322,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 481,
+    "id": "6f4bfd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Learning a Meta-Solver for Syntax-Guided Program Synthesis",
     "pdf_link": "https://openreview.net/pdf?id=Syl8Sn0cK7"
@@ -13495,9 +14358,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 482,
+    "id": "c9f4cd",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "DHER: Hindsight Experience Replay for Dynamic Goals",
     "pdf_link": "https://openreview.net/pdf?id=Byf5-30qFX"
@@ -13522,9 +14386,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 483,
+    "id": "f0344b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Spreading vectors for similarity search",
     "pdf_link": "https://openreview.net/pdf?id=SkGuG2R5tm"
@@ -13541,9 +14406,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 484,
+    "id": "c2effb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Feed-forward Propagation in Probabilistic Neural Networks with Categorical and Max Layers",
     "pdf_link": "https://openreview.net/pdf?id=SkMuPjRcKQ"
@@ -13568,9 +14436,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 485,
+    "id": "df3bee",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Kernel Change-point Detection with Auxiliary Deep Generative Models",
     "pdf_link": "https://openreview.net/pdf?id=r1GbfhRqF7"
@@ -13599,9 +14470,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 486,
+    "id": "e0c174",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Do Deep Generative Models Know What They Don't Know? ",
     "pdf_link": "https://openreview.net/pdf?id=H1xwNhCcYm"
@@ -13622,9 +14496,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 487,
+    "id": "b625a2",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Unsupervised Learning of the Set of Local Maxima",
     "pdf_link": "https://openreview.net/pdf?id=H1lqZhRcFm"
@@ -13657,9 +14532,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 488,
+    "id": "c018be",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Modeling Uncertainty with Hedged Instance Embeddings",
     "pdf_link": "https://openreview.net/pdf?id=r1xQQhAqKX"
@@ -13680,9 +14558,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 489,
+    "id": "4fe234",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers",
     "pdf_link": "https://openreview.net/pdf?id=SJfb5jCqKm"
@@ -13711,9 +14590,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 490,
+    "id": "41f095",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids",
     "pdf_link": "https://openreview.net/pdf?id=rJgbSn09Ym"
@@ -13738,9 +14620,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 491,
+    "id": "d3f5a9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Doubly Reparameterized Gradient Estimators for Monte Carlo Objectives",
     "pdf_link": "https://openreview.net/pdf?id=HkG3e205K7"
@@ -13761,9 +14644,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 492,
+    "id": "d1b37b",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Attention, Learn to Solve Routing Problems!",
     "pdf_link": "https://openreview.net/pdf?id=ByxBFsRqYm"
@@ -13780,9 +14666,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 493,
+    "id": "e1aa7f",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Amortized Bayesian Meta-Learning",
     "pdf_link": "https://openreview.net/pdf?id=rkgpy3C5tX"
@@ -13807,9 +14694,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 494,
+    "id": "6e85f9",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Meta-Learning Update Rules for Unsupervised Representation Learning",
     "pdf_link": "https://openreview.net/pdf?id=HkNDsiC9KQ"
@@ -13830,9 +14720,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 495,
+    "id": "427543",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "MAE: Mutual Posterior-Divergence Regularization for Variational AutoEncoders",
     "pdf_link": "https://openreview.net/pdf?id=Hke4l2AcKQ"
@@ -13857,9 +14748,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 496,
+    "id": "41e3bb",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Variance Networks: When Expectation Does Not Meet Your Expectations",
     "pdf_link": "https://openreview.net/pdf?id=B1GAUs0cKQ"
@@ -13892,9 +14786,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 497,
+    "id": "392cb8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "Wasserstein Barycenter Model Ensembling",
     "pdf_link": "https://openreview.net/pdf?id=H1g4k309F7"
@@ -13915,9 +14812,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 498,
+    "id": "f001f5",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Variational Autoencoder with Arbitrary Conditioning",
     "pdf_link": "https://openreview.net/pdf?id=SyxtJh0qYm"
@@ -13946,9 +14847,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 499,
+    "id": "04e814",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Beyond Greedy Ranking: Slate Optimization via List-CVAE",
     "pdf_link": "https://openreview.net/pdf?id=r1xX42R5Fm"
@@ -13981,9 +14883,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 500,
+    "id": "5355e2",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Bayesian Policy Optimization for Model Uncertainty",
     "pdf_link": "https://openreview.net/pdf?id=SJGvns0qK7"
@@ -14004,9 +14907,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 501,
+    "id": "dd1557",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Efficiently testing local optimality and escaping saddles for ReLU networks",
     "pdf_link": "https://openreview.net/pdf?id=HylTXn0qYX"
@@ -14043,9 +14947,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 502,
+    "id": "231fa8",
     "metadata": {
-      "type": "Poster"
+      "type": "Poster",
+      "words": []
     },
     "name": "Accumulation Bit-Width Scaling For Ultra-Low Precision Training Of Deep Networks",
     "pdf_link": "https://openreview.net/pdf?id=BklMjsRqY7"
@@ -14062,9 +14967,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 503,
+    "id": "35c131",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Generating High Fidelity Images with Subscale Pixel Networks and Multidimensional Upscaling",
     "pdf_link": "https://openreview.net/pdf?id=HylzTiC5Km"
@@ -14081,9 +14989,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 504,
+    "id": "d67f3f",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "BA-Net: Dense Bundle Adjustment Networks",
     "pdf_link": "https://openreview.net/pdf?id=B1gabhRcYX"
@@ -14104,9 +15015,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 505,
+    "id": "c1e665",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Large Scale GAN Training for High Fidelity Natural Image Synthesis",
     "pdf_link": "https://openreview.net/pdf?id=B1xsqj09Fm"
@@ -14123,9 +15037,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 506,
+    "id": "ea1fa5",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "On Random Deep Weight-Tied Autoencoders: Exact Asymptotic Analysis, Phase Transitions, and Implications to Training",
     "pdf_link": "https://openreview.net/pdf?id=HJx54i05tX"
@@ -14150,9 +15065,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 507,
+    "id": "e1ae55",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "How Powerful are Graph Neural Networks?",
     "pdf_link": "https://openreview.net/pdf?id=ryGs6iA5Km"
@@ -14169,9 +15085,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 508,
+    "id": "9302c7",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=rJl-b3RcF7"
@@ -14196,9 +15113,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 509,
+    "id": "76c9cb",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Learning Protein Structure with a Differentiable Simulator",
     "pdf_link": "https://openreview.net/pdf?id=Byg3y3C9Km"
@@ -14243,9 +15163,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 510,
+    "id": "44d8dc",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset",
     "pdf_link": "https://openreview.net/pdf?id=r1lYRjC9F7"
@@ -14270,9 +15191,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 511,
+    "id": "7971d4",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs",
     "pdf_link": "https://openreview.net/pdf?id=S1xq3oR5tQ"
@@ -14289,9 +15213,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 512,
+    "id": "c21ed4",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware",
     "pdf_link": "https://openreview.net/pdf?id=rJVorjCcKQ"
@@ -14312,9 +15239,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 513,
+    "id": "472cba",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "Learning to Remember More with Less Memorization",
     "pdf_link": "https://openreview.net/pdf?id=r1xlvi0qYm"
@@ -14339,9 +15267,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 514,
+    "id": "532094",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "Learning Robust Representations by Projecting Superficial Statistics Out",
     "pdf_link": "https://openreview.net/pdf?id=rJEjjoR9K7"
@@ -14374,9 +15303,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 515,
+    "id": "fc521b",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "pytorch"
+      ]
     },
     "name": "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness",
     "pdf_link": "https://openreview.net/pdf?id=Bygh9j09KX"
@@ -14413,9 +15345,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 516,
+    "id": "d9a8e9",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "Learning deep representations by mutual information estimation and maximization",
     "pdf_link": "https://openreview.net/pdf?id=Bklr3j0cKX"
@@ -14436,9 +15369,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 517,
+    "id": "45196c",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks",
     "pdf_link": "https://openreview.net/pdf?id=ByeZ5jC5YQ"
@@ -14471,9 +15407,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 518,
+    "id": "0ed7ae",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Deterministic Variational Inference for Robust Bayesian Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=B1l08oAct7"
@@ -14502,9 +15441,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 519,
+    "id": "e89a4a",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "FFJORD: Free-Form Continuous Dynamics for Scalable Reversible Generative Models",
     "pdf_link": "https://openreview.net/pdf?id=rJxgknCcK7"
@@ -14533,9 +15473,13 @@
       ]
     ],
     "conference": "iclr",
-    "id": 521,
+    "id": "3d0fab",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "name": "Pay Less Attention with Lightweight and Dynamic Convolutions",
     "pdf_link": "https://openreview.net/pdf?id=SkVhlh09tX"
@@ -14564,9 +15508,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 522,
+    "id": "66ba82",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision",
     "pdf_link": "https://openreview.net/pdf?id=rJgMlhRctm"
@@ -14595,9 +15540,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 523,
+    "id": "aaba3e",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "Smoothing the Geometry of Probabilistic Box Embeddings",
     "pdf_link": "https://openreview.net/pdf?id=H1xSNiRcF7"
@@ -14622,9 +15568,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 524,
+    "id": "103968",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks",
     "pdf_link": "https://openreview.net/pdf?id=B1l6qiR5F7"
@@ -14649,9 +15596,12 @@
       ]
     ],
     "conference": "iclr",
-    "id": 525,
+    "id": "1b776f",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": [
+        "tensorflow"
+      ]
     },
     "name": "Meta-Learning Update Rules for Unsupervised Representation Learning",
     "pdf_link": "https://openreview.net/pdf?id=HkNDsiC9KQ"
@@ -14680,9 +15630,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 526,
+    "id": "a9f943",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "Temporal Difference Variational Auto-Encoder",
     "pdf_link": "https://openreview.net/pdf?id=S1x4ghC9tQ"
@@ -14707,9 +15658,10 @@
       ]
     ],
     "conference": "iclr",
-    "id": 527,
+    "id": "611eda",
     "metadata": {
-      "type": "Oral"
+      "type": "Oral",
+      "words": []
     },
     "name": "Transferring Knowledge across Learning Processes",
     "pdf_link": "https://openreview.net/pdf?id=HygBZnRctX"

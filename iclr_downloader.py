@@ -3,34 +3,44 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 import json
 import time
+import uuid
 
 
 year = 2019
 
-paper_id = 0
-
 
 def getNewPaperId():
-    global paper_id
-    paper_id += 1
-    return paper_id
+    return uuid.uuid4().hex[:8]
 
 
 def initData():
     return {
         "name": None,  # string
         "authors": [],  # list of (name, affiliation) tuples
-        "id": getNewPaperId(),  # unique id
+        "id": getNewPaperId(),  # uuid
         "pdf_link": None,  # URL
-        "metadata": {},
-        "conference": None
+        "metadata": {
+            'words': []
+        },
+        "conference": None,  # string
     }
 
 
 paper_data = []
 
 
+def get_link_iclr(paper_elem):
+    pdf_link = paper_elem.find_elements_by_class_name(
+        "href_PDF")
+    if len(pdf_link) == 0:
+        continue
+    pdf_link = pdf_link[0].get_attribute("href")
+    pdf_link = pdf_link.replace("forum", "pdf")
+    return pdf_link
+
 # ICLR, NIPS
+
+
 def get_papers(conference, paper_type, start_idx=0):
     driver = webdriver.Chrome()
     driver.implicitly_wait(10)
@@ -48,18 +58,12 @@ def get_papers(conference, paper_type, start_idx=0):
         driver.get(conf_link)
         papers = driver.find_elements_by_class_name(paper_type)
         paper = papers[paper_idx]
-        pdf_link = paper.find_elements_by_class_name(
-            "href_PDF")
-        if len(pdf_link) == 0:
-            continue
         if conference == "iclr":
-            pdf_link = pdf_link[0].get_attribute("href")
-            pdf_link = pdf_link.replace("forum", "pdf")
-            paper_name = paper.find_element_by_class_name(
-                "maincardBody").get_attribute("innerHTML")
-            data["pdf_link"] = pdf_link
+            data["pdf_link"] = get_link_iclr(paper)
         else:
             pass
+        paper_name = paper.find_element_by_class_name(
+            "maincardBody").get_attribute("innerHTML")
         data["name"] = paper_name
         paper.click()
 
