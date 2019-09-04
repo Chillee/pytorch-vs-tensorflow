@@ -589,8 +589,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "2.5D Visual Sound",
@@ -1202,8 +1202,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Learning a Deep ConvNet for Multi-Label Classification With Partial Labels",
@@ -1224,8 +1224,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Generalized Intersection Over Union: A Metric and a Loss for Bounding Box Regression",
@@ -2142,8 +2142,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "BridgeNet: A Continuity-Aware Probabilistic Network for Age Estimation",
@@ -2341,8 +2341,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Less Is More: Learning Highlight Detection From Video Duration",
@@ -3308,8 +3308,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Adaptively Connected Neural Networks",
@@ -3349,8 +3349,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Temporal Cycle-Consistency Learning",
@@ -4048,8 +4048,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Doodle to Search: Practical Zero-Shot Sketch-Based Image Retrieval",
@@ -4400,8 +4400,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "DeepView: View Synthesis With Learned Gradient Descent",
@@ -4951,8 +4951,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Do Better ImageNet Models Transfer Better?",
@@ -4989,8 +4989,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Understanding the Disharmony Between Dropout and Batch Normalization by Variance Shift",
@@ -5269,8 +5269,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "MnasNet: Platform-Aware Neural Architecture Search for Mobile",
@@ -6333,8 +6333,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Exploiting Temporal Context for 3D Human Pose Estimation in the Wild",
@@ -7107,8 +7107,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Learning Linear Transformations for Fast Image and Video Style Transfer",
@@ -7725,8 +7725,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Exact Adversarial Attack to Image Captioning via Structured Output Learning With Latent Variables",
@@ -8066,8 +8066,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses",
@@ -8165,8 +8165,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "fb.com"
+        "fb.com",
+        "tensorflow"
       ]
     },
     "name": "Unsupervised Learning of Dense Shape Correspondence",
@@ -8327,8 +8327,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Occupancy Networks: Learning 3D Reconstruction in Function Space",
@@ -8744,8 +8744,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "ArcFace: Additive Angular Margin Loss for Deep Face Recognition",
@@ -8816,8 +8816,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Sensitive-Sample Fingerprinting of Deep Neural Networks",
@@ -9539,8 +9539,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Detect-To-Retrieve: Efficient Regional Aggregation for Image Search",
@@ -10439,8 +10439,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Learning Independent Object Motion From Unlabelled Stereoscopic Videos",
@@ -10490,8 +10490,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Lending Orientation to Neural Networks for Cross-View Geo-Localization",
@@ -12211,8 +12211,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Few-Shot Learning With Localization in Realistic Settings",
@@ -12384,8 +12384,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Cycle-Consistency for Robust Visual Question Answering",
@@ -13117,8 +13117,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "OICSR: Out-In-Channel Sparsity Regularization for Compact Deep Neural Networks",
@@ -13541,8 +13541,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Towards Robust Curve Text Detection With Conditional Spatial Expansion",
@@ -15996,8 +15996,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Multimodal Explanations by Predicting Counterfactuality in Videos",
@@ -16351,8 +16351,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Incremental Object Learning From Contiguous Views",
@@ -16436,8 +16436,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "UPSNet: A Unified Panoptic Segmentation Network",
@@ -16740,8 +16740,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "TraVeLGAN: Image-To-Image Translation by Transformation Vector Learning",
@@ -16997,8 +16997,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "MBS: Macroblock Scaling for CNN Model Reduction",
@@ -19470,8 +19470,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Inverse Cooking: Recipe Generation From Food Images",
@@ -19805,8 +19805,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Practical Full Resolution Learned Lossless Image Compression",
@@ -19882,8 +19882,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "RePr: Improved Training of Convolutional Filters",
@@ -20015,8 +20015,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search",
@@ -20184,8 +20184,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "AdaCos: Adaptively Scaling Cosine Logits for Effectively Learning Deep Face Representations",
@@ -20518,8 +20518,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "DVC: An End-To-End Deep Video Compression Framework",
@@ -20872,8 +20872,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "ECC: Platform-Independent Energy-Constrained Deep Neural Network Compression via a Bilinear Regression Model",
@@ -20896,8 +20896,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity Through Low-Bit Quantization",
@@ -21243,8 +21243,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "ChamNet: Towards Efficient Network Design Through Platform-Aware Model Adaptation",
@@ -21490,8 +21490,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Data-Driven Neuron Allocation for Scale Aggregation Networks",
@@ -21543,8 +21543,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "QATM: Quality-Aware Template Matching for Deep Learning",
@@ -21967,8 +21967,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "StereoDRNet: Dilated Residual StereoNet",
@@ -22528,8 +22528,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Unsupervised Deep Epipolar Flow for Stationary or Dynamic Scenes",
@@ -22843,8 +22843,8 @@
       "affiliation": [],
       "words": [
         "fb.com",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Knowing When to Stop: Evaluation and Verification of Conformity to Output-Size Specifications",

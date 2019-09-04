@@ -620,8 +620,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "The Mechanics of n-Player Differentiable Games",
@@ -969,8 +969,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Understanding and Simplifying One-Shot Architecture Search",
@@ -1037,8 +1037,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Adaptive Sampled Softmax with Kernel Based Sampling",
@@ -1601,8 +1601,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "DRACO: Byzantine-resilient Distributed Training via Redundant Gradients",
@@ -1655,8 +1655,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "End-to-End Learning for the Deep Multivariate Probit Model",
@@ -1727,8 +1727,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Structured Evolution with Compact Architectures for Scalable Policy Optimization",
@@ -2526,8 +2526,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures",
@@ -2734,8 +2734,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "DiCE: The Infinitely Differentiable Monte Carlo Estimator",
@@ -3284,9 +3284,9 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Shampoo: Preconditioned Stochastic Tensor Optimization",
@@ -3405,8 +3405,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Deep Models of Interactions Across Sets",
@@ -4012,8 +4012,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Efficient end-to-end learning for quantizable representations",
@@ -4032,8 +4032,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Exploring Hidden Dimensions in Accelerating Convolutional Neural Networks",
@@ -4218,9 +4218,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "fb.com",
         "tensorflow",
-        "fb.com"
+        "pytorch"
       ]
     },
     "name": "Kronecker Recurrent Units",
@@ -4243,8 +4243,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Fast Decoding in Sequence Models Using Discrete Latent Variables",
@@ -4287,8 +4287,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Efficient Neural Audio Synthesis",
@@ -4460,8 +4460,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "LaVAN: Localized and Visible Adversarial Noise",
@@ -5096,8 +5096,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Generalization without Systematicity: On the Compositional Skills of Sequence-to-Sequence Recurrent Networks",
@@ -5426,9 +5426,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "RLlib: Abstractions for Distributed Reinforcement Learning",
@@ -6521,8 +6521,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "fb.com"
+        "fb.com",
+        "tensorflow"
       ]
     },
     "name": "Fitting New Speakers Based on a Short Untranscribed Sample",
@@ -6814,8 +6814,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Is Generator Conditioning Causally Related to GAN Performance?",
@@ -6903,8 +6903,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Transformation Autoregressive Networks",
@@ -6957,8 +6957,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Parallel WaveNet: Fast High-Fidelity Speech Synthesis",
@@ -7202,8 +7202,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Image Transformer",
@@ -7308,8 +7308,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Constant-Time Predictive Distributions for Gaussian Processes",
@@ -7767,8 +7767,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Been There, Done That: Meta-Learning with Episodic Recall",
@@ -8483,8 +8483,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Approximation Algorithms for Cascading Prediction Models",
@@ -8858,8 +8858,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Learning Longer-term Dependencies in RNNs with Auxiliary Losses",
@@ -9634,8 +9634,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks",
@@ -10749,8 +10749,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Hierarchical Long-term Video Prediction without Supervision",

@@ -4764,8 +4764,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Banded Matrix Operators for Gaussian Markov Models in the Automatic Differentiation Era",
@@ -5576,8 +5576,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Revisit Batch Normalization: New Understanding and Refinement via Composition Optimization",

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ml": "ocaml",
+        "*.mli": "ocaml",
+        "iomanip": "cpp"
+    }
+}

@@ -188,9 +188,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Associative Multichannel Autoencoder for Multimodal Word Representation",
@@ -670,8 +670,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "opennmt",
-        "google.com"
+        "google.com",
+        "opennmt"
       ]
     },
     "name": "XL-NBT: A Cross-lingual Neural Belief Tracking Framework",
@@ -779,8 +779,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Semi-Autoregressive Neural Machine Translation",
@@ -818,8 +818,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Bootstrapping Transliteration with Constrained Discovery for Low-Resource Languages",
@@ -1408,8 +1408,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "opennmt",
-        "google.com"
+        "google.com",
+        "opennmt"
       ]
     },
     "name": "Learning To Split and Rephrase From Wikipedia Edit History",
@@ -1477,8 +1477,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Training for Diversity in Image Paragraph Captioning",
@@ -1512,8 +1512,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Guided Neural Language Generation for Abstractive Summarization using Abstract Meaning Representation",
@@ -1756,8 +1756,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation",
@@ -1995,8 +1995,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Neural-Davidsonian Semantic Proto-role Labeling",
@@ -3113,9 +3113,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
         "allennlp",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Dissecting Contextual Word Embeddings: Architecture and Representation",
@@ -3164,8 +3164,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "allennlp",
-        "google.com"
+        "google.com",
+        "allennlp"
       ]
     },
     "name": "Spot the Odd Man Out: Exploring the Associative Power of Lexical Resources",
@@ -3540,8 +3540,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Pointwise HSIC: A Linear-Time Kernelized Co-occurrence Norm for Sparse Linguistic Expressions",
@@ -3777,8 +3777,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Semi-Supervised Sequence Modeling with Cross-View Training",
@@ -4498,8 +4498,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Large-scale Cloze Test Dataset Created by Teachers",
@@ -4559,8 +4559,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "allennlp"
+        "allennlp",
+        "pytorch"
       ]
     },
     "name": "Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering",
@@ -4877,8 +4877,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "allennlp",
-        "google.com"
+        "google.com",
+        "allennlp"
       ]
     },
     "name": "A Challenge Set and Methods for Noun-Verb Ambiguity",
@@ -5276,8 +5276,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Semantic Parsing for Task Oriented Dialog using Hierarchical Representations",
@@ -5672,8 +5672,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "The Importance of Generation Order in Language Modeling",
@@ -6103,9 +6103,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Hierarchical Neural Networks for Sequential Sentence Classification in Medical Scientific Abstracts",
@@ -6266,8 +6266,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Knowledge Graph Embedding with Hierarchical Relation Structure",
@@ -6440,8 +6440,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Building Context-aware Clause Representations for Situation Entity Type Classification",
@@ -7175,8 +7175,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "A Word-Complexity Lexicon and A Neural Readability Ranking Model for Lexical Simplification",
@@ -7305,8 +7305,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "A Self-Attentive Model with Gate Mechanism for Spoken Language Understanding",
@@ -7343,8 +7343,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "AirDialogue: An Environment for Goal-Oriented Dialogue Research",
@@ -7675,8 +7675,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Object Hallucination in Image Captioning",
@@ -7881,8 +7881,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Frustratingly Easy Model Ensemble for Abstractive Summarization",
@@ -8368,9 +8368,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "opennmt",
         "google brain",
-        "google.com"
+        "google.com",
+        "opennmt"
       ]
     },
     "name": "Simple Recurrent Units for Highly Parallelizable Recurrence",
@@ -8661,8 +8661,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Language Modeling with Sparse Product of Sememe Experts",
@@ -9601,8 +9601,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Linguistically-Informed Self-Attention for Semantic Role Labeling",

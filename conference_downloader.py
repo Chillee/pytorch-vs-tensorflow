@@ -7,6 +7,7 @@ import uuid
 import argparse
 from urllib.parse import urlsplit, urlunsplit, quote
 from posixpath import basename, dirname, join
+from collections import defaultdict
 
 parser = argparse.ArgumentParser(
     description='Adds metadata to a json file')
@@ -16,6 +17,7 @@ args = parser.parse_args()
 
 conference = args.conference
 year = int(args.year)
+LOG_PER = 10
 
 
 def getNewPaperId():
@@ -57,7 +59,7 @@ def get_nips(year):
         'body > div.main-container > div > ul > li')
     print(f"Processsing NIPS {year} with {len(papers)} papers")
     for paper in papers:
-        if len(conf_data) % 100 == 0:
+        if len(conf_data) % LOG_PER == 0:
             print(len(conf_data))
         data = initData()
         pdf_link = paper.find_element_by_tag_name('a')
@@ -87,7 +89,7 @@ def get_openaccesscvf(conference, year):
     info = driver.find_elements_by_tag_name('dd')[1::2]
     print(f"Processsing {conference} {year} with {len(titles)} papers")
     for idx, title in enumerate(titles):
-        if len(conf_data) % 100 == 0:
+        if len(conf_data) % LOG_PER == 0:
             print(len(conf_data))
         data = initData()
         data['conference'] = conference
@@ -114,7 +116,7 @@ def get_iclr(year):
     def process(papers):
         print(f"Processsing {conference} {year} with {len(papers)} papers")
         for paper in papers:
-            if len(conf_data) % 100 == 0:
+            if len(conf_data) % LOG_PER == 0:
                 print(len(conf_data))
             data = initData()
             data['conference'] = conference
@@ -152,25 +154,27 @@ def get_acl_anthology(conference, year):
         'naacl': 'n'
     }
     suffix_ids = {
-        'acl': [1, 2],
-        'emnlp': [1],
-        'naacl': [1, 2]
+        'acl': defaultdict(lambda :[1, 2]),
+        'emnlp': defaultdict(lambda : [1, 2]),
+        'naacl': defaultdict(lambda : [1, 2]),
     }
-    for suffix_id in suffix_ids[conference]:
+    suffix_ids['acl']['2019'] = [1]
+    for suffix_id in suffix_ids[conference][year]:
         papers = driver.find_element_by_id(
             f"{prefix_id[conference]}{str(year)[-2:]}-{suffix_id}").find_elements_by_tag_name('p')
         print(f"Processsing {conference} {year} with {len(papers)} papers")
         for paper in papers[1:]:
-            if len(conf_data) % 100 == 0:
+            if len(conf_data) % LOG_PER == 0:
                 print(len(conf_data))
             data = initData()
             data['conference'] = conference
             data['year'] = year
             title = paper.find_element_by_css_selector('strong > a')
             data['name'] = title.get_attribute('text')
-            pdf_link = getSubLink(paper.find_element_by_tag_name('span'))
+            spans = paper.find_elements_by_tag_name('span')
+            pdf_link = getSubLink(spans[0])
             data['pdf_link'] = pdf_link
-            authors = paper.find_elements_by_css_selector('p > a')
+            authors = spans[1].find_elements_by_tag_name('a')
             for author in authors:
                 data['authors'].append(author.get_attribute('text'))
             conf_data.append(data)
@@ -191,7 +195,7 @@ def get_mlr(conference, year):
     papers = driver.find_elements_by_class_name('paper')
     print(f"Processsing {conference} {year} with {len(papers)} papers")
     for paper in papers:
-        if len(conf_data) % 100 == 0:
+        if len(conf_data) % LOG_PER == 0:
             print(len(conf_data))
         data = initData()
 
@@ -207,6 +211,16 @@ def get_mlr(conference, year):
         data['name'] = paper.find_element_by_class_name(
             'title').get_attribute('textContent')
         data['conference'] = conference
+        links = paper.find_element_by_class_name('links')
+        try:
+            driver.implicitly_wait(1)
+            code_link = links.find_element_by_xpath(
+                f"a[text()[contains(., 'Code')]]")
+            data['metadata']['code'] = code_link.get_attribute('href')
+            driver.implicitly_wait(10)
+            print(data['metadata'])
+        except:
+            pass
         data['year'] = year
         authors = paper.find_element_by_class_name(
             'authors').get_attribute('innerHTML')
@@ -227,7 +241,7 @@ elif conference in ['acl', 'emnlp', 'naacl']:
 elif conference in ['colt', 'aistats', 'icml']:
     res = get_mlr(conference, year)
 
-for paper in data:
+for paper in res:
     paper['pdf_link'] = quote(paper['pdf_link'])
 
 json.dump(res, open(f'data/{conference}_{year}.json', 'w'),

@@ -623,8 +623,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "HiGRU: Hierarchical Gated Recurrent Units for Utterance-Level Emotion Recognition",
@@ -690,8 +690,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "ReWE: Regressing Word Embeddings for Regularization of Neural Machine Translation Systems",
@@ -1282,9 +1282,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
+        "allennlp",
         "google.com",
-        "allennlp"
+        "tensorflow"
       ]
     },
     "name": "Syntax-aware Neural Semantic Role Labeling with Supertags",
@@ -2092,8 +2092,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Consistency by Agreement in Zero-Shot Neural Machine Translation",
@@ -3177,8 +3177,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "allennlp"
+        "allennlp",
+        "pytorch"
       ]
     },
     "name": "Combining Distant and Direct Supervision for Neural Relation Extraction",
@@ -3228,8 +3228,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Learning to Stop in Structured Prediction for Neural Machine Translation",
@@ -3300,8 +3300,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Non-Parametric Adaptation for Neural Machine Translation",
@@ -3321,8 +3321,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Online Distilling from Checkpoints for Neural Machine Translation",
@@ -4220,8 +4220,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "allennlp"
+        "allennlp",
+        "pytorch"
       ]
     },
     "name": "Be Consistent! Improving Procedural Text Comprehension using Label Consistency",
@@ -4263,8 +4263,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "allennlp"
+        "allennlp",
+        "pytorch"
       ]
     },
     "name": "DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs",
@@ -4302,8 +4302,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "opennmt"
+        "opennmt",
+        "tensorflow"
       ]
     },
     "name": "Highly Effective Arabic Diacritization using Sequence to Sequence Modeling",
@@ -4321,8 +4321,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "allennlp"
+        "allennlp",
+        "pytorch"
       ]
     },
     "name": "SC-LSTM: Learning Task-Specific Representations in Multi-Task Learning for Sequence Labeling",
@@ -4339,8 +4339,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "allennlp"
+        "allennlp",
+        "pytorch"
       ]
     },
     "name": "Learning to Denoise Distantly-Labeled Data for Entity Typing",
@@ -4413,8 +4413,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "allennlp"
+        "allennlp",
+        "pytorch"
       ]
     },
     "name": "A Multi-Task Approach for Disentangling Syntax and Semantics in Sentence Representations",
@@ -4815,8 +4815,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "VCWE: Visual Character-Enhanced Word Embeddings",
@@ -5256,8 +5256,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "allennlp"
+        "allennlp",
+        "pytorch"
       ]
     },
     "name": "Repurposing Entailment for Multi-Hop Question Answering Tasks",
@@ -5471,8 +5471,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models",
@@ -5564,8 +5564,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Text Classification with Few Examples using Controlled Generalization",
@@ -5814,8 +5814,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Corpora Generation for Grammatical Error Correction",
@@ -6047,8 +6047,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "DiscoFuse: A Large-Scale Dataset for Discourse-Based Sentence Fusion",
@@ -6086,8 +6086,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Learning to Describe Unknown Phrases with Local and Global Contexts",
@@ -6143,8 +6143,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "google.com",
-        "allennlp"
+        "allennlp",
+        "google.com"
       ]
     },
     "name": "Subword-based Compact Reconstruction of Word Embeddings",
@@ -6180,8 +6180,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "allennlp"
+        "allennlp",
+        "tensorflow"
       ]
     },
     "name": "AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning",
@@ -6382,8 +6382,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Structural Neural Encoders for AMR-to-text Generation",
@@ -6763,8 +6763,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Massively Multilingual Neural Machine Translation",
@@ -6877,8 +6877,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Question Answering as an Automatic Evaluation Metric for News Article Summarization",
@@ -7117,8 +7117,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Pre-trained language model representations for language generation",
@@ -7217,8 +7217,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "fb.com"
+        "fb.com",
+        "tensorflow"
       ]
     },
     "name": "On the Idiosyncrasies of the Mandarin Chinese Classifier System",
@@ -7356,8 +7356,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
@@ -7909,8 +7909,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Content-based Dwell Time Engagement Prediction Model for News Articles",

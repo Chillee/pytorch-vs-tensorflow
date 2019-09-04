@@ -13,8 +13,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Embodied Question Answering",
@@ -673,8 +673,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors",
@@ -1373,8 +1373,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Dynamic-Structured Semantic Propagation Network",
@@ -1458,8 +1458,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Learning to Sketch With Shortcut Cycle Consistency",
@@ -2058,8 +2058,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Rethinking the Faster R-CNN Architecture for Temporal Action Localization",
@@ -4074,9 +4074,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "fb.com",
         "google.com",
-        "fb.com"
+        "pytorch"
       ]
     },
     "name": "Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation",
@@ -4824,8 +4824,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Recurrent Slice Networks for 3D Segmentation of Point Clouds",
@@ -4992,8 +4992,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference",
@@ -5218,8 +5218,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "DeepMVS: Learning Multi-View Stereopsis",
@@ -6750,8 +6750,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments",
@@ -8319,8 +8319,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "MobileNetV2: Inverted Residuals and Linear Bottlenecks",
@@ -10418,8 +10418,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "In-Place Activated BatchNorm for Memory-Optimized Training of DNNs",
@@ -10472,8 +10472,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Unsupervised Learning of Depth and Ego-Motion From Monocular Video Using 3D Geometric Constraints",
@@ -10509,8 +10509,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Mobile Video Object Detection With Temporally-Aware Feature Maps",
@@ -10956,8 +10956,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Distort-and-Recover: Color Enhancement Using Deep Reinforcement Learning",
@@ -12239,8 +12239,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Frame-Recurrent Video Super-Resolution",
@@ -12464,8 +12464,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Weakly Supervised Action Localization by Sparse Temporal Pooling Network",
@@ -13389,8 +13389,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "CVM-Net: Cross-View Matching Network for Image-Based Ground-to-Aerial Geo-Localization",
@@ -14574,8 +14574,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "ClcNet: Improving the Efficiency of Convolutional Neural Network Using Channel Local Convolutions",
@@ -14692,8 +14692,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Tagging Like Humans: Diverse and Distinct Image Annotation",
@@ -15308,8 +15308,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Thoracic Disease Identification and Localization With Limited Supervision",
@@ -16094,8 +16094,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "SBNet: Sparse Blocks Network for Fast Inference",
@@ -16429,8 +16429,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Deep Learning Under Privileged Information Using Heteroscedastic Dropout",
@@ -16485,8 +16485,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "fb.com"
+        "fb.com",
+        "tensorflow"
       ]
     },
     "name": "Deep Spatio-Temporal Random Fields for Efficient Video Segmentation",

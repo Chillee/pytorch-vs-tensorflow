@@ -3,6 +3,7 @@ import json
 import os
 import argparse
 import requests
+from urllib.parse import unquote
 
 parser = argparse.ArgumentParser(
     description='Downloads research pdfs from a .json file')
@@ -21,6 +22,6 @@ for idx, paper in enumerate(data):
     else:
         print(f"Downloading \"{paper['name']}\" [{idx}/{len(data)}]")
 
-    r = requests.get(paper['pdf_link'])
+    r = requests.get(unquote(paper['pdf_link']))
     with open(f"data/pdfs/{paper['id']}.pdf", 'wb') as f:
         f.write(r.content)

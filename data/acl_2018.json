@@ -47,8 +47,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Unsupervised Learning of Distributional Relation Vectors",
@@ -149,8 +149,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation",
@@ -1410,8 +1410,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Hierarchical Neural Story Generation",
@@ -2108,8 +2108,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Exemplar Encoder-Decoder for Neural Conversation Generation",
@@ -2273,8 +2273,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "LSTMs Can Learn Syntax-Sensitive Dependencies Well, But Modeling Structure Makes Them Better",
@@ -3274,8 +3274,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Neural Models for Documents with Metadata",
@@ -3844,8 +3844,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Building Language Models for Text with Named Entities",
@@ -4027,8 +4027,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Bilingual Sentiment Embeddings: Joint Projection of Sentiment Across Languages",
@@ -5116,8 +5116,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Filtering and Mining Parallel Data in a Joint Multilingual Space",
@@ -5223,8 +5223,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Conditional Generators of Words Definitions",
@@ -6069,8 +6069,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "allennlp",
-        "google.com"
+        "google.com",
+        "allennlp"
       ]
     },
     "name": "Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction",
@@ -6445,8 +6445,8 @@
       "affiliation": [],
       "words": [
         "allennlp",
-        "tensorflow",
-        "opennmt"
+        "opennmt",
+        "tensorflow"
       ]
     },
     "name": "Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum",

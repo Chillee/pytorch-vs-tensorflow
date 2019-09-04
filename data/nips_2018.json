@@ -416,8 +416,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Snap ML: A Hierarchical Framework for Machine Learning",
@@ -587,8 +587,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "A^2-Nets: Double Attention Networks",
@@ -721,9 +721,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Implicit Reparameterization Gradients",
@@ -742,9 +742,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Training DNNs with Hybrid Block Floating Point",
@@ -1034,8 +1034,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Maximum-Entropy Fine Grained Classification",
@@ -1379,8 +1379,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Large Margin Deep Networks for Classification",
@@ -2141,8 +2141,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "FRAGE: Frequency-Agnostic Word Representation",
@@ -2935,8 +2935,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Collaborative Learning for Deep Neural Networks",
@@ -3213,8 +3213,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "SplineNets: Continuous Neural Decision Graphs",
@@ -3323,8 +3323,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning",
@@ -3551,8 +3551,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "The Description Length of Deep Learning models",
@@ -3837,8 +3837,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Meta-Gradient Reinforcement Learning",
@@ -4046,8 +4046,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication",
@@ -4333,8 +4333,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Learning Hierarchical Semantic Image Manipulation through Structured Representations",
@@ -4404,8 +4404,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Computing Higher Order Derivatives of Matrix and Tensor Expressions",
@@ -5292,8 +5292,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Data-Efficient Hierarchical Reinforcement Learning",
@@ -5764,8 +5764,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Neural Code Comprehension: A Learnable Representation of Code Semantics",
@@ -6120,8 +6120,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Data center cooling using model-predictive control",
@@ -6153,8 +6153,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Lipschitz regularity of deep neural networks: analysis and efficient estimation",
@@ -6383,8 +6383,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Deep Generative Markov State Models",
@@ -6631,8 +6631,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Cooperative neural networks (CoNN): Exploiting prior independence structure for improved classification",
@@ -7307,8 +7307,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare",
@@ -8049,8 +8049,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Adversarially Robust Generalization Requires More Data",
@@ -10015,8 +10015,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient",
@@ -10035,9 +10035,9 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Tangent: Automatic differentiation using source-code transformation for dynamically typed array programming",
@@ -10124,8 +10124,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Navigating with Graph Representations for Fast and Scalable Decoding of Neural Language Models",
@@ -10143,8 +10143,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Deep Structured Prediction with Nonlinear Output Transformations",
@@ -10467,8 +10467,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "On the Local Hessian in Back-propagation",
@@ -10897,8 +10897,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search",
@@ -10935,9 +10935,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Efficient Gradient Computation for Structured Output Learning with Rational and Tropical Losses",
@@ -10974,8 +10974,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Diminishing Returns Shape Constraints for Interpretability and Regularization",
@@ -11438,9 +11438,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Provably Correct Automatic Sub-Differentiation for Qualified Programs",
@@ -11725,8 +11725,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Unsupervised Text Style Transfer using Language Models as Discriminators",
@@ -11751,8 +11751,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Relational recurrent neural networks",
@@ -12157,8 +12157,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "cpSGD: Communication-efficient and differentially-private distributed SGD",
@@ -12178,8 +12178,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration",
@@ -12819,8 +12819,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Submodular Maximization via Gradient Ascent: The Case of Deep Submodular   Functions",
@@ -12838,8 +12838,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "The challenge of realistic music generation: modelling raw audio at scale",
@@ -12914,8 +12914,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Neural Arithmetic Logic Units",
@@ -13005,9 +13005,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
+        "fb.com",
         "google brain",
-        "google.com",
-        "fb.com"
+        "google.com"
       ]
     },
     "name": "A Lyapunov-based Approach to Safe Reinforcement Learning",
@@ -13204,8 +13204,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion",
@@ -13407,8 +13407,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Transfer Learning with Neural AutoML",
@@ -13936,9 +13936,9 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "HOUDINI: Lifelong Learning as Program Synthesis",
@@ -14052,9 +14052,9 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Automatic differentiation in ML: Where we are and where we should be going",
@@ -14509,9 +14509,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "fb.com",
         "tensorflow",
-        "fb.com"
+        "pytorch"
       ]
     },
     "name": "SING: Symbol-to-Instrument Neural Generator",
@@ -14736,8 +14736,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Watch Your Step: Learning Node Embeddings via Graph Attention",
@@ -15061,8 +15061,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Learning Attractor Dynamics for Generative Memory",
@@ -15562,8 +15562,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Coupled Variational Bayes via Optimization Embedding",
@@ -15725,8 +15725,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Adaptive Methods for Nonconvex Optimization",
@@ -15815,8 +15815,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "ATOMO: Communication-efficient Learning via Atomic Sparsification",
@@ -16043,8 +16043,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Memory Augmented Policy Optimization for Program Synthesis and Semantic Parsing",
@@ -16334,8 +16334,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Backpropagation with Callbacks: Foundations for Efficient and Expressive Differentiable Programming",
@@ -16710,8 +16710,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Mesh-TensorFlow: Deep Learning for Supercomputers",
@@ -17181,8 +17181,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Autoconj: Recognizing and Exploiting Conjugacy Without a Domain-Specific Language",
@@ -17224,8 +17224,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Forward Modeling for Partial Observation Strategy Games - A StarCraft Defogger",
@@ -17277,8 +17277,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Joint Autoregressive and Hierarchical Priors for Learned Image Compression",
@@ -17630,9 +17630,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
         "google.com",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "GroupReduce: Block-Wise Low-Rank Approximation for Neural Language Model Shrinking",

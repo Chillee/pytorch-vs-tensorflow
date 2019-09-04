@@ -296,8 +296,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "fb.com"
+        "fb.com",
+        "tensorflow"
       ]
     },
     "name": "End-to-end Neural Coreference Resolution",
@@ -664,8 +664,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Efficient Attention using a Fixed-Size Memory Representation",
@@ -930,8 +930,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Refining Word Embeddings for Sentiment Analysis",
@@ -1843,8 +1843,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "PACRR: A Position-Aware Neural IR Model for Relevance Matching",
@@ -2131,8 +2131,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Cross-domain Semantic Parsing via Paraphrasing",
@@ -2548,9 +2548,9 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
         "google.com",
-        "opennmt"
+        "opennmt",
+        "tensorflow"
       ]
     },
     "name": "Massive Exploration of Neural Machine Translation Architectures",
@@ -2608,8 +2608,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Towards Compact and Fast Neural Machine Translation Using a Combined Method",
@@ -3619,8 +3619,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Accurate Supervised and Semi-Supervised Machine Reading for Long Documents",
@@ -3836,8 +3836,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)",
@@ -3981,8 +3981,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models",
@@ -4000,8 +4000,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Bootstrapping incremental dialogue systems from minimal data: the generalisation power of dialogue grammars",
@@ -4408,8 +4408,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Deal or No Deal? End-to-End Learning of Negotiation Dialogues",

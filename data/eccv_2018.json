@@ -150,8 +150,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "PS-FCN: A Flexible Learning Framework for Photometric Stereo",
@@ -318,8 +318,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Learning to Segment via Cut-and-Paste",
@@ -819,8 +819,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Progressive Neural Architecture Search",
@@ -854,8 +854,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Attributes as Operators: Factorizing Unseen Attribute-Object Compositions",
@@ -1146,8 +1146,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Group Normalization",
@@ -1731,8 +1731,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "HybridNet: Classification and Reconstruction Cooperation for Semi-Supervised Learning",
@@ -1854,8 +1854,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Massively Parallel Video Networks",
@@ -2366,8 +2366,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Multi-Fiber Networks for Video Recognition",
@@ -3501,8 +3501,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Lifting Layers: Analysis and Applications",
@@ -3639,8 +3639,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Receptive Field Block Net for Accurate and Fast Object Detection",
@@ -4811,8 +4811,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures",
@@ -5066,8 +5066,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Coreset-Based Neural Network Compression",
@@ -5101,8 +5101,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Learning to Separate Object Sounds by Watching Unlabeled Video",
@@ -5650,9 +5650,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Scaling Egocentric Vision: The EPIC-KITCHENS Dataset",
@@ -5831,8 +5831,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Second-order Democratic Aggregation",
@@ -7893,8 +7893,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation",
@@ -8190,8 +8190,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Double JPEG Detection in Mixed JPEG Quality Factors using Deep Convolutional Neural Network",
@@ -8386,8 +8386,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Viewpoint Estimation---Insights &amp; Model",
@@ -8622,8 +8622,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model",
@@ -8961,8 +8961,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Joint Task-Recursive Learning for Semantic Segmentation and Depth Estimation",
@@ -9364,8 +9364,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Dynamic Task Prioritization for Multitask Learning",
@@ -9441,8 +9441,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications",
@@ -9892,8 +9892,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Fine-Grained Visual Categorization using Meta-Learning Optimization with Sample Selection of Auxiliary Data",
@@ -10164,8 +10164,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Eigendecomposition-free Training of Deep Networks with Zero Eigenvalue-based Losses",
@@ -10732,8 +10732,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Efficient 6-DoF Tracking of Handheld Objects from an Egocentric Viewpoint",
@@ -12218,8 +12218,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans",
@@ -13183,8 +13183,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Geolocation Estimation of Photos using a Hierarchical Model and Scene Classification",
@@ -13788,9 +13788,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "fb.com",
         "tensorflow",
-        "fb.com"
+        "pytorch"
       ]
     },
     "name": "Value-aware Quantization for Training and Inference of Neural Networks",

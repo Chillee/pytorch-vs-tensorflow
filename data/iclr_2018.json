@@ -370,8 +370,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines",
@@ -521,8 +521,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "A Neural Representation of Sketch Drawings",
@@ -630,8 +630,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Deep Bayesian Bandits Showdown:  An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling",
@@ -668,8 +668,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Fidelity-Weighted Learning",
@@ -743,8 +743,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis",
@@ -853,8 +853,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks",
@@ -893,8 +893,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "fb.com"
+        "fb.com",
+        "tensorflow"
       ]
     },
     "name": "Graph Attention Networks",
@@ -930,8 +930,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Generalizing Hamiltonian Monte Carlo with Neural Networks",
@@ -1012,9 +1012,9 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Mixed Precision Training",
@@ -1051,8 +1051,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "MaskGAN: Better Text Generation via Filling in the _______",
@@ -1429,8 +1429,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling",
@@ -1467,8 +1467,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "An efficient framework for learning sentence representations",
@@ -1623,9 +1623,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
+        "google.com",
         "opennmt",
-        "pytorch",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "Model compression via distillation and quantization",
@@ -1684,8 +1684,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Variational image compression with a scale hyperprior",
@@ -1807,8 +1807,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Distributed Prioritized Experience Replay",
@@ -1862,9 +1862,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "fb.com",
         "tensorflow",
-        "fb.com"
+        "pytorch"
       ]
     },
     "name": "VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop",
@@ -1905,8 +1905,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Learning Differentially Private Recurrent Language Models",
@@ -1950,8 +1950,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Generating Wikipedia by Summarizing Long Sequences",
@@ -2044,8 +2044,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension",
@@ -2325,8 +2325,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Trust-PCL: An Off-Policy Trust Region Method for Continuous Control",
@@ -2347,8 +2347,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Stochastic Variational Video Prediction",
@@ -2442,8 +2442,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks",
@@ -2604,8 +2604,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Semi-parametric topological memory for navigation",
@@ -2775,8 +2775,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Unsupervised Cipher Cracking Using Discrete GANs",
@@ -2795,8 +2795,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Neural Speed Reading via Skim-RNN",
@@ -2836,8 +2836,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Towards Neural Phrase-based Machine Translation",
@@ -2855,8 +2855,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "On the State of the Art of Evaluation in Neural Language Models",
@@ -2900,8 +2900,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Initialization matters: Orthogonal Predictive State Recurrent Neural Networks",
@@ -2977,8 +2977,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Ensemble Adversarial Training: Attacks and Defenses",
@@ -3068,8 +3068,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Depthwise Separable Convolutions for Neural Machine Translation",
@@ -3118,8 +3118,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "A Hierarchical Model for Device Placement",
@@ -3388,8 +3388,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Compositional Obverter Communication Learning from Raw Visual Input",
@@ -3414,8 +3414,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "SCAN: Learning Hierarchical Compositional Visual Concepts",
@@ -3591,8 +3591,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Generalizing Across Domains via Cross-Gradient Training",
@@ -3819,8 +3819,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Monotonic Chunkwise Attention",
@@ -3860,8 +3860,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Don't Decay the Learning Rate, Increase the Batch Size",
@@ -3917,8 +3917,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Neumann Optimizer: A Practical Optimization Algorithm for Deep Neural Networks",
@@ -4040,8 +4040,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "A Bayesian Perspective on Generalization and Stochastic Gradient Descent",
@@ -4079,8 +4079,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Sensitivity and Generalization in Neural Networks: an Empirical Study",
@@ -4151,8 +4151,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "All-but-the-Top: Simple and Effective Postprocessing for Word Representations",
@@ -4298,8 +4298,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Consequentialist conditional cooperation in social dilemmas with imperfect information",
@@ -4319,8 +4319,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Can Neural Networks Understand Logical Entailment?",
@@ -4395,8 +4395,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Matrix capsules with EM routing",
@@ -4786,8 +4786,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Scalable Private Learning with PATE",
@@ -4893,8 +4893,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Learning how to explain neural networks: PatternNet and PatternAttribution",
@@ -5503,8 +5503,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "mixup: Beyond Empirical Risk Minimization",
@@ -5994,8 +5994,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Multi-Mention Learning for Reading Comprehension with Neural Cascades",

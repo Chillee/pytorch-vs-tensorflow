@@ -782,8 +782,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "A Distributional Perspective on Reinforcement Learning",
@@ -803,8 +803,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Neural Optimizer Search with Reinforcement Learning",
@@ -1906,8 +1906,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders",
@@ -2014,8 +2014,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
@@ -2416,8 +2416,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs",
@@ -2454,8 +2454,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "DeepBach: a Steerable Model for Bach Chorales Generation",
@@ -2659,8 +2659,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "DARLA: Improving Zero-Shot Transfer in Reinforcement Learning",
@@ -2711,8 +2711,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo",
@@ -4322,8 +4322,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Device Placement Optimization with Reinforcement Learning",
@@ -5167,8 +5167,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Large-Scale Evolution of Image Classifiers",
@@ -5191,8 +5191,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Parallel Multiscale Autoregressive Density Estimation",
@@ -5891,8 +5891,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Axiomatic Attribution for Deep Networks",
@@ -6650,8 +6650,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Learned Optimizers that Scale and Generalize",

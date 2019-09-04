@@ -217,8 +217,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Improving Implicit Discourse Relation Classification by Modeling Inter-dependencies of Discourse Units in a Paragraph",
@@ -724,8 +724,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "fb.com"
+        "fb.com",
+        "tensorflow"
       ]
     },
     "name": "attr2vec: Jointly Learning Word and Contextual Attribute Embeddings with Factorization Machines",
@@ -1108,8 +1108,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies",
@@ -1291,8 +1291,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Global Relation Embedding for Relation Extraction",
@@ -1848,8 +1848,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "Colorless Green Recurrent Networks Dream Hierarchically",
@@ -2985,8 +2985,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem",
@@ -4102,8 +4102,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Olive Oil is Made of Olives, Baby Oil is Made for Babies: Interpreting Noun Compounds Using Paraphrases in a Neural Model",
@@ -4752,8 +4752,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Self-Attention with Relative Position Representations",
@@ -4942,8 +4942,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Are All Languages Equally Hard to Language-Model?",
@@ -5079,8 +5079,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "TypeSQL: Knowledge-Based Type-Aware Neural Text-to-SQL Generation",

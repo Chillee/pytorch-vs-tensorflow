@@ -2794,8 +2794,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Train longer, generalize better: closing the generalization gap in large batch training of neural networks",
@@ -2824,8 +2824,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks",
@@ -2959,8 +2959,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "The Numerics of GANs",
@@ -4235,8 +4235,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models",
@@ -4291,8 +4291,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games",
@@ -4362,8 +4362,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "fb.com"
+        "fb.com",
+        "pytorch"
       ]
     },
     "name": "VAIN: Attentional Multi-agent Predictive Modeling",
@@ -4490,8 +4490,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Bridging the Gap Between Value and Policy Based Reinforcement Learning",
@@ -4558,8 +4558,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Cold-Start Reinforcement Learning with Softmax Policy Gradient",
@@ -4821,8 +4821,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Deep Lattice Networks and Partial Monotonic Functions",
@@ -5405,8 +5405,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "A Regularized Framework for Sparse and Structured Neural Attention",
@@ -5842,8 +5842,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning",
@@ -6030,8 +6030,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Reducing Reparameterization Gradient Variance",
@@ -6264,8 +6264,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Dynamic Routing Between Capsules",
@@ -6463,9 +6463,9 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
+        "google.com",
         "tensorflow",
-        "google.com"
+        "pytorch"
       ]
     },
     "name": "On-the-fly Operation Batching in Dynamic Computation Graphs",
@@ -6980,8 +6980,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Sobolev Training for Neural Networks",
@@ -7019,8 +7019,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Deep Reinforcement Learning from Human Preferences",
@@ -9722,8 +9722,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "google.com"
+        "google.com",
+        "pytorch"
       ]
     },
     "name": "Learning Disentangled Representations with Semi-Supervised Deep Generative Models",
@@ -9854,8 +9854,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Attention is All you Need",
@@ -9945,8 +9945,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "tensorflow"
+        "tensorflow",
+        "pytorch"
       ]
     },
     "name": "Predictive State Recurrent Neural Networks",
@@ -10051,8 +10051,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Value Prediction Network",
@@ -10343,8 +10343,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "pytorch",
-        "opennmt"
+        "opennmt",
+        "pytorch"
       ]
     },
     "name": "Learned in Translation: Contextualized Word Vectors",
@@ -10716,8 +10716,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "On Blackbox Backpropagation and Jacobian Sensing",
@@ -10814,8 +10814,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Filtering Variational Objectives",

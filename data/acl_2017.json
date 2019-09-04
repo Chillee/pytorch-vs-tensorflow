@@ -44,8 +44,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision",
@@ -348,8 +348,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Coarse-to-Fine Question Answering for Long Documents",
@@ -2097,8 +2097,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "opennmt"
+        "opennmt",
+        "tensorflow"
       ]
     },
     "name": "Learning to Ask: Neural Question Generation for Reading Comprehension",
@@ -2953,8 +2953,8 @@
       "affiliation": [],
       "words": [
         "google brain",
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "Learning to Skim Text",
@@ -4691,8 +4691,8 @@
     "metadata": {
       "affiliation": [],
       "words": [
-        "tensorflow",
-        "google.com"
+        "google.com",
+        "tensorflow"
       ]
     },
     "name": "A Conditional Variational Framework for Dialog Generation",
