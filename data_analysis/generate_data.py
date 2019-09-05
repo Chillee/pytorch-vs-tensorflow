@@ -138,12 +138,12 @@ for conf in confs:
 
         pytorch_set = ws['pytorch'] - ws['tensorflow']
         tf_set = ws['tensorflow'] - ws['pytorch']
-        biased_set = ws['facebook']csvfile.close()
+        biased_set = ws['facebook']
 
-legend1 = plt.legend(handles=[solid_line, dashed_line], loc=4)
-plt.legend()
-plt.grid()
-plt.gca().add_artist(legend1)
-
-plt.title("Original vs. Keras Corrected")
-plt.show()
+        pytorch.append(len(pytorch_set - biased_set))
+        tf.append(len(tf_set - biased_set))
+        pytorch_corr.append(len(pytorch_set - biased_set))
+        tf_corr.append(len(tf_set - biased_set))
+        writer.writerow([conf, f"{conf_month[conf]:02}/{year[2:]}",
+                         pytorch_corr[-1], tf_corr[-1], len(confs[conf][year])])
+csvfile.close()
