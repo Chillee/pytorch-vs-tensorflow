@@ -1,5 +1,5 @@
 <script src="https://code.highcharts.com/highcharts.src.js"></script>
-<div id="container" style="width:1200px; height:800px;"></div>
+<div id="raw" style="width:70%"></div>
 <script>
     const data = `eccv,09/18,100,105,776
 acl,08/17,0,27,302
@@ -83,17 +83,16 @@ emnlp,11/18,59,43,54`;
     const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
     const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
     for (let i = 0; i < tfRawSeries.length; i++) {
-        tfRawSeries[i].linkedTo = tfRawSeries[i].name + '_pt';
+        tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
     }
-    console.log(tfRawSeries);
 
-    let frameworkRaw = Highcharts.chart('container', {
+    let frameworkRaw = Highcharts.chart('raw', {
         chart: {
             type: 'line',
             height: '60%',
         },
         title: {
-            text: 'Pytorch vs Tensorflow'
+            text: 'Pytorch vs Tensorflow Raw Counts'
         },
         tooltip: {
             split: true,
@@ -114,7 +113,6 @@ emnlp,11/18,59,43,54`;
                         return getFramework(point.series.name) + ': ' + point.y;
                     }) : []
                 );
-                // return '<b>' + name + ' ' + year.getFullYear() + '</b><br>' + '1234';
             }
         },
         legend: {
