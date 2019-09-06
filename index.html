@@ -262,7 +262,7 @@ emnlp,11/18,51,36,549
                 tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3]]);
             }
             const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
-            const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
+            const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dot' });
             for (let i = 0; i < tfRawSeries.length; i++) {
                 tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
                 ptRawSeries[i].visible = ["iclr", "cvpr", "acl"].includes(ptRawSeries[i].name.split('_')[0]);
@@ -317,7 +317,7 @@ emnlp,11/18,51,36,549
                 tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3] / rows[i][4]]);
             }
             const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
-            const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
+            const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dot' });
             for (let i = 0; i < tfRawSeries.length; i++) {
                 tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
                 ptRawSeries[i].visible = ["iclr", "cvpr", "acl"].includes(ptRawSeries[i].name.split('_')[0]);
