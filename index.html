@@ -1,9 +1,10 @@
 <script src="https://code.highcharts.com/highcharts.src.js"></script>
 <script src="https://code.highcharts.com/modules/exporting.js"></script>
-<div id="relative" style="width:60%"></div>
-<div id="raw" style="width:60%"></div>
-<div id="ratio" style="width:60%"></div>
+<h1> PyTorch vs TensorFlow </h1>
 <h2>For an explanation of the charts/how I gathered the data check out thegradient (insert link here).</h1>
+    <div id="relative" style="width:60%"></div>
+    <div id="ratio" style="width:60%"></div>
+    <div id="raw" style="width:60%"></div>
     <style>
         @import 'https://code.highcharts.com/css/highcharts.css';
     </style>
@@ -257,6 +258,65 @@ emnlp,11/18,51,36,549
             initLines(pytorchRaw, '_pt');
             initLines(tfRaw, '_tf');
             for (let i = 0; i < rows.length; i++) {
+                pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / rows[i][4]]);
+                tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3] / rows[i][4]]);
+            }
+            const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
+            const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dot' });
+            for (let i = 0; i < tfRawSeries.length; i++) {
+                tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
+                ptRawSeries[i].visible = ["iclr", "cvpr", "acl"].includes(ptRawSeries[i].name.split('_')[0]);
+            }
+
+            let frameworkRaw = Highcharts.chart('ratio', {
+                chart: {
+                    type: 'line',
+                    height: '70%',
+                },
+                title: {
+                    text: 'Pytorch vs Tensorflow Percentages Out of Total Papers'
+                },
+                tooltip: {
+                    split: true,
+                    formatter: function () {
+                        const year = new Date(this.x);
+                        const conf = this.points[0].series.name.split('_')[0];
+                        return ['<b>' + conf + ' ' + year.getFullYear() + '</b>'].concat(
+                            this.points ? this.points.map(function (point) {
+                                return getFramework(point.series.name) + ': ' + (100 * point.y).toFixed(2) + '%';
+                            }) : []
+                        );
+                    }
+                },
+                legend: {
+                    labelFormatter: function () {
+                        return this.name.split('_')[0];
+                    }
+                },
+                xAxis: xAxis,
+                yAxis: {
+                    title: {
+                        text: '% of papers mentioning framework'
+                    },
+                    labels: {
+                        formatter: function () {
+                            return (100 * this.value).toFixed(0) + '%';
+                        }
+                    }
+                },
+                series: ptRawSeries.concat(tfRawSeries),
+                credits: {
+                    enabled: false
+                }
+            });
+        }
+        {
+            let pytorchRaw = {};
+            let tfRaw = {};
+
+            initLines(pytorchRaw, '_pt');
+            initLines(tfRaw, '_tf');
+            for (let i = 0; i < rows.length; i++) {
                 pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2]]);
                 tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3]]);
             }
@@ -305,63 +365,4 @@ emnlp,11/18,51,36,549
             });
         }
 
-        {
-            let pytorchRaw = {};
-            let tfRaw = {};
-
-            initLines(pytorchRaw, '_pt');
-            initLines(tfRaw, '_tf');
-            for (let i = 0; i < rows.length; i++) {
-                pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / rows[i][4]]);
-                tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3] / rows[i][4]]);
-            }
-            const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
-            const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dot' });
-            for (let i = 0; i < tfRawSeries.length; i++) {
-                tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
-                ptRawSeries[i].visible = ["iclr", "cvpr", "acl"].includes(ptRawSeries[i].name.split('_')[0]);
-            }
-
-            let frameworkRaw = Highcharts.chart('ratio', {
-                chart: {
-                    type: 'line',
-                    height: '70%',
-                },
-                title: {
-                    text: 'Pytorch vs Tensorflow Percentages'
-                },
-                tooltip: {
-                    split: true,
-                    formatter: function () {
-                        const year = new Date(this.x);
-                        const conf = this.points[0].series.name.split('_')[0];
-                        return ['<b>' + conf + ' ' + year.getFullYear() + '</b>'].concat(
-                            this.points ? this.points.map(function (point) {
-                                return getFramework(point.series.name) + ': ' + (100 * point.y).toFixed(2) + '%';
-                            }) : []
-                        );
-                    }
-                },
-                legend: {
-                    labelFormatter: function () {
-                        return this.name.split('_')[0];
-                    }
-                },
-                xAxis: xAxis,
-                yAxis: {
-                    title: {
-                        text: '% of papers mentioning framework'
-                    },
-                    labels: {
-                        formatter: function () {
-                            return (100 * this.value).toFixed(0) + '%';
-                        }
-                    }
-                },
-                series: ptRawSeries.concat(tfRawSeries),
-                credits: {
-                    enabled: false
-                }
-            });
-        }
     </script>
