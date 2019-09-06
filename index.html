@@ -1,6 +1,7 @@
 <script src="https://code.highcharts.com/highcharts.src.js"></script>
-<div id="raw" style="width:70%"></div>
-<div id="ratio" style="width:70%"></div>
+<div id="relative" style="width:60%"></div>
+<div id="raw" style="width:60%"></div>
+<div id="ratio" style="width:60%"></div>
 <script>
     const data = `eccv,09/18,100,105,776
 acl,08/17,0,27,302
@@ -102,8 +103,64 @@ emnlp,11/18,59,43,549`;
         }
         return arr;
     };
+    const xAxis = {
+        type: 'datetime',
+        dateTimeLabelFormats: { // don't display the dummy year
+            month: '%e. %b',
+            year: '%b'
+        },
+        title: {
+            text: 'Date'
+        }
+    };
     {
+        let pytorchRaw = {};
+        let tfRaw = {};
 
+        initLines(pytorchRaw, '_pt');
+        initLines(tfRaw, '_tf');
+        for (let i = 0; i < rows.length; i++) {
+            if (rows[i][2] + rows[i][3] > 0) {
+                pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / (rows[i][2] + rows[i][3])]);
+
+            }
+        }
+        const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
+
+        let frameworkRaw = Highcharts.chart('relative', {
+            chart: {
+                type: 'line',
+                height: '70%',
+            },
+            title: {
+                text: '% of PyTorch papers out of total TensorFlow/PyTorch papers'
+            },
+            tooltip: {
+                formatter: function () {
+                    const conf = this.point.series.name.split('_')[0];
+                    const year = new Date(this.x);
+                    return '<b>' + conf + ' ' + year.getFullYear() + '</b>: ' + (100 * this.y).toFixed(2) + '% Pytorch';
+                }
+            },
+            legend: {
+                labelFormatter: function () {
+                    return this.name.split('_')[0];
+                }
+            },
+            height: '150%',
+            xAxis: xAxis,
+            yAxis: {
+                title: {
+                    text: '% of total framework mentions'
+                }
+            },
+            series: ptRawSeries,
+            credits: {
+                enabled: false
+            }
+        });
+    }
+    {
         let pytorchRaw = {};
         let tfRaw = {};
 
@@ -134,7 +191,6 @@ emnlp,11/18,59,43,549`;
                     const conf = this.points[0].series.name.split('_')[0];
                     return ['<b>' + conf + ' ' + year.getFullYear() + '</b>'].concat(
                         this.points ? this.points.map(function (point) {
-                            console.log(point);
                             return getFramework(point.series.name) + ': ' + point.y
                         }) : []
                     );
@@ -146,16 +202,7 @@ emnlp,11/18,59,43,549`;
                 }
             },
             height: '150%',
-            xAxis: {
-                type: 'datetime',
-                dateTimeLabelFormats: { // don't display the dummy year
-                    month: '%e. %b',
-                    year: '%b'
-                },
-                title: {
-                    text: 'Date'
-                }
-            },
+            xAxis: xAxis,
             yAxis: {
                 title: {
                     text: '# of unique mentions'
@@ -214,16 +261,7 @@ emnlp,11/18,59,43,549`;
                 }
             },
             height: '150%',
-            xAxis: {
-                type: 'datetime',
-                dateTimeLabelFormats: { // don't display the dummy year
-                    month: '%e. %b',
-                    year: '%b'
-                },
-                title: {
-                    text: 'Date'
-                }
-            },
+            xAxis: xAxis,
             yAxis: {
                 title: {
                     text: '% of papers mentioning'
