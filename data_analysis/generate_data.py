@@ -109,14 +109,6 @@ fig, ax = plt.subplots()
 
 # ax.set_ylim(0,125)
 
-ax.xaxis.set_major_locator(years)
-ax.xaxis.set_major_formatter(years_fmt)
-ax.xaxis.set_minor_locator(months)
-ax.set_xlim(np.datetime64('2017'), np.datetime64('2020'))
-ax.set_facecolor((1, 1, 1, 1))
-plt.rcParams["figure.figsize"] = (15, 10)
-plt.tick_params(labelright=True)
-prop_cycle = plt.rcParams['axes.prop_cycle'].by_key()['color']
 nlp_confs = ['naacl', 'acl', 'emnlp']
 cv_confs = ['cvpr', 'eccv', 'iccv']
 ml_confs = ['nips', 'iclr', 'icml']
@@ -138,7 +130,7 @@ for conf in confs:
 
         pytorch_set = ws['pytorch'] - ws['tensorflow']
         tf_set = ws['tensorflow'] - ws['pytorch']
-        biased_set = ws['facebook']
+        biased_set = ws['facebook'] | ws['google']
 
         pytorch.append(len(pytorch_set - biased_set))
         tf.append(len(tf_set - biased_set))
