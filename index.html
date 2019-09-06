@@ -238,6 +238,11 @@ emnlp,11/18,51,36,549
                 yAxis: {
                     title: {
                         text: '% of total framework mentions'
+                    },
+                    labels: {
+                        formatter: function () {
+                            return (100 * this.value).toFixed(0) + '%';
+                        }
                     }
                 },
                 series: ptRawSeries,
@@ -260,6 +265,7 @@ emnlp,11/18,51,36,549
             const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
             for (let i = 0; i < tfRawSeries.length; i++) {
                 tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
+                ptRawSeries[i].visible = ["iclr", "cvpr", "acl"].includes(ptRawSeries[i].name.split('_')[0]);
             }
 
             let frameworkRaw = Highcharts.chart('raw', {
@@ -314,6 +320,7 @@ emnlp,11/18,51,36,549
             const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
             for (let i = 0; i < tfRawSeries.length; i++) {
                 tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
+                ptRawSeries[i].visible = ["iclr", "cvpr", "acl"].includes(ptRawSeries[i].name.split('_')[0]);
             }
 
             let frameworkRaw = Highcharts.chart('ratio', {
@@ -323,10 +330,6 @@ emnlp,11/18,51,36,549
                 },
                 title: {
                     text: 'Pytorch vs Tensorflow Percentages'
-                },
-                line: {
-                    events: {
-                    }
                 },
                 tooltip: {
                     split: true,
