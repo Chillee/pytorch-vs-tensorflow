@@ -112,6 +112,7 @@ emnlp,11/18,51,36,549
                 '#eeaaee', '#55BF3B', '#5B5353'],
         });
 
+
         let allRows = data.split('\n');
         let rows = [];
         for (const i of allRows) {
@@ -127,7 +128,7 @@ emnlp,11/18,51,36,549
                 rows[i][j] = parseInt(rows[i][j]);
             }
             rows[i][1] = rows[i][1].split('/');
-            rows[i][1] = Date.UTC("20" + rows[i][1][1], rows[i][1][0] - 1, 1);
+            rows[i][1] = Date.UTC("20" + rows[i][1][1], rows[i][1][0] - 1, 1, i * 2);
         }
         let confs = [];
         for (let i = 0; i < rows.length; i++) {
@@ -160,7 +161,6 @@ emnlp,11/18,51,36,549
                     name: key,
                     id: key,
                     data: dict[key],
-                    findNearestPoint: 'xy',
                     events: {
                         legendItemClick: function () {
                             const curIndex = this.index;
@@ -290,7 +290,7 @@ emnlp,11/18,51,36,549
                 xAxis: xAxis,
                 yAxis: {
                     title: {
-                        text: '# of unique mentions'
+                        text: '# of papers'
                     }
                 },
                 series: ptRawSeries.concat(tfRawSeries),
