@@ -1,87 +1,87 @@
 <script src="https://code.highcharts.com/highcharts.src.js"></script>
 <script src="https://code.highcharts.com/modules/exporting.js"></script>
-
 <div id="relative" style="width:60%"></div>
 <div id="raw" style="width:60%"></div>
 <div id="ratio" style="width:60%"></div>
-<style>
-    @import 'https://code.highcharts.com/css/highcharts.css';
-</style>
-<script>
-    (function (H) {
-        H.Legend.prototype.setItemEvents = function (item, legendItem, useHTML) {
-            var legend = this,
-                boxWrapper = legend.chart.renderer.boxWrapper,
-                activeClass = 'highcharts-legend-' + (item.series ? 'point' : 'series') + '-active',
-                hasLinkedSeries = function (item) {
-                    return ((item.linkedSeries && item.linkedSeries.length) ? true : false);
-                },
-                setLinkedSeriesState = function (item, state) {
-                    item.linkedSeries.forEach(function (elem) {
-                        elem.setState(state)
-                    })
-                };
-
-            // Set the events on the item group, or in case of useHTML, the item itself (#1249)
-            (useHTML ? legendItem : item.legendGroup).on('mouseover', function () {
-                if (item.visible) {
-                    item.setState('hover');
-
-                    // Add hover state to linked series
-                    if (hasLinkedSeries(item)) {
-                        setLinkedSeriesState(item, 'hover')
-                    }
-                    // A CSS class to dim or hide other than the hovered series
-                    boxWrapper.addClass(activeClass);
-
-                    /*= if (build.classic) { =*/
-                    legendItem.css(legend.options.itemHoverStyle);
-                    /*= } =*/
-                }
-            })
-                .on('mouseout', function () {
-                    /*= if (build.classic) { =*/
-                    legendItem.css(H.merge(item.visible ? legend.itemStyle : legend.itemHiddenStyle));
-                    /*= } =*/
-
-                    // A CSS class to dim or hide other than the hovered series
-                    boxWrapper.removeClass(activeClass);
-
-
-                    // Remove hover state from linked series
-                    if (hasLinkedSeries(item)) {
-                        setLinkedSeriesState(item)
-                    }
-
-                    item.setState();
-
-
-                })
-                .on('click', function (event) {
-                    var strLegendItemClick = 'legendItemClick',
-                        fnLegendItemClick = function () {
-                            if (item.setVisible) {
-                                item.setVisible();
-                            }
-                        };
-
-                    // Pass over the click/touch event. #4.
-                    event = {
-                        browserEvent: event
+<h2>For an explanation of the charts/how I gathered the data check out thegradient.</h1>
+    <style>
+        @import 'https://code.highcharts.com/css/highcharts.css';
+    </style>
+    <script>
+        (function (H) {
+            H.Legend.prototype.setItemEvents = function (item, legendItem, useHTML) {
+                var legend = this,
+                    boxWrapper = legend.chart.renderer.boxWrapper,
+                    activeClass = 'highcharts-legend-' + (item.series ? 'point' : 'series') + '-active',
+                    hasLinkedSeries = function (item) {
+                        return ((item.linkedSeries && item.linkedSeries.length) ? true : false);
+                    },
+                    setLinkedSeriesState = function (item, state) {
+                        item.linkedSeries.forEach(function (elem) {
+                            elem.setState(state)
+                        })
                     };
 
-                    // click the name or symbol
-                    if (item.firePointEvent) { // point
-                        item.firePointEvent(strLegendItemClick, event, fnLegendItemClick);
-                    } else {
-                        H.fireEvent(item, strLegendItemClick, event, fnLegendItemClick);
+                // Set the events on the item group, or in case of useHTML, the item itself (#1249)
+                (useHTML ? legendItem : item.legendGroup).on('mouseover', function () {
+                    if (item.visible) {
+                        item.setState('hover');
+
+                        // Add hover state to linked series
+                        if (hasLinkedSeries(item)) {
+                            setLinkedSeriesState(item, 'hover')
+                        }
+                        // A CSS class to dim or hide other than the hovered series
+                        boxWrapper.addClass(activeClass);
+
+                        /*= if (build.classic) { =*/
+                        legendItem.css(legend.options.itemHoverStyle);
+                        /*= } =*/
                     }
-                });
-        };
-    })(Highcharts)
+                })
+                    .on('mouseout', function () {
+                        /*= if (build.classic) { =*/
+                        legendItem.css(H.merge(item.visible ? legend.itemStyle : legend.itemHiddenStyle));
+                        /*= } =*/
+
+                        // A CSS class to dim or hide other than the hovered series
+                        boxWrapper.removeClass(activeClass);
 
 
-    const data = `
+                        // Remove hover state from linked series
+                        if (hasLinkedSeries(item)) {
+                            setLinkedSeriesState(item)
+                        }
+
+                        item.setState();
+
+
+                    })
+                    .on('click', function (event) {
+                        var strLegendItemClick = 'legendItemClick',
+                            fnLegendItemClick = function () {
+                                if (item.setVisible) {
+                                    item.setVisible();
+                                }
+                            };
+
+                        // Pass over the click/touch event. #4.
+                        event = {
+                            browserEvent: event
+                        };
+
+                        // click the name or symbol
+                        if (item.firePointEvent) { // point
+                            item.firePointEvent(strLegendItemClick, event, fnLegendItemClick);
+                        } else {
+                            H.fireEvent(item, strLegendItemClick, event, fnLegendItemClick);
+                        }
+                    });
+            };
+        })(Highcharts)
+
+
+        const data = `
 eccv,09/18,97,95,776
 acl,08/17,0,23,302
 acl,08/18,26,34,381
@@ -107,258 +107,258 @@ emnlp,11/17,4,20,323
 emnlp,11/18,51,36,549
 `;
 
-    Highcharts.setOptions({
-        colors: ['#7cb5ec', '#f7a35c', '#90ee7e', '#7798BF', '#aacece', '#ff0066',
-            '#eeaaee', '#55BF3B', '#5B5353'],
-    });
+        Highcharts.setOptions({
+            colors: ['#7cb5ec', '#f7a35c', '#90ee7e', '#7798BF', '#aacece', '#ff0066',
+                '#eeaaee', '#55BF3B', '#5B5353'],
+        });
 
-    let allRows = data.split('\n');
-    let rows = [];
-    for (const i of allRows) {
-        if (i.length != 0) {
-            rows.push(i);
+        let allRows = data.split('\n');
+        let rows = [];
+        for (const i of allRows) {
+            if (i.length != 0) {
+                rows.push(i);
+            }
         }
-    }
-    for (let i = 0; i < rows.length; i++) {
-        rows[i] = rows[i].split(',');
-    }
-    for (let i = 0; i < rows.length; i++) {
-        for (let j = 2; j < 5; j++) {
-            rows[i][j] = parseInt(rows[i][j]);
+        for (let i = 0; i < rows.length; i++) {
+            rows[i] = rows[i].split(',');
         }
-        rows[i][1] = rows[i][1].split('/');
-        rows[i][1] = Date.UTC("20" + rows[i][1][1], rows[i][1][0] - 1, 1, i * 2);
-    }
-    let confs = [];
-    for (let i = 0; i < rows.length; i++) {
-        confs.push(rows[i][0]);
-    }
-    confs = Array.from(new Set(confs));
-    const colors = Highcharts.getOptions().colors; // get colors
-    const confColors = {};
-    for (let i = 0; i < confs.length; i++) {
-        confColors[confs[i]] = colors[i];
-    }
-    let getFramework = (s) => {
-        const suff = s.split('_')[1];
-        if (suff == 'tf') {
-            return 'TensorFlow';
-        } else {
-            return 'PyTorch';
+        for (let i = 0; i < rows.length; i++) {
+            for (let j = 2; j < 5; j++) {
+                rows[i][j] = parseInt(rows[i][j]);
+            }
+            rows[i][1] = rows[i][1].split('/');
+            rows[i][1] = Date.UTC("20" + rows[i][1][1], rows[i][1][0] - 1, 1, i * 2);
         }
-    };
-    const initLines = (arr, suff = '') => {
-        for (const i of confs) {
-            arr[i + suff] = [];
+        let confs = [];
+        for (let i = 0; i < rows.length; i++) {
+            confs.push(rows[i][0]);
         }
-    };
-    let convertToSeries = (dict, options = {}) => {
-        let arr = [];
-        for (const key in dict) {
-            const baseKey = key.split('_')[0];
-            arr.push({
-                name: key,
-                id: key,
-                data: dict[key],
-                events: {
-                    legendItemClick: function () {
-                        const curIndex = this.index;
-                        const series = this.chart.series;
-                        if (this.visible && this.chart.restHidden) {
-                            for (let i = 0; i < series.length; i++) {
-                                if (!series[i].visible) {
-                                    series[i].show();
+        confs = Array.from(new Set(confs));
+        const colors = Highcharts.getOptions().colors; // get colors
+        const confColors = {};
+        for (let i = 0; i < confs.length; i++) {
+            confColors[confs[i]] = colors[i];
+        }
+        let getFramework = (s) => {
+            const suff = s.split('_')[1];
+            if (suff == 'tf') {
+                return 'TensorFlow';
+            } else {
+                return 'PyTorch';
+            }
+        };
+        const initLines = (arr, suff = '') => {
+            for (const i of confs) {
+                arr[i + suff] = [];
+            }
+        };
+        let convertToSeries = (dict, options = {}) => {
+            let arr = [];
+            for (const key in dict) {
+                const baseKey = key.split('_')[0];
+                arr.push({
+                    name: key,
+                    id: key,
+                    data: dict[key],
+                    events: {
+                        legendItemClick: function () {
+                            const curIndex = this.index;
+                            const series = this.chart.series;
+                            if (this.visible && this.chart.restHidden) {
+                                for (let i = 0; i < series.length; i++) {
+                                    if (!series[i].visible) {
+                                        series[i].show();
+                                    }
                                 }
-                            }
-                            this.chart.restHidden = false;
-                        } else {
-                            for (let i = 0; i < series.length; i++) {
-                                if (series[i].index != curIndex) {
-                                    series[i].hide();
+                                this.chart.restHidden = false;
+                            } else {
+                                for (let i = 0; i < series.length; i++) {
+                                    if (series[i].index != curIndex) {
+                                        series[i].hide();
+                                    }
                                 }
+                                this.chart.restHidden = true;
+                                this.show();
                             }
-                            this.chart.restHidden = true;
-                            this.show();
-                        }
-                        return false;
+                            return false;
+                        },
                     },
+                    color: confColors[baseKey],
+                    ...options
+                });
+            }
+            return arr;
+        };
+        const xAxis = {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b',
+                year: '%b'
+            },
+            title: {
+                text: 'Date'
+            }
+        };
+        {
+            let pytorchRaw = {};
+            let tfRaw = {};
+
+            initLines(pytorchRaw, '_pt');
+            initLines(tfRaw, '_tf');
+            for (let i = 0; i < rows.length; i++) {
+                if (rows[i][2] + rows[i][3] > 0) {
+                    pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / (rows[i][2] + rows[i][3])]);
+
+                }
+            }
+            const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
+
+            let frameworkRaw = Highcharts.chart('relative', {
+                chart: {
+                    type: 'line',
+                    height: '70%',
                 },
-                color: confColors[baseKey],
-                ...options
+                title: {
+                    text: '% PyTorch papers out of total TensorFlow/PyTorch papers'
+                },
+                tooltip: {
+                    formatter: function () {
+                        const conf = this.point.series.name.split('_')[0];
+                        const year = new Date(this.x);
+                        return '<b>' + conf + ' ' + year.getFullYear() + '</b>: ' + (100 * this.y).toFixed(2) + '% Pytorch';
+                    }
+                },
+                legend: {
+                    labelFormatter: function () {
+                        return this.name.split('_')[0];
+                    }
+                },
+                xAxis: xAxis,
+                yAxis: {
+                    title: {
+                        text: '% of total framework mentions'
+                    }
+                },
+                series: ptRawSeries,
+                credits: {
+                    enabled: false
+                }
             });
         }
-        return arr;
-    };
-    const xAxis = {
-        type: 'datetime',
-        dateTimeLabelFormats: { // don't display the dummy year
-            month: '%e. %b',
-            year: '%b'
-        },
-        title: {
-            text: 'Date'
-        }
-    };
-    {
-        let pytorchRaw = {};
-        let tfRaw = {};
+        {
+            let pytorchRaw = {};
+            let tfRaw = {};
 
-        initLines(pytorchRaw, '_pt');
-        initLines(tfRaw, '_tf');
-        for (let i = 0; i < rows.length; i++) {
-            if (rows[i][2] + rows[i][3] > 0) {
-                pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / (rows[i][2] + rows[i][3])]);
-
+            initLines(pytorchRaw, '_pt');
+            initLines(tfRaw, '_tf');
+            for (let i = 0; i < rows.length; i++) {
+                pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2]]);
+                tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3]]);
             }
-        }
-        const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
-
-        let frameworkRaw = Highcharts.chart('relative', {
-            chart: {
-                type: 'line',
-                height: '70%',
-            },
-            title: {
-                text: '% PyTorch papers out of total TensorFlow/PyTorch papers'
-            },
-            tooltip: {
-                formatter: function () {
-                    const conf = this.point.series.name.split('_')[0];
-                    const year = new Date(this.x);
-                    return '<b>' + conf + ' ' + year.getFullYear() + '</b>: ' + (100 * this.y).toFixed(2) + '% Pytorch';
-                }
-            },
-            legend: {
-                labelFormatter: function () {
-                    return this.name.split('_')[0];
-                }
-            },
-            xAxis: xAxis,
-            yAxis: {
-                title: {
-                    text: '% of total framework mentions'
-                }
-            },
-            series: ptRawSeries,
-            credits: {
-                enabled: false
+            const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
+            const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
+            for (let i = 0; i < tfRawSeries.length; i++) {
+                tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
             }
-        });
-    }
-    {
-        let pytorchRaw = {};
-        let tfRaw = {};
 
-        initLines(pytorchRaw, '_pt');
-        initLines(tfRaw, '_tf');
-        for (let i = 0; i < rows.length; i++) {
-            pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2]]);
-            tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3]]);
-        }
-        const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
-        const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
-        for (let i = 0; i < tfRawSeries.length; i++) {
-            tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
-        }
-
-        let frameworkRaw = Highcharts.chart('raw', {
-            chart: {
-                type: 'line',
-                height: '60%',
-            },
-            title: {
-                text: 'Pytorch vs Tensorflow Raw Counts'
-            },
-            tooltip: {
-                split: true,
-                formatter: function () {
-                    const year = new Date(this.x);
-                    const conf = this.points[0].series.name.split('_')[0];
-                    return ['<b>' + conf + ' ' + year.getFullYear() + '</b>'].concat(
-                        this.points ? this.points.map(function (point) {
-                            return getFramework(point.series.name) + ': ' + point.y
-                        }) : []
-                    );
-                }
-            },
-            legend: {
-                labelFormatter: function () {
-                    return this.name.split('_')[0];
-                }
-            },
-            xAxis: xAxis,
-            yAxis: {
-                title: {
-                    text: '# of unique mentions'
-                }
-            },
-            series: ptRawSeries.concat(tfRawSeries),
-            credits: {
-                enabled: false
-            }
-        });
-    }
-
-    {
-        let pytorchRaw = {};
-        let tfRaw = {};
-
-        initLines(pytorchRaw, '_pt');
-        initLines(tfRaw, '_tf');
-        for (let i = 0; i < rows.length; i++) {
-            pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / rows[i][4]]);
-            tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3] / rows[i][4]]);
-        }
-        const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
-        const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
-        for (let i = 0; i < tfRawSeries.length; i++) {
-            tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
-        }
-
-        let frameworkRaw = Highcharts.chart('ratio', {
-            chart: {
-                type: 'line',
-                height: '70%',
-            },
-            title: {
-                text: 'Pytorch vs Tensorflow Percentages'
-            },
-            line: {
-                events: {
-                }
-            },
-            tooltip: {
-                split: true,
-                formatter: function () {
-                    const year = new Date(this.x);
-                    const conf = this.points[0].series.name.split('_')[0];
-                    return ['<b>' + conf + ' ' + year.getFullYear() + '</b>'].concat(
-                        this.points ? this.points.map(function (point) {
-                            return getFramework(point.series.name) + ': ' + (100 * point.y).toFixed(2) + '%';
-                        }) : []
-                    );
-                }
-            },
-            legend: {
-                labelFormatter: function () {
-                    return this.name.split('_')[0];
-                }
-            },
-            xAxis: xAxis,
-            yAxis: {
-                title: {
-                    text: '% of papers mentioning framework'
+            let frameworkRaw = Highcharts.chart('raw', {
+                chart: {
+                    type: 'line',
+                    height: '60%',
                 },
-                labels: {
+                title: {
+                    text: 'Pytorch vs Tensorflow Raw Counts'
+                },
+                tooltip: {
+                    split: true,
                     formatter: function () {
-                        return (100 * this.value).toFixed(0) + '%';
+                        const year = new Date(this.x);
+                        const conf = this.points[0].series.name.split('_')[0];
+                        return ['<b>' + conf + ' ' + year.getFullYear() + '</b>'].concat(
+                            this.points ? this.points.map(function (point) {
+                                return getFramework(point.series.name) + ': ' + point.y
+                            }) : []
+                        );
                     }
+                },
+                legend: {
+                    labelFormatter: function () {
+                        return this.name.split('_')[0];
+                    }
+                },
+                xAxis: xAxis,
+                yAxis: {
+                    title: {
+                        text: '# of unique mentions'
+                    }
+                },
+                series: ptRawSeries.concat(tfRawSeries),
+                credits: {
+                    enabled: false
                 }
-            },
-            series: ptRawSeries.concat(tfRawSeries),
-            credits: {
-                enabled: false
+            });
+        }
+
+        {
+            let pytorchRaw = {};
+            let tfRaw = {};
+
+            initLines(pytorchRaw, '_pt');
+            initLines(tfRaw, '_tf');
+            for (let i = 0; i < rows.length; i++) {
+                pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / rows[i][4]]);
+                tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3] / rows[i][4]]);
             }
-        });
-    }
-</script>
+            const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
+            const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
+            for (let i = 0; i < tfRawSeries.length; i++) {
+                tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
+            }
+
+            let frameworkRaw = Highcharts.chart('ratio', {
+                chart: {
+                    type: 'line',
+                    height: '70%',
+                },
+                title: {
+                    text: 'Pytorch vs Tensorflow Percentages'
+                },
+                line: {
+                    events: {
+                    }
+                },
+                tooltip: {
+                    split: true,
+                    formatter: function () {
+                        const year = new Date(this.x);
+                        const conf = this.points[0].series.name.split('_')[0];
+                        return ['<b>' + conf + ' ' + year.getFullYear() + '</b>'].concat(
+                            this.points ? this.points.map(function (point) {
+                                return getFramework(point.series.name) + ': ' + (100 * point.y).toFixed(2) + '%';
+                            }) : []
+                        );
+                    }
+                },
+                legend: {
+                    labelFormatter: function () {
+                        return this.name.split('_')[0];
+                    }
+                },
+                xAxis: xAxis,
+                yAxis: {
+                    title: {
+                        text: '% of papers mentioning framework'
+                    },
+                    labels: {
+                        formatter: function () {
+                            return (100 * this.value).toFixed(0) + '%';
+                        }
+                    }
+                },
+                series: ptRawSeries.concat(tfRawSeries),
+                credits: {
+                    enabled: false
+                }
+            });
+        }
+    </script>
