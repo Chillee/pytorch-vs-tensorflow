@@ -1,5 +1,6 @@
 <script src="https://code.highcharts.com/highcharts.src.js"></script>
 <div id="raw" style="width:70%"></div>
+<div id="ratio" style="width:70%"></div>
 <script>
     const data = `eccv,09/18,100,105,776
 acl,08/17,0,27,302
@@ -23,7 +24,7 @@ iclr,05/18,26,92,337
 iclr,05/19,80,78,502
 iccv,11/17,3,50,621
 emnlp,11/17,4,29,323
-emnlp,11/18,59,43,54`;
+emnlp,11/18,59,43,549`;
 
     Highcharts.setOptions({
         colors: ['#7cb5ec', '#f7a35c', '#90ee7e', '#7798BF', '#aacece', '#ff0066',
@@ -39,7 +40,7 @@ emnlp,11/18,59,43,54`;
             rows[i][j] = parseInt(rows[i][j]);
         }
         rows[i][1] = rows[i][1].split('/');
-        rows[i][1] = Date.UTC("20" + rows[i][1][1], rows[i][1][0] - 1, 1, i);
+        rows[i][1] = Date.UTC("20" + rows[i][1][1], rows[i][1][0] - 1, 1, i * 2);
     }
     let confs = [];
     for (let i = 0; i < rows.length; i++) {
@@ -51,21 +52,19 @@ emnlp,11/18,59,43,54`;
     for (let i = 0; i < confs.length; i++) {
         confColors[confs[i]] = colors[i];
     }
-
-    let pytorchRaw = {};
-    let tfRaw = {};
+    let getFramework = (s) => {
+        const suff = s.split('_')[1];
+        if (suff == 'tf') {
+            return 'TensorFlow';
+        } else {
+            return 'PyTorch';
+        }
+    };
     const initLines = (arr, suff = '') => {
         for (const i of confs) {
             arr[i + suff] = [];
         }
     };
-
-    initLines(pytorchRaw, '_pt');
-    initLines(tfRaw, '_tf');
-    for (let i = 0; i < rows.length; i++) {
-        pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2]]);
-        tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3]]);
-    }
     let convertToSeries = (dict, options = {}) => {
         let arr = [];
         for (const key in dict) {
@@ -74,71 +73,171 @@ emnlp,11/18,59,43,54`;
                 name: key,
                 id: key,
                 data: dict[key],
+                events: {
+                    legendItemClick: function () {
+                        const curIndex = this.index;
+                        const series = this.chart.series;
+                        if (this.visible && this.chart.restHidden) {
+                            for (let i = 0; i < series.length; i++) {
+                                if (!series[i].visible) {
+                                    series[i].show();
+                                }
+                            }
+                            this.chart.restHidden = false;
+                        } else {
+                            for (let i = 0; i < series.length; i++) {
+                                if (series[i].index != curIndex) {
+                                    series[i].hide();
+                                }
+                            }
+                            this.chart.restHidden = true;
+                            this.show();
+                        }
+                        return false;
+                    },
+                },
                 color: confColors[baseKey],
                 ...options
             });
         }
         return arr;
     };
-    const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
-    const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
-    for (let i = 0; i < tfRawSeries.length; i++) {
-        tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
-    }
+    {
 
-    let frameworkRaw = Highcharts.chart('raw', {
-        chart: {
-            type: 'line',
-            height: '60%',
-        },
-        title: {
-            text: 'Pytorch vs Tensorflow Raw Counts'
-        },
-        tooltip: {
-            split: true,
-            formatter: function () {
-                const year = new Date(this.x);
-                const conf = this.points[0].series.name.split('_')[0];
-                let getFramework = (s) => {
-                    const suff = s.split('_')[1];
-                    if (suff == 'tf') {
-                        return 'TensorFlow';
-                    } else {
-                        return 'PyTorch';
-                    }
-                };
-                return ['<b>' + conf + ' ' + year.getFullYear() + '</b>'].concat(
-                    this.points ? this.points.map(function (point) {
-                        console.log(point);
-                        return getFramework(point.series.name) + ': ' + point.y;
-                    }) : []
-                );
-            }
-        },
-        legend: {
-            labelFormatter: function () {
-                return this.name.split('_')[0];
-            }
-        },
-        height: '150%',
-        xAxis: {
-            type: 'datetime',
-            dateTimeLabelFormats: { // don't display the dummy year
-                month: '%e. %b',
-                year: '%b'
+        let pytorchRaw = {};
+        let tfRaw = {};
+
+        initLines(pytorchRaw, '_pt');
+        initLines(tfRaw, '_tf');
+        for (let i = 0; i < rows.length; i++) {
+            pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2]]);
+            tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3]]);
+        }
+        const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
+        const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
+        for (let i = 0; i < tfRawSeries.length; i++) {
+            tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
+        }
+
+        let frameworkRaw = Highcharts.chart('raw', {
+            chart: {
+                type: 'line',
+                height: '60%',
             },
             title: {
-                text: 'Date'
+                text: 'Pytorch vs Tensorflow Raw Counts'
+            },
+            tooltip: {
+                split: true,
+                formatter: function () {
+                    const year = new Date(this.x);
+                    const conf = this.points[0].series.name.split('_')[0];
+                    return ['<b>' + conf + ' ' + year.getFullYear() + '</b>'].concat(
+                        this.points ? this.points.map(function (point) {
+                            console.log(point);
+                            return getFramework(point.series.name) + ': ' + point.y
+                        }) : []
+                    );
+                }
+            },
+            legend: {
+                labelFormatter: function () {
+                    return this.name.split('_')[0];
+                }
+            },
+            height: '150%',
+            xAxis: {
+                type: 'datetime',
+                dateTimeLabelFormats: { // don't display the dummy year
+                    month: '%e. %b',
+                    year: '%b'
+                },
+                title: {
+                    text: 'Date'
+                }
+            },
+            yAxis: {
+                title: {
+                    text: '# of unique mentions'
+                }
+            },
+            series: ptRawSeries.concat(tfRawSeries),
+            credits: {
+                enabled: false
             }
-        },
-        yAxis: {
-            title: {
-                text: '# of unique mentions'
-            }
-        },
-        series: ptRawSeries.concat(tfRawSeries),
-        credits: {
-            enabled: false
+        });
+    }
+
+    {
+        let pytorchRaw = {};
+        let tfRaw = {};
+
+        initLines(pytorchRaw, '_pt');
+        initLines(tfRaw, '_tf');
+        for (let i = 0; i < rows.length; i++) {
+            pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / rows[i][4]]);
+            tfRaw[rows[i][0] + '_tf'].push([rows[i][1], rows[i][3] / rows[i][4]]);
         }
-    });
+        const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
+        const tfRawSeries = convertToSeries(tfRaw, { dashStyle: 'Dash' });
+        for (let i = 0; i < tfRawSeries.length; i++) {
+            tfRawSeries[i].linkedTo = tfRawSeries[i].name.split('_')[0] + '_pt';
+        }
+
+        let frameworkRaw = Highcharts.chart('ratio', {
+            chart: {
+                type: 'line',
+                height: '60%',
+            },
+            title: {
+                text: 'Pytorch vs Tensorflow Percentages'
+            },
+            line: {
+                events: {
+                }
+            },
+            tooltip: {
+                split: true,
+                formatter: function () {
+                    const year = new Date(this.x);
+                    const conf = this.points[0].series.name.split('_')[0];
+                    return ['<b>' + conf + ' ' + year.getFullYear() + '</b>'].concat(
+                        this.points ? this.points.map(function (point) {
+                            return getFramework(point.series.name) + ': ' + (100 * point.y).toFixed(2) + '%';
+                        }) : []
+                    );
+                }
+            },
+            legend: {
+                labelFormatter: function () {
+                    return this.name.split('_')[0];
+                }
+            },
+            height: '150%',
+            xAxis: {
+                type: 'datetime',
+                dateTimeLabelFormats: { // don't display the dummy year
+                    month: '%e. %b',
+                    year: '%b'
+                },
+                title: {
+                    text: 'Date'
+                }
+            },
+            yAxis: {
+                title: {
+                    text: '% of papers mentioning'
+                },
+                labels: {
+                    formatter: function () {
+                        return (100 * this.value).toFixed(0) + '%';
+                    }
+                }
+            },
+            series: ptRawSeries.concat(tfRawSeries),
+            credits: {
+                enabled: false
+            }
+        });
+    }
 </script>
