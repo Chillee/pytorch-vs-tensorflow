@@ -112,6 +112,18 @@ EMNLP,11/18,51,36,549
         Highcharts.setOptions({
             colors: ['#7cb5ec', '#f7a35c', '#90ee7e', '#7798BF', '#aacece', '#ff0066',
                 '#eeaaee', '#55BF3B', '#5B5353'],
+
+            // colors: [
+            //     '#f9db72',
+            //     '#a6f0ff',
+            //     '#70d49e',
+            //     '#e898a5',
+            //     '#007faa',
+            //     '#f45b5b',
+            //     '#1e824c',
+            //     '#e7934c',
+            //     '#a0618b'
+            // ],
         });
 
 
@@ -163,6 +175,7 @@ EMNLP,11/18,51,36,549
                     name: key,
                     id: key,
                     data: dict[key],
+                    stickyTracking: false,
                     events: {
                         legendItemClick: function () {
                             const curIndex = this.index;
