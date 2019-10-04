@@ -266,6 +266,12 @@ EMNLP,11/18,51,36,549
                 }
             });
         }
+        for (let i=rows.length-1; i>=0; i--) {
+            if (rows[i][0] == 'NeurIPS') {
+                rows.splice(i, 1);
+                break;
+            }
+        }
         {
             let pytorchRaw = {};
             let tfRaw = {};
