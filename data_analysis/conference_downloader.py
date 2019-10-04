@@ -230,7 +230,53 @@ def get_mlr(conference, year):
     return conf_data
 
 
-if conference == 'nips':
+def get_neurips_special():
+    conference = "nips"
+    driver = webdriver.Chrome()
+    driver.implicitly_wait(10)
+    driver.get(
+
+        f"https://openreview.net/group?id=NeurIPS.cc/2019/Reproducibility_Challenge")
+    conf_data = []
+
+    def process(papers):
+        print(f"Processsing {conference} {year} with {len(papers)} papers")
+        for paper in papers:
+            if len(conf_data) % LOG_PER == 0:
+                print(len(conf_data))
+            data = initData()
+            data['conference'] = conference
+            data['year'] = year
+            pdf_link = paper.find_element_by_tag_name('a')
+            data['name'] = pdf_link.get_attribute('text').strip()
+            data['pdf_link'] = pdf_link.get_attribute(
+                'href').replace('forum', 'pdf')
+            authors = paper.find_element_by_class_name(
+                'note-authors').find_elements_by_tag_name('a')
+            for author in authors:
+                data['authors'].append(author.get_attribute('text'))
+            conf_data.append(data)
+
+    for page in range(28):
+        orals = driver.find_element_by_id('unclaimed')
+        process(orals.find_elements_by_class_name('note'))
+        if page == 27:
+            break
+        next_page_button = driver.find_element_by_css_selector('#unclaimed > nav > ul > li:nth-child(13) > a')
+        next_page_button.click()
+        from time import sleep
+        sleep(3)
+
+    # posters = driver.find_element_by_id('')
+    # driver.find_element_by_css_selector(
+    #     '#notes > div > ul > li:nth-child(2) > a').click()
+    # process(posters.find_elements_by_class_name('note'))
+
+    return conf_data
+
+if conference == 'nips' and year == 2019:
+    res = get_neurips_special()
+elif conference == 'nips':
     res = get_nips(year)
 elif conference in ['cvpr', 'iccv', 'eccv']:
     res = get_openaccesscvf(conference, year)
