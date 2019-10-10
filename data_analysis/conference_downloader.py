@@ -229,7 +229,7 @@ def get_mlr(conference, year):
         conf_data.append(data)
     return conf_data
 
-
+# https://openreview.net/group?id=NeurIPS.cc/2019/Reproducibility_Challenge
 def get_neurips_special():
     conference = "nips"
     driver = webdriver.Chrome()
@@ -267,15 +267,51 @@ def get_neurips_special():
         from time import sleep
         sleep(3)
 
-    # posters = driver.find_element_by_id('')
-    # driver.find_element_by_css_selector(
-    #     '#notes > div > ul > li:nth-child(2) > a').click()
-    # process(posters.find_elements_by_class_name('note'))
+    return conf_data
+
+def get_iclr_ongoing():
+    conference = "iclr"
+    driver = webdriver.Chrome()
+    driver.implicitly_wait(10)
+    driver.get(
+        f"https://openreview.net/group?id=ICLR.cc/{year}/Conference")
+    conf_data = []
+
+    def process(papers):
+        print(f"Processsing {conference} {year} with {len(papers)} papers")
+        for paper in papers:
+            if len(conf_data) % LOG_PER == 0:
+                print(len(conf_data))
+            data = initData()
+            data['conference'] = conference
+            data['year'] = year
+            pdf_link = paper.find_element_by_tag_name('a')
+            data['name'] = pdf_link.get_attribute('text').strip()
+            data['pdf_link'] = pdf_link.get_attribute(
+                'href').replace('forum', 'pdf')
+            conf_data.append(data)
+    page = 1
+    while True:
+        print(f"processing page {page}")
+        papers = driver.find_element_by_id('all-submissions')
+        process(papers.find_elements_by_class_name('note'))
+        try:
+            next_page_button = driver.find_element_by_css_selector('#all-submissions > nav > ul > li:nth-child(13) > a')
+            next_page_button.click()
+            page += 1
+            from time import sleep
+            sleep(3)
+        except:
+            print("Presumably finishing since we're done")
+            break
 
     return conf_data
 
+
 if conference == 'nips' and year == 2019:
     res = get_neurips_special()
+elif conference == 'iclr' and year == 2020:
+    res = get_iclr_ongoing()
 elif conference == 'nips':
     res = get_nips(year)
 elif conference in ['cvpr', 'iccv', 'eccv']:
