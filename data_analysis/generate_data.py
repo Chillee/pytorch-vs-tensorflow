@@ -30,8 +30,8 @@ for file in files:
 
 begin = time.time()
 synonyms = {
-    'facebook': ["facebook ai research", 'fb.com'],
-    'google': ['google.com', 'google brain'],
+    'facebook': ["facebook ai research", '@fb.com'],
+    'google': ['@google.com', 'google brain'],
     'pytorch': ['pytorch', 'allennlp', 'opennmt-py', 'torchvision', 'huggingface', 'fairseq'],
     # 'opennmt': ['opennmt-py', 'opennmt-tf'],
     'tensorflow': ['tensorflow', 'opennmt-tf'],
@@ -114,6 +114,9 @@ cv_confs = ['cvpr', 'eccv', 'iccv']
 ml_confs = ['nips', 'iclr', 'icml']
 csvfile = open('data.csv', 'w')
 writer = csv.writer(csvfile)
+conf_map = {
+    'nips': "NeurIPS"
+}
 for conf in confs:
     if conf == 'colt' or conf == 'aistats':
         continue
@@ -124,6 +127,8 @@ for conf in confs:
     dates = []
     print(conf)
     for year in sorted(confs[conf]):
+        if conf == 'iclr' and year == '2020':
+            continue
         ws = word_sets[conf][year]
         date = np.datetime64(f"{year}-{conf_month[conf]:02}")
         dates.append(date)
@@ -132,10 +137,16 @@ for conf in confs:
         tf_set = ws['tensorflow'] - ws['pytorch']
         biased_set = ws['facebook'] | ws['google']
 
-        pytorch.append(len(pytorch_set - biased_set))
-        tf.append(len(tf_set - biased_set))
+        pytorch.append(len(pytorch_set))
+        tf.append(len(tf_set))
         pytorch_corr.append(len(pytorch_set - biased_set))
         tf_corr.append(len(tf_set - biased_set))
-        writer.writerow([conf, f"{conf_month[conf]:02}/{year[2:]}",
+        conf_display = conf.upper()
+        if conf in conf_map:
+            conf_display = conf_map[conf]
+        else:
+            conf_display = conf.upper()
+
+        writer.writerow([conf_display, f"{conf_month[conf]:02}/{year[2:]}",
                          pytorch_corr[-1], tf_corr[-1], len(confs[conf][year])])
 csvfile.close()
