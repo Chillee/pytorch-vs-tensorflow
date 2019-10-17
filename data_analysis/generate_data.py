@@ -32,7 +32,7 @@ begin = time.time()
 synonyms = {
     'facebook': ["facebook ai research", '@fb.com'],
     'google': ['@google.com', 'google brain'],
-    'pytorch': ['pytorch', 'allennlp', 'opennmt-py', 'torchvision', 'huggingface', 'fairseq'],
+    'pytorch': ['pytorch', 'allennlp', 'opennmt-py', 'torchvision', 'fairseq'],
     # 'opennmt': ['opennmt-py', 'opennmt-tf'],
     'tensorflow': ['tensorflow', 'opennmt-tf'],
     # 'keras': ['keras'],
@@ -43,7 +43,8 @@ synonyms = {
     # 'cmu': ['@cmu.edu', '@cs.cmu.edu'],
     # 'theano': ['theano'],
     # 'deepmind': ['deepmind'],
-    # 'mxnet': ['mxnet'],
+    'mxnet': ['mxnet'],
+    'jax': ['jax'],
     # 'dynet': ['dynet'],
     # 'autobatching': ['auto-batching', 'autobatching'],
     # 'parsing': ['parsing'],
