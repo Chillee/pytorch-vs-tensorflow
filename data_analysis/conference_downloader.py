@@ -278,7 +278,7 @@ def get_iclr_ongoing():
     conf_data = []
 
     def process(papers):
-        print(f"Processsing {conference} {year} with {len(papers)} papers")
+        print(f"Processing {conference} {year} with {len(papers)} papers")
         for paper in papers:
             if len(conf_data) % LOG_PER == 0:
                 print(len(conf_data))
@@ -308,9 +308,7 @@ def get_iclr_ongoing():
     return conf_data
 
 
-if conference == 'nips' and year == 2019:
-    res = get_neurips_special()
-elif conference == 'iclr' and year == 2020:
+if conference == 'iclr' and year == 2020:
     res = get_iclr_ongoing()
 elif conference == 'nips':
     res = get_nips(year)

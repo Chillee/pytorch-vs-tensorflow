@@ -4,7 +4,6 @@
 <h2>For an explanation of the charts/how I gathered the data check out my article on the state of ML frameworks in 2019, <a href="https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/">published on The Gradient </a>.</h1>
 
 <div id="relative" style="width:60%"></div>
-Note: Neurips 2019 was scraped on incomplete data - specifically the 520 (out of 1400) accepted papers that have arxiv links in the Reproducibility Challenge workshop.
 <br><br>
 <div id="ratio" style="width:60%"></div>
 <br><br>
@@ -232,12 +231,6 @@ let visualize_data = (data) => {
                 enabled: false
             }
         });
-    }
-    for (let i = rows.length - 1; i >= 0; i--) {
-        if (rows[i][0] == 'NeurIPS') {
-            rows.splice(i, 1);
-            break;
-        }
     }
     {
         let pytorchRaw = {};
