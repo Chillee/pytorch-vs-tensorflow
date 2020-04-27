@@ -30,7 +30,7 @@ def initData():
         "id": getNewPaperId(),  # uuid
         "pdf_link": None,  # URL
         "metadata": {
-            'words': []    # words to be associated with this paper
+            'words': [],    # words to be associated with this paper
         },
         "authors": [],  # list of strings
         "conference": None,  # string,
@@ -130,13 +130,17 @@ def get_iclr(year):
             for author in authors:
                 data['authors'].append(author.get_attribute('text'))
             conf_data.append(data)
-    orals = driver.find_element_by_id('accepted-oral-papers')
-    process(orals.find_elements_by_class_name('note'))
 
-    posters = driver.find_element_by_id('accepted-poster-papers')
-    driver.find_element_by_css_selector(
-        '#notes > div > ul > li:nth-child(2) > a').click()
-    process(posters.find_elements_by_class_name('note'))
+    if year <= 2019:
+        ids = ['accepted-oral-papers', 'accepted-poster-papers']
+    elif year == 2020:
+        ids = ['accept-poster', 'accept-spotlight', 'accept-talk']
+
+    for idx, id in enumerate(ids):
+        papers = driver.find_element_by_id(id)
+        header = driver.find_element_by_css_selector(f'#notes > div > ul > li:nth-child({idx+2}) > a')
+        header.click()
+        process(papers.find_elements_by_class_name('note'))
 
     return conf_data
 
@@ -269,13 +273,14 @@ def get_neurips_special():
 
     return conf_data
 
-def get_iclr_ongoing():
+def get_iclr_ongoing(year):
     conference = "iclr"
     driver = webdriver.Chrome()
     driver.implicitly_wait(10)
     driver.get(
         f"https://openreview.net/group?id=ICLR.cc/{year}/Conference")
     conf_data = []
+    paper_links = []
 
     def process(papers):
         print(f"Processing {conference} {year} with {len(papers)} papers")
@@ -287,30 +292,34 @@ def get_iclr_ongoing():
             data['year'] = year
             pdf_link = paper.find_element_by_tag_name('a')
             data['name'] = pdf_link.get_attribute('text').strip()
+            paper_links.append(pdf_link.get_attribute('href'))
             data['pdf_link'] = pdf_link.get_attribute(
                 'href').replace('forum', 'pdf')
             conf_data.append(data)
-    page = 1
-    while True:
-        print(f"processing page {page}")
-        papers = driver.find_element_by_id('all-submissions')
-        process(papers.find_elements_by_class_name('note'))
-        try:
-            next_page_button = driver.find_element_by_css_selector('#all-submissions > nav > ul > li:nth-child(13) > a')
-            next_page_button.click()
-            page += 1
-            from time import sleep
-            sleep(3)
-        except:
-            print("Presumably finishing since we're done")
-            break
+
+    nodes = driver.find_elements_by_css_selector('#notes > div > ul > li > a')[1:]
+    for node in nodes:
+        node.click()
+        cat = node.get_attribute('href')
+        cat = cat[cat.index('#')+1:]
+        page = 1
+        while True:
+            print(f"processing page {page}")
+            papers = driver.find_element_by_id(cat)
+            process(papers.find_elements_by_class_name('note'))
+            try:
+                next_page_button = driver.find_element_by_css_selector(f'#{cat} > nav > ul > li:nth-child(13) > a')
+                next_page_button.click()
+                page += 1
+                from time import sleep
+                sleep(3)
+            except:
+                print("Presumably finishing since we're done")
+                break
 
     return conf_data
 
-
-if conference == 'iclr' and year == 2020:
-    res = get_iclr_ongoing()
-elif conference == 'nips':
+if conference == 'nips':
     res = get_nips(year)
 elif conference in ['cvpr', 'iccv', 'eccv']:
     res = get_openaccesscvf(conference, year)

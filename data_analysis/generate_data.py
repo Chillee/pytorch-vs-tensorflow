@@ -34,7 +34,7 @@ synonyms = {
     'google': ['@google.com', 'google brain'],
     'pytorch': ['pytorch', 'allennlp', 'opennmt-py', 'torchvision', 'fairseq'],
     # 'opennmt': ['opennmt-py', 'opennmt-tf'],
-    'tensorflow': ['tensorflow', 'opennmt-tf'],
+    'tensorflow': ['tensorflow', 'opennmt-tf', 'keras'],
     # 'keras': ['keras'],
     # 'stanford': ['@cs.stanford.edu', '@stanford.edu'],
     # 'mit': ['@csail.mit.edu', '@mit.edu'],
@@ -75,6 +75,8 @@ for conf in confs:
         data = confs[conf][year]
         word_set = word_sets[conf][year]
         for paper in data:
+            # if 'decision' in paper['metadata'] and 'Accept' not in paper['metadata']['decision']:
+            #     continue
             for word in words:
                 if word in paper['text']:
                     if word in mapping:
@@ -128,8 +130,6 @@ for conf in confs:
     dates = []
     print(conf)
     for year in sorted(confs[conf]):
-        if conf == 'iclr' and year == '2020':
-            continue
         ws = word_sets[conf][year]
         date = np.datetime64(f"{year}-{conf_month[conf]:02}")
         dates.append(date)
