@@ -133,7 +133,6 @@ for conf in confs:
         ws = word_sets[conf][year]
         date = np.datetime64(f"{year}-{conf_month[conf]:02}")
         dates.append(date)
-
         pytorch_set = ws['pytorch'] - ws['tensorflow']
         tf_set = ws['tensorflow'] - ws['pytorch']
         biased_set = ws['facebook'] | ws['google']
