@@ -233,6 +233,32 @@ def get_mlr(conference, year):
         conf_data.append(data)
     return conf_data
 
+
+# Supports ICML >= 2020
+def get_icml(year):
+    driver = webdriver.Chrome()
+    driver.get(f'https://proceedings.icml.cc/book/{year}')
+    papers = driver.find_elements_by_css_selector('body > div > div > ul > li > a')
+    papers = [paper.get_attribute('href') for paper in papers]
+    conf_data = []
+    print(f"Processsing icml {year} with {len(papers)} papers")
+    for paper in papers:
+        if len(conf_data) % LOG_PER == 0:
+            print(len(conf_data))
+        driver.get(paper)
+        name = driver.find_element_by_css_selector('body > div > div > h4:nth-child(1)').get_attribute('innerHTML')
+        data = initData()
+        data['name'] = name
+        data['year'] = year
+        data['conference'] = 'icml'
+        data['pdf_link'] = driver.find_element_by_css_selector('body > div > div > div > a:nth-child(3)').get_attribute('href')
+
+        authors = driver.find_element_by_css_selector('body > div > div > p:nth-child(6) > i').get_attribute('innerHTML')
+        data['authors'] = [i.strip() for i in authors.split(',')]
+        conf_data.append(data)
+    return conf_data
+
+
 # https://openreview.net/group?id=NeurIPS.cc/2019/Reproducibility_Challenge
 def get_neurips_special():
     conference = "nips"
@@ -321,6 +347,8 @@ def get_iclr_ongoing(year):
 
 if conference == 'nips':
     res = get_nips(year)
+elif conference == 'icml' and year >= 2020:
+    res = get_icml(year)
 elif conference in ['cvpr', 'iccv', 'eccv']:
     res = get_openaccesscvf(conference, year)
 elif conference == 'iclr':

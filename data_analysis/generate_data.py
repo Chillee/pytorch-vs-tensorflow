@@ -11,7 +11,9 @@ import matplotlib.patches as mpatches
 from matplotlib.lines import Line2D
 import numpy as np
 import csv
+import re
 
+files = glob.glob('data/*.json')
 files = glob.glob('data/*.json')
 confs = defaultdict(dict)
 for file in files:
@@ -30,8 +32,8 @@ for file in files:
 
 begin = time.time()
 synonyms = {
-    'facebook': ["facebook ai research", '@fb.com'],
-    'google': ['@google.com', 'google brain'],
+    'facebook': ["facebook ai research", '@fb.com', 'facebook AI'],
+    'google': ['@google.com', 'google brain', 'google AI'],
     'pytorch': ['pytorch', 'allennlp', 'opennmt-py', 'torchvision', 'fairseq'],
     # 'opennmt': ['opennmt-py', 'opennmt-tf'],
     'tensorflow': ['tensorflow', 'opennmt-tf', 'keras'],
@@ -78,7 +80,13 @@ for conf in confs:
             # if 'decision' in paper['metadata'] and 'Accept' not in paper['metadata']['decision']:
             #     continue
             for word in words:
-                if word in paper['text']:
+                found = (word in paper['text'])
+                if word == 'jax':
+                    found = bool(re.search(f'\\b{word}\\b', paper['text']))
+                if found:
+                    if conf == 'icml' and word == 'jax':
+                        idx = paper['text'].index(word)
+                        print(paper['text'][idx-20:idx+20])
                     if word in mapping:
                         for key in mapping[word]:
                             word_set[key].add(paper['id'])
@@ -135,7 +143,8 @@ for conf in confs:
         dates.append(date)
         pytorch_set = ws['pytorch'] - ws['tensorflow']
         tf_set = ws['tensorflow'] - ws['pytorch']
-        biased_set = ws['facebook'] | ws['google']
+        biased_set = set() # ws['facebook'] | ws['google']
+        print(ws['jax'])
 
         pytorch.append(len(pytorch_set))
         tf.append(len(tf_set))
