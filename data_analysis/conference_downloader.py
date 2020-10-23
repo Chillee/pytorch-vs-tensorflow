@@ -152,20 +152,16 @@ def get_acl_anthology(conference, year):
     driver.get(f"https://aclweb.org/anthology/events/{conference}-{year}/")
 
     conf_data = []
-    prefix_id = {
-        'acl': 'p',
-        'emnlp': 'd',
-        'naacl': 'n'
-    }
     suffix_ids = {
-        'acl': defaultdict(lambda :[1, 2]),
-        'emnlp': defaultdict(lambda : [1, 2]),
-        'naacl': defaultdict(lambda : [1, 2]),
+        'acl': defaultdict(lambda :['p-1', 'p-2']),
+        'emnlp': defaultdict(lambda : ['d-1', 'd-2']),
+        'naacl': defaultdict(lambda : ['n-1', 'n-2']),
     }
-    suffix_ids['acl']['2019'] = [1]
+    suffix_ids['acl'][2019] = ['p-1']
+    suffix_ids['acl'][2020] = ['2020-acl-main']
     for suffix_id in suffix_ids[conference][year]:
         papers = driver.find_element_by_id(
-            f"{prefix_id[conference]}{str(year)[-2:]}-{suffix_id}").find_elements_by_tag_name('p')
+            f"{suffix_id}").find_elements_by_tag_name('p')
         print(f"Processsing {conference} {year} with {len(papers)} papers")
         for paper in papers[1:]:
             if len(conf_data) % LOG_PER == 0:
@@ -324,7 +320,7 @@ def get_iclr_ongoing(year):
             conf_data.append(data)
 
     nodes = driver.find_elements_by_css_selector('#notes > div > ul > li > a')[1:]
-    for node in nodes:
+    for node in nodes[:1]:
         node.click()
         cat = node.get_attribute('href')
         cat = cat[cat.index('#')+1:]
@@ -352,7 +348,10 @@ elif conference == 'icml' and year >= 2020:
 elif conference in ['cvpr', 'iccv', 'eccv']:
     res = get_openaccesscvf(conference, year)
 elif conference == 'iclr':
-    res = get_iclr(year)
+    if year == 2021:
+        res = get_iclr_ongoing(year)
+    else:
+        res = get_iclr(year)
 elif conference in ['acl', 'emnlp', 'naacl']:
     res = get_acl_anthology(conference, year)
 elif conference in ['colt', 'aistats', 'icml']:
