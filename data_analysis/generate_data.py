@@ -14,7 +14,6 @@ import csv
 import re
 
 files = glob.glob('data/*.json')
-files = glob.glob('data/*.json')
 confs = defaultdict(dict)
 for file in files:
     data = json.load(open(file, 'r'))
@@ -84,9 +83,6 @@ for conf in confs:
                 if word == 'jax':
                     found = bool(re.search(f'\\b{word}\\b', paper['text']))
                 if found:
-                    if conf == 'icml' and word == 'jax':
-                        idx = paper['text'].index(word)
-                        print(paper['text'][idx-20:idx+20])
                     if word in mapping:
                         for key in mapping[word]:
                             word_set[key].add(paper['id'])

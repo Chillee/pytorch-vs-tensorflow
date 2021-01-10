@@ -48,22 +48,27 @@ paper_data = []
 # Supports NIPS
 def get_nips(year):
     driver = webdriver.Chrome()
-    driver.implicitly_wait(10)
+    # driver.implicitly_wait(10)
     driver.get("https://papers.nips.cc/")
     nips_link = driver.find_element_by_xpath(
         f"//*[contains(text(), '{year}')]")
     nips_link.click()
 
     conf_data = []
+    # import pdb; pdb.set_trace()
     papers = driver.find_elements_by_css_selector(
-        'body > div.main-container > div > ul > li')
+        'body > div.container-fluid > div > ul > li')
     print(f"Processsing NIPS {year} with {len(papers)} papers")
     for paper in papers:
         if len(conf_data) % LOG_PER == 0:
             print(len(conf_data))
         data = initData()
         pdf_link = paper.find_element_by_tag_name('a')
-        data['pdf_link'] = pdf_link.get_attribute('href') + '.pdf'
+        pdf_str = pdf_link.get_attribute('href')
+        pdf_str = pdf_str.replace('hash', 'file')
+        pdf_str = pdf_str[:pdf_str.find('-Abstract.html')] + '-Paper.pdf'
+
+        data['pdf_link'] = pdf_str
         data['name'] = pdf_link.get_attribute('innerHTML')
         data['conference'] = 'nips'
         data['year'] = year
@@ -148,7 +153,6 @@ def get_iclr(year):
 # Supports ACL, EMNLP, NAACL
 def get_acl_anthology(conference, year):
     driver = webdriver.Chrome()
-    driver.implicitly_wait(10)
     driver.get(f"https://aclweb.org/anthology/events/{conference}-{year}/")
 
     conf_data = []
@@ -159,6 +163,7 @@ def get_acl_anthology(conference, year):
     }
     suffix_ids['acl'][2019] = ['p-1']
     suffix_ids['acl'][2020] = ['2020-acl-main']
+    suffix_ids['emnlp'][2020] = ['2020-emnlp-main']
     for suffix_id in suffix_ids[conference][year]:
         papers = driver.find_element_by_id(
             f"{suffix_id}").find_elements_by_tag_name('p')
