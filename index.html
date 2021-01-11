@@ -86,7 +86,7 @@
 
 
 let visualize_data = (data) => {
-    const defaultShow = ["ICLR", "CVPR", "ACL"]
+    const defaultShow = ["NeurIPS", "EMNLP", "CVPR"]
 
     Highcharts.setOptions({
         colors: ['#7cb5ec', '#f7a35c', '#90ee7e', '#7798BF', '#aacece', '#ff0066',
@@ -189,7 +189,7 @@ let visualize_data = (data) => {
         initLines(tfRaw, '_tf');
         for (let i = 0; i < rows.length; i++) {
             if (rows[i][2] + rows[i][3] > 0) {
-                pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / (rows[i][2] + rows[i][3])]);
+                pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / (rows[i][3])]);
 
             }
         }
