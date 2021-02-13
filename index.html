@@ -189,8 +189,7 @@ let visualize_data = (data) => {
         initLines(tfRaw, '_tf');
         for (let i = 0; i < rows.length; i++) {
             if (rows[i][2] + rows[i][3] > 0) {
-                pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / (rows[i][3])]);
-
+                pytorchRaw[rows[i][0] + '_pt'].push([rows[i][1], rows[i][2] / (rows[i][2] + rows[i][3])]);
             }
         }
         const ptRawSeries = convertToSeries(pytorchRaw, { dashStyle: 'Solid' });
