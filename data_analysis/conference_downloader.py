@@ -348,12 +348,12 @@ def get_iclr_ongoing(year):
 
 if conference == 'nips':
     res = get_nips(year)
-elif conference == 'icml' and year >= 2020:
-    res = get_icml(year)
+# elif conference == 'icml' and year >= 2020:
+#     res = get_icml(year)
 elif conference in ['cvpr', 'iccv', 'eccv']:
     res = get_openaccesscvf(conference, year)
 elif conference == 'iclr':
-    if year == 2021:
+    if year == 2022:
         res = get_iclr_ongoing(year)
     else:
         res = get_iclr(year)
